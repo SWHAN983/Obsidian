@@ -3,15 +3,16 @@
 Thumbs.db
 *.log
 
-# Obsidian 설정 파일 (개인 맞춤, 공유 불필요)
+# Obsidian 개인 설정 파일 (공유 불필요, 기기마다 다름)
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
 .obsidian/cache
 .obsidian/appearance.json
 .obsidian/graph.json
-.obsidian/app.json
 
 # Obsidian Git 플러그인 로그
 .obsidian/plugins/obsidian-git/data.json
 
-# 플러그인 설치 파일 전체 제외 (필요 시 수동 추적)
+# 플러그인 설치 파일 전체 제외 (협업 시 충돌 방지)
 .obsidian/plugins/
