@@ -1,26 +1,45 @@
-# OS 기본
+############################################
+# OS 불필요 파일
+############################################
 .DS_Store
 Thumbs.db
 *.log
 
-# Obsidian 캐시/레이아웃 등 기기 종속 설정
+############################################
+# Obsidian 기기 종속 파일 (공유 불필요)
+############################################
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/app.json
 .obsidian/cache
-.obsidian/appearance.json
 .obsidian/graph.json
 
-# Obsidian Git 로그
+############################################
+# Obsidian Git 플러그인 로그 (필요시 포함)
+############################################
 .obsidian/plugins/obsidian-git/data.json
 
-# 플러그인 바이너리 전체 제외
-.obsidian/plugins/
-
-# 🔹 다음 파일은 포함할 것 (Git으로 동기화 유지용)
-!.obsidian/community-plugins.json
-!.obsidian/hotkeys.json
-!.obsidian/core-plugins.json
-
-# 휴지통 제외
+############################################
+# 휴지통 (사용자 삭제 파일)
+############################################
 .trash/
+
+############################################
+# ✅ 공유할 설정/플러그인/테마 항목
+############################################
+
+# 플러그인 목록 설정
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/hotkeys.json
+
+# ✅ 플러그인 전체 동기화
+!.obsidian/plugins/
+!.obsidian/plugins/**
+
+# ✅ 테마 전체 동기화
+!.obsidian/themes/
+!.obsidian/themes/**
+
+# ✅ appearance 설정도 동기화 (테마 적용 유지)
+!.obsidian/appearance.json
