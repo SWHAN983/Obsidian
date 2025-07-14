@@ -1,9 +1,9 @@
-# OS 불필요 파일
+# OS 기본
 .DS_Store
 Thumbs.db
 *.log
 
-# Obsidian 개인 설정 파일 (공유 불필요, 기기마다 다름)
+# Obsidian 캐시/레이아웃 등 기기 종속 설정
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/app.json
@@ -11,9 +11,16 @@ Thumbs.db
 .obsidian/appearance.json
 .obsidian/graph.json
 
-# Obsidian Git 플러그인 로그
+# Obsidian Git 로그
 .obsidian/plugins/obsidian-git/data.json
 
-# 플러그인 설치 파일 전체 제외 (협업 시 충돌 방지)
+# 플러그인 바이너리 전체 제외
 .obsidian/plugins/
+
+# 🔹 다음 파일은 포함할 것 (Git으로 동기화 유지용)
+!.obsidian/community-plugins.json
+!.obsidian/hotkeys.json
+!.obsidian/core-plugins.json
+
+# 휴지통 제외
 .trash/
