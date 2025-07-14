@@ -102,6 +102,7 @@
       {
         "id": "30fb6174ca5a12b2",
         "type": "tabs",
+        "dimension": 77.42248062015504,
         "children": [
           {
             "id": "1dc4a50d117cffe1",
@@ -165,9 +166,17 @@
               "icon": "lucide-list",
               "title": "ㅁㅁㅁㅁㅁㅁ 의 개요"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "472b453f6733c72e",
+        "type": "tabs",
+        "dimension": 22.57751937984496,
+        "children": [
           {
-            "id": "b88c3c2836e40e39",
+            "id": "377b20c0487fff01",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -176,8 +185,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ed0089682446045",
+  "active": "1b052f6f0fe0224e",
   "lastOpenFiles": [
     "토그/원격 test.md",
     "ㅁㅁㅁㅁㅁㅁ.md",
