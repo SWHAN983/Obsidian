@@ -16,3 +16,4 @@ Thumbs.db
 
 # 플러그인 설치 파일 전체 제외 (협업 시 충돌 방지)
 .obsidian/plugins/
+.trash/
