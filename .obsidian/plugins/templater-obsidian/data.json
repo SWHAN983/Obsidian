@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "98.Templates",
+  "templates_folder": "98. TEMPLATES",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "3. LITERATURE/3-2. REVIEWS",
+      "template": "98. TEMPLATES/Temp_ReviewPaper.md"
+    },
+    {
+      "folder": "1. DAILY NOTES",
+      "template": "98. TEMPLATES/Temp_daily.md"
     }
   ],
   "enable_file_templates": false,

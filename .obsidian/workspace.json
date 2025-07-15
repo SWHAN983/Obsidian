@@ -82,8 +82,18 @@
                   "type": "markdown",
                   "state": {
                     "file": "98. TEMPLATES/Temp_ReviewPaper.md",
-                    "mode": "preview",
-                    "source": true
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
                   "title": "Temp_ReviewPaper"
@@ -104,6 +114,7 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
+        "dimension": 68.88888888888889,
         "children": [
           {
             "id": "84301899b043e26d",
@@ -146,36 +157,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "f762e746292aeca8",
+        "type": "tabs",
+        "dimension": 31.11111111111111,
+        "children": [
+          {
+            "id": "27b818d5ddd5f9d9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 289.5
   },
   "right": {
     "id": "f6e3a5d123567eda",
     "type": "split",
     "children": [
       {
-        "id": "7109d25faa1245fa",
-        "type": "tabs",
-        "dimension": 33.81782945736434,
-        "children": [
-          {
-            "id": "377b20c0487fff01",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ]
-      },
-      {
         "id": "30fb6174ca5a12b2",
         "type": "tabs",
-        "dimension": 33.09108527131783,
+        "dimension": 44.86434108527132,
         "children": [
           {
             "id": "1dc4a50d117cffe1",
@@ -244,18 +255,18 @@
         "currentTab": 3
       },
       {
-        "id": "1e713f7a4b430a04",
+        "id": "d5154e1f9791654e",
         "type": "tabs",
-        "dimension": 33.09108527131783,
+        "dimension": 55.13565891472868,
         "children": [
           {
-            "id": "27b818d5ddd5f9d9",
+            "id": "377b20c0487fff01",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "git-view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -282,6 +293,7 @@
   },
   "active": "805f270ff040a858",
   "lastOpenFiles": [
+    "98. TEMPLATES/Temp_daily.md",
     "3. LITERATURE/3-2. REVIEWS/논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "98. TEMPLATES/Temp_ReviewPaper.md",
     "3. LITERATURE/3-1. TO READ/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
@@ -289,7 +301,6 @@
     "5. RESEARCH PROJECTS/5-1. 졸업논문/무제.md",
     "1. DAILY NOTES/250715.md",
     "5. RESEARCH PROJECTS/5-1. 졸업논문",
-    "98. TEMPLATES/Temp_daily.md",
     "250715.md",
     "10. Laboratory/10-1. Seminar/LS_250715.md",
     "10. Laboratory/10-1. Seminar",
