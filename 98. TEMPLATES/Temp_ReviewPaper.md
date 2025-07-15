@@ -4,7 +4,7 @@ authors:
 year: 
 journal: 
 tags: [논문리뷰, 연구정리, 참고논문]
-created: <% tp.date.now("YYYY-MM-DD") %>
+created: 2025-07-16
 ---
 ## 📎 PDF 파일  
 `[[<논문파일.pdf>]]`
