@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/LS_250715.md",
+                "file": "10. Laboratory/10-1. Seminar/LS_250715.md",
                 "mode": "source",
                 "source": false
               },
@@ -191,10 +191,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b20679352809de66",
+  "active": "344d0de726f3b881",
   "lastOpenFiles": [
+    "10. Laboratory/10-1. Seminar",
+    "10. Laboratory",
     "1. DAILY NOTES/250715.md",
-    "0. INBOX/LS_250715.md",
+    "10. Laboratory/10-1. Seminar/LS_250715.md",
     "0. INBOX",
     "/1. DAILY NOTES/250715.md",
     "/1. DAILY NOTES",
@@ -211,7 +213,6 @@
     "5. RESEARCH PROJECTS/무제.md",
     "5. RESEARCH PROJECTS",
     "4.THEORY/무제.md",
-    "4.THEORY",
     "3. LITERATURE/3-2. REVIEWS/무제.md",
     "3. LITERATURE/3-1. TO READ/무제.md",
     "2. PRIVATE/Github Recovery Codes.md",
