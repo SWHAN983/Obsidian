@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LS_250715.md",
+                "file": "0. INBOX/LS_250715.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,10 +182,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "07c0837019d0a748",
+  "active": "344d0de726f3b881",
   "lastOpenFiles": [
+    "0. INBOX",
     "1. DAILY NOTES/250715.md",
-    "LS_250715.md",
+    "0. INBOX/LS_250715.md",
     "/1. DAILY NOTES/250715.md",
     "/1. DAILY NOTES",
     "/7. DRAFTS/무제.md",
@@ -218,7 +219,6 @@
     "1.Daily note/250715.md",
     "/98.Templates/Temp_daily.md",
     "/1.Daily note/250715.md",
-    "2.Private/Github Recovery Codes.md",
-    "98.Templates/Temp_daily.md"
+    "2.Private/Github Recovery Codes.md"
   ]
 }
