@@ -1,9 +1,3 @@
-<%*
-const newName = "DN_" + tp.date.now("YYMMDD");
-if (tp.file.title !== newName) {
-  await tp.file.rename(newName);
-}
-%>
 # 📅 <% tp.date.now("YYMMDD") %> (<% tp.date.now("dddd") %>)
 
 ## ✅ 오늘 할 일
@@ -15,3 +9,7 @@ if (tp.file.title !== newName) {
 
 ## 🌙 하루 회고
 - 
+
+
+
+<%* await tp.user.rename_daily(tp) %>
