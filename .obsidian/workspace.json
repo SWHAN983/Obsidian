@@ -4,22 +4,97 @@
     "type": "split",
     "children": [
       {
-        "id": "bd3adb1699269aa2",
+        "id": "7b5bd460a25f6ed1",
         "type": "tabs",
+        "dimension": 29.383886255924168,
         "children": [
           {
-            "id": "f6498b12f2cef9c8",
+            "id": "e8c54d7fabb5d407",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3. LITERATURE/3-1. TO READ/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room"
+              "type": "custom-frames-perpelxity",
+              "state": {},
+              "icon": "lucide-book-open-text",
+              "title": "Perpelxity"
+            }
+          },
+          {
+            "id": "7a784801c49c20d0",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-notebooklm",
+              "state": {},
+              "icon": "lucide-notebook",
+              "title": "NotebookLM"
+            }
+          },
+          {
+            "id": "6c33b05271ee4b6e",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-gemini",
+              "state": {},
+              "icon": "lucide-gem",
+              "title": "Gemini"
+            }
+          },
+          {
+            "id": "55a5fe87f4e3e4d5",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "lucide-box",
+              "title": "ChatGPT"
             }
           }
         ]
+      },
+      {
+        "id": "f86b55d61aa8734c",
+        "type": "split",
+        "dimension": 70.61611374407583,
+        "children": [
+          {
+            "id": "ad4141e79cd0d8f6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f6498b12f2cef9c8",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "3. LITERATURE/3-1. TO READ/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6d2abbfd8be7c2c8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "75052ad997b6ec5b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3. LITERATURE/3-2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +160,7 @@
       {
         "id": "7109d25faa1245fa",
         "type": "tabs",
-        "dimension": 23.546511627906977,
+        "dimension": 53.52422907488986,
         "children": [
           {
             "id": "377b20c0487fff01",
@@ -104,7 +179,7 @@
       {
         "id": "30fb6174ca5a12b2",
         "type": "tabs",
-        "dimension": 20.44573643410853,
+        "dimension": 46.47577092511013,
         "children": [
           {
             "id": "1dc4a50d117cffe1",
@@ -131,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. LITERATURE/3-1. TO READ/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
+                "file": "3. LITERATURE/3-2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room 의 나가는 링크"
+              "title": "★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션 의 나가는 링크"
             }
           },
           {
@@ -171,66 +246,31 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "10a01bf5696c86e5",
-        "type": "tabs",
-        "dimension": 56.007751937984494,
-        "children": [
-          {
-            "id": "55a5fe87f4e3e4d5",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {},
-              "icon": "lucide-box",
-              "title": "ChatGPT"
-            }
-          },
-          {
-            "id": "e8c54d7fabb5d407",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-perpelxity",
-              "state": {},
-              "icon": "lucide-book-open-text",
-              "title": "Perpelxity"
-            }
-          },
-          {
-            "id": "6c33b05271ee4b6e",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-gemini",
-              "state": {},
-              "icon": "lucide-gem",
-              "title": "Gemini"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 524.5
+    "width": 205.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Gemini": false,
-      "obsidian-custom-frames:Open ChatGPT": false,
-      "templater-obsidian:Templater": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "canvas:새 캔버스 만들기": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
+      "templater-obsidian:Templater": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-custom-frames:Open ChatGPT": false,
+      "obsidian-custom-frames:Open Gemini": false,
+      "obsidian-custom-frames:Open Perpelxity": false,
+      "obsidian-custom-frames:Open NotebookLM": false
     }
   },
-  "active": "f9137678fa1352ca",
+  "active": "e8c54d7fabb5d407",
   "lastOpenFiles": [
-    "3. LITERATURE/3-2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "3. LITERATURE/3-1. TO READ/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
+    "3. LITERATURE/3-2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "1.Daily note/250716.md",
     "1. DAILY NOTES/250715.md",
     "1.Daily note",

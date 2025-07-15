@@ -7,7 +7,7 @@
       "hideOnMobile": true,
       "addRibbonIcon": true,
       "openInCenter": false,
-      "zoomLevel": 1,
+      "zoomLevel": 0.8,
       "forceIframe": false,
       "customCss": "",
       "customJs": ""
@@ -19,7 +19,7 @@
       "hideOnMobile": true,
       "addRibbonIcon": true,
       "openInCenter": false,
-      "zoomLevel": 1,
+      "zoomLevel": 0.8,
       "forceIframe": false,
       "customCss": "",
       "customJs": ""
@@ -29,9 +29,21 @@
       "displayName": "Perpelxity",
       "icon": "book-open-text",
       "hideOnMobile": true,
-      "addRibbonIcon": false,
+      "addRibbonIcon": true,
       "openInCenter": false,
-      "zoomLevel": 1,
+      "zoomLevel": 0.8,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://notebooklm.google.com/",
+      "displayName": "NotebookLM",
+      "icon": "notebook",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 0.8,
       "forceIframe": false,
       "customCss": "",
       "customJs": ""
