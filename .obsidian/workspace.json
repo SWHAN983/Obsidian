@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be06c62b331e4822",
+        "id": "bd3adb1699269aa2",
         "type": "tabs",
         "children": [
           {
-            "id": "322f0b2ca8bf10b6",
+            "id": "f6498b12f2cef9c8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "8. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf"
+                "file": "3. LITERATURE/3-1. TO READ/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf"
               },
               "icon": "lucide-file-text",
               "title": "★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room"
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "242098cc9b37c5cd",
+        "id": "946ed3f505cbbb2e",
         "type": "tabs",
         "children": [
           {
-            "id": "805f270ff040a858",
+            "id": "d03f1648f733597c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "250716",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
       {
         "id": "7109d25faa1245fa",
         "type": "tabs",
-        "dimension": 33.81782945736434,
+        "dimension": 33.78509196515005,
         "children": [
           {
             "id": "377b20c0487fff01",
@@ -122,7 +122,7 @@
       {
         "id": "30fb6174ca5a12b2",
         "type": "tabs",
-        "dimension": 33.09108527131783,
+        "dimension": 20.813165537270088,
         "children": [
           {
             "id": "1dc4a50d117cffe1",
@@ -193,7 +193,7 @@
       {
         "id": "1e713f7a4b430a04",
         "type": "tabs",
-        "dimension": 33.09108527131783,
+        "dimension": 45.40174249757987,
         "children": [
           {
             "id": "27b818d5ddd5f9d9",
@@ -213,24 +213,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "805f270ff040a858",
+  "active": "d03f1648f733597c",
   "lastOpenFiles": [
-    "8. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
-    "3. LITERATURE/3-2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
-    "5. RESEARCH PROJECTS/5-1. 졸업논문/무제.md",
+    "3. LITERATURE/3-1. TO READ/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
+    "1.Daily note/250716.md",
     "1. DAILY NOTES/250715.md",
-    "5. RESEARCH PROJECTS/5-1. 졸업논문",
+    "1.Daily note",
     "98. TEMPLATES/Temp_daily.md",
+    "5. RESEARCH PROJECTS/5-1. 졸업논문/무제.md",
+    "5. RESEARCH PROJECTS/5-1. 졸업논문",
+    "3. LITERATURE/3-2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "250715.md",
     "10. Laboratory/10-1. Seminar/LS_250715.md",
     "10. Laboratory/10-1. Seminar",
@@ -238,16 +240,16 @@
     "7. DRAFTS/무제.md",
     "conflict-files-obsidian-git.md",
     "8. RESOURCES/무제.md",
+    "5. RESEARCH PROJECTS/무제.md",
     "4.THEORY/무제.md",
+    "3. LITERATURE/3-2. REVIEWS/무제.md",
     "3. LITERATURE/3-1. TO READ/무제.md",
     "8. RESOURCES",
     "7. DRAFTS",
     "5. RESEARCH PROJECTS",
     "4.THEORY",
     "3. LITERATURE/3-2. REVIEWS",
-    "3. LITERATURE/3-1. TO READ",
     "1.Daily note/예시노트.md",
-    "1.Daily note/250716.md",
     "1.Daily note/DN-250715.md",
     "Test for tablet.md",
     "Github Recovery Codes.md",
