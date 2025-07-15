@@ -1,6 +1,6 @@
 # 📅 <% tp.date.now("YYMMDD (dddd)") %>
 
-## [[1.Daily note/<% tp.date.now("YYMMDD", -1) %>|← 어제]] | [[1.Daily note/<% tp.date.now("YYMMDD") %>|오늘]] | [[1.Daily note/<% tp.date.now("YYMMDD", 1) %>|내일 →]]
+## [[1.DAILY NOTES/<% tp.date.now("YYMMDD", -1) %>|← 어제]] | [[1.DAILY NOTES/<% tp.date.now("YYMMDD") %>|오늘]] | [[1.DAILY NOTES/<% tp.date.now("YYMMDD", 1) %>|내일 →]]
 ---
 # 어제 미처 끝내지 못한 일 
 
