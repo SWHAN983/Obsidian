@@ -3,9 +3,19 @@
 Thumbs.db
 *.log
 
+<<<<<<< HEAD
 # 📁 Obsidian 자동 생성 캐시
+=======
+# 📁 Obsidian 기기별 종속 설정 (기기마다 달라서 동기화 불필요)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+>>>>>>> origin/main
 .obsidian/cache
+.obsidian/appearance.json
+.obsidian/graph.json
 
+<<<<<<< HEAD
 # 📁 Obsidian Git 플러그인 로그
 .obsidian/plugins/obsidian-git/data.json
 
@@ -25,3 +35,21 @@ Thumbs.db
 
 # ✅ 첨부파일도 동기화 (이미지, 오디오 등)
 # .*/.Attachments/
+=======
+# 📁 Obsidian Git 플러그인 로그 (기기별, 동기화 불필요)
+.obsidian/plugins/obsidian-git/data.json
+
+# 📁 불필요한 휴지통 파일
+.trash/
+
+# 📁 전체 플러그인 바이너리 제외 방지 (플러그인 설정 유지 목적)
+!.obsidian/plugins/
+!.obsidian/core-plugins.json
+!.obsidian/community-plugins.json
+!.obsidian/hotkeys.json
+
+# 📌 템플레이터 사용자 스크립트(js) 포함 (rename_daily.js 등)
+!.obsidian/plugins/templater/
+!.obsidian/plugins/templater/scripts/
+!.obsidian/plugins/templater/scripts/*.js
+>>>>>>> origin/main
