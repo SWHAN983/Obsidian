@@ -3,39 +3,14 @@
 Thumbs.db
 *.log
 
-<<<<<<< HEAD
-# 📁 Obsidian 자동 생성 캐시
-=======
 # 📁 Obsidian 기기별 종속 설정 (기기마다 달라서 동기화 불필요)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/app.json
->>>>>>> origin/main
 .obsidian/cache
 .obsidian/appearance.json
 .obsidian/graph.json
 
-<<<<<<< HEAD
-# 📁 Obsidian Git 플러그인 로그
-.obsidian/plugins/obsidian-git/data.json
-
-# 📁 플러그인 바이너리 전체 제외 (충돌 방지)
-# .obsidian/plugins/
-
-# ✅ 사용자 설정 파일은 모두 동기화 대상
-# (graph.json 포함 → 그래프 뷰 설정 유지됨)
-# .obsidian/workspace.json
-# .obsidian/workspace-mobile.json
-# .obsidian/app.json
-# .obsidian/appearance.json
-# .obsidian/graph.json
-
-# 📁 휴지통 제외
-.*/.trash/
-
-# ✅ 첨부파일도 동기화 (이미지, 오디오 등)
-# .*/.Attachments/
-=======
 # 📁 Obsidian Git 플러그인 로그 (기기별, 동기화 불필요)
 .obsidian/plugins/obsidian-git/data.json
 
@@ -52,4 +27,3 @@ Thumbs.db
 !.obsidian/plugins/templater/
 !.obsidian/plugins/templater/scripts/
 !.obsidian/plugins/templater/scripts/*.js
->>>>>>> origin/main
