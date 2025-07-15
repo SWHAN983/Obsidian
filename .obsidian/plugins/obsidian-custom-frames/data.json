@@ -1,23 +1,35 @@
 {
   "frames": [
     {
-      "url": "https://www.notion.so/",
-      "displayName": "Notion",
+      "url": "https://chatgpt.com",
+      "displayName": "ChatGPT",
       "icon": "box",
       "hideOnMobile": true,
       "addRibbonIcon": true,
-      "openInCenter": true,
+      "openInCenter": false,
       "zoomLevel": 1,
       "forceIframe": false,
       "customCss": "",
       "customJs": ""
     },
     {
-      "url": "Chatgpy.com",
-      "displayName": "ChatGPT",
-      "icon": "",
+      "url": "https://gemini.google.com/app?hl=ko",
+      "displayName": "Gemini",
+      "icon": "gem",
       "hideOnMobile": true,
       "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.perplexity.ai/?login-source=floatingSignup&login-new=false",
+      "displayName": "Perpelxity",
+      "icon": "book-open-text",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
       "openInCenter": false,
       "zoomLevel": 1,
       "forceIframe": false,
