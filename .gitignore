@@ -3,27 +3,25 @@
 Thumbs.db
 *.log
 
-# 📁 Obsidian 자동 생성 캐시 (필요 없음)
+# 📁 Obsidian 자동 생성 캐시
 .obsidian/cache
 
-# 📁 Obsidian Git 플러그인 로그 제외
+# 📁 Obsidian Git 플러그인 로그
 .obsidian/plugins/obsidian-git/data.json
 
-# 📁 사용자 설정 및 뷰 구성 동기화
-# 아래 항목은 GitHub로 동기화되도록 주석처리 또는 생략
-# → graph, appearance, workspace 등 포함됨
+# 📁 플러그인 바이너리 전체 제외 (충돌 방지)
+# .obsidian/plugins/
+
+# ✅ 사용자 설정 파일은 모두 동기화 대상
+# (graph.json 포함 → 그래프 뷰 설정 유지됨)
 # .obsidian/workspace.json
 # .obsidian/workspace-mobile.json
 # .obsidian/app.json
 # .obsidian/appearance.json
 # .obsidian/graph.json
 
-# 📁 플러그인 설치파일 전체 제외 (협업 시 충돌 방지)
-# .obsidian/plugins/
-
-# 📁 휴지통 제외 (Obsidian 삭제 항목)
+# 📁 휴지통 제외
 .*/.trash/
 
-# ✅ 첨부파일 동기화되도록 허용 (.Attachments 포함됨)
-# → 노트에 붙여넣은 이미지, 음성파일 등 Git 추적 가능
+# ✅ 첨부파일도 동기화 (이미지, 오디오 등)
 # .*/.Attachments/
