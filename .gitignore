@@ -9,7 +9,7 @@ Thumbs.db
 
 # ✅ 사용자 설정 파일 동기화 (그래프뷰, 테마, 레이아웃 등)
 # ⛔ 아래 항목은 제외하지 않음: graph.json, workspace.json 등
-# .obsidian/graph.json
+.obsidian/graph.json
 # .obsidian/workspace.json
 # .obsidian/workspace-mobile.json
 # .obsidian/appearance.json

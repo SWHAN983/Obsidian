@@ -160,13 +160,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 의 개요"
+              "title": "개요"
             }
           }
         ],
@@ -205,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "377b20c0487fff01",
+  "active": "27b818d5ddd5f9d9",
   "lastOpenFiles": [
     "7. DRAFTS/무제.md",
     "conflict-files-obsidian-git.md",
