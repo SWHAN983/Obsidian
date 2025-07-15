@@ -3,27 +3,27 @@
 Thumbs.db
 *.log
 
-# 📁 Obsidian 기기별 종속 설정 (기기마다 달라서 동기화 불필요)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/app.json
+# 📁 Obsidian 자동 생성 캐시 (필요 없음)
 .obsidian/cache
-.obsidian/appearance.json
-.obsidian/graph.json
 
-# 📁 Obsidian Git 플러그인 로그 (기기별, 동기화 불필요)
+# 📁 Obsidian Git 플러그인 로그 제외
 .obsidian/plugins/obsidian-git/data.json
 
-# 📁 불필요한 휴지통 파일
-.trash/
+# 📁 사용자 설정 및 뷰 구성 동기화
+# 아래 항목은 GitHub로 동기화되도록 주석처리 또는 생략
+# → graph, appearance, workspace 등 포함됨
+# .obsidian/workspace.json
+# .obsidian/workspace-mobile.json
+# .obsidian/app.json
+# .obsidian/appearance.json
+# .obsidian/graph.json
 
-# 📁 전체 플러그인 바이너리 제외 방지 (플러그인 설정 유지 목적)
-!.obsidian/plugins/
-!.obsidian/core-plugins.json
-!.obsidian/community-plugins.json
-!.obsidian/hotkeys.json
+# 📁 플러그인 설치파일 전체 제외 (협업 시 충돌 방지)
+# .obsidian/plugins/
 
-# 📌 템플레이터 사용자 스크립트(js) 포함 (rename_daily.js 등)
-!.obsidian/plugins/templater/
-!.obsidian/plugins/templater/scripts/
-!.obsidian/plugins/templater/scripts/*.js
+# 📁 휴지통 제외 (Obsidian 삭제 항목)
+.*/.trash/
+
+# ✅ 첨부파일 동기화되도록 허용 (.Attachments 포함됨)
+# → 노트에 붙여넣은 이미지, 음성파일 등 Git 추적 가능
+# .*/.Attachments/
