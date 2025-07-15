@@ -1,6 +1,6 @@
-# 📅 <% tp.date.now("YYMMDD") %> (<% tp.date.now("dddd") %>)
+# 📅 250715 (화요일)
 
-## [[1.Daily note/<% tp.date.now("YYMMDD", -1) %>|← 어제]] | [[1.Daily note/<% tp.date.now("YYMMDD") %>|오늘]] | [[1.Daily note/<% tp.date.now("YYMMDD", 1) %>|내일 →]]
+## [[1.Daily note/250714|← 어제]] | [[1.Daily note/250715|오늘]] | [[1.Daily note/250716|내일 →]]
 
 
 ---
@@ -57,4 +57,4 @@
 - 
 ---
 
-#daily #<% tp.date.now("YYYY/MM") %> #일일기록
+#daily #2025/07 #일일기록
