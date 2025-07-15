@@ -15,9 +15,10 @@ Thumbs.db
 .obsidian/plugins/obsidian-git/data.json
 
 # 플러그인 바이너리 전체 제외
-.obsidian/plugins/
+
 
 # 🔹 다음 파일은 포함할 것 (Git으로 동기화 유지용)
+!.obsidian/plugins/
 !.obsidian/community-plugins.json
 !.obsidian/hotkeys.json
 !.obsidian/core-plugins.json
