@@ -9,3 +9,6 @@
 
 ## 🌙 하루 회고
 - 
+
+
+<%* await tp.user.rename_daily(tp) %>
