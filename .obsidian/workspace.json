@@ -6,22 +6,114 @@
       {
         "id": "5a3600eabe9756c4",
         "type": "tabs",
+        "dimension": 59.78792822185971,
         "children": [
           {
             "id": "c7abee0fe3db2d0f",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://chatgpt.com/g/g-p-68755be1b1d4819199480496efe2369c-obsidian/c/68777a9f-67d4-800a-b1fc-a464b8be5211",
-                "title": "Obsidian - PKM 연구자 적용법",
-                "mode": "webview"
+                "file": "2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Obsidian - PKM 연구자 적용법"
+              "icon": "lucide-file",
+              "title": "★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션"
+            }
+          },
+          {
+            "id": "428f1c22dde8f1d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. LAB/LAB_250715.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LAB_250715"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8567061d763a9dba",
+        "type": "split",
+        "dimension": 40.2120717781403,
+        "children": [
+          {
+            "id": "0a1e91ea81fb4267",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0e60e462f894a333",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "그래프 뷰"
+                }
+              }
+            ]
+          },
+          {
+            "id": "062cc917279e5745",
+            "type": "split",
+            "children": [
+              {
+                "id": "f53c17817a683422",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "1dc4a50d117cffe1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "5. LAB/LAB_250715.md",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": false
+                      },
+                      "icon": "links-coming-in",
+                      "title": "LAB_250715 의 백링크"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "2ed7fed806403cd6",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f9137678fa1352ca",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outgoing-link",
+                      "state": {
+                        "file": "5. LAB/LAB_250715.md",
+                        "linksCollapsed": false,
+                        "unlinkedCollapsed": true
+                      },
+                      "icon": "links-going-out",
+                      "title": "LAB_250715 의 나가는 링크"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -33,6 +125,7 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
+        "dimension": 63.094034378159755,
         "children": [
           {
             "id": "84301899b043e26d",
@@ -53,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#reviewed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,89 +167,12 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1e66dbde332b1711",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3609c4df699afb2b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 374.5
-  },
-  "right": {
-    "id": "f6e3a5d123567eda",
-    "type": "split",
-    "children": [
-      {
-        "id": "30fb6174ca5a12b2",
-        "type": "tabs",
-        "dimension": 45.15503875968992,
-        "children": [
-          {
-            "id": "e0f02b6e118fd73b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "개요"
-            }
-          },
-          {
-            "id": "1dc4a50d117cffe1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "백링크"
-            }
-          },
-          {
-            "id": "f9137678fa1352ca",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "나가는 링크"
-            }
-          }
         ]
       },
       {
-        "id": "794fdd73941eb46d",
+        "id": "f688897bf0516395",
         "type": "tabs",
-        "dimension": 30.910852713178294,
+        "dimension": 36.905965621840245,
         "children": [
           {
             "id": "1b052f6f0fe0224e",
@@ -189,11 +205,41 @@
           }
         ],
         "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "right": {
+    "id": "f6e3a5d123567eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "30fb6174ca5a12b2",
+        "type": "tabs",
+        "dimension": 59.01639344262296,
+        "children": [
+          {
+            "id": "e0f02b6e118fd73b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5. LAB/LAB_250715.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "LAB_250715 의 개요"
+            }
+          }
+        ]
       },
       {
         "id": "d5154e1f9791654e",
         "type": "tabs",
-        "dimension": 23.934108527131784,
+        "dimension": 40.98360655737705,
         "children": [
           {
             "id": "377b20c0487fff01",
@@ -209,7 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,15 +274,19 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "3609c4df699afb2b",
+  "active": "84301899b043e26d",
   "lastOpenFiles": [
+    "5. LAB/LAB_250715.md",
     "2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
+    "1. DAILY NOTES/250716.md",
+    "0. INBOX/인용_수소 자연발화.md",
+    "0. INBOX/Untitled.md",
+    "0. INBOX/무제.md",
+    "97. TEMPLATES/Temp_Basis.md",
     "6.  PROJECTS/5-1. 졸업논문/기관실 모델링 및 선박 규모 추정.md",
     "1. DAILY NOTES/250715.md",
-    "1. DAILY NOTES/250716.md",
     "4. IDEAS/무제.md",
     "7. OUTPUTS/Valut 구조 정리법.md",
-    "0. INBOX/인용_수소 자연발화.md",
     "0. INBOX/The hazards and risks of hydrogen.md",
     "98. RESOURCES/The hazards and risks of hydrogen.pdf",
     "98. RESOURCES/Safety investigation of hydrogen charging platform package with CFD simulation.pdf",
@@ -258,14 +308,10 @@
     "98. RESOURCES/Air and hydrogen supply systems and equipment for PEM fuel cells a review.pdf",
     "97. TEMPLATES/Temp_ReviewPaper.md",
     "97. TEMPLATES/Temp_Daily.md",
-    "97. TEMPLATES/Temp_Basis.md",
     "97. TEMPLATES/Temp_LAB.md",
-    "5. LAB/LAB_250715.md",
     "98. TEMPLATES/Temp_Citation.md",
     "2. PRIVATE/Github Recovery Codes.md",
     "2. PRIVATE/MOC_이력.md",
-    "0. INBOX/0-1. Web Clipper/Study investigating the safety of hydrogen as fuel on ships.md",
-    "3. LITERATURE/3-3. CITATION/LITERATURE TO READ.md",
     "99. ATTACHMENTS/Pasted image 20250716165721.png",
     "99. ATTACHMENTS/Pasted image 20250716141529.png",
     "99. ATTACHMENTS/Pasted image 20250716143114.png",
