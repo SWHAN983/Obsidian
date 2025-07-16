@@ -13,12 +13,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://chatgpt.com/c/6877176d-0c60-800a-a4a7-c27fd1db296f",
-                "title": "템플릿 속성 추가하기",
+                "url": "https://chatgpt.com/c/68771821-2594-800a-8177-97ad44199d0d",
+                "title": "옵시디언 활용법 조언",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "템플릿 속성 추가하기"
+              "title": "옵시디언 활용법 조언"
             }
           }
         ]
@@ -177,12 +177,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "98. TEMPLATES/Temp_Extract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Temp_Extract 의 나가는 링크"
+              "title": "나가는 링크"
             }
           }
         ],
@@ -261,13 +260,13 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "5d3b8e721b01246f",
+  "active": "75e0d35d6b4084b4",
   "lastOpenFiles": [
+    "98. TEMPLATES/Temp_Extract.md",
     "98. TEMPLATES/Temp_daily.md",
     "1. DAILY NOTES/250716.md",
     "1. DAILY NOTES/250715.md",
     "0. INBOX/20250716_113814 - 무제.md",
-    "98. TEMPLATES/Temp_Extract.md",
     "1. DAILY NOTES/무제.md",
     "Pasted image 20250716113331.png",
     "5. RESEARCH PROJECTS/5-1. 졸업논문/무제.md",
