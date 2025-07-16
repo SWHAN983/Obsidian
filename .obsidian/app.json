@@ -1,6 +1,6 @@
 {
   "showLineNumber": true,
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "mobileToolbarCommands": [
     "insert-current-date",
     "insert-current-time",
@@ -27,5 +27,6 @@
     "editor:insert-mathblock",
     "editor:insert-table"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "0. INBOX"
 }

@@ -1,16 +1,15 @@
 ---
-title: "<논문 제목> (<저자연도>)"
-authors: 
-year: 
-journal: 
-tags: [논문리뷰]
-created: <% tp.date.now("YYYY-MM-DD") %>
+title: Brzezi´nska(2021)
+authors:
+  - Dorota Brzezi ´nska
+year: "2021"
+journal: Inernational Journal of Green Energy
+원본 파일: "[[Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.pdf]]"
+created: 2025-07-16
+tags:
+  - toread
+  - paper
 ---
-## 📎 PDF 파일  
-`[[<논문파일.pdf>]]`
-
----
-
 ## 1. 왜 이 논문을 읽었는가?
 > - 내 연구와의 연관성
 > - 참고 목적 (개념/방법/결과 등)

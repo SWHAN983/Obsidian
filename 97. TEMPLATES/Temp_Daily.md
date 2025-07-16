@@ -1,7 +1,9 @@
 ---
-날짜: <% tp.date.now("YYYY-MM-DD") %>
+date: <% tp.date.now("YYYY-MM-DD") %>
 요일: <% tp.date.now("dddd") %>
-태그: [일일기록]
+tags:
+  - template
+  - daily
 ---
 
 ## [[1. DAILY NOTES/<% tp.date.now("YYMMDD", -1) %>|← 어제]] | [[1. DAILY NOTES/<% tp.date.now("YYMMDD") %>|오늘]] | [[1. DAILY NOTES/<% tp.date.now("YYMMDD", 1) %>|내일 →]]

@@ -1,22 +1,20 @@
 ---
 title: "Safe Design of a Hydrogen-Powered Ship: CFD Simulation on Hydrogen Leakage in the Fuel Cell Room"
-authors: Wenfeng Guan, Ju Chen
+authors:
+  - Wenfeng Guan
+  - Ju Chen
 year: "2023"
 journal: Journal of Marine Science and Engineering
+원본 파일: "[[★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf]]"
 tags:
-  - 논문리뷰
-  - 수소
-  - 누출
   - CFD
   - 졸업논문
+  - paper
+  - hydrogen
+  - leakage
+  - reviewed
 created: 2025-07-16
 ---
-#  PDF 파일  
-
-[[★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf]]
-
----
-
 # 1. 왜 이 논문을 읽었는가?
 > - 내 연구와의 연관성
 > - 참고 목적 (개념/방법/결과 등)
@@ -203,8 +201,8 @@ HGSS는 다음의 **4가지 주요 기능 모듈**로 구성됨:
 
 # 5. 내 연구에 적용할 점
 > - 실제 사용할 것
-- [[논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션#수소 누출 원인|수소누출원인]]
-- [[논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션#수소 연료 선박 설계 계획(IMO)|수소 연료 선박 설계 계획(IMO)]]
+- [[★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션#수소 누출 원인|수소누출원인]]
+- [[★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션#수소 연료 선박 설계 계획(IMO)|수소 연료 선박 설계 계획(IMO)]]
 - 
 
 > - 응용 계획
