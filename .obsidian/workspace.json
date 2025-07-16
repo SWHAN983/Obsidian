@@ -162,56 +162,8 @@
       {
         "id": "30fb6174ca5a12b2",
         "type": "tabs",
-        "dimension": 44.86434108527132,
+        "dimension": 45.15503875968992,
         "children": [
-          {
-            "id": "1dc4a50d117cffe1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "98.Templates/Temp_daily.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Temp_daily 의 백링크"
-            }
-          },
-          {
-            "id": "f9137678fa1352ca",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "98.Templates/Temp_daily.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Temp_daily 의 나가는 링크"
-            }
-          },
-          {
-            "id": "1b052f6f0fe0224e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "태그"
-            }
-          },
           {
             "id": "e0f02b6e118fd73b",
             "type": "leaf",
@@ -225,6 +177,62 @@
               },
               "icon": "lucide-list",
               "title": "250716 의 개요"
+            }
+          },
+          {
+            "id": "1dc4a50d117cffe1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. DAILY NOTES/250716.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "250716 의 백링크"
+            }
+          },
+          {
+            "id": "f9137678fa1352ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. DAILY NOTES/250716.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "250716 의 나가는 링크"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "794fdd73941eb46d",
+        "type": "tabs",
+        "dimension": 30.910852713178294,
+        "children": [
+          {
+            "id": "1b052f6f0fe0224e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
             }
           },
           {
@@ -242,12 +250,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "d5154e1f9791654e",
         "type": "tabs",
-        "dimension": 55.13565891472868,
+        "dimension": 23.934108527131784,
         "children": [
           {
             "id": "377b20c0487fff01",
@@ -284,7 +292,7 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "805f270ff040a858",
+  "active": "e0f02b6e118fd73b",
   "lastOpenFiles": [
     "2. PRIVATE/MOC_이력.md",
     "1. DAILY NOTES/250716.md",
