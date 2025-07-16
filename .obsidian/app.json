@@ -26,5 +26,6 @@
     "editor:configure-toolbar",
     "editor:insert-mathblock",
     "editor:insert-table"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
