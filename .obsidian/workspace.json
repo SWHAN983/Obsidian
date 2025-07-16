@@ -6,7 +6,7 @@
       {
         "id": "5a3600eabe9756c4",
         "type": "tabs",
-        "dimension": 48.38957055214724,
+        "dimension": 60.73619631901841,
         "children": [
           {
             "id": "f151091253f6d2e8",
@@ -27,7 +27,7 @@
       {
         "id": "16ed3ec032d2cce3",
         "type": "tabs",
-        "dimension": 51.61042944785276,
+        "dimension": 39.263803680981596,
         "children": [
           {
             "id": "8c29b7828e3adf77",
@@ -71,7 +71,8 @@
               "title": "졸업논문_정리"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,7 +280,7 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "f151091253f6d2e8",
+  "active": "27b818d5ddd5f9d9",
   "lastOpenFiles": [
     "3. LITERATURE/3-2. REVIEWS/논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "1. DAILY NOTES/250716.md",
