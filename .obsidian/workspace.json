@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b5bd460a25f6ed1",
+        "id": "7d36426d41ffa179",
         "type": "tabs",
-        "dimension": 51.04570100697134,
         "children": [
           {
-            "id": "55a5fe87f4e3e4d5",
+            "id": "c91a83ccea3fb5d5",
             "type": "leaf",
             "state": {
               "type": "custom-frames-chatgpt",
@@ -19,7 +18,7 @@
             }
           },
           {
-            "id": "6c33b05271ee4b6e",
+            "id": "8039c882369aa482",
             "type": "leaf",
             "state": {
               "type": "custom-frames-gemini",
@@ -29,7 +28,7 @@
             }
           },
           {
-            "id": "e8c54d7fabb5d407",
+            "id": "b487afdc34ebfdec",
             "type": "leaf",
             "state": {
               "type": "custom-frames-perpelxity",
@@ -39,7 +38,7 @@
             }
           },
           {
-            "id": "7a784801c49c20d0",
+            "id": "163a48bc7b2bcb86",
             "type": "leaf",
             "state": {
               "type": "custom-frames-notebooklm",
@@ -48,23 +47,31 @@
               "title": "NotebookLM"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "6d2abbfd8be7c2c8",
+        "id": "242098cc9b37c5cd",
         "type": "tabs",
-        "dimension": 48.95429899302866,
         "children": [
           {
-            "id": "75052ad997b6ec5b",
+            "id": "805f270ff040a858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1. DAILY NOTES/250716.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "250716"
@@ -82,6 +89,7 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
+        "dimension": 68.88888888888889,
         "children": [
           {
             "id": "84301899b043e26d",
@@ -102,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "250716",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,39 +131,38 @@
               "title": "북마크"
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f762e746292aeca8",
+        "type": "tabs",
+        "dimension": 31.111111111111107,
+        "children": [
+          {
+            "id": "27b818d5ddd5f9d9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 289.5
   },
   "right": {
     "id": "f6e3a5d123567eda",
     "type": "split",
     "children": [
       {
-        "id": "7109d25faa1245fa",
-        "type": "tabs",
-        "dimension": 53.52422907488986,
-        "children": [
-          {
-            "id": "377b20c0487fff01",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "pinned": true,
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ]
-      },
-      {
         "id": "30fb6174ca5a12b2",
         "type": "tabs",
-        "dimension": 46.47577092511013,
+        "dimension": 44.86434108527132,
         "children": [
           {
             "id": "1dc4a50d117cffe1",
@@ -163,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. LITERATURE/3-2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
+                "file": "98.Templates/Temp_daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션 의 백링크"
+              "title": "Temp_daily 의 백링크"
             }
           },
           {
@@ -182,12 +189,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DAILY NOTES/250716.md",
+                "file": "98.Templates/Temp_daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "250716 의 나가는 링크"
+              "title": "Temp_daily 의 나가는 링크"
             }
           },
           {
@@ -197,7 +204,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -211,74 +218,107 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. LITERATURE/3-2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
+                "file": "1. DAILY NOTES/250716.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션 의 개요"
+              "title": "250716 의 개요"
+            }
+          },
+          {
+            "id": "547a2eb80fe9737e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "d5154e1f9791654e",
+        "type": "tabs",
+        "dimension": 55.13565891472868,
+        "children": [
+          {
+            "id": "377b20c0487fff01",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "templates:템플릿 삽입": false,
-      "templater-obsidian:Templater": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-custom-frames:Open ChatGPT": false,
       "obsidian-custom-frames:Open Gemini": false,
       "obsidian-custom-frames:Open Perpelxity": false,
-      "obsidian-custom-frames:Open NotebookLM": false
+      "obsidian-custom-frames:Open NotebookLM": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "audio-recorder:녹음 시작/정지": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "publish:변경사항 게재": false
     }
   },
-  "active": "75052ad997b6ec5b",
+  "active": "805f270ff040a858",
   "lastOpenFiles": [
+    "2. PRIVATE/MOC_이력.md",
+    "1. DAILY NOTES/250716.md",
     "3. LITERATURE/3-2. REVIEWS/논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "8. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
+    "8. RESOURCES",
+    "3. LITERATURE/3-1. TO READ/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
     "98. TEMPLATES/Temp_ReviewPaper.md",
-    "1. DAILY NOTES/250716.md",
-    "10. Laboratory/10-1. Seminar/LS_250715.md",
-    "3. LITERATURE/3-2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
-    "1.Daily note/250716.md",
-    "1. DAILY NOTES/250715.md",
-    "1.Daily note",
     "98. TEMPLATES/Temp_daily.md",
     "5. RESEARCH PROJECTS/5-1. 졸업논문/무제.md",
+    "1. DAILY NOTES/250715.md",
     "5. RESEARCH PROJECTS/5-1. 졸업논문",
     "250715.md",
+    "10. Laboratory/10-1. Seminar/LS_250715.md",
     "10. Laboratory/10-1. Seminar",
     "10. Laboratory",
     "7. DRAFTS/무제.md",
     "conflict-files-obsidian-git.md",
     "8. RESOURCES/무제.md",
-    "5. RESEARCH PROJECTS/무제.md",
     "4.THEORY/무제.md",
-    "3. LITERATURE/3-2. REVIEWS/무제.md",
     "3. LITERATURE/3-1. TO READ/무제.md",
-    "8. RESOURCES",
     "7. DRAFTS",
     "5. RESEARCH PROJECTS",
     "4.THEORY",
     "3. LITERATURE/3-2. REVIEWS",
     "1.Daily note/예시노트.md",
+    "1.Daily note/250716.md",
     "1.Daily note/DN-250715.md",
     "Test for tablet.md",
     "Github Recovery Codes.md",
     "2. PRIVATE/Github Recovery Codes.md",
     "Daily note/DN_250715.md",
     "test.md",
-    "ㅁㅁㅁㅁㅁㅁ.md"
+    "ㅁㅁㅁㅁㅁㅁ.md",
+    "토그/원격 test.md"
   ]
 }
