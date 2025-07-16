@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "c20c3d6427b1976d",
+    "id": "f97833459354fed5",
     "type": "split",
     "children": [
       {
-        "id": "c7fee19fe6154c53",
+        "id": "85355599da02ed00",
         "type": "tabs",
         "children": [
           {
-            "id": "b07b503bb216d337",
+            "id": "b20679352809de66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY NOTES/250716.md",
+                "file": "98. TEMPLATES/Temp_daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250716"
+              "title": "Temp_daily"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1f3b1fae8ef6f942",
+    "id": "f1240046cea986ad",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "de1460a50ac9b3ea",
+        "id": "344d0de726f3b881",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "f0b08c9681af14ba",
+        "id": "fa5b34bf1133c62b",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -57,11 +57,11 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
-          "title": "검색"
+          "title": "Search"
         }
       },
       {
-        "id": "38eb6a814a27a249",
+        "id": "cdf1d5295667751a",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,32 +72,34 @@
             "searchQuery": ""
           },
           "icon": "lucide-tags",
-          "title": "태그"
+          "title": "Tags"
         }
       },
       {
-        "id": "c43bdaedc6014275",
+        "id": "776a1538689a15a8",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
           "state": {},
           "icon": "lucide-bookmark",
-          "title": "북마크"
+          "title": "Bookmarks"
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
-    "id": "f6aecfe033a29151",
+    "id": "795fe6a2d13523af",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "410fd0b258ee2b6a",
+        "id": "b180eea8a8a09f8c",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "1. DAILY NOTES/250715.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
         }
       },
       {
-        "id": "6566496333936847",
+        "id": "9ad83a669fece520",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -124,11 +126,12 @@
         }
       },
       {
-        "id": "74808605122380f9",
+        "id": "785bcc2fd35ded42",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "1. DAILY NOTES/250715.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -138,7 +141,7 @@
         }
       },
       {
-        "id": "1de81e2569275ee9",
+        "id": "64c15f6bb4ef80fa",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -148,7 +151,8 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 3,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,32 +166,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b07b503bb216d337",
+  "active": "b20679352809de66",
   "lastOpenFiles": [
-    "1. DAILY NOTES/250715.md",
-    "1. DAILY NOTES/250716.md",
-    "98. TEMPLATES/Temp_daily.md",
-    "1.DAILY NOTES/250716.md",
-    "1.DAILY NOTES",
-    "1.Daily note/250716.md",
-    "1.Daily note/250715.md",
-    "1.Daily note",
-    "10. Laboratory/10-1. Seminar/LS_250715.md",
-    "3. LITERATURE/3-2. REVIEWS/논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
-    "8. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
-    "/8. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
-    "/10. Laboratory/10-1. Seminar/LS_250715.md",
-    "/10. Laboratory/10-1. Seminar",
-    "/10. Laboratory",
-    "/1. DAILY NOTES/250716.md",
-    "8. RESOURCES",
-    "/8. RESOURCES",
-    "3. LITERATURE/3-2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
-    "3. LITERATURE/3-1. TO READ/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
-    "/98. TEMPLATES/Temp_ReviewPaper.md",
+    "conflict-files-obsidian-git.md",
     "98. TEMPLATES/Temp_ReviewPaper.md",
+    "8. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
+    "5. RESEARCH PROJECTS/5-1. 졸업논문/무제.md",
+    "5. RESEARCH PROJECTS/5-1. 졸업논문",
+    "2. PRIVATE/MOC_이력.md",
+    "1. DAILY NOTES/250716.md",
+    "3. LITERATURE/3-2. REVIEWS/논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
+    "3. LITERATURE/3-2. REVIEWS",
+    "3. LITERATURE",
+    "98. TEMPLATES/Temp_daily.md",
+    "/98. TEMPLATES/Temp_daily.md",
     "/98. TEMPLATES",
-    "/3. LITERATURE/3-2. REVIEWS/논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
-    "/1. DAILY NOTES/250715.md"
+    "/1. DAILY NOTES/250715.md",
+    "/1. DAILY NOTES",
+    "1.Daily note/250714.md",
+    "1.Daily note",
+    "99. ATTACHMENTS/2025_07_10 13_35.mp4",
+    "1. DAILY NOTES/250715.md",
+    "10. Laboratory/10-1. Seminar/LS_250715.md",
+    "10. Laboratory/10-1. Seminar",
+    "10. Laboratory",
+    "/7. DRAFTS/무제.md",
+    "8. RESOURCES/무제.md",
+    "7. DRAFTS/무제.md",
+    "5. RESEARCH PROJECTS/무제.md",
+    "4.THEORY/무제.md",
+    "3. LITERATURE/3-2. REVIEWS/무제.md",
+    "3. LITERATURE/3-1. TO READ/무제.md",
+    "2. PRIVATE/Github Recovery Codes.md",
+    "/8. RESOURCES/무제.md",
+    "/5. RESEARCH PROJECTS/무제.md",
+    "/4.THEORY/무제.md",
+    "/3. LITERATURE/3-2. REVIEWS/무제.md",
+    "/3. LITERATURE/3-1. TO READ/무제.md",
+    "/2. PRIVATE/Github Recovery Codes.md"
   ]
 }
