@@ -2,7 +2,6 @@
 date: <% tp.date.now("YYYY-MM-DD") %>
 요일: <% tp.date.now("dddd") %>
 tags:
-  - template
   - daily
 ---
 

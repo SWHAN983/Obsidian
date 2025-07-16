@@ -1,7 +1,6 @@
 ---
 created: <% tp.date.now("YYYY-MM-DD") %>
-tags:
-  - template
+tags: []
 ---
 <%*
 tR += tp.file.cursor()
