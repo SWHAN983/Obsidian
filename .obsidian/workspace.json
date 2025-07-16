@@ -4,6 +4,40 @@
     "type": "split",
     "children": [
       {
+        "id": "6a2be129c6e9440c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c52386c795ee1d12",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/c/6876f4a1-3acc-800a-8026-3d022d51ddf6",
+                "title": "GitHub 연결 오류 해결",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub 연결 오류 해결"
+            }
+          },
+          {
+            "id": "9f578eca1dc227df",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://notebooklm.google.com/notebook/74775f70-4578-4f03-97a0-e5cdba75f411",
+                "title": "Ship Design for Efficiency and Economy - NotebookLM",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Ship Design for Efficiency and Economy - NotebookLM"
+            }
+          }
+        ]
+      },
+      {
         "id": "16ed3ec032d2cce3",
         "type": "tabs",
         "children": [
@@ -13,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY NOTES/250716.md",
+                "file": "5. RESEARCH PROJECTS/5-1. 졸업논문/졸업논문_정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250716"
+              "title": "졸업논문_정리"
             }
           }
         ]
@@ -113,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DAILY NOTES/250716.md",
+                "file": "5. RESEARCH PROJECTS/5-1. 졸업논문/졸업논문_정리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "250716 의 개요"
+              "title": "졸업논문_정리 의 개요"
             }
           },
           {
@@ -128,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DAILY NOTES/250716.md",
+                "file": "5. RESEARCH PROJECTS/5-1. 졸업논문/졸업논문_정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +172,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "250716 의 백링크"
+              "title": "졸업논문_정리 의 백링크"
             }
           },
           {
@@ -147,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DAILY NOTES/250716.md",
+                "file": "5. RESEARCH PROJECTS/5-1. 졸업논문/졸업논문_정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "250716 의 나가는 링크"
+              "title": "졸업논문_정리 의 나가는 링크"
             }
           }
         ]
@@ -232,6 +266,10 @@
   },
   "active": "b10e46839a627810",
   "lastOpenFiles": [
+    "8. RESOURCES/8-1. HYDEOGEN LEAKAGE;FIRE/Ship Design for Efficiency and Economy.pdf",
+    "5. RESEARCH PROJECTS/5-1. 졸업논문/졸업논문_정리.md",
+    "99. ATTACHMENTS/Pasted image 20250716165721.png",
+    "1. DAILY NOTES/250716.md",
     "3. LITERATURE/3-2. REVIEWS/논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "3. LITERATURE/3-3. CITATION/인용_수소 자연발화.md",
     "99. ATTACHMENTS/Pasted image 20250716141529.png",
@@ -248,7 +286,6 @@
     "3. LITERATURE/3-1. TO READ/Risk assessment of hydrogen leakage in diesel hydrogenation process.pdf",
     "3. LITERATURE/3-1. TO READ/Safety investigation of hydrogen charging platform package with CFD simulation.pdf",
     "3. LITERATURE/3-1. TO READ/Overview of the DOE hydrogen safety, codes and standards program, part 3 Advances in research and development to enhance the scientific basis for hydrogen regulations, codes and standards.pdf",
-    "3. LITERATURE/3-1. TO READ/The hazards and risks of hydrogen.pdf",
     "98. TEMPLATES/Temp_Citation.md",
     "98. TEMPLATES/Temp_ReviewPaper.md",
     "98. TEMPLATES/Temp_Daily.md",
@@ -258,12 +295,10 @@
     "0. INBOX/20250716_125309 - 무제.md",
     "0. INBOX/20250716_125253 - 무제.md",
     "0. INBOX/20250716_125216 - 무제.md",
-    "1. DAILY NOTES/250716.md",
     "1. DAILY NOTES/250715.md",
     "0. INBOX/20250716_113814 - 무제.md",
     "1. DAILY NOTES/무제.md",
     "Pasted image 20250716113331.png",
-    "5. RESEARCH PROJECTS/5-1. 졸업논문/무제.md",
     "1. DAILY NOTES/이공계 장학금.md",
     "2. PRIVATE/MOC_이력.md",
     "0. INBOX/0-1. Web Clipper/Study investigating the safety of hydrogen as fuel on ships.md",
