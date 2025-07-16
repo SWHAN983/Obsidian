@@ -4,40 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "5a3600eabe9756c4",
-        "type": "tabs",
+        "id": "d99bc2453b29edd7",
+        "type": "split",
         "dimension": 59.78792822185971,
         "children": [
           {
-            "id": "c7abee0fe3db2d0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션"
-            }
+            "id": "5a3600eabe9756c4",
+            "type": "tabs",
+            "dimension": 19.670542635658915,
+            "children": [
+              {
+                "id": "428f1c22dde8f1d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5. LAB/LAB_250716.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "LAB_250716"
+                }
+              }
+            ]
           },
           {
-            "id": "428f1c22dde8f1d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DAILY NOTES/250715.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "250715"
-            }
+            "id": "8c52dda781b78b66",
+            "type": "tabs",
+            "dimension": 80.32945736434108,
+            "children": [
+              {
+                "id": "c115ae4290e5c09a",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://chatgpt.com/c/6877c0c5-d518-800a-bcb7-5658308c1d62",
+                    "title": "ChatGPT",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "ChatGPT"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       },
       {
         "id": "8567061d763a9dba",
@@ -74,7 +88,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "1. DAILY NOTES/250715.md",
+                        "file": "5. LAB/LAB_250716.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -84,7 +98,7 @@
                         "unlinkedCollapsed": false
                       },
                       "icon": "links-coming-in",
-                      "title": "250715 의 백링크"
+                      "title": "LAB_250716 의 백링크"
                     }
                   }
                 ]
@@ -99,12 +113,12 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "1. DAILY NOTES/250715.md",
+                        "file": "5. LAB/LAB_250716.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-going-out",
-                      "title": "250715 의 나가는 링크"
+                      "title": "LAB_250716 의 나가는 링크"
                     }
                   }
                 ]
@@ -225,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DAILY NOTES/250715.md",
+                "file": "5. LAB/LAB_250716.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "250715 의 개요"
+              "title": "LAB_250716 의 개요"
             }
           }
         ]
@@ -276,42 +290,42 @@
   },
   "active": "428f1c22dde8f1d9",
   "lastOpenFiles": [
+    "5. LAB/LAB_250716.md",
     "5. LAB/LAB_250715.md",
-    "2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "1. DAILY NOTES/250716.md",
-    "0. INBOX/인용_수소 자연발화.md",
-    "0. INBOX/Untitled.md",
-    "0. INBOX/무제.md",
-    "97. TEMPLATES/Temp_Basis.md",
-    "6.  PROJECTS/5-1. 졸업논문/기관실 모델링 및 선박 규모 추정.md",
+    "Obsidian/4. IDEAS/무제.md",
+    "Obsidian/4. IDEAS",
+    "Obsidian/3. CONCEPTS/무제.md",
+    "Obsidian/3. CONCEPTS",
+    "Obsidian/2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
+    "Obsidian/2. REVIEWS",
+    "Obsidian/1. DAILY NOTES/250716.md",
+    "Obsidian/1. DAILY NOTES/250715.md",
+    "Obsidian/1. DAILY NOTES",
+    "Obsidian/98. RESOURCES/Air and hydrogen supply systems and equipment for PEM fuel cells a review.pdf",
+    "Obsidian/98. RESOURCES",
+    "Obsidian/97. TEMPLATES/Temp_LAB.md",
+    "Obsidian/97. TEMPLATES/Temp_ReviewPaper.md",
+    "Obsidian/97. TEMPLATES/Temp_Daily.md",
+    "Obsidian/97. TEMPLATES/Temp_Basis.md",
+    "Obsidian/97. TEMPLATES",
+    "Obsidian/7. OUTPUTS/Valut 구조 정리법.md",
+    "Obsidian/7. OUTPUTS",
+    "Obsidian/6.  PROJECTS/5-1. 졸업논문/기관실 모델링 및 선박 규모 추정.md",
+    "Obsidian/6.  PROJECTS/5-1. 졸업논문",
+    "Obsidian/6.  PROJECTS",
+    "Obsidian/5. LAB/LAB_250715.md",
+    "Obsidian/0. INBOX/Overview of the DOE hydrogen safety, codes and standards program, part 3 Advances in research and development to enhance the scientific basis for hydrogen regulations, codes and standards.md",
+    "Obsidian/0. INBOX/인용_수소 자연발화.md",
+    "Obsidian/0. INBOX/The hazards and risks of hydrogen.md",
+    "Obsidian/0. INBOX/Safety investigation of hydrogen charging platform package with CFD simulation.md",
+    "Obsidian/0. INBOX/Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.md",
+    "Obsidian/0. INBOX/Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
+    "Obsidian/0. INBOX/Risk assessment of hydrogen leakage in diesel hydrogenation process.md",
+    "Obsidian/0. INBOX/Quantitative risk assessment using a Japanese hydrogen refueling station model.md",
+    "Obsidian/0. INBOX/Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.md",
+    "Obsidian/0. INBOX/Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
     "1. DAILY NOTES/250715.md",
-    "4. IDEAS/무제.md",
-    "7. OUTPUTS/Valut 구조 정리법.md",
-    "0. INBOX/The hazards and risks of hydrogen.md",
-    "98. RESOURCES/The hazards and risks of hydrogen.pdf",
-    "98. RESOURCES/Safety investigation of hydrogen charging platform package with CFD simulation.pdf",
-    "0. INBOX/Safety investigation of hydrogen charging platform package with CFD simulation.md",
-    "0. INBOX/Overview of the DOE hydrogen safety, codes and standards program, part 3 Advances in research and development to enhance the scientific basis for hydrogen regulations, codes and standards.md",
-    "98. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
-    "0. INBOX/Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.md",
-    "98. RESOURCES/Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.pdf",
-    "98. RESOURCES/Risk assessment of hydrogen leakage in diesel hydrogenation process.pdf",
-    "0. INBOX/Risk assessment of hydrogen leakage in diesel hydrogenation process.md",
-    "98. RESOURCES/Quantitative risk assessment using a Japanese hydrogen refueling station model.pdf",
-    "0. INBOX/Quantitative risk assessment using a Japanese hydrogen refueling station model.md",
-    "98. RESOURCES/Overview of the DOE hydrogen safety, codes and standards program, part 3 Advances in research and development to enhance the scientific basis for hydrogen regulations, codes and standards.pdf",
-    "0. INBOX/Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.md",
-    "98. RESOURCES/Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.pdf",
-    "0. INBOX/Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
-    "98. RESOURCES/Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.pdf",
-    "0. INBOX/Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
-    "98. RESOURCES/Air and hydrogen supply systems and equipment for PEM fuel cells a review.pdf",
-    "97. TEMPLATES/Temp_ReviewPaper.md",
-    "97. TEMPLATES/Temp_Daily.md",
-    "97. TEMPLATES/Temp_LAB.md",
-    "98. TEMPLATES/Temp_Citation.md",
-    "2. PRIVATE/Github Recovery Codes.md",
-    "2. PRIVATE/MOC_이력.md",
     "99. ATTACHMENTS/Pasted image 20250716165721.png",
     "99. ATTACHMENTS/Pasted image 20250716141529.png",
     "99. ATTACHMENTS/Pasted image 20250716143114.png",
