@@ -20,8 +20,23 @@
               "icon": "globe-2",
               "title": "웹뷰어 저장 폴더 설명"
             }
+          },
+          {
+            "id": "16d77366d633f68e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/c/6876ffb0-b3ac-800a-aaa2-f52b3d804962",
+                "title": "ChatGPT",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "ChatGPT"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "242098cc9b37c5cd",
@@ -262,7 +277,7 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "75e0d35d6b4084b4",
+  "active": "16d77366d633f68e",
   "lastOpenFiles": [
     "1. DAILY NOTES/250716.md",
     "0. INBOX/0-1. Web Clipper/Study investigating the safety of hydrogen as fuel on ships.md",
