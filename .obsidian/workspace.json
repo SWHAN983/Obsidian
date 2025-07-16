@@ -11,12 +11,12 @@
           {
             "id": "2a2fa0bbbbebd47e",
             "type": "split",
-            "dimension": 70.44573643410853,
+            "dimension": 62.7906976744186,
             "children": [
               {
                 "id": "e5b7834393545869",
                 "type": "tabs",
-                "dimension": 56.48050579557429,
+                "dimension": 52.79241306638567,
                 "children": [
                   {
                     "id": "08609fde47ff920f",
@@ -37,7 +37,7 @@
               {
                 "id": "3702bc0165f06104",
                 "type": "tabs",
-                "dimension": 43.51949420442571,
+                "dimension": 47.20758693361433,
                 "children": [
                   {
                     "id": "78ce978127919986",
@@ -61,7 +61,7 @@
           {
             "id": "e27d72576f918f8f",
             "type": "tabs",
-            "dimension": 29.554263565891475,
+            "dimension": 37.2093023255814,
             "children": [
               {
                 "id": "851dde42df684086",
@@ -206,12 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3. LITERATURE/3-2. REVIEWS/논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션 의 개요"
             }
           },
           {
@@ -220,6 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. LITERATURE/3-2. REVIEWS/논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +231,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션 의 백링크"
             }
           },
           {
@@ -238,16 +240,15 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. RESOURCES/8-1. HYDEOGEN LEAKAGE;FIRE/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
+                "file": "3. LITERATURE/3-2. REVIEWS/논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room 의 나가는 링크"
+              "title": "논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션 의 나가는 링크"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "794fdd73941eb46d",
@@ -322,12 +323,17 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "851dde42df684086",
+  "active": "75e0d35d6b4084b4",
   "lastOpenFiles": [
-    "3. LITERATURE/3-2. REVIEWS/논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
-    "Pasted image 20250716141529.png",
     "8. RESOURCES/8-1. HYDEOGEN LEAKAGE;FIRE/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
+    "3. LITERATURE/3-2. REVIEWS/논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "3. LITERATURE/3-1. TO READ/LITERATURE TO READ.md",
+    "Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.pdf",
+    "Pasted image 20250716145456.png",
+    "Risk assessment of hydrogen leakage in diesel hydrogenation process.pdf",
+    "Air and hydrogen supply systems and equipment for PEM fuel cells a review.pdf",
+    "Pasted image 20250716143114.png",
+    "Pasted image 20250716141529.png",
     "Safety investigation of hydrogen charging platform package with CFD simulation.pdf",
     "Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.pdf",
     "Quantitative risk assessment using a Japanese hydrogen refueling station model.pdf",
@@ -341,9 +347,6 @@
     "3. LITERATURE/3-3. CITATION/Untitled.md",
     "3. LITERATURE/3-2. REVIEWS/Untitled.md",
     "98. TEMPLATES/무제.md",
-    "8. RESOURCES/8-1. HYDEOGEN LEAKAGE;FIRE",
-    "3. LITERATURE/3-3. CITATION",
-    "3. LITERATURE/3-1. TO READ",
     "0. INBOX/20250716_125309 - 무제.md",
     "0. INBOX/20250716_125253 - 무제.md",
     "0. INBOX/20250716_125216 - 무제.md",
