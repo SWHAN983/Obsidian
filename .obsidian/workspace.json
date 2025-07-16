@@ -4,101 +4,105 @@
     "type": "split",
     "children": [
       {
-        "id": "5a3600eabe9756c4",
-        "type": "tabs",
-        "dimension": 59.78792822185971,
-        "children": [
-          {
-            "id": "428f1c22dde8f1d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "97. TEMPLATES/Temp_Basis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Temp_Basis"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8567061d763a9dba",
+        "id": "4d7b1d88c00d02c9",
         "type": "split",
-        "dimension": 40.2120717781403,
+        "dimension": 58.31973898858076,
         "children": [
           {
-            "id": "0a1e91ea81fb4267",
+            "id": "5a3600eabe9756c4",
             "type": "tabs",
             "children": [
               {
-                "id": "0e60e462f894a333",
+                "id": "428f1c22dde8f1d9",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "그래프 뷰"
+                  "type": "markdown",
+                  "state": {
+                    "file": "5. LAB/LAB_250717.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "LAB_250717"
                 }
               }
             ]
           },
           {
-            "id": "062cc917279e5745",
-            "type": "split",
+            "id": "d7bba50272eef31e",
+            "type": "tabs",
             "children": [
               {
-                "id": "f53c17817a683422",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "1dc4a50d117cffe1",
-                    "type": "leaf",
-                    "state": {
-                      "type": "backlink",
-                      "state": {
-                        "file": "97. TEMPLATES/Temp_Basis.md",
-                        "collapseAll": false,
-                        "extraContext": false,
-                        "sortOrder": "alphabetical",
-                        "showSearch": false,
-                        "searchQuery": "",
-                        "backlinkCollapsed": false,
-                        "unlinkedCollapsed": false
-                      },
-                      "icon": "links-coming-in",
-                      "title": "Temp_Basis 의 백링크"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "2ed7fed806403cd6",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "f9137678fa1352ca",
-                    "type": "leaf",
-                    "state": {
-                      "type": "outgoing-link",
-                      "state": {
-                        "file": "97. TEMPLATES/Temp_Basis.md",
-                        "linksCollapsed": false,
-                        "unlinkedCollapsed": true
-                      },
-                      "icon": "links-going-out",
-                      "title": "Temp_Basis 의 나가는 링크"
-                    }
-                  }
-                ]
+                "id": "e4a14907fa27ab28",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션"
+                }
               }
-            ],
-            "direction": "vertical"
+            ]
           }
         ],
         "direction": "horizontal"
+      },
+      {
+        "id": "062cc917279e5745",
+        "type": "split",
+        "dimension": 41.68026101141924,
+        "children": [
+          {
+            "id": "f53c17817a683422",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1dc4a50d117cffe1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "5. LAB/LAB_250717.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "LAB_250717 의 백링크"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2ed7fed806403cd6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9137678fa1352ca",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "5. LAB/LAB_250717.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "LAB_250717 의 나가는 링크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -131,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#reviewed",
+                "query": "tag:수소",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "97. TEMPLATES/Temp_Basis.md",
+                "file": "5. LAB/LAB_250717.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Temp_Basis 의 개요"
+              "title": "LAB_250717 의 개요"
             }
           }
         ]
@@ -261,42 +265,42 @@
   },
   "active": "428f1c22dde8f1d9",
   "lastOpenFiles": [
-    "97. TEMPLATES/Temp_LAB.md",
-    "97. TEMPLATES/Temp_ReviewPaper.md",
-    "97. TEMPLATES/Temp_Basis.md",
-    "97. TEMPLATES/Temp_Daily.md",
-    "6.  PROJECTS/5-1. 졸업논문/Untitled.md",
-    "6.  PROJECTS/5-1. 졸업논문/기관실 모델링 및 선박 규모 추정.md",
-    "0. INBOX/인용_수소 자연발화.md",
+    "1. DAILY NOTES/250716.md",
     "5. LAB/LAB_250717.md",
     "5. LAB/LAB_250715.md",
-    "1. DAILY NOTES/250716.md",
+    "97. TEMPLATES/Temp_LAB.md",
+    "97. TEMPLATES/Temp_Daily.md",
+    "6.  PROJECTS/5-1. 졸업논문/수소 누출 시나리오 정의 변수, 손상 위치, 압력, 지연시간, 감지 여부.md",
+    "6.  PROJECTS/5-1. 졸업논문/졸업논문 목차.md",
+    "2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
+    "6.  PROJECTS/5-1. 졸업논문/수소 누출·화재 CFD 연구 사례.md",
+    "6.  PROJECTS/5-1. 졸업논문/수소 고압 운용으로 인한 누출 위험.md",
+    "0. INBOX/인용_수소 자연발화.md",
+    "6.  PROJECTS/5-1. 졸업논문/수소의 감지·환기 관련 규정.md",
+    "6.  PROJECTS/5-1. 졸업논문/수소 사고의 주요 원인 (인적요소, 정비불량, 설비 노후).md",
+    "6.  PROJECTS/5-1. 졸업논문/시나리오 기반 위험평가(QRA) 연구.md",
+    "6.  PROJECTS/5-1. 졸업논문/수소는 기관실 내에서 특히 위험한 연료다.md",
+    "6.  PROJECTS/5-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
+    "98. RESOURCES/Risk assessment of hydrogen leakage in diesel hydrogenation process.pdf",
+    "0. INBOX/Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
+    "0. INBOX/The hazards and risks of hydrogen.md",
+    "0. INBOX/수소가 선박 연료로 사용될 이유.md",
+    "6.  PROJECTS/5-1. 졸업논문/수소.md",
+    "6.  PROJECTS/5-1. 졸업논문/기관실 모델링 및 선박 규모 추정.md",
+    "97. TEMPLATES/Temp_Basis.md",
+    "97. TEMPLATES/Temp_ReviewPaper.md",
     "Obsidian/4. IDEAS/무제.md",
     "Obsidian/4. IDEAS",
     "Obsidian/3. CONCEPTS/무제.md",
     "Obsidian/3. CONCEPTS",
     "Obsidian/2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "Obsidian/2. REVIEWS",
-    "Obsidian/1. DAILY NOTES/250716.md",
-    "Obsidian/1. DAILY NOTES/250715.md",
     "Obsidian/1. DAILY NOTES",
     "Obsidian/98. RESOURCES/Air and hydrogen supply systems and equipment for PEM fuel cells a review.pdf",
     "Obsidian/98. RESOURCES",
-    "Obsidian/97. TEMPLATES/Temp_LAB.md",
-    "Obsidian/97. TEMPLATES/Temp_ReviewPaper.md",
-    "Obsidian/97. TEMPLATES/Temp_Daily.md",
-    "Obsidian/97. TEMPLATES/Temp_Basis.md",
     "Obsidian/97. TEMPLATES",
-    "Obsidian/7. OUTPUTS/Valut 구조 정리법.md",
     "Obsidian/7. OUTPUTS",
-    "Obsidian/6.  PROJECTS/5-1. 졸업논문/기관실 모델링 및 선박 규모 추정.md",
     "Obsidian/6.  PROJECTS/5-1. 졸업논문",
-    "Obsidian/6.  PROJECTS",
-    "Obsidian/5. LAB/LAB_250715.md",
-    "Obsidian/0. INBOX/Overview of the DOE hydrogen safety, codes and standards program, part 3 Advances in research and development to enhance the scientific basis for hydrogen regulations, codes and standards.md",
-    "Obsidian/0. INBOX/인용_수소 자연발화.md",
-    "Obsidian/0. INBOX/The hazards and risks of hydrogen.md",
-    "Obsidian/0. INBOX/Safety investigation of hydrogen charging platform package with CFD simulation.md",
     "99. ATTACHMENTS/Pasted image 20250716165721.png",
     "99. ATTACHMENTS/Pasted image 20250716141529.png",
     "99. ATTACHMENTS/Pasted image 20250716143114.png",
