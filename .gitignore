@@ -3,25 +3,19 @@
 Thumbs.db
 *.log
 
-# 📁 Obsidian 캐시 및 사용자 기기별 임시 설정 (동기화 불필요)
-.obsidian/cache/
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/graph.json
-.obsidian/app.json
-.obsidian/appearance.json
+# 📁 휴지통 파일
+.trash/
 
-# ✅ 동기화 가능하게 설정할 항목 (아래는 제외하지 않음)
-# - .obsidian/plugins/       → 플러그인 코드 및 설정 포함
-# - .obsidian/themes/        → 테마 파일
-# - .obsidian/core-plugins/  → 코어 플러그인 설정
-# - .obsidian/community-plugins.json  → 설치된 플러그인 목록
-# - .obsidian/theme.json     → 적용 중인 테마
-# - .obsidian/hotkeys.json   → 단축키
-# - .obsidian/config.json    → 전체 환경 설정
-
-# ❌ 제외: 플러그인 작동 로그 (협업 시 충돌 방지)
+# 📁 Obsidian Git 플러그인 로그 파일 (기록성 데이터)
 .obsidian/plugins/obsidian-git/data.json
 
-# ❌ 휴지통 폴더 (기기마다 다름)
-.trash/
+# ✅ Git 추적 및 동기화 유지 항목
+# 다음 항목은 주석 해제하여 동기화에 포함
+# - .obsidian/workspace.json              ← PC 작업 공간 레이아웃
+# - .obsidian/workspace-mobile.json       ← 모바일 레이아웃
+# - .obsidian/appearance.json             ← 테마/폰트 설정
+# - .obsidian/graph.json                  ← 그래프 뷰 설정
+
+# 📁 제외 유지 항목
+# ↓ 실제 플러그인 설치 파일(버전마다 다름) → 충돌 위험
+.obsidian/plugins/
