@@ -8,43 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c91a83ccea3fb5d5",
+            "id": "75e0d35d6b4084b4",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {},
-              "icon": "lucide-box",
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/",
+                "title": "ChatGPT",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
               "title": "ChatGPT"
-            }
-          },
-          {
-            "id": "8039c882369aa482",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-gemini",
-              "state": {},
-              "icon": "lucide-gem",
-              "title": "Gemini"
-            }
-          },
-          {
-            "id": "b487afdc34ebfdec",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-perpelxity",
-              "state": {},
-              "icon": "lucide-book-open-text",
-              "title": "Perpelxity"
-            }
-          },
-          {
-            "id": "163a48bc7b2bcb86",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-notebooklm",
-              "state": {},
-              "icon": "lucide-notebook",
-              "title": "NotebookLM"
             }
           }
         ]
@@ -131,8 +105,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f762e746292aeca8",
@@ -170,13 +143,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DAILY NOTES/250716.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "250716 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -185,7 +157,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DAILY NOTES/250716.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +166,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "250716 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -204,12 +175,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. DAILY NOTES/250716.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "250716 의 나가는 링크"
+              "title": "나가는 링크"
             }
           }
         ],
@@ -292,10 +262,11 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "e0f02b6e118fd73b",
+  "active": "75e0d35d6b4084b4",
   "lastOpenFiles": [
-    "2. PRIVATE/MOC_이력.md",
+    "무제.canvas",
     "1. DAILY NOTES/250716.md",
+    "2. PRIVATE/MOC_이력.md",
     "3. LITERATURE/3-2. REVIEWS/논문리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "8. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
     "8. RESOURCES",
