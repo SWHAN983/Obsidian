@@ -10,43 +10,17 @@
             "type": "tabs",
             "children": [
               {
-                "id": "c91a83ccea3fb5d5",
+                "id": "75e0d35d6b4084b4",
                 "type": "leaf",
                 "state": {
-                  "type": "custom-frames-chatgpt",
-                  "state": {},
-                  "icon": "lucide-box",
-                  "title": "ChatGPT"
-                }
-              },
-              {
-                "id": "8039c882369aa482",
-                "type": "leaf",
-                "state": {
-                  "type": "custom-frames-gemini",
-                  "state": {},
-                  "icon": "lucide-gem",
-                  "title": "Gemini"
-                }
-              },
-              {
-                "id": "b487afdc34ebfdec",
-                "type": "leaf",
-                "state": {
-                  "type": "custom-frames-perpelxity",
-                  "state": {},
-                  "icon": "lucide-book-open-text",
-                  "title": "Perpelxity"
-                }
-              },
-              {
-                "id": "163a48bc7b2bcb86",
-                "type": "leaf",
-                "state": {
-                  "type": "custom-frames-notebooklm",
-                  "state": {},
-                  "icon": "lucide-notebook",
-                  "title": "NotebookLM"
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://chatgpt.com/c/6876fa8e-dcd8-800a-9e2d-3a5eb9e5790c",
+                    "title": "웹뷰어 저장 폴더 설명",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "웹뷰어 저장 폴더 설명"
                 }
               }
             ]
@@ -290,8 +264,8 @@
           "publish:변경사항 게재": false
         }
       },
-      "active": "c91a83ccea3fb5d5",
-      "mtime": "2025-07-16T10:02:54+09:00"
+      "active": "75e0d35d6b4084b4",
+      "mtime": "2025-07-16T10:23:48+09:00"
     }
   },
   "active": "Default"
