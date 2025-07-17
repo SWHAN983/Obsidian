@@ -28,5 +28,6 @@
     "editor:insert-table"
   ],
   "alwaysUpdateLinks": true,
-  "newFileFolderPath": "0. INBOX"
+  "newFileFolderPath": "0. INBOX",
+  "showUnsupportedFiles": true
 }
