@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
+                "file": "6.  PROJECTS/6-1. 졸업논문/수소는 기관실 내에서 특히 위험한 연료다.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC_수소선박 IMO CCC회의 동향 및 규제 검토"
+              "title": "수소는 기관실 내에서 특히 위험한 연료다"
             }
           },
           {
@@ -99,7 +99,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
+                        "file": "6.  PROJECTS/6-1. 졸업논문/수소는 기관실 내에서 특히 위험한 연료다.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
                         "unlinkedCollapsed": false
                       },
                       "icon": "links-coming-in",
-                      "title": "MOC_수소선박 IMO CCC회의 동향 및 규제 검토 의 백링크"
+                      "title": "수소는 기관실 내에서 특히 위험한 연료다 의 백링크"
                     }
                   }
                 ]
@@ -124,12 +124,12 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
+                        "file": "6.  PROJECTS/6-1. 졸업논문/수소는 기관실 내에서 특히 위험한 연료다.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-going-out",
-                      "title": "MOC_수소선박 IMO CCC회의 동향 및 규제 검토 의 나가는 링크"
+                      "title": "수소는 기관실 내에서 특히 위험한 연료다 의 나가는 링크"
                     }
                   }
                 ]
@@ -260,13 +260,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
+                "file": "6.  PROJECTS/6-1. 졸업논문/수소는 기관실 내에서 특히 위험한 연료다.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MOC_수소선박 IMO CCC회의 동향 및 규제 검토 의 개요"
+              "title": "수소는 기관실 내에서 특히 위험한 연료다 의 개요"
             }
           }
         ]
@@ -309,8 +309,20 @@
   },
   "active": "c7abee0fe3db2d0f",
   "lastOpenFiles": [
-    "0. INBOX/IMO CCC 회의동향 - 제4장. 결론.md",
+    "99. ATTACHMENTS/Pasted image 20250717172049.png",
+    "99. ATTACHMENTS/Pasted image 20250717171130.png",
+    "99. ATTACHMENTS/Pasted image 20250717171114.png",
+    "99. ATTACHMENTS/Pasted image 20250717171112.png",
+    "99. ATTACHMENTS/Pasted image 20250717171110.png",
+    "99. ATTACHMENTS/Pasted image 20250717171023.png",
+    "99. ATTACHMENTS/Pasted image 20250717170449.png",
+    "99. ATTACHMENTS/Pasted image 20250717170428.png",
+    "99. ATTACHMENTS/Pasted image 20250717170352.png",
+    "6.  PROJECTS/6-1. 졸업논문/수소의 감지·환기 관련 규정.md",
+    "6.  PROJECTS/6-1. 졸업논문/시나리오 기반 위험평가(QRA) 연구.md",
+    "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
+    "0. INBOX/IMO CCC 회의동향 - 제4장. 결론.md",
     "97. TEMPLATES/Temp_MOC.md",
     "0. INBOX/수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계.md",
     "0. INBOX/수소선박에 대한 안전규정 개발 - 연료격납설비.md",
@@ -321,7 +333,6 @@
     "0. INBOX/수소를 연료로 사용하는 선박에 대한 임시지침.md",
     "0. INBOX/IMO CCC의 회의 동향 및 지침 검토.md",
     "0. INBOX/수소 선박 관련 IMO CCC 회의 동향 및 규제 검토.md",
-    "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
     "0. INBOX/친환경 선박 관련 IMO 회의 동향.md",
     "0. INBOX/IMO의 탈탄소화 규제 동향.md",
     "Pasted image 20250717172049.png",
@@ -329,23 +340,13 @@
     "0. INBOX/기관실·수소 저장 구역 위치와 상호 관계.md",
     "0. INBOX/액체수소 선박 기술.md",
     "Pasted image 20250717171130.png",
-    "Pasted image 20250717171114.png",
-    "Pasted image 20250717171112.png",
-    "Pasted image 20250717171110.png",
-    "Pasted image 20250717171023.png",
     "0. INBOX/액체수소 운송 기술.md",
     "0. INBOX/액체수소 저장 기술.md",
-    "Pasted image 20250717170449.png",
-    "Pasted image 20250717170428.png",
-    "Pasted image 20250717170352.png",
     "0. INBOX/액체수소의 기술적·산업적 필요성.md",
     "6.  PROJECTS/6-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
     "0. INBOX/수소에너지의 수요증가.md",
-    "0. INBOX/탈탄소화 규제와 선박 연료 전환.md",
-    "3. CONCEPTS/기후 변화와 환경 규제 대응.md",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).pdf",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).hwp",
-    "97. TEMPLATES/Temp_Basis.md",
     "6.  PROJECTS/6-1. 졸업논문",
     "3. CONCEPTS/3-0. GIT",
     "98. RESOURCES/The hazards and risks of hydrogen.pdf",
@@ -354,7 +355,6 @@
     "98. RESOURCES/Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.pdf",
     "98. RESOURCES/Risk assessment of hydrogen leakage in diesel hydrogenation process.pdf",
     "98. RESOURCES/Quantitative risk assessment using a Japanese hydrogen refueling station model.pdf",
-    "99. ATTACHMENTS/Pasted image 20250716165721.png",
     "무제.canvas"
   ]
 }
