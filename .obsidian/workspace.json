@@ -16,7 +16,7 @@
               "state": {
                 "file": "6.  PROJECTS/6-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -50,12 +50,12 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://chatgpt.com/g/g-p-68755be1b1d4819199480496efe2369c-obsidian/c/6878a225-e940-832c-b742-c6d42c829eaa?model=o4-mini-high",
-                    "title": "Obsidian - 안전한 강제 푸시",
+                    "url": "https://chatgpt.com/c/6878a4ae-17d8-8326-9b02-22e79a6e02a3",
+                    "title": "Git 강제 푸시 가이드",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Obsidian - 안전한 강제 푸시"
+                  "title": "Git 강제 푸시 가이드"
                 }
               }
             ]
@@ -75,7 +75,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "6.  PROJECTS/6-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -85,7 +84,7 @@
                         "unlinkedCollapsed": false
                       },
                       "icon": "links-coming-in",
-                      "title": "Git 강제 Push (로컬이 더 최신일 때) 의 백링크"
+                      "title": "백링크"
                     }
                   }
                 ]
@@ -100,12 +99,11 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "6.  PROJECTS/6-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-going-out",
-                      "title": "Git 강제 Push (로컬이 더 최신일 때) 의 나가는 링크"
+                      "title": "나가는 링크"
                     }
                   }
                 ]
@@ -236,13 +234,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.  PROJECTS/6-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 강제 Push (로컬이 더 최신일 때) 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -283,10 +280,10 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "cc19b4629abbe306",
+  "active": "428f1c22dde8f1d9",
   "lastOpenFiles": [
-    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "6.  PROJECTS/6-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "6.  PROJECTS/6-0. GIT/Valut 구조 정리법.md",
     "6.  PROJECTS/6-0. GIT",
     "6.  PROJECTS/6-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",

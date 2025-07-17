@@ -64,17 +64,6 @@ git push origin main             # 다시 푸시
 
 ---
 
-### 대응 B: 원격 기준으로 로컬 초기화 후 강제 Push (주의)
-
-```bash
-git fetch origin
-git reset --hard origin/main     # 로컬을 원격 상태로 완전 초기화
-git push --force-with-lease origin main
-```
-> ⚠️ 이 방법은 **로컬 변경사항이 모두 삭제**되므로, 사전 백업 필수!
-
----
-
 ## 🧾 4. 전체 명령어 흐름 요약
 
 ```bash
@@ -92,7 +81,6 @@ git push --force-with-lease origin main
 git pull --rebase origin main           # → 충돌 해결 후 푸시
 # 또는
 git fetch origin
-git reset --hard origin/main            # → 로컬 초기화
 git push --force-with-lease origin main # → 다시 강제 푸시
 ```
 
