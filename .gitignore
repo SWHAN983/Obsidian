@@ -19,3 +19,9 @@ Thumbs.db
 # 📁 제외 유지 항목
 # ↓ 실제 플러그인 설치 파일(버전마다 다름) → 충돌 위험
 .obsidian/plugins/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
