@@ -15,7 +15,7 @@
       "key": "T"
     }
   ],
-  "obsidian-git:push2": [
+  "obsidian-git:commit-push-specified-message": [
     {
       "modifiers": [
         "Mod",
