@@ -47,7 +47,7 @@
                 "dimension": 62.4031007751938,
                 "children": [
                   {
-                    "id": "428f1c22dde8f1d9",
+                    "id": "16609fb6b8245f32",
                     "type": "leaf",
                     "state": {
                       "type": "webviewer",
@@ -282,8 +282,8 @@
           "publish:변경사항 게재": false
         }
       },
-      "active": "428f1c22dde8f1d9",
-      "mtime": "2025-07-17T16:28:02+09:00"
+      "active": "16609fb6b8245f32",
+      "mtime": "2025-07-17T16:32:03+09:00"
     }
   },
   "active": "Default"

@@ -45,27 +45,17 @@
             "dimension": 62.4031007751938,
             "children": [
               {
-                "id": "428f1c22dde8f1d9",
+                "id": "16609fb6b8245f32",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "webviewer",
                   "state": {
-                    "file": "1. DAILY NOTES/250717.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
+                    "url": "https://chatgpt.com/",
+                    "title": "ChatGPT",
+                    "mode": "webview"
                   },
-                  "icon": "lucide-file",
-                  "title": "250717"
+                  "icon": "globe-2",
+                  "title": "ChatGPT"
                 }
               }
             ]
@@ -85,7 +75,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "1. DAILY NOTES/250717.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -95,7 +84,7 @@
                         "unlinkedCollapsed": false
                       },
                       "icon": "links-coming-in",
-                      "title": "250717 의 백링크"
+                      "title": "백링크"
                     }
                   }
                 ]
@@ -110,12 +99,11 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "1. DAILY NOTES/250717.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-going-out",
-                      "title": "250717 의 나가는 링크"
+                      "title": "나가는 링크"
                     }
                   }
                 ]
@@ -246,13 +234,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DAILY NOTES/250717.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "250717 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -293,7 +280,7 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "428f1c22dde8f1d9",
+  "active": "16609fb6b8245f32",
   "lastOpenFiles": [
     "1. DAILY NOTES/250717.md",
     "2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
