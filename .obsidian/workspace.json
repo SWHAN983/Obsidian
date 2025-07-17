@@ -9,111 +9,71 @@
         "dimension": 59.78792822185971,
         "children": [
           {
-            "id": "0e60e462f894a333",
+            "id": "428f1c22dde8f1d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "97. TEMPLATES/Temp_Daily.md",
-                "mode": "source",
-                "source": false
+                "url": "https://chatgpt.com/",
+                "title": "ChatGPT",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Temp_Daily"
-            }
-          },
-          {
-            "id": "7d3f43e5a4590cd1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "icon": "globe-2",
+              "title": "ChatGPT"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "8567061d763a9dba",
+        "id": "062cc917279e5745",
         "type": "split",
         "dimension": 40.2120717781403,
         "children": [
           {
-            "id": "0a1e91ea81fb4267",
+            "id": "f53c17817a683422",
             "type": "tabs",
-            "dimension": 70.44573643410853,
             "children": [
               {
-                "id": "428f1c22dde8f1d9",
+                "id": "1dc4a50d117cffe1",
                 "type": "leaf",
                 "state": {
-                  "type": "webviewer",
+                  "type": "backlink",
                   "state": {
-                    "url": "https://chatgpt.com/",
-                    "title": "ChatGPT",
-                    "mode": "webview"
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
                   },
-                  "icon": "globe-2",
-                  "title": "ChatGPT"
+                  "icon": "links-coming-in",
+                  "title": "백링크"
                 }
               }
             ]
           },
           {
-            "id": "062cc917279e5745",
-            "type": "split",
-            "dimension": 29.554263565891475,
+            "id": "2ed7fed806403cd6",
+            "type": "tabs",
             "children": [
               {
-                "id": "f53c17817a683422",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "1dc4a50d117cffe1",
-                    "type": "leaf",
-                    "state": {
-                      "type": "backlink",
-                      "state": {
-                        "collapseAll": false,
-                        "extraContext": false,
-                        "sortOrder": "alphabetical",
-                        "showSearch": false,
-                        "searchQuery": "",
-                        "backlinkCollapsed": false,
-                        "unlinkedCollapsed": false
-                      },
-                      "icon": "links-coming-in",
-                      "title": "백링크"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "2ed7fed806403cd6",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "f9137678fa1352ca",
-                    "type": "leaf",
-                    "state": {
-                      "type": "outgoing-link",
-                      "state": {
-                        "linksCollapsed": false,
-                        "unlinkedCollapsed": true
-                      },
-                      "icon": "links-going-out",
-                      "title": "나가는 링크"
-                    }
-                  }
-                ]
+                "id": "f9137678fa1352ca",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "나가는 링크"
+                }
               }
-            ],
-            "direction": "vertical"
+            ]
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -202,9 +162,19 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
+          },
+          {
+            "id": "0e60e462f894a333",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -271,14 +241,18 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "7d3f43e5a4590cd1",
+  "active": "428f1c22dde8f1d9",
   "lastOpenFiles": [
+    "1. DAILY NOTES/250717.md",
     "97. TEMPLATES/Temp_Daily.md",
+    "1. DAILY NOTES/250718.md",
+    "1.DAILY NOTES/250716.md",
+    "0. INBOX/무제.md",
+    "1.DAILY NOTES",
     "7. OUTPUTS/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "97. TEMPLATES/Temp_Basis.md",
     "7. OUTPUTS/Valut 구조 정리법.md",
     "7. OUTPUTS/Git 커밋 기준 복구 절차.md",
-    "1. DAILY NOTES/250717.md",
     "5. LAB/랩 세미나_250715.md",
     "1. DAILY NOTES/250715.md",
     "2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
@@ -296,9 +270,6 @@
     "6.  PROJECTS/5-1. 졸업논문/수소 고압 운용으로 인한 누출 위험.md",
     "6.  PROJECTS/5-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
     "0. INBOX/인용_수소 자연발화.md",
-    "0. INBOX/Untitled.md",
-    "0. INBOX/무제.md",
-    "6.  PROJECTS/5-1. 졸업논문/기관실 모델링 및 선박 규모 추정.md",
     "98. RESOURCES/The hazards and risks of hydrogen.pdf",
     "98. RESOURCES/Safety investigation of hydrogen charging platform package with CFD simulation.pdf",
     "98. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
@@ -308,7 +279,6 @@
     "98. RESOURCES/Overview of the DOE hydrogen safety, codes and standards program, part 3 Advances in research and development to enhance the scientific basis for hydrogen regulations, codes and standards.pdf",
     "98. RESOURCES/Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.pdf",
     "98. RESOURCES/Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.pdf",
-    "98. RESOURCES/Air and hydrogen supply systems and equipment for PEM fuel cells a review.pdf",
     "99. ATTACHMENTS/Pasted image 20250716165721.png",
     "99. ATTACHMENTS/Pasted image 20250716141529.png",
     "99. ATTACHMENTS/Pasted image 20250716143114.png",
