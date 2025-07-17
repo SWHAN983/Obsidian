@@ -11,45 +11,61 @@
             "dimension": 59.78792822185971,
             "children": [
               {
-                "id": "428f1c22dde8f1d9",
+                "id": "cc19b4629abbe306",
                 "type": "leaf",
                 "state": {
-                  "type": "webviewer",
+                  "type": "markdown",
                   "state": {
-                    "url": "https://chatgpt.com/",
-                    "title": "ChatGPT",
-                    "mode": "webview"
+                    "file": "1. DAILY NOTES/250717.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
-                  "icon": "globe-2",
-                  "title": "ChatGPT"
+                  "icon": "lucide-file",
+                  "title": "250717"
                 }
               }
             ]
           },
           {
-            "id": "8567061d763a9dba",
+            "id": "e2101ec38eac9baf",
             "type": "split",
             "dimension": 40.2120717781403,
             "children": [
               {
-                "id": "0a1e91ea81fb4267",
+                "id": "0c1e9f034884793d",
                 "type": "tabs",
+                "dimension": 61.91860465116279,
                 "children": [
                   {
-                    "id": "0e60e462f894a333",
+                    "id": "428f1c22dde8f1d9",
                     "type": "leaf",
                     "state": {
-                      "type": "graph",
-                      "state": {},
-                      "icon": "lucide-git-fork",
-                      "title": "그래프 뷰"
+                      "type": "webviewer",
+                      "state": {
+                        "url": "https://chatgpt.com/",
+                        "title": "ChatGPT",
+                        "mode": "webview"
+                      },
+                      "icon": "globe-2",
+                      "title": "ChatGPT"
                     }
                   }
                 ]
               },
               {
-                "id": "062cc917279e5745",
+                "id": "657463a255221015",
                 "type": "split",
+                "dimension": 38.08139534883721,
                 "children": [
                   {
                     "id": "f53c17817a683422",
@@ -61,6 +77,7 @@
                         "state": {
                           "type": "backlink",
                           "state": {
+                            "file": "1. DAILY NOTES/250717.md",
                             "collapseAll": false,
                             "extraContext": false,
                             "sortOrder": "alphabetical",
@@ -70,13 +87,13 @@
                             "unlinkedCollapsed": false
                           },
                           "icon": "links-coming-in",
-                          "title": "백링크"
+                          "title": "250717 의 백링크"
                         }
                       }
                     ]
                   },
                   {
-                    "id": "2ed7fed806403cd6",
+                    "id": "b71f4c1cabe254a3",
                     "type": "tabs",
                     "children": [
                       {
@@ -85,11 +102,12 @@
                         "state": {
                           "type": "outgoing-link",
                           "state": {
+                            "file": "1. DAILY NOTES/250717.md",
                             "linksCollapsed": false,
                             "unlinkedCollapsed": true
                           },
                           "icon": "links-going-out",
-                          "title": "나가는 링크"
+                          "title": "250717 의 나가는 링크"
                         }
                       }
                     ]
@@ -187,9 +205,19 @@
                   "icon": "lucide-archive",
                   "title": "모든 속성"
                 }
+              },
+              {
+                "id": "0e60e462f894a333",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "그래프 뷰"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal",
@@ -210,12 +238,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
+                    "file": "1. DAILY NOTES/250717.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "개요"
+                  "title": "250717 의 개요"
                 }
               }
             ]
@@ -256,8 +285,8 @@
           "publish:변경사항 게재": false
         }
       },
-      "active": "428f1c22dde8f1d9",
-      "mtime": "2025-07-17T14:31:13+09:00"
+      "active": "cc19b4629abbe306",
+      "mtime": "2025-07-17T14:58:34+09:00"
     }
   },
   "active": "Default"
