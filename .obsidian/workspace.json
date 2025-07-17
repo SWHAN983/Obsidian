@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY NOTES/250715.md",
+                "file": "1. DAILY NOTES/250717.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250715"
+              "title": "250717"
             }
           }
         ]
@@ -61,7 +61,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "1. DAILY NOTES/250715.md",
+                        "file": "1. DAILY NOTES/250717.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -71,7 +71,7 @@
                         "unlinkedCollapsed": false
                       },
                       "icon": "links-coming-in",
-                      "title": "250715 의 백링크"
+                      "title": "250717 의 백링크"
                     }
                   }
                 ]
@@ -86,12 +86,12 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "1. DAILY NOTES/250715.md",
+                        "file": "1. DAILY NOTES/250717.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-going-out",
-                      "title": "250715 의 나가는 링크"
+                      "title": "250717 의 나가는 링크"
                     }
                   }
                 ]
@@ -212,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DAILY NOTES/250715.md",
+                "file": "1. DAILY NOTES/250717.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "250715 의 개요"
+              "title": "250717 의 개요"
             }
           }
         ]
