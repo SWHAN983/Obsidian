@@ -1,6 +1,6 @@
 {
   "format": "YYMMDD",
   "folder": "1. DAILY NOTES",
-  "autorun": false,
-  "template": "98. TEMPLATES/Temp_daily"
+  "autorun": true,
+  "template": "97. TEMPLATES/Temp_Daily"
 }
