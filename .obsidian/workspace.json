@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/무제.md",
+                "file": "0. INBOX/테스트하는중임 커밋.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "테스트하는중임 커밋"
             }
           }
         ],
@@ -100,7 +100,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "0. INBOX/무제.md",
+                        "file": "0. INBOX/테스트하는중임 커밋.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
                         "unlinkedCollapsed": false
                       },
                       "icon": "links-coming-in",
-                      "title": "무제 의 백링크"
+                      "title": "테스트하는중임 커밋 의 백링크"
                     }
                   }
                 ]
@@ -125,12 +125,12 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "0. INBOX/무제.md",
+                        "file": "0. INBOX/테스트하는중임 커밋.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-going-out",
-                      "title": "무제 의 나가는 링크"
+                      "title": "테스트하는중임 커밋 의 나가는 링크"
                     }
                   }
                 ]
@@ -261,13 +261,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/무제.md",
+                "file": "0. INBOX/테스트하는중임 커밋.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 의 개요"
+              "title": "테스트하는중임 커밋 의 개요"
             }
           }
         ]
@@ -310,8 +310,8 @@
   },
   "active": "ac3d52a2a6a7de99",
   "lastOpenFiles": [
+    "0. INBOX/테스트하는중임 커밋.md",
     "1. DAILY NOTES/250717.md",
-    "0. INBOX/무제.md",
     "97. TEMPLATES/Temp_Daily.md",
     "1. DAILY NOTES/250718.md",
     "1.DAILY NOTES/250716.md",
