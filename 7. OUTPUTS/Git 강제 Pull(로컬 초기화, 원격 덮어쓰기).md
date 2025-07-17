@@ -65,3 +65,4 @@ git fetch origin && git reset --hard origin/main && git clean -fd
 - `gitignore`에 있어도 Git이 추적하지 않던 새 파일
     
 → **중요한 파일은 백업**하고 실행할 것.
+
