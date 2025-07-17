@@ -12,12 +12,24 @@
             "id": "c7abee0fe3db2d0f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "98. RESOURCES/Ship Design for Efficiency and Economy.pdf"
+                "file": "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Ship Design for Efficiency and Economy"
+              "icon": "lucide-file",
+              "title": "졸업논문 목차"
             }
           },
           {
@@ -87,6 +99,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -96,7 +109,7 @@
                         "unlinkedCollapsed": false
                       },
                       "icon": "links-coming-in",
-                      "title": "백링크"
+                      "title": "졸업논문 목차 의 백링크"
                     }
                   }
                 ]
@@ -111,11 +124,12 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-going-out",
-                      "title": "나가는 링크"
+                      "title": "졸업논문 목차 의 나가는 링크"
                     }
                   }
                 ]
@@ -246,12 +260,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "졸업논문 목차 의 개요"
             }
           }
         ]
@@ -292,13 +307,16 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "16609fb6b8245f32",
+  "active": "c7abee0fe3db2d0f",
   "lastOpenFiles": [
+    "0. INBOX/기관실 구역 내 수소 확산·착화 경향 분석.md",
+    "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
+    "6.  PROJECTS/6-1. 졸업논문/시나리오 기반 위험평가(QRA) 연구.md",
+    "0. INBOX/기관실 화재는 빈도와 피해가 크다.md",
     "98. RESOURCES/Ship Design for Efficiency and Economy.pdf",
     "6.  PROJECTS/6-1. 졸업논문/기관실 모델링 및 선박 규모 추정.md",
     "2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "98. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
-    "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
     "6.  PROJECTS/6-1. 졸업논문/수소는 기관실 내에서 특히 위험한 연료다.md",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
     "99. ATTACHMENTS/Pasted image 20250717171130.png",
@@ -310,7 +328,6 @@
     "99. ATTACHMENTS/Pasted image 20250717170428.png",
     "99. ATTACHMENTS/Pasted image 20250717170352.png",
     "6.  PROJECTS/6-1. 졸업논문/수소의 감지·환기 관련 규정.md",
-    "6.  PROJECTS/6-1. 졸업논문/시나리오 기반 위험평가(QRA) 연구.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
     "0. INBOX/IMO CCC 회의동향 - 제4장. 결론.md",
     "97. TEMPLATES/Temp_MOC.md",
@@ -330,7 +347,6 @@
     "0. INBOX/기관실·수소 저장 구역 위치와 상호 관계.md",
     "0. INBOX/액체수소 선박 기술.md",
     "0. INBOX/액체수소 운송 기술.md",
-    "0. INBOX/액체수소 저장 기술.md",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).pdf",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).hwp",
     "6.  PROJECTS/6-1. 졸업논문",
@@ -339,7 +355,6 @@
     "98. RESOURCES/Safety investigation of hydrogen charging platform package with CFD simulation.pdf",
     "98. RESOURCES/Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.pdf",
     "98. RESOURCES/Risk assessment of hydrogen leakage in diesel hydrogenation process.pdf",
-    "98. RESOURCES/Quantitative risk assessment using a Japanese hydrogen refueling station model.pdf",
     "무제.canvas"
   ]
 }
