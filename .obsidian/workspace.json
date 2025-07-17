@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
+                "file": "1. DAILY NOTES/250717.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "졸업논문 목차"
+              "title": "250717"
             }
           },
           {
@@ -99,7 +99,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
+                        "file": "1. DAILY NOTES/250717.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
                         "unlinkedCollapsed": false
                       },
                       "icon": "links-coming-in",
-                      "title": "졸업논문 목차 의 백링크"
+                      "title": "250717 의 백링크"
                     }
                   }
                 ]
@@ -124,12 +124,12 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
+                        "file": "1. DAILY NOTES/250717.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-going-out",
-                      "title": "졸업논문 목차 의 나가는 링크"
+                      "title": "250717 의 나가는 링크"
                     }
                   }
                 ]
@@ -171,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:fuel-change",
+                "query": "tag:fuel-changetlabf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,7 +192,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f688897bf0516395",
@@ -260,13 +261,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
+                "file": "1. DAILY NOTES/250717.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "졸업논문 목차 의 개요"
+              "title": "250717 의 개요"
             }
           }
         ]
@@ -309,8 +310,8 @@
   },
   "active": "c7abee0fe3db2d0f",
   "lastOpenFiles": [
-    "0. INBOX/기관실 내 온도·농도 조합이 착화 임계조건을 만족하는지 여부.md",
     "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
+    "0. INBOX/기관실 내 온도·농도 조합이 착화 임계조건을 만족하는지 여부.md",
     "0. INBOX/수소 시스템 배치를 위한 공간 확보 전략.md",
     "0. INBOX/화염 전파 메커니즘과 특징.md",
     "0. INBOX/수소의 발화온도, 최소 점화에너지, 유도시간(IDT).md",
