@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY NOTES/250716.md",
+                "file": "1. DAILY NOTES/250717.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250716"
+              "title": "250717"
             }
           }
         ],
@@ -74,7 +74,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "1. DAILY NOTES/250716.md",
+                        "file": "1. DAILY NOTES/250717.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -84,7 +84,7 @@
                         "unlinkedCollapsed": false
                       },
                       "icon": "links-coming-in",
-                      "title": "250716 의 백링크"
+                      "title": "250717 의 백링크"
                     }
                   }
                 ]
@@ -99,12 +99,12 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "1. DAILY NOTES/250716.md",
+                        "file": "1. DAILY NOTES/250717.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-going-out",
-                      "title": "250716 의 나가는 링크"
+                      "title": "250717 의 나가는 링크"
                     }
                   }
                 ]
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DAILY NOTES/250716.md",
+                "file": "1. DAILY NOTES/250717.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "250716 의 개요"
+              "title": "250717 의 개요"
             }
           }
         ]
@@ -274,9 +274,17 @@
   },
   "active": "428f1c22dde8f1d9",
   "lastOpenFiles": [
+    "1. DAILY NOTES/250716.md",
+    "1. DAILY NOTES/250715.md",
+    "1. DAILY NOTES/250717.md",
+    "97. TEMPLATES/Temp_ReviewPaper.md",
+    "97. TEMPLATES/Temp_LAB.md",
+    "97. TEMPLATES/Temp_Daily.md",
+    "97. TEMPLATES/Temp_Basis.md",
+    "5. LAB/LAB_250715.md",
+    "5. LAB/LAB_250717.md",
     "6.  PROJECTS/5-1. 졸업논문/졸업논문 목차.md",
     "7. OUTPUTS/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
-    "1. DAILY NOTES/250715.md",
     "6.  PROJECTS/5-1. 졸업논문/시나리오 기반 위험평가(QRA) 연구.md",
     "6.  PROJECTS/5-1. 졸업논문/수소의 감지·환기 관련 규정.md",
     "6.  PROJECTS/5-1. 졸업논문/수소는 기관실 내에서 특히 위험한 연료다.md",
@@ -285,24 +293,16 @@
     "6.  PROJECTS/5-1. 졸업논문/수소 누출 시나리오 정의 변수, 손상 위치, 압력, 지연시간, 감지 여부.md",
     "6.  PROJECTS/5-1. 졸업논문/수소 고압 운용으로 인한 누출 위험.md",
     "6.  PROJECTS/5-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
-    "5. LAB/LAB_250717.md",
-    "5. LAB/LAB_250715.md",
     "2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
-    "1. DAILY NOTES/250716.md",
     "0. INBOX/인용_수소 자연발화.md",
     "0. INBOX/Untitled.md",
     "0. INBOX/무제.md",
-    "97. TEMPLATES/Temp_Basis.md",
     "6.  PROJECTS/5-1. 졸업논문/기관실 모델링 및 선박 규모 추정.md",
     "4. IDEAS/무제.md",
     "7. OUTPUTS/Valut 구조 정리법.md",
-    "0. INBOX/The hazards and risks of hydrogen.md",
     "98. RESOURCES/The hazards and risks of hydrogen.pdf",
     "98. RESOURCES/Safety investigation of hydrogen charging platform package with CFD simulation.pdf",
-    "0. INBOX/Safety investigation of hydrogen charging platform package with CFD simulation.md",
-    "0. INBOX/Overview of the DOE hydrogen safety, codes and standards program, part 3 Advances in research and development to enhance the scientific basis for hydrogen regulations, codes and standards.md",
     "98. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
-    "0. INBOX/Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.md",
     "98. RESOURCES/Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.pdf",
     "98. RESOURCES/Risk assessment of hydrogen leakage in diesel hydrogenation process.pdf",
     "98. RESOURCES/Quantitative risk assessment using a Japanese hydrogen refueling station model.pdf",
