@@ -110,7 +110,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "795fe6a2d13523af",
@@ -174,7 +175,8 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 3,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +193,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "344d0de726f3b881",
+  "active": "b20679352809de66",
   "lastOpenFiles": [
+    "7. OUTPUTS/Git 커밋 기준 복구 절차.md",
+    "/7. OUTPUTS/Git 커밋 기준 복구 절차.md",
+    "/7. OUTPUTS/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
+    "/7. OUTPUTS",
     "7. OUTPUTS/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "6.  PROJECTS/5-1. 졸업논문/졸업논문 목차.md",
     "6.  PROJECTS/5-1. 졸업논문/시나리오 기반 위험평가(QRA) 연구.md",
@@ -224,10 +230,6 @@
     "1.Daily note",
     "99. ATTACHMENTS/2025_07_10 13_35.mp4",
     "10. Laboratory/10-1. Seminar/LS_250715.md",
-    "10. Laboratory/10-1. Seminar",
-    "10. Laboratory",
-    "/7. DRAFTS/무제.md",
-    "8. RESOURCES/무제.md",
-    "7. DRAFTS/무제.md"
+    "10. Laboratory/10-1. Seminar"
   ]
 }
