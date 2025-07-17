@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계.md",
+                "file": "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계"
+              "title": "MOC_수소선박 IMO CCC회의 동향 및 규제 검토"
             }
           },
           {
@@ -99,7 +99,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "0. INBOX/수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계.md",
+                        "file": "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
                         "unlinkedCollapsed": false
                       },
                       "icon": "links-coming-in",
-                      "title": "수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계 의 백링크"
+                      "title": "MOC_수소선박 IMO CCC회의 동향 및 규제 검토 의 백링크"
                     }
                   }
                 ]
@@ -124,12 +124,12 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "0. INBOX/수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계.md",
+                        "file": "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-going-out",
-                      "title": "수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계 의 나가는 링크"
+                      "title": "MOC_수소선박 IMO CCC회의 동향 및 규제 검토 의 나가는 링크"
                     }
                   }
                 ]
@@ -260,13 +260,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계.md",
+                "file": "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계 의 개요"
+              "title": "MOC_수소선박 IMO CCC회의 동향 및 규제 검토 의 개요"
             }
           }
         ]
@@ -309,7 +309,9 @@
   },
   "active": "c7abee0fe3db2d0f",
   "lastOpenFiles": [
+    "0. INBOX/IMO CCC 회의동향 - 제4장. 결론.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
+    "97. TEMPLATES/Temp_MOC.md",
     "0. INBOX/수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계.md",
     "0. INBOX/수소선박에 대한 안전규정 개발 - 연료격납설비.md",
     "0. INBOX/수소선박에 대한 안전규정 개발 - 선박 설계 및 배치.md",
@@ -343,9 +345,7 @@
     "3. CONCEPTS/기후 변화와 환경 규제 대응.md",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).pdf",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).hwp",
-    "97. TEMPLATES/Temp_MOC.md",
     "97. TEMPLATES/Temp_Basis.md",
-    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "6.  PROJECTS/6-1. 졸업논문",
     "3. CONCEPTS/3-0. GIT",
     "98. RESOURCES/The hazards and risks of hydrogen.pdf",
