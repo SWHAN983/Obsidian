@@ -6,7 +6,7 @@
       {
         "id": "5a3600eabe9756c4",
         "type": "tabs",
-        "dimension": 47.144006436041835,
+        "dimension": 50.10526315789473,
         "children": [
           {
             "id": "c7abee0fe3db2d0f",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/수소를 연료로 사용하는 선박에 대한 임시지침.md",
+                "file": "1. DAILY NOTES/250717.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,26 +29,15 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "수소를 연료로 사용하는 선박에 대한 임시지침"
-            }
-          },
-          {
-            "id": "d648433436dd058b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
+              "title": "250717"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0a1e91ea81fb4267",
         "type": "tabs",
-        "dimension": 52.85599356395817,
+        "dimension": 49.89473684210526,
         "children": [
           {
             "id": "2359a5228f9583c7",
@@ -203,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 290.5
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -220,27 +209,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/수소를 연료로 사용하는 선박에 대한 임시지침.md",
+                "file": "1. DAILY NOTES/250717.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "수소를 연료로 사용하는 선박에 대한 임시지침 의 개요"
-            }
-          },
-          {
-            "id": "82d8cd6c07891fb9",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "title": "250717 의 개요"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d5154e1f9791654e",
@@ -280,17 +258,20 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "82d8cd6c07891fb9",
+  "active": "c7abee0fe3db2d0f",
   "lastOpenFiles": [
-    "3. CONCEPTS/기관실·수소 저장 구역 위치와 상호 관계.md",
+    "7. OUTPUTS/MOC_졸업논문 목차.md",
+    "0. INBOX/탈탄소화 규제와 선박 연료 전환.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
+    "1. DAILY NOTES/250716.md",
+    "0. INBOX/수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계.md",
     "3. CONCEPTS/기관실 화재는 빈도와 피해가 크다.md",
-    "6.  PROJECTS/6-1. 졸업논문/수소는 기관실 내에서 특히 위험한 연료다.md",
-    "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
+    "3. CONCEPTS/기관실·수소 저장 구역 위치와 상호 관계.md",
     "0. INBOX/기관실 화재 사고 데이터베이스.md",
+    "0. INBOX/수소를 연료로 사용하는 선박에 대한 임시지침.md",
+    "6.  PROJECTS/6-1. 졸업논문/수소는 기관실 내에서 특히 위험한 연료다.md",
     "0. INBOX/Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
     "0. INBOX/Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
-    "0. INBOX/탈탄소화 규제와 선박 연료 전환.md",
     "0. INBOX/친환경 선박 관련 IMO 회의 동향.md",
     "0. INBOX/일본 액체수소 운반선 기술.md",
     "0. INBOX/액체수소의 기술적·산업적 필요성.md",
@@ -298,17 +279,14 @@
     "0. INBOX/액체수소 운송 기술.md",
     "0. INBOX/액체수소 선박 기술.md",
     "0. INBOX/수소에너지의 수요증가.md",
-    "0. INBOX/수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계.md",
     "0. INBOX/수소선박에 대한 안전규정 개발 - 연료격납설비.md",
     "0. INBOX/수소선박에 대한 안전규정 개발 - 일반요건.md",
     "0. INBOX/수소선박에 대한 안전규정 개발 - 선박 설계 및 배치.md",
     "0. INBOX/수소선박에 대한 안전규정 개발 - 목적과 기능요건.md",
     "0. INBOX/수소를 연료로 사용하는 선박의 안전을 위한 임시 지침 초안 발표.md",
-    "0. INBOX/수소를 연료로 사용하는 선박에 대한 임시지침.md",
     "6.  PROJECTS/6-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
     "98. RESOURCES/Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.pdf",
     "6.  PROJECTS/6-1. 졸업논문/수소 누출 시나리오 정의 변수, 손상 위치, 압력, 지연시간, 감지 여부.md",
-    "6.  PROJECTS/6-1. 졸업논문/수소 사고의 주요 원인 (인적요소, 정비불량, 설비 노후).md",
     "98. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
     "98. RESOURCES/Ship Design for Efficiency and Economy.pdf",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
