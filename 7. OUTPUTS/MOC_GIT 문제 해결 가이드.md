@@ -1,4 +1,14 @@
 ---
 created: 2025-07-17
-tags: []
+tags:
+  - MOC
+  - Git
+  - troubleshooting
+  - guide
 ---
+# 📑 MOC: Git 문제 해결 가이드
+- [[Git 강제 Pull(로컬 초기화, 원격 덮어쓰기)]]
+- [[Git 강제 Push (로컬이 더 최신일 때)]]
+- [[Git 커밋 기준 복구 절차]]
+- [[Git GC (Garbage Collection)]]
+- [[Valut 구조 정리법]]

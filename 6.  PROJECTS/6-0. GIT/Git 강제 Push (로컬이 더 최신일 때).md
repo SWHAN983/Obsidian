@@ -97,17 +97,3 @@ git push --force-with-lease origin main # → 다시 강제 푸시
 ```
 
 ---
-
-## 🗂️ Vault 내 분류 및 연결 제안
-
-- **폴더**: `📁 98.RESOURCES` > `Obsidian Git 운영 가이드`  
-- **태그**: `#Git` `#Push` `#Conflict` `#guide`  
-- **관련 노트 링크**  
-  - [[Git 강제 Pull(로컬 초기화, 원격 덮어쓰기)]]  
-  - [[Git 커밋 기준 복구 절차]]  
-- **MOC 반영**:  
-  - `[[Git 문제 해결 가이드]]` MOC에  
-    - 강제 Push  
-    - 강제 Pull  
-    - 복구 절차  
-    - 자동 커밋 관리  
