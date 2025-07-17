@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. OUTPUTS/Git GC (Garbage Collection).md",
+                "file": "1. DAILY NOTES/250717.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git GC (Garbage Collection)"
+              "title": "250717"
             }
           }
         ],
@@ -110,7 +110,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "7. OUTPUTS/Git GC (Garbage Collection).md",
+                        "file": "1. DAILY NOTES/250717.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                         "unlinkedCollapsed": false
                       },
                       "icon": "links-coming-in",
-                      "title": "Git GC (Garbage Collection) 의 백링크"
+                      "title": "250717 의 백링크"
                     }
                   }
                 ]
@@ -135,12 +135,12 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "7. OUTPUTS/Git GC (Garbage Collection).md",
+                        "file": "1. DAILY NOTES/250717.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-going-out",
-                      "title": "Git GC (Garbage Collection) 의 나가는 링크"
+                      "title": "250717 의 나가는 링크"
                     }
                   }
                 ]
@@ -271,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. OUTPUTS/Git GC (Garbage Collection).md",
+                "file": "1. DAILY NOTES/250717.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git GC (Garbage Collection) 의 개요"
+              "title": "250717 의 개요"
             }
           }
         ]
@@ -320,8 +320,8 @@
   },
   "active": "ac3d52a2a6a7de99",
   "lastOpenFiles": [
-    "7. OUTPUTS/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "7. OUTPUTS/Git GC (Garbage Collection).md",
+    "7. OUTPUTS/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "0. INBOX/테스트하는중임 커밋.md",
     "1. DAILY NOTES/250717.md",
     "97. TEMPLATES/Temp_Daily.md",
