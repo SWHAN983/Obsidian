@@ -11,7 +11,7 @@
             "dimension": 59.78792822185971,
             "children": [
               {
-                "id": "cc19b4629abbe306",
+                "id": "c7abee0fe3db2d0f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -37,14 +37,14 @@
             ]
           },
           {
-            "id": "e2101ec38eac9baf",
+            "id": "8567061d763a9dba",
             "type": "split",
             "dimension": 40.2120717781403,
             "children": [
               {
-                "id": "0c1e9f034884793d",
+                "id": "0a1e91ea81fb4267",
                 "type": "tabs",
-                "dimension": 61.91860465116279,
+                "dimension": 62.4031007751938,
                 "children": [
                   {
                     "id": "428f1c22dde8f1d9",
@@ -63,9 +63,9 @@
                 ]
               },
               {
-                "id": "657463a255221015",
+                "id": "062cc917279e5745",
                 "type": "split",
-                "dimension": 38.08139534883721,
+                "dimension": 37.5968992248062,
                 "children": [
                   {
                     "id": "f53c17817a683422",
@@ -77,7 +77,6 @@
                         "state": {
                           "type": "backlink",
                           "state": {
-                            "file": "1. DAILY NOTES/250717.md",
                             "collapseAll": false,
                             "extraContext": false,
                             "sortOrder": "alphabetical",
@@ -87,13 +86,13 @@
                             "unlinkedCollapsed": false
                           },
                           "icon": "links-coming-in",
-                          "title": "250717 의 백링크"
+                          "title": "백링크"
                         }
                       }
                     ]
                   },
                   {
-                    "id": "b71f4c1cabe254a3",
+                    "id": "2ed7fed806403cd6",
                     "type": "tabs",
                     "children": [
                       {
@@ -102,12 +101,11 @@
                         "state": {
                           "type": "outgoing-link",
                           "state": {
-                            "file": "1. DAILY NOTES/250717.md",
                             "linksCollapsed": false,
                             "unlinkedCollapsed": true
                           },
                           "icon": "links-going-out",
-                          "title": "250717 의 나가는 링크"
+                          "title": "나가는 링크"
                         }
                       }
                     ]
@@ -238,13 +236,12 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "1. DAILY NOTES/250717.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "250717 의 개요"
+                  "title": "개요"
                 }
               }
             ]
@@ -278,15 +275,15 @@
           "daily-notes:오늘의 일일 노트 열기": false,
           "templates:템플릿 삽입": false,
           "command-palette:명령어 팔레트 열기": false,
-          "templater-obsidian:Templater": false,
           "obsidian-git:Open Git source control": false,
+          "templater-obsidian:Templater": false,
           "audio-recorder:녹음 시작/정지": false,
           "workspaces:작업 공간 레이아웃 관리": false,
           "publish:변경사항 게재": false
         }
       },
-      "active": "cc19b4629abbe306",
-      "mtime": "2025-07-17T14:58:34+09:00"
+      "active": "428f1c22dde8f1d9",
+      "mtime": "2025-07-17T16:28:02+09:00"
     }
   },
   "active": "Default"
