@@ -21,8 +21,33 @@
               "icon": "globe-2",
               "title": "ChatGPT"
             }
+          },
+          {
+            "id": "cc19b4629abbe306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DAILY NOTES/250717.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "250717"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "062cc917279e5745",
@@ -39,6 +64,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "1. DAILY NOTES/250717.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +74,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "백링크"
+                  "title": "250717 의 백링크"
                 }
               }
             ]
@@ -63,11 +89,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "1. DAILY NOTES/250717.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "나가는 링크"
+                  "title": "250717 의 나가는 링크"
                 }
               }
             ]
@@ -195,12 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1. DAILY NOTES/250717.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "250717 의 개요"
             }
           }
         ]
@@ -241,7 +269,7 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "428f1c22dde8f1d9",
+  "active": "cc19b4629abbe306",
   "lastOpenFiles": [
     "1. DAILY NOTES/250717.md",
     "97. TEMPLATES/Temp_Daily.md",
