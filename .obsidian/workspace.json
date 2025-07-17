@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
+                "file": "2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "졸업논문 목차"
+              "title": "★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션"
             }
           },
           {
@@ -74,12 +74,12 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://chatgpt.com/g/g-p-68755be1b1d4819199480496efe2369c-obsidian/c/6878aaea-7b78-8324-a0db-5fd1f5acfa10",
-                    "title": "ChatGPT - Obsidian",
+                    "url": "https://chatgpt.com/c/6878c8dd-3f4c-8325-8b3a-d488c23116da",
+                    "title": "Hydrogen Ship CFD Simulation",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "ChatGPT - Obsidian"
+                  "title": "Hydrogen Ship CFD Simulation"
                 }
               }
             ]
@@ -99,7 +99,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
                         "unlinkedCollapsed": false
                       },
                       "icon": "links-coming-in",
-                      "title": "졸업논문 목차 의 백링크"
+                      "title": "백링크"
                     }
                   }
                 ]
@@ -124,12 +123,11 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-going-out",
-                      "title": "졸업논문 목차 의 나가는 링크"
+                      "title": "나가는 링크"
                     }
                   }
                 ]
@@ -260,13 +258,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "졸업논문 목차 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -307,8 +304,11 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "c7abee0fe3db2d0f",
+  "active": "16609fb6b8245f32",
   "lastOpenFiles": [
+    "2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
+    "98. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
+    "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
     "6.  PROJECTS/6-1. 졸업논문/수소는 기관실 내에서 특히 위험한 연료다.md",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
     "99. ATTACHMENTS/Pasted image 20250717171130.png",
@@ -321,7 +321,6 @@
     "99. ATTACHMENTS/Pasted image 20250717170352.png",
     "6.  PROJECTS/6-1. 졸업논문/수소의 감지·환기 관련 규정.md",
     "6.  PROJECTS/6-1. 졸업논문/시나리오 기반 위험평가(QRA) 연구.md",
-    "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
     "0. INBOX/IMO CCC 회의동향 - 제4장. 결론.md",
     "97. TEMPLATES/Temp_MOC.md",
@@ -343,15 +342,12 @@
     "0. INBOX/액체수소 운송 기술.md",
     "0. INBOX/액체수소 저장 기술.md",
     "0. INBOX/액체수소의 기술적·산업적 필요성.md",
-    "6.  PROJECTS/6-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
-    "0. INBOX/수소에너지의 수요증가.md",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).pdf",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).hwp",
     "6.  PROJECTS/6-1. 졸업논문",
     "3. CONCEPTS/3-0. GIT",
     "98. RESOURCES/The hazards and risks of hydrogen.pdf",
     "98. RESOURCES/Safety investigation of hydrogen charging platform package with CFD simulation.pdf",
-    "98. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
     "98. RESOURCES/Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.pdf",
     "98. RESOURCES/Risk assessment of hydrogen leakage in diesel hydrogenation process.pdf",
     "98. RESOURCES/Quantitative risk assessment using a Japanese hydrogen refueling station model.pdf",
