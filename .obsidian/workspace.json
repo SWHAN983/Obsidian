@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/액체수소의 기술적·산업적 필요성.md",
+                "file": "0. INBOX/일본 액체수소 운반선 기술.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "액체수소의 기술적·산업적 필요성"
+              "title": "일본 액체수소 운반선 기술"
             }
           },
           {
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
+                "file": "0. INBOX/기관실·수소 저장 구역 위치와 상호 관계.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "졸업논문 목차"
+              "title": "기관실·수소 저장 구역 위치와 상호 관계"
             }
           }
         ]
@@ -99,7 +99,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "0. INBOX/액체수소의 기술적·산업적 필요성.md",
+                        "file": "0. INBOX/일본 액체수소 운반선 기술.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
                         "unlinkedCollapsed": false
                       },
                       "icon": "links-coming-in",
-                      "title": "액체수소의 기술적·산업적 필요성 의 백링크"
+                      "title": "일본 액체수소 운반선 기술 의 백링크"
                     }
                   }
                 ]
@@ -124,12 +124,12 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "0. INBOX/액체수소의 기술적·산업적 필요성.md",
+                        "file": "0. INBOX/일본 액체수소 운반선 기술.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-going-out",
-                      "title": "액체수소의 기술적·산업적 필요성 의 나가는 링크"
+                      "title": "일본 액체수소 운반선 기술 의 나가는 링크"
                     }
                   }
                 ]
@@ -260,13 +260,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/액체수소의 기술적·산업적 필요성.md",
+                "file": "0. INBOX/일본 액체수소 운반선 기술.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "액체수소의 기술적·산업적 필요성 의 개요"
+              "title": "일본 액체수소 운반선 기술 의 개요"
             }
           }
         ]
@@ -309,10 +309,23 @@
   },
   "active": "c7abee0fe3db2d0f",
   "lastOpenFiles": [
-    "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
-    "6.  PROJECTS/6-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
-    "0. INBOX/액체수소의 기술적·산업적 필요성.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
+    "0. INBOX/일본 액체수소 운반선 기술.md",
+    "0. INBOX/액체수소 선박 기술.md",
+    "0. INBOX/기관실·수소 저장 구역 위치와 상호 관계.md",
+    "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
+    "Pasted image 20250717171130.png",
+    "Pasted image 20250717171114.png",
+    "Pasted image 20250717171112.png",
+    "Pasted image 20250717171110.png",
+    "Pasted image 20250717171023.png",
+    "0. INBOX/액체수소 운송 기술.md",
+    "0. INBOX/액체수소 저장 기술.md",
+    "Pasted image 20250717170449.png",
+    "Pasted image 20250717170428.png",
+    "Pasted image 20250717170352.png",
+    "0. INBOX/액체수소의 기술적·산업적 필요성.md",
+    "6.  PROJECTS/6-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
     "0. INBOX/수소에너지의 수요증가.md",
     "0. INBOX/탈탄소화 규제와 선박 연료 전환.md",
     "3. CONCEPTS/기후 변화와 환경 규제 대응.md",
@@ -332,12 +345,7 @@
     "6.  PROJECTS/6-1. 졸업논문/수소는 기관실 내에서 특히 위험한 연료다.md",
     "6.  PROJECTS/6-1. 졸업논문/수소 사고의 주요 원인 (인적요소, 정비불량, 설비 노후).md",
     "6.  PROJECTS/6-1. 졸업논문/수소 누출·화재 CFD 연구 사례.md",
-    "6.  PROJECTS/6-1. 졸업논문/수소 누출 시나리오 정의 변수, 손상 위치, 압력, 지연시간, 감지 여부.md",
-    "6.  PROJECTS/6-1. 졸업논문/수소 고압 운용으로 인한 누출 위험.md",
-    "6.  PROJECTS/6-1. 졸업논문/기관실 모델링 및 선박 규모 추정.md",
     "6.  PROJECTS/6-1. 졸업논문",
-    "3. CONCEPTS/3-0. GIT/Valut 구조 정리법.md",
-    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
     "3. CONCEPTS/3-0. GIT",
     "98. RESOURCES/The hazards and risks of hydrogen.pdf",
     "98. RESOURCES/Safety investigation of hydrogen charging platform package with CFD simulation.pdf",
@@ -347,9 +355,6 @@
     "98. RESOURCES/Quantitative risk assessment using a Japanese hydrogen refueling station model.pdf",
     "99. ATTACHMENTS/Pasted image 20250716165721.png",
     "99. ATTACHMENTS/Pasted image 20250716141529.png",
-    "99. ATTACHMENTS/Pasted image 20250716143114.png",
-    "99. ATTACHMENTS/Pasted image 20250716145456.png",
-    "Pasted image 20250716113331.png",
     "무제.canvas"
   ]
 }
