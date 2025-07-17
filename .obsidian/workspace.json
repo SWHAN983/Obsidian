@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/기후 변화와 환경 규제 대응.md",
+                "file": "0. INBOX/액체수소의 기술적·산업적 필요성.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "기후 변화와 환경 규제 대응"
+              "title": "액체수소의 기술적·산업적 필요성"
+            }
+          },
+          {
+            "id": "2359a5228f9583c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "졸업논문 목차"
             }
           }
         ]
@@ -75,7 +99,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "0. INBOX/기후 변화와 환경 규제 대응.md",
+                        "file": "0. INBOX/액체수소의 기술적·산업적 필요성.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -85,7 +109,7 @@
                         "unlinkedCollapsed": false
                       },
                       "icon": "links-coming-in",
-                      "title": "기후 변화와 환경 규제 대응 의 백링크"
+                      "title": "액체수소의 기술적·산업적 필요성 의 백링크"
                     }
                   }
                 ]
@@ -100,12 +124,12 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "0. INBOX/기후 변화와 환경 규제 대응.md",
+                        "file": "0. INBOX/액체수소의 기술적·산업적 필요성.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
                       "icon": "links-going-out",
-                      "title": "기후 변화와 환경 규제 대응 의 나가는 링크"
+                      "title": "액체수소의 기술적·산업적 필요성 의 나가는 링크"
                     }
                   }
                 ]
@@ -147,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:fuel-change",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,13 +260,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/기후 변화와 환경 규제 대응.md",
+                "file": "0. INBOX/액체수소의 기술적·산업적 필요성.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "기후 변화와 환경 규제 대응 의 개요"
+              "title": "액체수소의 기술적·산업적 필요성 의 개요"
             }
           }
         ]
@@ -285,8 +309,13 @@
   },
   "active": "c7abee0fe3db2d0f",
   "lastOpenFiles": [
-    "0. INBOX/기후 변화와 환경 규제 대응.md",
+    "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
+    "6.  PROJECTS/6-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
+    "0. INBOX/액체수소의 기술적·산업적 필요성.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
+    "0. INBOX/수소에너지의 수요증가.md",
+    "0. INBOX/탈탄소화 규제와 선박 연료 전환.md",
+    "3. CONCEPTS/기후 변화와 환경 규제 대응.md",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).pdf",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).hwp",
     "97. TEMPLATES/Temp_MOC.md",
@@ -294,10 +323,9 @@
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "0. INBOX/Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
     "0. INBOX/테스트하는중임 커밋.md",
-    "6.  PROJECTS/6-1. 졸업논문/졸업논문 목차.md",
     "1. DAILY NOTES/250717.md",
     "2. REVIEWS/★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
-    "6.  PROJECTS/6-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
+    "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "conflict-files-obsidian-git.md",
     "6.  PROJECTS/6-1. 졸업논문/시나리오 기반 위험평가(QRA) 연구.md",
     "6.  PROJECTS/6-1. 졸업논문/수소의 감지·환기 관련 규정.md",
@@ -306,15 +334,11 @@
     "6.  PROJECTS/6-1. 졸업논문/수소 누출·화재 CFD 연구 사례.md",
     "6.  PROJECTS/6-1. 졸업논문/수소 누출 시나리오 정의 변수, 손상 위치, 압력, 지연시간, 감지 여부.md",
     "6.  PROJECTS/6-1. 졸업논문/수소 고압 운용으로 인한 누출 위험.md",
-    "6.  PROJECTS/6-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
     "6.  PROJECTS/6-1. 졸업논문/기관실 모델링 및 선박 규모 추정.md",
     "6.  PROJECTS/6-1. 졸업논문",
-    "6.  PROJECTS/6-0. GIT/Valut 구조 정리법.md",
-    "6.  PROJECTS/6-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
-    "6.  PROJECTS/6-0. GIT/Git 커밋 기준 복구 절차.md",
-    "6.  PROJECTS/6-0. GIT/Git GC (Garbage Collection).md",
-    "6.  PROJECTS/6-0. GIT",
-    "7. OUTPUTS/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
+    "3. CONCEPTS/3-0. GIT/Valut 구조 정리법.md",
+    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+    "3. CONCEPTS/3-0. GIT",
     "98. RESOURCES/The hazards and risks of hydrogen.pdf",
     "98. RESOURCES/Safety investigation of hydrogen charging platform package with CFD simulation.pdf",
     "98. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
