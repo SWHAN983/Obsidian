@@ -20,6 +20,34 @@ tags:
 
 # 2. 사용법
 
+## Git GC 실행 전 안전 백업 절차 (시간 포함)
+### 1단계: **Stash에 시간 포함해 백업**
+```
+git stash push -m "🛑 GC 이전 백업 - $(date '+%Y-%m-%d %H:%M:%S')"
+```
+
+- 커밋되지 않은 수정 사항을 안전하게 숨김
+- `stash list`로 언제든지 복원 가능
+- 복원 명령:
+```
+git stash pop
+```
+
+
+### 2단계: **현재 커밋 상태 ZIP 백업 (시간 포함)**
+```
+git archive -o "vault_backup_$(date '+%Y%m%d_%H%M%S').zip" HEAD
+```
+- 현재 커밋 상태 전체를 `.zip` 파일로 저장
+- 외부 보관 또는 Obsidian 외부 클라우드로도 이동 가능
+
+### 3단계: **`.git` 폴더 자체 복사 (전체 히스토리 포함)**
+```
+cp -r .git "../vault_git_backup_$(date '+%Y%m%d_%H%M%S')"
+```
+- Git 로그, 브랜치, 리모트 정보까지 완전 백업됨
+- 만약 GC 후 문제가 생기면 `.git` 폴더만 덮어써도 복구 가능
+
 ## 기본 명령어 (안전함):
 ```
 git gc
