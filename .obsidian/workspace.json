@@ -6,7 +6,7 @@
       {
         "id": "5a3600eabe9756c4",
         "type": "tabs",
-        "dimension": 59.78792822185971,
+        "dimension": 48.368678629690045,
         "children": [
           {
             "id": "c7abee0fe3db2d0f",
@@ -37,33 +37,58 @@
       {
         "id": "8567061d763a9dba",
         "type": "split",
-        "dimension": 40.2120717781403,
+        "dimension": 51.63132137030995,
         "children": [
           {
             "id": "0a1e91ea81fb4267",
             "type": "tabs",
-            "dimension": 62.4031007751938,
+            "dimension": 80.62015503875969,
             "children": [
               {
-                "id": "16609fb6b8245f32",
+                "id": "462159a845fe0fcb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "MOC_졸업논문 목차"
+                }
+              },
+              {
+                "id": "ba4c994782e114b8",
                 "type": "leaf",
                 "state": {
                   "type": "webviewer",
                   "state": {
                     "url": "https://chatgpt.com/g/g-p-68755be1b1d4819199480496efe2369c-obsidian/c/687998fc-d040-8324-bd1b-2fd742fc6036",
-                    "title": "ChatGPT - Obsidian",
+                    "title": "Obsidian - PKM 링크 연결 전략",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "ChatGPT - Obsidian"
+                  "title": "Obsidian - PKM 링크 연결 전략"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "062cc917279e5745",
             "type": "split",
-            "dimension": 37.5968992248062,
+            "dimension": 19.379844961240313,
             "children": [
               {
                 "id": "f53c17817a683422",
@@ -280,9 +305,10 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "16609fb6b8245f32",
+  "active": "ba4c994782e114b8",
   "lastOpenFiles": [
     "0. INBOX/리뷰_수소의 화재 및 폭발 특성치에 관한 연구.md",
+    "7. OUTPUTS/MOC_졸업논문 목차.md",
     "6.  PROJECTS/6-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
     "2. REVIEWS/리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "A Study on Fire and Explosion Characteristics of Hydrogen.pdf",
@@ -302,7 +328,6 @@
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).pdf",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).hwp",
     "97. TEMPLATES/Temp_MOC.md",
-    "7. OUTPUTS/MOC_졸업논문 목차.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "6.  PROJECTS/6-1. 졸업논문/수소의 감지·환기 관련 규정.md",
