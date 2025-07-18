@@ -6,17 +6,16 @@
         "type": "split",
         "children": [
           {
-            "id": "5a3600eabe9756c4",
+            "id": "dfcb8a2bef78a113",
             "type": "tabs",
-            "dimension": 59.78792822185971,
             "children": [
               {
-                "id": "c7abee0fe3db2d0f",
+                "id": "7eb3ccf19e0f9fac",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1. DAILY NOTES/250717.md",
+                    "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -31,90 +30,10 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "250717"
+                  "title": "MOC_졸업논문 목차"
                 }
               }
             ]
-          },
-          {
-            "id": "8567061d763a9dba",
-            "type": "split",
-            "dimension": 40.2120717781403,
-            "children": [
-              {
-                "id": "0a1e91ea81fb4267",
-                "type": "tabs",
-                "dimension": 62.4031007751938,
-                "children": [
-                  {
-                    "id": "16609fb6b8245f32",
-                    "type": "leaf",
-                    "state": {
-                      "type": "webviewer",
-                      "state": {
-                        "url": "https://chatgpt.com/",
-                        "title": "ChatGPT",
-                        "mode": "webview"
-                      },
-                      "icon": "globe-2",
-                      "title": "ChatGPT"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "062cc917279e5745",
-                "type": "split",
-                "dimension": 37.5968992248062,
-                "children": [
-                  {
-                    "id": "f53c17817a683422",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "1dc4a50d117cffe1",
-                        "type": "leaf",
-                        "state": {
-                          "type": "backlink",
-                          "state": {
-                            "collapseAll": false,
-                            "extraContext": false,
-                            "sortOrder": "alphabetical",
-                            "showSearch": false,
-                            "searchQuery": "",
-                            "backlinkCollapsed": false,
-                            "unlinkedCollapsed": false
-                          },
-                          "icon": "links-coming-in",
-                          "title": "백링크"
-                        }
-                      }
-                    ]
-                  },
-                  {
-                    "id": "2ed7fed806403cd6",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "f9137678fa1352ca",
-                        "type": "leaf",
-                        "state": {
-                          "type": "outgoing-link",
-                          "state": {
-                            "linksCollapsed": false,
-                            "unlinkedCollapsed": true
-                          },
-                          "icon": "links-going-out",
-                          "title": "나가는 링크"
-                        }
-                      }
-                    ]
-                  }
-                ],
-                "direction": "vertical"
-              }
-            ],
-            "direction": "horizontal"
           }
         ],
         "direction": "vertical"
@@ -147,7 +66,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#reviewed",
+                    "query": "igf",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -173,7 +92,7 @@
           {
             "id": "f688897bf0516395",
             "type": "tabs",
-            "dimension": 36.905965621840245,
+            "dimension": 18.452982810920123,
             "children": [
               {
                 "id": "1b052f6f0fe0224e",
@@ -216,6 +135,56 @@
               }
             ],
             "currentTab": 2
+          },
+          {
+            "id": "eac9abe5fe92f719",
+            "type": "tabs",
+            "dimension": 18.452982810920123,
+            "children": [
+              {
+                "id": "377b20c0487fff01",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              },
+              {
+                "id": "1dc4a50d117cffe1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "MOC_졸업논문 목차 의 백링크"
+                }
+              },
+              {
+                "id": "f9137678fa1352ca",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "MOC_졸업논문 목차 의 나가는 링크"
+                }
+              }
+            ]
           }
         ],
         "direction": "horizontal",
@@ -228,7 +197,6 @@
           {
             "id": "30fb6174ca5a12b2",
             "type": "tabs",
-            "dimension": 59.016393442622956,
             "children": [
               {
                 "id": "e0f02b6e118fd73b",
@@ -236,36 +204,31 @@
                 "state": {
                   "type": "outline",
                   "state": {
+                    "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "개요"
+                  "title": "MOC_졸업논문 목차 의 개요"
                 }
-              }
-            ]
-          },
-          {
-            "id": "d5154e1f9791654e",
-            "type": "tabs",
-            "dimension": 40.983606557377044,
-            "children": [
+              },
               {
-                "id": "377b20c0487fff01",
+                "id": "952b8bf6a5dc24a8",
                 "type": "leaf",
                 "state": {
-                  "type": "git-view",
+                  "type": "github-copilot-chat-view",
                   "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
+                  "icon": "bot-message-square",
+                  "title": "Copilot Chat"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
-        "width": 275.5
+        "width": 543.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -282,8 +245,8 @@
           "publish:변경사항 게재": false
         }
       },
-      "active": "16609fb6b8245f32",
-      "mtime": "2025-07-17T16:32:03+09:00"
+      "active": "377b20c0487fff01",
+      "mtime": "2025-07-18T21:42:07+09:00"
     }
   },
   "active": "Default"

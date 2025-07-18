@@ -4,85 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5a3600eabe9756c4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "462159a845fe0fcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DAILY NOTES/250718.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "250718"
-            }
-          },
-          {
-            "id": "d9724dccf80e16cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DAILY NOTES/250718.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "250718"
-            }
-          },
-          {
-            "id": "0d944d4df27c5efe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. INBOX/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "dfcb8a2bef78a113",
         "type": "tabs",
         "children": [
@@ -92,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "file": "0. INBOX/메탄올 (Methanol).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -107,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC_졸업논문 목차"
+              "title": "메탄올 (Methanol)"
             }
           }
         ]
@@ -122,7 +43,7 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
-        "dimension": 63.09403437815976,
+        "dimension": 52.33366434955313,
         "children": [
           {
             "id": "84301899b043e26d",
@@ -169,7 +90,7 @@
       {
         "id": "f688897bf0516395",
         "type": "tabs",
-        "dimension": 36.905965621840245,
+        "dimension": 27.805362462760673,
         "children": [
           {
             "id": "1b052f6f0fe0224e",
@@ -212,42 +133,41 @@
           }
         ],
         "currentTab": 2
-      }
-    ],
-    "direction": "horizontal",
-    "width": 374.5
-  },
-  "right": {
-    "id": "f6e3a5d123567eda",
-    "type": "split",
-    "children": [
-      {
-        "id": "30fb6174ca5a12b2",
-        "type": "tabs",
-        "dimension": 41.86046511627907,
-        "children": [
-          {
-            "id": "e0f02b6e118fd73b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1. DAILY NOTES/250718.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "250718 의 개요"
-            }
-          }
-        ]
       },
       {
-        "id": "db8386cff07eeb87",
+        "id": "eac9abe5fe92f719",
         "type": "tabs",
-        "dimension": 28.77906976744186,
+        "dimension": 19.860973187686195,
         "children": [
+          {
+            "id": "377b20c0487fff01",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "1dc4a50d117cffe1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "MOC_졸업논문 목차 의 백링크"
+            }
+          },
           {
             "id": "f9137678fa1352ca",
             "type": "leaf",
@@ -261,49 +181,52 @@
               "icon": "links-going-out",
               "title": "MOC_졸업논문 목차 의 나가는 링크"
             }
-          },
-          {
-            "id": "1dc4a50d117cffe1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "1. DAILY NOTES/250718.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "250718 의 백링크"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d5154e1f9791654e",
-        "type": "tabs",
-        "dimension": 29.360465116279073,
-        "children": [
-          {
-            "id": "377b20c0487fff01",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 293.5
+  },
+  "right": {
+    "id": "f6e3a5d123567eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "30fb6174ca5a12b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0f02b6e118fd73b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "MOC_졸업논문 목차 의 개요"
+            }
+          },
+          {
+            "id": "952b8bf6a5dc24a8",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 543.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,12 +243,13 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "d9724dccf80e16cc",
+  "active": "7eb3ccf19e0f9fac",
   "lastOpenFiles": [
+    "7. OUTPUTS/MOC_졸업논문 목차.md",
+    "1. DAILY NOTES/250718.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
-    "7. OUTPUTS/MOC_졸업논문 목차.md",
     "Science and technology of ammonia combustion.pdf",
     "Pasted image 20250718143043.png",
     "Pasted image 20250718143027.png",
@@ -360,7 +284,6 @@
     "0. INBOX/기관실 내 저인화점 연료의 자연발화 위험.md",
     "0. INBOX/기관실 내 자연발화·누출 사고 특성.md",
     "0. INBOX/Yoo et al., 2021.md",
-    "0. INBOX/Sahin et al., 2023.md",
     "Pasted image 20250718102151.png",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
     "99. ATTACHMENTS/Pasted image 20250717171130.png",
