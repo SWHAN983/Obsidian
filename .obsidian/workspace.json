@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "file": "1. DAILY NOTES/250718.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC_졸업논문 목차"
+              "title": "250718"
+            }
+          },
+          {
+            "id": "d9724dccf80e16cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Git 커밋 기준 복구 절차"
             }
           },
           {
@@ -55,19 +79,20 @@
               "title": "PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "dfcb8a2bef78a113",
         "type": "tabs",
         "children": [
           {
-            "id": "4657b43272551f1b",
+            "id": "7eb3ccf19e0f9fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/자연 발화 CFD 시뮬레이션 주요 출력 내용.md",
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,7 +107,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "자연 발화 CFD 시뮬레이션 주요 출력 내용"
+              "title": "MOC_졸업논문 목차"
             }
           }
         ]
@@ -207,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "file": "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MOC_졸업논문 목차 의 개요"
+              "title": "Git 커밋 기준 복구 절차 의 개요"
             }
           }
         ]
@@ -243,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "file": "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +278,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "MOC_졸업논문 목차 의 백링크"
+              "title": "Git 커밋 기준 복구 절차 의 백링크"
             }
           }
         ],
@@ -295,48 +320,47 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "462159a845fe0fcb",
+  "active": "377b20c0487fff01",
   "lastOpenFiles": [
-    "0. INBOX/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.md",
-    "0. INBOX/IGF Code.md",
-    "7. OUTPUTS/MOC_졸업논문 목차.md",
-    "PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
-    "0. INBOX/자연 발화 CFD 시뮬레이션 주요 출력 내용.md",
-    "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
-    "0. INBOX/Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.md",
-    "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
-    "0. INBOX/기관실 내 저인화점 연료의 자연발화 위험.md",
-    "0. INBOX/기관실 화재 사고 데이터베이스.md",
-    "0. INBOX/기관실 내 자연발화·누출 사고 특성.md",
-    "0. INBOX/Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md",
-    "Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.pdf",
-    "0. INBOX/저인화점 연료.md",
-    "0. INBOX/대형 선박의 저인화점 연료 사용.md",
-    "0. INBOX/선박 기관실 적용 관점에서의 주의사항.md",
-    "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
-    "0. INBOX/수소, 암모니아, LNG 연료 물성 비교.md",
-    "0. INBOX/Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.md",
-    "Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.pdf",
-    "0. INBOX/DNV_Maritime Forecast to 2050.md",
-    "0. INBOX/DNV_Alternative Fuels Insight.md",
-    "0. INBOX/EMSA_Guidance on the use of ammonia as a marine fuel.md",
-    "0. INBOX/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
-    "0. INBOX/Greenhouse gas emissions from global shipping, 2013–2015.md",
-    "0. INBOX/HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.md",
-    "HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.pdf",
-    "0. INBOX/Sahin et al., 2023.md",
-    "0. INBOX/KR_암모니아 연료선박에 대한 지침서.md",
-    "KR_암모니아 연료선박에 대한 지침서.pdf",
-    "0. INBOX/Kobayashi et al., 2019.md",
     "Science and technology of ammonia combustion.pdf",
-    "KR_무탄소 선박연료로서 암모니아의 전망.pdf",
-    "Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
     "Pasted image 20250718143043.png",
     "Pasted image 20250718143027.png",
     "Pasted image 20250718143005.png",
     "Pasted image 20250718142945.png",
-    "Pasted image 20250718102151.png",
+    "PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
+    "Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.pdf",
+    "KR_암모니아 연료선박에 대한 지침서.pdf",
+    "KR_무탄소 선박연료로서 암모니아의 전망.pdf",
+    "HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.pdf",
+    "Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.pdf",
+    "Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
     "98. RESOURCES/A Study on Fire and Explosion Characteristics of Hydrogen.pdf",
+    "97. TEMPLATES/TEMP_Concept.md",
+    "6.  PROJECTS/6-1. 졸업논문/누출 위치, Vent 유무, Vent 유무 변수화.md",
+    "5. LAB/교수님 미팅_250717.md",
+    "3. CONCEPTS/기관실·연료설비 배치 구조.md",
+    "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
+    "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
+    "0. INBOX/저인화점 연료.md",
+    "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
+    "0. INBOX/자연 발화 CFD 시뮬레이션 주요 출력 내용.md",
+    "0. INBOX/액화천연가스 (LNG).md",
+    "0. INBOX/암모니아 (Ammonia).md",
+    "0. INBOX/수소의 LEL~UEL 폭발 농도 범위.md",
+    "0. INBOX/수소, 암모니아, LNG 연료 물성 비교.md",
+    "0. INBOX/수소 (Hydrogen).md",
+    "0. INBOX/선박 기관실 적용 관점에서의 주의사항.md",
+    "0. INBOX/메탄올 (Methanol).md",
+    "0. INBOX/리뷰_수소의 화재 및 폭발 특성치에 관한 연구.md",
+    "0. INBOX/대형 선박의 저인화점 연료 사용.md",
+    "0. INBOX/기관실 내 저인화점 연료의 자연발화 위험.md",
+    "0. INBOX/기관실 내 자연발화·누출 사고 특성.md",
+    "0. INBOX/Yoo et al., 2021.md",
+    "0. INBOX/Sahin et al., 2023.md",
+    "0. INBOX/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.md",
+    "0. INBOX/Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.md",
+    "0. INBOX/Korean Register, 2022.md",
+    "Pasted image 20250718102151.png",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
     "99. ATTACHMENTS/Pasted image 20250717171130.png",
     "99. ATTACHMENTS/Pasted image 20250717171114.png",
