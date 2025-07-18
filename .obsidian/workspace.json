@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
+                "file": "0. INBOX/Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Air and hydrogen supply systems and equipment for PEM fuel cells a review"
+              "title": "Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals"
             }
           },
           {
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
+                "file": "0. INBOX/Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Air and hydrogen supply systems and equipment for PEM fuel cells a review 의 개요"
+              "title": "Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals 의 개요"
             }
           },
           {
@@ -264,8 +264,12 @@
   },
   "active": "d26ee16a17dc64f2",
   "lastOpenFiles": [
+    "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
+    "2. REVIEWS/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
+    "2. REVIEWS/Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
+    "0. INBOX/Al-Enazi et al., 2021.md",
+    "0. INBOX/액화천연가스 (LNG).md",
     "6.  PROJECTS/6-1. 졸업논문/수소 고압 운용으로 인한 누출 위험.md",
-    "0. INBOX/Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
     "0. INBOX/기관실 내 자연발화·누출 사고 특성.md",
     "3. CONCEPTS/기관실·연료설비 배치 구조.md",
     "3. CONCEPTS/기후 변화와 환경 규제 대응.md",
@@ -300,10 +304,6 @@
     "0. INBOX/Korean Register, 2022.md",
     "0. INBOX/Kobayashi et al., 2019.md",
     "0. INBOX/Kim, Park, & Choi, 2021.md",
-    "0. INBOX/KR_암모니아 연료선박에 대한 지침서.md",
-    "0. INBOX/KR_무탄소 선박연료로서 암모니아의 전망.md",
-    "0. INBOX/IGF Code.md",
-    "0. INBOX/HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.md",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
     "99. ATTACHMENTS/Pasted image 20250717171130.png",
     "99. ATTACHMENTS/Pasted image 20250717171114.png",

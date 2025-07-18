@@ -8,8 +8,10 @@ journal: Inernational Journal of Green Energy
 원본 파일: "[[Air and hydrogen supply systems and equipment for PEM fuel cells a review.pdf]]"
 created: 2025-07-16
 tags:
-  - toread
   - paper
+  - hydrogen
+  - Fuel-Cell
+  - reviewed
 ---
 ### 1. 개요 및 중요성
 
@@ -57,6 +59,10 @@ PEM 멤브레인은 높은 이온 전도성과 내구성을 위해 적절한 가
 #### 2.4. 제어 기술
 
 공기 공급 시스템의 제어 목표는 연료전지 스택에 적절한 질량 유량과 압력의 순수한 공기를 공급하고, 동시에 압축기의 안전을 보장하는 것입니다. 특히 "질량 유량과 압력 사이에 강한 결합"이 있고 불안정한 작동 조건이 존재하는 원심 압축기의 제어에 대한 연구가 활발합니다. 산소 과잉 비율 제어, 서지 방지, 동적 외란 디커플링 제어(DDC), 모델 기준 적응 제어(MRAC) 등이 연구되고 있습니다.
+
+- **수소 저장 압력:** PEM 연료전지 시스템에서 **수소 가스는 일반적으로 고압 탱크에서 공급**
+
+- PEM 연료전지 시스템에서 수소 가스는 **최대 70 MPa의 저장 압력을 가진 고압 탱크에 저장**
 
 ### 3. 수소 공급 시스템
 
