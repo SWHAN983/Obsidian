@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#reviewed",
+                "query": "0d622d",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f688897bf0516395",
@@ -241,7 +242,7 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "462159a845fe0fcb",
+  "active": "fc4869faacd2a1f0",
   "lastOpenFiles": [
     "0. INBOX/CFD 기반 화재 시뮬레이션 연구 동향.md",
     "7. OUTPUTS/MOC_졸업논문 목차.md",
