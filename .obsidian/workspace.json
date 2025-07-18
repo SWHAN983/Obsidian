@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CFD 기반 자연발화 위험 예측의 필요성 의 개요"
+              "title": "MOC_졸업논문 목차 의 개요"
             }
           }
         ]
@@ -205,12 +205,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "CFD 기반 자연발화 위험 예측의 필요성 의 나가는 링크"
+              "title": "MOC_졸업논문 목차 의 나가는 링크"
             }
           },
           {
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "CFD 기반 자연발화 위험 예측의 필요성 의 백링크"
+              "title": "MOC_졸업논문 목차 의 백링크"
             }
           }
         ],
@@ -272,9 +272,17 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "e5be282a09177225",
+  "active": "462159a845fe0fcb",
   "lastOpenFiles": [
+    "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
     "7. OUTPUTS/MOC_졸업논문 목차.md",
+    "0. INBOX/기관실 내 저인화점 연료의 자연발화 위험.md",
+    "0. INBOX/기관실 화재 사고 데이터베이스.md",
+    "0. INBOX/기관실 내 자연발화·누출 사고 특성.md",
+    "0. INBOX/Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md",
+    "Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.pdf",
+    "0. INBOX/저인화점 연료.md",
+    "0. INBOX/대형 선박의 저인화점 연료 사용.md",
     "0. INBOX/선박 기관실 적용 관점에서의 주의사항.md",
     "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
     "0. INBOX/수소, 암모니아, LNG 연료 물성 비교.md",
@@ -295,17 +303,10 @@
     "0. INBOX/KR_무탄소 선박연료로서 암모니아의 전망.md",
     "KR_무탄소 선박연료로서 암모니아의 전망.pdf",
     "Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
-    "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
     "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
     "0. INBOX/수소 (Hydrogen).md",
     "0. INBOX/암모니아 (Ammonia).md",
     "0. INBOX/메탄올 (Methanol).md",
-    "0. INBOX/Korean Register, 2022.md",
-    "0. INBOX/액화천연가스 (LNG).md",
-    "0. INBOX/Al-Enazi et al., 2021.md",
-    "0. INBOX/Yoo et al., 2021.md",
-    "0. INBOX/2023 IMO 온실가스 감축 전략.md",
-    "97. TEMPLATES/Temp_ReviewPaper.md",
     "Pasted image 20250718143043.png",
     "Pasted image 20250718143027.png",
     "Pasted image 20250718143005.png",
@@ -319,7 +320,6 @@
     "99. ATTACHMENTS/Pasted image 20250717171110.png",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).pdf",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).hwp",
-    "6.  PROJECTS/6-1. 졸업논문",
     "무제.canvas"
   ]
 }
