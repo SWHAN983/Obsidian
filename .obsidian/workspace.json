@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/리뷰_Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.md",
+                "file": "0. INBOX/리뷰_Quantitative risk assessment using a Japanese hydrogen refueling station model.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "리뷰_Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China"
+              "title": "리뷰_Quantitative risk assessment using a Japanese hydrogen refueling station model"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/리뷰_Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.md",
+                "file": "0. INBOX/리뷰_Quantitative risk assessment using a Japanese hydrogen refueling station model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "리뷰_Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China 의 개요"
+              "title": "리뷰_Quantitative risk assessment using a Japanese hydrogen refueling station model 의 개요"
             }
           },
           {
@@ -276,6 +276,8 @@
   },
   "active": "d26ee16a17dc64f2",
   "lastOpenFiles": [
+    "2. REVIEWS/리뷰_Risk assessment of hydrogen leakage in diesel hydrogenation process.md",
+    "2. REVIEWS/리뷰_Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.md",
     "2. REVIEWS/리뷰_Safety investigation of hydrogen charging platform package with CFD simulation.md",
     "2. REVIEWS/리뷰_The hazards and risks of hydrogen.md",
     "0. INBOX/Entrainment effects on combustion and emission characteristics of turbulent non-premixed ammonia,,air and methane,,air swirl flames through a developed perforated burner.md",
@@ -303,8 +305,6 @@
     "2. REVIEWS/리뷰_Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md",
     "2. REVIEWS/리뷰_DNV_Maritime Forecast to 2050.md",
     "2. REVIEWS/리뷰_Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
-    "2. REVIEWS/리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
-    "2. REVIEWS/리뷰_Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
     "98. RESOURCES/EMSA_Potential of Ammonia as Fuel in Shipping.pdf",
     "98. RESOURCES/DNV_Maritime_Forecast_2050_2024.pdf",
     "98. RESOURCES/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
