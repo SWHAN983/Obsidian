@@ -1,6 +1,14 @@
 ---
 created: 2025-07-17
-tags: []
+tags:
+  - IMO
+  - decarbonization
+  - GHG
+  - EEXI
+  - Hot_Surface_Ignition
+  - Alternative_Fuels
+  - toread
+  - CONCEPT
 ---
 # IMO 온실가스 감축 단기조치
 - ⌜2023 IMO 온실가스 감축전략(이하 “2023 전략”⌟에 의하면, 단기조치는 초기전략이 수립된 2018년부터 2023년까지 해양환경보호위원회(MEPC)에 의해 확정되고 합의된 조치로 정의되며, 현존선에너지효율지수(EEXI)와 선박탄소집약도지수(CII)가 여기에 해당

@@ -10,7 +10,7 @@ tags:
 # 🧩 개념 요약  
 
 - [[리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options]]
-- [[KR_무탄소 선박연료로서 암모니아의 전망]]
+- [[리뷰_KR_무탄소 선박연료로서 암모니아의 전망]]
 - [[리뷰_Science and technology of ammonia combustion]]
 
 ## 연료별 특성 비교표

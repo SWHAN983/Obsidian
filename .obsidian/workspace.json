@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/리뷰_KR_암모니아 연료선박에 대한 지침서.md",
+                "file": "0. INBOX/IGF Code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "리뷰_KR_암모니아 연료선박에 대한 지침서"
+              "title": "IGF Code"
             }
           }
         ]
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/리뷰_KR_암모니아 연료선박에 대한 지침서.md",
+                "file": "0. INBOX/IGF Code.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "리뷰_KR_암모니아 연료선박에 대한 지침서 의 개요"
+              "title": "IGF Code 의 개요"
             }
           },
           {
@@ -276,8 +276,17 @@
   },
   "active": "d26ee16a17dc64f2",
   "lastOpenFiles": [
+    "0. INBOX/일본 액체수소 운반선 기술.md",
+    "2. REVIEWS/리뷰_수소의 화재 및 폭발 특성치에 관한 연구.md",
+    "0. INBOX/선박 기관실 적용 관점에서의 주의사항.md",
+    "0. INBOX/메탄올 (Methanol).md",
+    "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
+    "0. INBOX/IMO CCC의 회의 동향 및 지침 검토.md",
+    "0. INBOX/IMO의 탈탄소화 규제 동향.md",
+    "2. REVIEWS/리뷰_KR_무탄소 선박연료로서 암모니아의 전망.md",
+    "98. RESOURCES/KR_무탄소 선박연료로서 암모니아의 전망.pdf",
+    "2. REVIEWS/리뷰_KR_암모니아 연료선박에 대한 지침서.md",
     "98. RESOURCES/KR_암모니아 연료선박에 대한 지침서.pdf",
-    "0. INBOX/리뷰_KR_암모니아 연료선박에 대한 지침서.md",
     "2. REVIEWS/리뷰_Overview of the DOE hydrogen safety, codes and standards program, part 3 Advances in research and development to enhance the scientific basis for hydrogen regulations, codes and standards.md",
     "2. REVIEWS/리뷰_PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.md",
     "98. RESOURCES/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
@@ -292,19 +301,12 @@
     "0. INBOX/Yoo et al., 2021.md",
     "0. INBOX/수소 (Hydrogen).md",
     "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
-    "0. INBOX/IMO의 탈탄소화 규제 동향.md",
-    "0. INBOX/KR_무탄소 선박연료로서 암모니아의 전망.md",
     "2. REVIEWS/리뷰_KR_저인화점연료선박에 대한 지침서 (메탄올).md",
-    "KR_저인화점연료선박에 대한 지침서(LPG & 메틸에틸 알코올)(국).pdf",
-    "0. INBOX/메탄올 (Methanol).md",
+    "98. RESOURCES/KR_저인화점연료선박에 대한 지침서(LPG & 메틸에틸 알코올)(국).pdf",
     "2. REVIEWS/리뷰_Science and technology of ammonia combustion.md",
     "2. REVIEWS/리뷰_HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.md",
     "0. INBOX/Kim, Park, & Choi, 2021.md",
-    "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
     "98. RESOURCES/2023 IMO Strategy on Reduction of GHG Emissions from Ships. IMO..pdf",
-    "2. REVIEWS/리뷰_Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.md",
-    "1. DAILY NOTES/250719.md",
-    "3. CONCEPTS/리뷰_Greenhouse gas emissions from global shipping, 2013–2015.md",
     "98. RESOURCES/Greenhouse gas emissions from global shipping, 2013–2015.pdf",
     "98. RESOURCES/EMSA_Potential of Ammonia as Fuel in Shipping.pdf",
     "98. RESOURCES/DNV_Maritime_Forecast_2050_2024.pdf",
@@ -314,7 +316,6 @@
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
     "99. ATTACHMENTS/Pasted image 20250718143005.png",
-    "98. RESOURCES/Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.pdf",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
     "99. ATTACHMENTS/Pasted image 20250717171130.png",
     "99. ATTACHMENTS/Pasted image 20250717171114.png",
