@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+                "file": "1. DAILY NOTES/250718.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git 강제 Push (로컬이 더 최신일 때)"
+              "title": "250718"
             }
           }
         ]
@@ -245,7 +245,9 @@
   },
   "active": "7eb3ccf19e0f9fac",
   "lastOpenFiles": [
+    "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
+    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
     "7. OUTPUTS/MOC_졸업논문 목차.md",
     "1. DAILY NOTES/250718.md",
     "5. LAB/교수님 미팅_250717.md",
@@ -279,8 +281,6 @@
     "NODE/node_modules/npm/node_modules/make-fetch-happen/node_modules/negotiator/HISTORY.md",
     "NODE/node_modules/npm/node_modules/cross-spawn/node_modules/which/README.md",
     "NODE/node_modules/npm/node_modules/cacache/node_modules/yallist/LICENSE.md",
-    "NODE/node_modules/npm/node_modules/cacache/node_modules/chownr/LICENSE.md",
-    "NODE/node_modules/npm/node_modules/socks/docs/index.md",
     "NODE/node_modules/npm/node_modules/qrcode-terminal/example/basic.png",
     "NODE/node_modules/npm/node_modules/retry/equation.gif",
     "node_modules/npm/node_modules/retry/equation.gif",
