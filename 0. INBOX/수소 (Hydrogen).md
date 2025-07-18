@@ -8,7 +8,7 @@ tags:
 ---
 
 ## 🧩 개념 요약  
-- [[HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS]]
+- [[리뷰_HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS]]
 > 수소는 엔진에서 연소되거나 연료전지에서 사용될 때 물만 생성하는 궁극적인 청정 연료이다. 질량당 에너지 함량(중량 에너지 밀도)이 모든 연료 중 가장 높다.
 > 
 > 주된 단점은 극도로 낮은 부피 에너지 밀도이다. 장거리 항해에 충분한 양을 선박에 저장하는 것은 거대한 공학적 과제이다.

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY NOTES/250719.md",
+                "file": "0. INBOX/Science and technology of ammonia combustion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,19 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250719"
-            }
-          },
-          {
-            "id": "3e9e211e45c60b97",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "98. RESOURCES/2023 IMO Strategy on Reduction of GHG Emissions from Ships. IMO..pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2023 IMO Strategy on Reduction of GHG Emissions from Ships. IMO."
+              "title": "Science and technology of ammonia combustion"
             }
           }
         ]
@@ -206,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DAILY NOTES/250719.md",
+                "file": "0. INBOX/Science and technology of ammonia combustion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "250719 의 개요"
+              "title": "Science and technology of ammonia combustion 의 개요"
             }
           },
           {
@@ -288,7 +276,12 @@
   },
   "active": "d26ee16a17dc64f2",
   "lastOpenFiles": [
-    "0. INBOX/Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.md",
+    "2. REVIEWS/리뷰_HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.md",
+    "0. INBOX/Kim, Park, & Choi, 2021.md",
+    "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
+    "98. RESOURCES/2023 IMO Strategy on Reduction of GHG Emissions from Ships. IMO..pdf",
+    "2. REVIEWS/리뷰_Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.md",
+    "1. DAILY NOTES/250719.md",
     "3. CONCEPTS/리뷰_Greenhouse gas emissions from global shipping, 2013–2015.md",
     "7. OUTPUTS/MOC_졸업논문.md",
     "98. RESOURCES/Greenhouse gas emissions from global shipping, 2013–2015.pdf",
@@ -312,15 +305,9 @@
     "3. CONCEPTS/기관실·연료설비 배치 구조.md",
     "3. CONCEPTS/기후 변화와 환경 규제 대응.md",
     "3. CONCEPTS/2023 IMO 온실가스 감축 전략.md",
-    "3. CONCEPTS/기관실 화재는 빈도와 피해가 크다.md",
-    "6.  PROJECTS/6-1. 졸업논문/수소는 기관실 내에서 특히 위험한 연료다.md",
-    "1. DAILY NOTES/250719.md",
-    "98. RESOURCES/2023 IMO Strategy on Reduction of GHG Emissions from Ships. IMO..pdf",
     "98. RESOURCES/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
     "99. ATTACHMENTS/Pasted image 20250718142945.png",
     "98. RESOURCES/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
-    "1. DAILY NOTES/250718.md",
-    "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "98. RESOURCES/Science and technology of ammonia combustion.pdf",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
