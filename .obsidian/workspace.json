@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
+                "file": "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CFD 기반 자연발화 위험 예측의 필요성 의 개요"
+              "title": "해운업의 탈탄소화와 대체 연료 도입 의 개요"
             }
           }
         ]
@@ -229,12 +229,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
+                "file": "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "CFD 기반 자연발화 위험 예측의 필요성 의 나가는 링크"
+              "title": "해운업의 탈탄소화와 대체 연료 도입 의 나가는 링크"
             }
           },
           {
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
+                "file": "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "CFD 기반 자연발화 위험 예측의 필요성 의 백링크"
+              "title": "해운업의 탈탄소화와 대체 연료 도입 의 백링크"
             }
           }
         ],
@@ -296,11 +296,11 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "462159a845fe0fcb",
+  "active": "3fe61f577b70c15b",
   "lastOpenFiles": [
+    "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
     "7. OUTPUTS/MOC_졸업논문 목차.md",
     "0. INBOX/대형 선박의 저인화점 연료 사용.md",
-    "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
     "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
     "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
     "0. INBOX/DNV, 2022.md",
