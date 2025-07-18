@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/메탄올 (Methanol).md",
+                "file": "1. DAILY NOTES/250718.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "메탄올 (Methanol)"
+              "title": "250718"
             }
           }
         ]
@@ -43,7 +43,7 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
-        "dimension": 52.33366434955313,
+        "dimension": 52.333664349553125,
         "children": [
           {
             "id": "84301899b043e26d",
@@ -245,6 +245,7 @@
   },
   "active": "7eb3ccf19e0f9fac",
   "lastOpenFiles": [
+    "0. INBOX/메탄올 (Methanol).md",
     "7. OUTPUTS/MOC_졸업논문 목차.md",
     "1. DAILY NOTES/250718.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
@@ -278,7 +279,6 @@
     "0. INBOX/수소, 암모니아, LNG 연료 물성 비교.md",
     "0. INBOX/수소 (Hydrogen).md",
     "0. INBOX/선박 기관실 적용 관점에서의 주의사항.md",
-    "0. INBOX/메탄올 (Methanol).md",
     "0. INBOX/리뷰_수소의 화재 및 폭발 특성치에 관한 연구.md",
     "0. INBOX/대형 선박의 저인화점 연료 사용.md",
     "0. INBOX/기관실 내 저인화점 연료의 자연발화 위험.md",
