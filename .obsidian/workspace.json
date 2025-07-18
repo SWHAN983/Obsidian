@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY NOTES/250718.md",
+                "file": "0. INBOX/2023 IMO 온실가스 감축 전략.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250718"
+              "title": "2023 IMO 온실가스 감축 전략"
             }
           },
           {
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "2ed7fed806403cd6",
@@ -157,7 +157,7 @@
       {
         "id": "f688897bf0516395",
         "type": "tabs",
-        "dimension": 23.25581395348837,
+        "dimension": 23.255813953488367,
         "children": [
           {
             "id": "1b052f6f0fe0224e",
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DAILY NOTES/250718.md",
+                "file": "0. INBOX/2023 IMO 온실가스 감축 전략.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "250718 의 개요"
+              "title": "2023 IMO 온실가스 감축 전략 의 개요"
             }
           },
           {
@@ -299,26 +299,26 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "c1d6352cfd5b8ab9",
+  "active": "d26ee16a17dc64f2",
   "lastOpenFiles": [
+    "98. RESOURCES/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
+    "99. ATTACHMENTS/Pasted image 20250718142945.png",
+    "98. RESOURCES/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
     "1. DAILY NOTES/250718.md",
     "7. OUTPUTS/MOC_졸업논문 목차.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
     "conflict-files-obsidian-git.md",
-    "Science and technology of ammonia combustion.pdf",
-    "Pasted image 20250718143043.png",
-    "Pasted image 20250718143027.png",
-    "Pasted image 20250718143005.png",
-    "Pasted image 20250718142945.png",
-    "PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
-    "Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.pdf",
-    "KR_암모니아 연료선박에 대한 지침서.pdf",
-    "KR_무탄소 선박연료로서 암모니아의 전망.pdf",
-    "HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.pdf",
-    "Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.pdf",
-    "Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
+    "98. RESOURCES/Science and technology of ammonia combustion.pdf",
+    "99. ATTACHMENTS/Pasted image 20250718143043.png",
+    "99. ATTACHMENTS/Pasted image 20250718143027.png",
+    "99. ATTACHMENTS/Pasted image 20250718143005.png",
+    "98. RESOURCES/Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.pdf",
+    "98. RESOURCES/KR_암모니아 연료선박에 대한 지침서.pdf",
+    "98. RESOURCES/KR_무탄소 선박연료로서 암모니아의 전망.pdf",
+    "98. RESOURCES/HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.pdf",
+    "98. RESOURCES/Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.pdf",
     "98. RESOURCES/A Study on Fire and Explosion Characteristics of Hydrogen.pdf",
     "97. TEMPLATES/TEMP_Concept.md",
     "6.  PROJECTS/6-1. 졸업논문/누출 위치, Vent 유무, Vent 유무 변수화.md",
@@ -339,7 +339,6 @@
     "0. INBOX/CFD 기반 화재 시뮬레이션 연구 동향.md",
     "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
     "0. INBOX/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
-    "0. INBOX/Al-Enazi et al., 2021.md",
     "3. CONCEPTS/3-0. GIT",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
     "99. ATTACHMENTS/Pasted image 20250717171130.png",
