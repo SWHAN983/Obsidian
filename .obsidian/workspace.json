@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dfcb8a2bef78a113",
+        "id": "5a3600eabe9756c4",
         "type": "tabs",
+        "dimension": 59.78792822185971,
         "children": [
           {
-            "id": "7eb3ccf19e0f9fac",
+            "id": "c7abee0fe3db2d0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "file": "1. DAILY NOTES/250717.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +29,141 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC_졸업논문 목차"
+              "title": "250717"
+            }
+          },
+          {
+            "id": "d26ee16a17dc64f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DAILY NOTES/250718.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "250718"
+            }
+          },
+          {
+            "id": "c1d6352cfd5b8ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DAILY NOTES/250718.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "250718"
             }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "8567061d763a9dba",
+        "type": "split",
+        "dimension": 40.2120717781403,
+        "children": [
+          {
+            "id": "0a1e91ea81fb4267",
+            "type": "tabs",
+            "dimension": 62.4031007751938,
+            "children": [
+              {
+                "id": "16609fb6b8245f32",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://chatgpt.com/",
+                    "title": "ChatGPT",
+                    "mode": "blank"
+                  },
+                  "icon": "globe-2",
+                  "title": "ChatGPT"
+                }
+              }
+            ]
+          },
+          {
+            "id": "062cc917279e5745",
+            "type": "split",
+            "dimension": 37.5968992248062,
+            "children": [
+              {
+                "id": "f53c17817a683422",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "1dc4a50d117cffe1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "1. DAILY NOTES/250718.md",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": false
+                      },
+                      "icon": "links-coming-in",
+                      "title": "250718 의 백링크"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "2ed7fed806403cd6",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f9137678fa1352ca",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outgoing-link",
+                      "state": {
+                        "file": "1. DAILY NOTES/250718.md",
+                        "linksCollapsed": false,
+                        "unlinkedCollapsed": true
+                      },
+                      "icon": "links-going-out",
+                      "title": "250718 의 나가는 링크"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -43,7 +175,7 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
-        "dimension": 52.333664349553125,
+        "dimension": 63.09403437815976,
         "children": [
           {
             "id": "84301899b043e26d",
@@ -64,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "igf",
+                "query": "tag:#reviewed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +222,7 @@
       {
         "id": "f688897bf0516395",
         "type": "tabs",
-        "dimension": 27.805362462760673,
+        "dimension": 36.905965621840245,
         "children": [
           {
             "id": "1b052f6f0fe0224e",
@@ -133,11 +265,41 @@
           }
         ],
         "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "right": {
+    "id": "f6e3a5d123567eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "30fb6174ca5a12b2",
+        "type": "tabs",
+        "dimension": 59.016393442622956,
+        "children": [
+          {
+            "id": "e0f02b6e118fd73b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. DAILY NOTES/250718.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "250718 의 개요"
+            }
+          }
+        ]
       },
       {
-        "id": "eac9abe5fe92f719",
+        "id": "d5154e1f9791654e",
         "type": "tabs",
-        "dimension": 19.860973187686195,
+        "dimension": 40.983606557377044,
         "children": [
           {
             "id": "377b20c0487fff01",
@@ -148,85 +310,12 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "1dc4a50d117cffe1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "MOC_졸업논문 목차 의 백링크"
-            }
-          },
-          {
-            "id": "f9137678fa1352ca",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "MOC_졸업논문 목차 의 나가는 링크"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
-  },
-  "right": {
-    "id": "f6e3a5d123567eda",
-    "type": "split",
-    "children": [
-      {
-        "id": "30fb6174ca5a12b2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e0f02b6e118fd73b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "MOC_졸업논문 목차 의 개요"
-            }
-          },
-          {
-            "id": "952b8bf6a5dc24a8",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 376.5
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,54 +332,54 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "7eb3ccf19e0f9fac",
+  "active": "c1d6352cfd5b8ab9",
   "lastOpenFiles": [
-    "1. DAILY NOTES/250718.md",
+    "7. OUTPUTS/MOC_졸업논문 목차.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
-    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
-    "7. OUTPUTS/MOC_졸업논문 목차.md",
-    "5. LAB/교수님 미팅_250717.md",
-    "NODE/corepack.cmd",
-    "NODE/corepack",
-    "NODE/nodevars.bat",
-    "NODE/npx.cmd",
-    "NODE/npx",
-    "NODE/npm.cmd",
-    "NODE/npm",
-    "NODE/install_tools.bat",
-    "NODE/npx.ps1",
-    "NODE/npm.ps1",
-    "NODE/node_modules/npm/node_modules/socks/docs/examples/typescript/connectExample.md",
-    "NODE/node_modules/npm/node_modules/socks/docs/examples/typescript/bindExample.md",
-    "NODE/node_modules/npm/node_modules/socks/docs/examples/typescript/associateExample.md",
-    "NODE/node_modules/npm/node_modules/socks/docs/examples/javascript/connectExample.md",
-    "NODE/node_modules/npm/node_modules/socks/docs/examples/javascript/associateExample.md",
-    "NODE/node_modules/npm/node_modules/socks/docs/examples/javascript/bindExample.md",
-    "NODE/node_modules/npm/node_modules/@npmcli/metavuln-calculator/node_modules/pacote/README.md",
-    "NODE/node_modules/npm/node_modules/socks/docs/examples/index.md",
-    "NODE/node_modules/npm/node_modules/node-gyp/node_modules/yallist/LICENSE.md",
-    "NODE/node_modules/npm/node_modules/node-gyp/node_modules/chownr/LICENSE.md",
-    "NODE/node_modules/npm/node_modules/node-gyp/gyp/docs/UserDocumentation.md",
-    "NODE/node_modules/npm/node_modules/node-gyp/gyp/docs/Testing.md",
-    "NODE/node_modules/npm/node_modules/node-gyp/gyp/docs/README.md",
-    "NODE/node_modules/npm/node_modules/node-gyp/gyp/docs/LanguageSpecification.md",
-    "NODE/node_modules/npm/node_modules/node-gyp/gyp/docs/InputFormatReference.md",
-    "NODE/node_modules/npm/node_modules/node-gyp/gyp/docs/GypVsCMake.md",
-    "NODE/node_modules/npm/node_modules/node-gyp/gyp/docs/Hacking.md",
-    "NODE/node_modules/npm/node_modules/make-fetch-happen/node_modules/negotiator/HISTORY.md",
-    "NODE/node_modules/npm/node_modules/cross-spawn/node_modules/which/README.md",
-    "NODE/node_modules/npm/node_modules/cacache/node_modules/yallist/LICENSE.md",
-    "NODE/node_modules/npm/node_modules/qrcode-terminal/example/basic.png",
-    "NODE/node_modules/npm/node_modules/retry/equation.gif",
-    "node_modules/npm/node_modules/retry/equation.gif",
-    "node_modules/npm/node_modules/qrcode-terminal/example/basic.png",
+    "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
+    "conflict-files-obsidian-git.md",
+    "1. DAILY NOTES/250718.md",
+    "Science and technology of ammonia combustion.pdf",
     "Pasted image 20250718143043.png",
     "Pasted image 20250718143027.png",
     "Pasted image 20250718143005.png",
     "Pasted image 20250718142945.png",
-    "Pasted image 20250718102151.png",
+    "PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
+    "Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.pdf",
+    "KR_암모니아 연료선박에 대한 지침서.pdf",
+    "KR_무탄소 선박연료로서 암모니아의 전망.pdf",
+    "HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.pdf",
+    "Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.pdf",
+    "Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
+    "98. RESOURCES/A Study on Fire and Explosion Characteristics of Hydrogen.pdf",
+    "97. TEMPLATES/TEMP_Concept.md",
+    "6.  PROJECTS/6-1. 졸업논문/누출 위치, Vent 유무, Vent 유무 변수화.md",
+    "5. LAB/교수님 미팅_250717.md",
+    "0. INBOX/Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.md",
+    "0. INBOX/Korean Register, 2022.md",
+    "0. INBOX/Kobayashi et al., 2019.md",
+    "0. INBOX/Kim, Park, & Choi, 2021.md",
+    "0. INBOX/KR_암모니아 연료선박에 대한 지침서.md",
+    "0. INBOX/KR_무탄소 선박연료로서 암모니아의 전망.md",
+    "0. INBOX/IGF Code.md",
+    "0. INBOX/HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.md",
+    "0. INBOX/Greenhouse gas emissions from global shipping, 2013–2015.md",
+    "0. INBOX/Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md",
+    "0. INBOX/EMSA_Guidance on the use of ammonia as a marine fuel.md",
+    "0. INBOX/DNV_Maritime Forecast to 2050.md",
+    "0. INBOX/DNV_Alternative Fuels Insight.md",
+    "0. INBOX/CFD 기반 화재 시뮬레이션 연구 동향.md",
+    "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
+    "0. INBOX/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
+    "0. INBOX/Al-Enazi et al., 2021.md",
+    "3. CONCEPTS/3-0. GIT",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
+    "99. ATTACHMENTS/Pasted image 20250717171130.png",
+    "99. ATTACHMENTS/Pasted image 20250717171114.png",
+    "99. ATTACHMENTS/Pasted image 20250717171112.png",
+    "99. ATTACHMENTS/Pasted image 20250717171110.png",
+    "99. ATTACHMENTS/Pasted image 20250717171023.png",
     "무제.canvas"
   ]
 }
