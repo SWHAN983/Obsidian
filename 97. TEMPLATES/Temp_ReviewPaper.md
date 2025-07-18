@@ -3,7 +3,7 @@ title:
 authors: 
 year: 
 journal: 
-원본 파일: [[]]
+원본 파일: 
 created: <% tp.date.now("YYYY-MM-DD") %>
 tags:
   - paper

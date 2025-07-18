@@ -13,6 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC_졸업논문 목차"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dfcb8a2bef78a113",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5be282a09177225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
                 "mode": "source",
                 "source": false,
@@ -29,60 +59,6 @@
               },
               "icon": "lucide-file",
               "title": "CFD 기반 자연발화 위험 예측의 필요성"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c1f0fd6dc6399c73",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3fe61f577b70c15b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "해운업의 탈탄소화와 대체 연료 도입"
-            }
-          },
-          {
-            "id": "29c68f0d34e26f39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "저인화점 연료 증가와 화재 위험성"
             }
           }
         ]
@@ -207,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
+                "file": "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "해운업의 탈탄소화와 대체 연료 도입 의 개요"
+              "title": "CFD 기반 자연발화 위험 예측의 필요성 의 개요"
             }
           }
         ]
@@ -229,12 +205,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
+                "file": "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "해운업의 탈탄소화와 대체 연료 도입 의 나가는 링크"
+              "title": "CFD 기반 자연발화 위험 예측의 필요성 의 나가는 링크"
             }
           },
           {
@@ -243,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
+                "file": "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +229,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "해운업의 탈탄소화와 대체 연료 도입 의 백링크"
+              "title": "CFD 기반 자연발화 위험 예측의 필요성 의 백링크"
             }
           }
         ],
@@ -296,39 +272,45 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "3fe61f577b70c15b",
+  "active": "e5be282a09177225",
   "lastOpenFiles": [
-    "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
     "7. OUTPUTS/MOC_졸업논문 목차.md",
-    "0. INBOX/대형 선박의 저인화점 연료 사용.md",
-    "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
+    "0. INBOX/선박 기관실 적용 관점에서의 주의사항.md",
     "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
-    "0. INBOX/DNV, 2022.md",
-    "0. INBOX/Kim, Park, & Choi, 2021.md",
-    "0. INBOX/IGF Code.md",
-    "6.  PROJECTS/6-1. 졸업논문/누출 위치, Vent 유무, Vent 유무 변수화.md",
-    "0. INBOX/착화 가능 구역 도출.md",
-    "5. LAB/랩 세미나_250715.md",
-    "5. LAB/교수님 미팅_250717.md",
-    "3. CONCEPTS/기관실·연료설비 배치 구조.md",
-    "0. INBOX/기관실·연료설비 배치 구조.md",
-    "0. INBOX/CFD 기반 화재 시뮬레이션 연구 동향.md",
-    "6.  PROJECTS/6-1. 졸업논문/수소 누출·화재 CFD 연구 사례.md",
-    "0. INBOX/리뷰_수소의 화재 및 폭발 특성치에 관한 연구.md",
+    "0. INBOX/수소, 암모니아, LNG 연료 물성 비교.md",
+    "0. INBOX/Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.md",
+    "Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.pdf",
+    "0. INBOX/DNV_Maritime Forecast to 2050.md",
+    "0. INBOX/DNV_Alternative Fuels Insight.md",
+    "0. INBOX/EMSA_Guidance on the use of ammonia as a marine fuel.md",
+    "0. INBOX/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
+    "0. INBOX/Greenhouse gas emissions from global shipping, 2013–2015.md",
+    "0. INBOX/HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.md",
+    "HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.pdf",
+    "0. INBOX/Sahin et al., 2023.md",
+    "0. INBOX/KR_암모니아 연료선박에 대한 지침서.md",
+    "KR_암모니아 연료선박에 대한 지침서.pdf",
+    "0. INBOX/Kobayashi et al., 2019.md",
+    "Science and technology of ammonia combustion.pdf",
+    "0. INBOX/KR_무탄소 선박연료로서 암모니아의 전망.md",
+    "KR_무탄소 선박연료로서 암모니아의 전망.pdf",
+    "Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
+    "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
+    "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
+    "0. INBOX/수소 (Hydrogen).md",
+    "0. INBOX/암모니아 (Ammonia).md",
+    "0. INBOX/메탄올 (Methanol).md",
+    "0. INBOX/Korean Register, 2022.md",
+    "0. INBOX/액화천연가스 (LNG).md",
+    "0. INBOX/Al-Enazi et al., 2021.md",
+    "0. INBOX/Yoo et al., 2021.md",
+    "0. INBOX/2023 IMO 온실가스 감축 전략.md",
+    "97. TEMPLATES/Temp_ReviewPaper.md",
     "Pasted image 20250718143043.png",
     "Pasted image 20250718143027.png",
     "Pasted image 20250718143005.png",
     "Pasted image 20250718142945.png",
-    "0. INBOX/수소의 LEL~UEL 폭발 농도 범위.md",
-    "97. TEMPLATES/Temp_ReviewPaper.md",
-    "97. TEMPLATES/TEMP_Concept.md",
     "Pasted image 20250718102151.png",
-    "97. TEMPLATES/Temp_Basis.md",
-    "97. TEMPLATES/Temp_Daily.md",
-    "97. TEMPLATES/Temp_MOC.md",
-    "97. TEMPLATES/Temp_LAB.md",
-    "6.  PROJECTS/6-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
-    "2. REVIEWS/리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "98. RESOURCES/A Study on Fire and Explosion Characteristics of Hydrogen.pdf",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
     "99. ATTACHMENTS/Pasted image 20250717171130.png",
@@ -338,12 +320,6 @@
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).pdf",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).hwp",
     "6.  PROJECTS/6-1. 졸업논문",
-    "3. CONCEPTS/3-0. GIT",
-    "6.  PROJECTS/5-1. 졸업논문",
-    "98. RESOURCES/Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.pdf",
-    "98. RESOURCES/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
-    "98. RESOURCES/Ship Design for Efficiency and Economy.pdf",
-    "98. RESOURCES/The hazards and risks of hydrogen.pdf",
     "무제.canvas"
   ]
 }
