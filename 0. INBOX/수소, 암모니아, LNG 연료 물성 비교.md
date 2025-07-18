@@ -11,7 +11,7 @@ tags:
 
 - [[리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options]]
 - [[KR_무탄소 선박연료로서 암모니아의 전망]]
-- [[Science and technology of ammonia combustion]]
+- [[리뷰_Science and technology of ammonia combustion]]
 
 ## 연료별 특성 비교표
 
@@ -51,7 +51,7 @@ tags:
 
 
 ### 화염 온도 및 연소 특성
-- 수소 연소시 최고 화염온도가 약 2100°C에 달해 가장 뜨겁고, 메탄은 약 1950°C, 암모니아는 1800°C 수준으로 가장 낮습니다 [[Science and technology of ammonia combustion]]
+- 수소 연소시 최고 화염온도가 약 2100°C에 달해 가장 뜨겁고, 메탄은 약 1950°C, 암모니아는 1800°C 수준으로 가장 낮습니다 [[리뷰_Science and technology of ammonia combustion]]
 - 암모니아 불꽃 온도가 낮은 건 연소열 일부가 질소결합 분해 등에 쓰이고, 또 산물에 수분 외에 질소가 다량 포함되어 열용량이 높기 때문 [[Sahin et al., 2023]]
 - 암모니아 연소는 불완전시 일산화질소/아산화질소 등 유독가스를 발생시키고 불꽃 안색이 노랗게 보일 수 있음.
 	- 수소 불꽃은 **눈에 보이지 않을 정도로 청색/무색**이며 복사열 방출이 적어 주변 가열은 덜하지만, 한편으로 감지가 어려워 위험 [Hydrogen How Does it Compare to Natural Gas and Ammonia?](https://endeavormgmt.com/insight/hydrogen-how-does-it-compare-to-natural-gas-and-ammonia#:~:text=the%20lightest%20molecule%2C%20a%20hydrogen,making%20burning%20leaks%20almost%20undetectable)
