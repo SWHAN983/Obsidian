@@ -38,7 +38,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea878c9b088af828",
+            "id": "3fe61f577b70c15b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,8 +85,7 @@
               "title": "저인화점 연료 증가와 화재 위험성"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
+                "file": "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "저인화점 연료 증가와 화재 위험성 의 개요"
+              "title": "해운업의 탈탄소화와 대체 연료 도입 의 개요"
             }
           }
         ]
@@ -230,12 +229,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
+                "file": "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "저인화점 연료 증가와 화재 위험성 의 나가는 링크"
+              "title": "해운업의 탈탄소화와 대체 연료 도입 의 나가는 링크"
             }
           },
           {
@@ -244,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
+                "file": "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +253,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "저인화점 연료 증가와 화재 위험성 의 백링크"
+              "title": "해운업의 탈탄소화와 대체 연료 도입 의 백링크"
             }
           }
         ],
@@ -296,11 +295,15 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "29c68f0d34e26f39",
+  "active": "3fe61f577b70c15b",
   "lastOpenFiles": [
     "7. OUTPUTS/MOC_졸업논문 목차.md",
-    "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
     "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
+    "0. INBOX/DNV, 2022.md",
+    "0. INBOX/Kim, Park, & Choi, 2021.md",
+    "0. INBOX/IGF Code.md",
+    "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
+    "0. INBOX/대형 선박의 저인화점 연료 사용.md",
     "6.  PROJECTS/6-1. 졸업논문/누출 위치, Vent 유무, Vent 유무 변수화.md",
     "0. INBOX/착화 가능 구역 도출.md",
     "5. LAB/랩 세미나_250715.md",
@@ -326,8 +329,6 @@
     "2. REVIEWS/리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "98. RESOURCES/A Study on Fire and Explosion Characteristics of Hydrogen.pdf",
     "1. DAILY NOTES/250718.md",
-    "1. DAILY NOTES/250717.md",
-    "7. OUTPUTS/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
     "99. ATTACHMENTS/Pasted image 20250717171130.png",
     "99. ATTACHMENTS/Pasted image 20250717171114.png",
@@ -335,8 +336,6 @@
     "99. ATTACHMENTS/Pasted image 20250717171110.png",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).pdf",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).hwp",
-    "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
-    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "6.  PROJECTS/6-1. 졸업논문",
     "3. CONCEPTS/3-0. GIT",
     "6.  PROJECTS/5-1. 졸업논문",
