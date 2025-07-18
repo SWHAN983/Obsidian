@@ -9,7 +9,7 @@ tags:
 
 # 🧩 개념 요약  
 
-- [[Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options]]
+- [[리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options]]
 - [[KR_무탄소 선박연료로서 암모니아의 전망]]
 - [[Kobayashi et al., 2019]]
 
@@ -73,7 +73,7 @@ tags:
 
 ### 사고 사례
 - 현실에서 세 연료의 사고 양상은 다름
-- 수소는 산업현장 누출→폭발 사례가 많이 축적돼 있으며, 작은 스파크로도 폭발하므로 “위험성이 가장 큰 연료”로 취급 [[Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options]]
+- 수소는 산업현장 누출→폭발 사례가 많이 축적돼 있으며, 작은 스파크로도 폭발하므로 “위험성이 가장 큰 연료”로 취급 [[리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options]]
 - LNG는 그동안 해상분야에서 큰 사고가 드물었지만 “만에 하나 큰 사고가 나면 피해가 막대”하다고 평가됨. [[Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation]]
 - 암모니아는 폭발보다는 누출 독성사고 비율이 높아, 선박에서도 화재보다는 유독가스 대비에 중점
 	- 2025년 러시아 탱커 [Eco Wizard호의 사례](https://www.marineinsight.com/shipping-news/russian-shadow-fleet-tanker-sinks-leaks-ammonia-after-explosions/)처럼 암모니아도 엔진실 폭발을 일으킬 수 있으나, 다행히 인명 피해 없이 넘김 

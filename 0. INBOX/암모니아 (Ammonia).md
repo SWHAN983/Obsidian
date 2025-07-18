@@ -8,7 +8,7 @@ tags:
 ---
 
 ## 🧩 개념 요약  
-- [[EMSA_Guidance on the use of ammonia as a marine fuel]]
+- [[리뷰_EMSA_Potential of Ammonia as Fuel in Shipping]]
 > 암모니아는 질소(N)와 수소(H)의 화합물로, 탄소(C)를 포함하지 않아 연소 시 CO₂를 전혀 배출하지 않는 완전한 무탄소 연료라는 점에서 큰 기대를 받고 있다. 
 > 
 > 수소에 비해 저장 및 운송이 용이하여 '수소 운반체'로서의 역할도 가능하다. 

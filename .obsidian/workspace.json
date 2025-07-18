@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
+                "file": "0. INBOX/Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals"
+              "title": "Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room"
             }
           },
           {
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
+                "file": "0. INBOX/Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals 의 개요"
+              "title": "Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room 의 개요"
             }
           },
           {
@@ -264,9 +264,19 @@
   },
   "active": "d26ee16a17dc64f2",
   "lastOpenFiles": [
+    "2. REVIEWS/리뷰_DNV_Maritime Forecast to 2050.md",
+    "2. REVIEWS/리뷰_Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
+    "2. REVIEWS/리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
+    "2. REVIEWS/리뷰_Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
+    "2. REVIEWS/리뷰_EMSA_Potential of Ammonia as Fuel in Shipping.md",
+    "0. INBOX/Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md",
+    "98. RESOURCES/EMSA_Potential of Ammonia as Fuel in Shipping.pdf",
+    "98. RESOURCES/DNV_Maritime_Forecast_2050_2024.pdf",
+    "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
+    "0. INBOX/DNV_Alternative Fuels Insight.md",
     "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
-    "2. REVIEWS/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
-    "2. REVIEWS/Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
+    "0. INBOX/메탄올 (Methanol).md",
+    "0. INBOX/암모니아 (Ammonia).md",
     "0. INBOX/Al-Enazi et al., 2021.md",
     "0. INBOX/액화천연가스 (LNG).md",
     "6.  PROJECTS/6-1. 졸업논문/수소 고압 운용으로 인한 누출 위험.md",
@@ -286,7 +296,6 @@
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
-    "conflict-files-obsidian-git.md",
     "98. RESOURCES/Science and technology of ammonia combustion.pdf",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
@@ -295,15 +304,6 @@
     "98. RESOURCES/KR_암모니아 연료선박에 대한 지침서.pdf",
     "98. RESOURCES/KR_무탄소 선박연료로서 암모니아의 전망.pdf",
     "98. RESOURCES/HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.pdf",
-    "98. RESOURCES/Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.pdf",
-    "98. RESOURCES/A Study on Fire and Explosion Characteristics of Hydrogen.pdf",
-    "97. TEMPLATES/TEMP_Concept.md",
-    "6.  PROJECTS/6-1. 졸업논문/누출 위치, Vent 유무, Vent 유무 변수화.md",
-    "5. LAB/교수님 미팅_250717.md",
-    "0. INBOX/Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.md",
-    "0. INBOX/Korean Register, 2022.md",
-    "0. INBOX/Kobayashi et al., 2019.md",
-    "0. INBOX/Kim, Park, & Choi, 2021.md",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
     "99. ATTACHMENTS/Pasted image 20250717171130.png",
     "99. ATTACHMENTS/Pasted image 20250717171114.png",
