@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. LAB/교수님 미팅_250717.md",
+                "file": "1. DAILY NOTES/250718.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "교수님 미팅_250717"
+              "title": "250718"
             }
           }
         ]
@@ -245,6 +245,7 @@
   },
   "active": "7eb3ccf19e0f9fac",
   "lastOpenFiles": [
+    "5. LAB/교수님 미팅_250717.md",
     "1. DAILY NOTES/250718.md",
     "NODE/corepack.cmd",
     "NODE/corepack",
@@ -281,7 +282,6 @@
     "NODE/node_modules/npm/node_modules/socks/docs/migratingFromV1.md",
     "NODE/node_modules/npm/node_modules/smart-buffer/docs/ROADMAP.md",
     "NODE/node_modules/npm/node_modules/qrcode-terminal/example/basic.png",
-    "NODE/node_modules/npm/node_modules/@npmcli/map-workspaces/LICENSE.md",
     "NODE/node_modules/npm/node_modules/retry/equation.gif",
     "node_modules/npm/node_modules/retry/equation.gif",
     "node_modules/npm/node_modules/qrcode-terminal/example/basic.png",
