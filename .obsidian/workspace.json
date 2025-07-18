@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY NOTES/250718.md",
+                "file": "5. LAB/교수님 미팅_250717.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250718"
+              "title": "교수님 미팅_250717"
             }
           }
         ]
@@ -245,6 +245,7 @@
   },
   "active": "7eb3ccf19e0f9fac",
   "lastOpenFiles": [
+    "1. DAILY NOTES/250718.md",
     "NODE/corepack.cmd",
     "NODE/corepack",
     "NODE/nodevars.bat",
@@ -255,7 +256,6 @@
     "NODE/install_tools.bat",
     "NODE/npx.ps1",
     "NODE/npm.ps1",
-    "NODE/node.exe",
     "NODE/node_modules/npm/node_modules/socks/docs/examples/typescript/connectExample.md",
     "NODE/node_modules/npm/node_modules/socks/docs/examples/typescript/bindExample.md",
     "NODE/node_modules/npm/node_modules/socks/docs/examples/typescript/associateExample.md",
