@@ -1,11 +1,12 @@
 ---
-title: 저인화점연료선박에 대한 지침서 (LPG & 메틸/에틸 알코올)
+title: Chen, Guan(2021)
 authors:
-  - KR
-year: "2020"
-journal: 
-원본 파일: "[[KR_저인화점연료선박에 대한 지침서(LPG & 메틸에틸 알코올)(국).pdf]]"
-created: 2025-07-18
+  - Lijian Chen
+  - Wenfeng Guan
+year: "2021"
+journal: World Electric Vehicle Journal
+원본 파일: "[[Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.pdf]]"
+created: 2025-07-16
 tags:
   - paper
   - toread
@@ -14,6 +15,4 @@ tags:
 > 지침: 왜 이 자료를 읽게 되었는지 간단히 설명하세요.
 
 - 이 노트는 [[MOC_졸업논문]] 내 특정 챕터 [[]]와 연결되는 리뷰 정리용입니다.  
-
-
 
