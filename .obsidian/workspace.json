@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+                "file": "1. DAILY NOTES/250718.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git 강제 Push (로컬이 더 최신일 때)"
+              "title": "250718"
             }
           },
           {
@@ -232,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+                "file": "1. DAILY NOTES/250718.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 강제 Push (로컬이 더 최신일 때) 의 개요"
+              "title": "250718 의 개요"
             }
           }
         ]
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+                "file": "1. DAILY NOTES/250718.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Git 강제 Push (로컬이 더 최신일 때) 의 백링크"
+              "title": "250718 의 백링크"
             }
           }
         ],
@@ -322,6 +322,7 @@
   },
   "active": "d9724dccf80e16cc",
   "lastOpenFiles": [
+    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
     "7. OUTPUTS/MOC_졸업논문 목차.md",
@@ -360,7 +361,6 @@
     "0. INBOX/기관실 내 자연발화·누출 사고 특성.md",
     "0. INBOX/Yoo et al., 2021.md",
     "0. INBOX/Sahin et al., 2023.md",
-    "0. INBOX/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.md",
     "Pasted image 20250718102151.png",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
     "99. ATTACHMENTS/Pasted image 20250717171130.png",
