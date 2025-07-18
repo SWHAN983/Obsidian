@@ -14,6 +14,37 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "0. INBOX/수소의 LEL~UEL 폭발 농도 범위.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "수소의 LEL~UEL 폭발 농도 범위"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0a1e91ea81fb4267",
+        "type": "tabs",
+        "dimension": 50.08156606851549,
+        "children": [
+          {
+            "id": "986cc827e1da2809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "0. INBOX/리뷰_수소의 화재 및 폭발 특성치에 관한 연구.md",
                 "mode": "source",
                 "source": false,
@@ -31,21 +62,14 @@
               "icon": "lucide-file",
               "title": "리뷰_수소의 화재 및 폭발 특성치에 관한 연구"
             }
-          }
-        ]
-      },
-      {
-        "id": "0a1e91ea81fb4267",
-        "type": "tabs",
-        "dimension": 50.08156606851549,
-        "children": [
+          },
           {
             "id": "462159a845fe0fcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.  PROJECTS/6-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,21 +84,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "기존 연료의 한계와 수소가 대안으로 주목받는 이유"
-            }
-          },
-          {
-            "id": "ba4c994782e114b8",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://chatgpt.com/g/g-p-68755be1b1d4819199480496efe2369c-obsidian/c/687998fc-d040-8324-bd1b-2fd742fc6036",
-                "title": "Obsidian - PKM 링크 연결 전략",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Obsidian - PKM 링크 연결 전략"
+              "title": "MOC_졸업논문 목차"
             }
           }
         ]
@@ -199,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.  PROJECTS/6-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
+                "file": "0. INBOX/리뷰_수소의 화재 및 폭발 특성치에 관한 연구.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "기존 연료의 한계와 수소가 대안으로 주목받는 이유 의 개요"
+              "title": "리뷰_수소의 화재 및 폭발 특성치에 관한 연구 의 개요"
             }
           }
         ]
@@ -221,12 +231,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.  PROJECTS/6-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
+                "file": "0. INBOX/리뷰_수소의 화재 및 폭발 특성치에 관한 연구.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "기존 연료의 한계와 수소가 대안으로 주목받는 이유 의 나가는 링크"
+              "title": "리뷰_수소의 화재 및 폭발 특성치에 관한 연구 의 나가는 링크"
             }
           },
           {
@@ -235,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.  PROJECTS/6-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
+                "file": "0. INBOX/리뷰_수소의 화재 및 폭발 특성치에 관한 연구.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +255,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "기존 연료의 한계와 수소가 대안으로 주목받는 이유 의 백링크"
+              "title": "리뷰_수소의 화재 및 폭발 특성치에 관한 연구 의 백링크"
             }
           }
         ],
@@ -287,11 +297,17 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "462159a845fe0fcb",
+  "active": "986cc827e1da2809",
   "lastOpenFiles": [
-    "7. OUTPUTS/MOC_졸업논문 목차.md",
     "0. INBOX/수소의 LEL~UEL 폭발 농도 범위.md",
+    "7. OUTPUTS/MOC_졸업논문 목차.md",
+    "97. TEMPLATES/TEMP_Concept.md",
+    "97. TEMPLATES/Temp_ReviewPaper.md",
     "0. INBOX/리뷰_수소의 화재 및 폭발 특성치에 관한 연구.md",
+    "97. TEMPLATES/Temp_Basis.md",
+    "97. TEMPLATES/Temp_Daily.md",
+    "97. TEMPLATES/Temp_MOC.md",
+    "97. TEMPLATES/Temp_LAB.md",
     "6.  PROJECTS/6-1. 졸업논문/기존 연료의 한계와 수소가 대안으로 주목받는 이유.md",
     "2. REVIEWS/리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "A Study on Fire and Explosion Characteristics of Hydrogen.pdf",
@@ -310,7 +326,6 @@
     "99. ATTACHMENTS/Pasted image 20250717170352.png",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).pdf",
     "98. RESOURCES/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).hwp",
-    "97. TEMPLATES/Temp_MOC.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "6.  PROJECTS/6-1. 졸업논문/수소의 감지·환기 관련 규정.md",
@@ -323,11 +338,6 @@
     "6.  PROJECTS/6-1. 졸업논문",
     "3. CONCEPTS/기후 변화와 환경 규제 대응.md",
     "3. CONCEPTS/기관실·수소 저장 구역 위치와 상호 관계.md",
-    "3. CONCEPTS/기관실 화재는 빈도와 피해가 크다.md",
-    "3. CONCEPTS/3-0. GIT/Valut 구조 정리법.md",
-    "3. CONCEPTS/3-0. GIT/Git GC (Garbage Collection).md",
-    "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
-    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
     "3. CONCEPTS/3-0. GIT",
     "6.  PROJECTS/5-1. 졸업논문",
     "98. RESOURCES/Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.pdf",
