@@ -201,8 +201,8 @@ HGSS는 다음의 **4가지 주요 기능 모듈**로 구성됨:
 
 # 5. 내 연구에 적용할 점
 > - 실제 사용할 것
-- [[리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션#수소 누출 원인|수소누출원인]]
-- [[리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션#수소 연료 선박 설계 계획(IMO)|수소 연료 선박 설계 계획(IMO)]]
+- [[리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room#수소 누출 원인|수소누출원인]]
+- [[리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room#수소 연료 선박 설계 계획(IMO)|수소 연료 선박 설계 계획(IMO)]]
 - 
 
 > - 응용 계획
