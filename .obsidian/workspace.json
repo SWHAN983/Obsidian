@@ -232,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 커밋 기준 복구 절차 의 개요"
+              "title": "MOC_졸업논문 목차 의 개요"
             }
           }
         ]
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Git 커밋 기준 복구 절차 의 백링크"
+              "title": "MOC_졸업논문 목차 의 백링크"
             }
           }
         ],
@@ -320,8 +320,9 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "377b20c0487fff01",
+  "active": "7eb3ccf19e0f9fac",
   "lastOpenFiles": [
+    "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
     "Science and technology of ammonia combustion.pdf",
     "Pasted image 20250718143043.png",
     "Pasted image 20250718143027.png",
