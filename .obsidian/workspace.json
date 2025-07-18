@@ -85,7 +85,8 @@
               "title": "저인화점 연료 증가와 화재 위험성"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "file": "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MOC_졸업논문 목차 의 개요"
+              "title": "저인화점 연료 증가와 화재 위험성 의 개요"
             }
           }
         ]
@@ -229,12 +230,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "file": "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "MOC_졸업논문 목차 의 나가는 링크"
+              "title": "저인화점 연료 증가와 화재 위험성 의 나가는 링크"
             }
           },
           {
@@ -243,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "file": "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +254,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "MOC_졸업논문 목차 의 백링크"
+              "title": "저인화점 연료 증가와 화재 위험성 의 백링크"
             }
           }
         ],
@@ -295,11 +296,11 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "462159a845fe0fcb",
+  "active": "29c68f0d34e26f39",
   "lastOpenFiles": [
+    "7. OUTPUTS/MOC_졸업논문 목차.md",
     "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
     "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
-    "7. OUTPUTS/MOC_졸업논문 목차.md",
     "6.  PROJECTS/6-1. 졸업논문/누출 위치, Vent 유무, Vent 유무 변수화.md",
     "0. INBOX/착화 가능 구역 도출.md",
     "5. LAB/랩 세미나_250715.md",
