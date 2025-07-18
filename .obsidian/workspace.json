@@ -84,86 +84,21 @@
         "currentTab": 2
       },
       {
-        "id": "8567061d763a9dba",
-        "type": "split",
+        "id": "2ed7fed806403cd6",
+        "type": "tabs",
         "dimension": 40.2120717781403,
         "children": [
           {
-            "id": "0a1e91ea81fb4267",
-            "type": "tabs",
-            "dimension": 62.4031007751938,
-            "children": [
-              {
-                "id": "16609fb6b8245f32",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://chatgpt.com/",
-                    "title": "ChatGPT",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "ChatGPT"
-                }
-              }
-            ]
-          },
-          {
-            "id": "062cc917279e5745",
-            "type": "split",
-            "dimension": 37.5968992248062,
-            "children": [
-              {
-                "id": "f53c17817a683422",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "1dc4a50d117cffe1",
-                    "type": "leaf",
-                    "state": {
-                      "type": "backlink",
-                      "state": {
-                        "file": "1. DAILY NOTES/250718.md",
-                        "collapseAll": false,
-                        "extraContext": false,
-                        "sortOrder": "alphabetical",
-                        "showSearch": false,
-                        "searchQuery": "",
-                        "backlinkCollapsed": false,
-                        "unlinkedCollapsed": false
-                      },
-                      "icon": "links-coming-in",
-                      "title": "250718 의 백링크"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "2ed7fed806403cd6",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "f9137678fa1352ca",
-                    "type": "leaf",
-                    "state": {
-                      "type": "outgoing-link",
-                      "state": {
-                        "file": "1. DAILY NOTES/250718.md",
-                        "linksCollapsed": false,
-                        "unlinkedCollapsed": true
-                      },
-                      "icon": "links-going-out",
-                      "title": "250718 의 나가는 링크"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
+            "id": "64f6b03c173720c4",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,8 +198,7 @@
               "title": "그래프 뷰"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -285,27 +219,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "file": "1. DAILY NOTES/250718.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MOC_졸업논문 목차 의 개요"
-            }
-          },
-          {
-            "id": "64f6b03c173720c4",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
+              "title": "250718 의 개요"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d5154e1f9791654e",
@@ -343,10 +266,10 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "c1d6352cfd5b8ab9",
+  "active": "1b052f6f0fe0224e",
   "lastOpenFiles": [
-    "7. OUTPUTS/MOC_졸업논문 목차.md",
     "1. DAILY NOTES/250718.md",
+    "7. OUTPUTS/MOC_졸업논문 목차.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
