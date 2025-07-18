@@ -38,6 +38,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ea878c9b088af828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "해운업의 탈탄소화와 대체 연료 도입"
+            }
+          },
+          {
             "id": "29c68f0d34e26f39",
             "type": "leaf",
             "state": {
@@ -183,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "저인화점 연료 증가와 화재 위험성 의 개요"
+              "title": "MOC_졸업논문 목차 의 개요"
             }
           }
         ]
@@ -205,12 +229,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "저인화점 연료 증가와 화재 위험성 의 나가는 링크"
+              "title": "MOC_졸업논문 목차 의 나가는 링크"
             }
           },
           {
@@ -219,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +253,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "저인화점 연료 증가와 화재 위험성 의 백링크"
+              "title": "MOC_졸업논문 목차 의 백링크"
             }
           }
         ],
@@ -271,10 +295,11 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "29c68f0d34e26f39",
+  "active": "462159a845fe0fcb",
   "lastOpenFiles": [
-    "7. OUTPUTS/MOC_졸업논문 목차.md",
+    "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
     "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
+    "7. OUTPUTS/MOC_졸업논문 목차.md",
     "6.  PROJECTS/6-1. 졸업논문/누출 위치, Vent 유무, Vent 유무 변수화.md",
     "0. INBOX/착화 가능 구역 도출.md",
     "5. LAB/랩 세미나_250715.md",
@@ -283,7 +308,6 @@
     "0. INBOX/기관실·연료설비 배치 구조.md",
     "0. INBOX/CFD 기반 화재 시뮬레이션 연구 동향.md",
     "6.  PROJECTS/6-1. 졸업논문/수소 누출·화재 CFD 연구 사례.md",
-    "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
     "0. INBOX/리뷰_수소의 화재 및 폭발 특성치에 관한 연구.md",
     "Pasted image 20250718143043.png",
     "Pasted image 20250718143027.png",
