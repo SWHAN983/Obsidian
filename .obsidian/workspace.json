@@ -227,6 +227,39 @@
               "icon": "lucide-list",
               "title": "250718 의 개요"
             }
+          },
+          {
+            "id": "c363a337cdf64458",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. DAILY NOTES/250718.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "250718 의 백링크"
+            }
+          },
+          {
+            "id": "104c4fbc70b5d8cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. DAILY NOTES/250718.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "250718 의 나가는 링크"
+            }
           }
         ]
       },
@@ -266,7 +299,7 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "1b052f6f0fe0224e",
+  "active": "c1d6352cfd5b8ab9",
   "lastOpenFiles": [
     "1. DAILY NOTES/250718.md",
     "7. OUTPUTS/MOC_졸업논문 목차.md",
