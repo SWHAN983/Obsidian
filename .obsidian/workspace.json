@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md",
+                "file": "0. INBOX/Greenhouse gas emissions from global shipping, 2013–2015.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room"
+              "title": "Greenhouse gas emissions from global shipping, 2013–2015"
             }
           },
           {
@@ -60,8 +60,33 @@
               "icon": "bot-message-square",
               "title": "Copilot Chat"
             }
+          },
+          {
+            "id": "c4a942ae96d68e97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. OUTPUTS/MOC_졸업논문.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC_졸업논문"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md",
+                "file": "7. OUTPUTS/MOC_졸업논문.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room 의 개요"
+              "title": "MOC_졸업논문 의 개요"
             }
           },
           {
@@ -262,14 +287,16 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "d26ee16a17dc64f2",
+  "active": "c4a942ae96d68e97",
   "lastOpenFiles": [
+    "0. INBOX/Greenhouse gas emissions from global shipping, 2013–2015.md",
+    "Greenhouse gas emissions from global shipping, 2013–2015.pdf",
+    "2. REVIEWS/리뷰_Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md",
     "2. REVIEWS/리뷰_DNV_Maritime Forecast to 2050.md",
     "2. REVIEWS/리뷰_Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
     "2. REVIEWS/리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
     "2. REVIEWS/리뷰_Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
     "2. REVIEWS/리뷰_EMSA_Potential of Ammonia as Fuel in Shipping.md",
-    "0. INBOX/Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md",
     "98. RESOURCES/EMSA_Potential of Ammonia as Fuel in Shipping.pdf",
     "98. RESOURCES/DNV_Maritime_Forecast_2050_2024.pdf",
     "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
@@ -285,7 +312,7 @@
     "3. CONCEPTS/기후 변화와 환경 규제 대응.md",
     "3. CONCEPTS/2023 IMO 온실가스 감축 전략.md",
     "3. CONCEPTS/기관실 화재는 빈도와 피해가 크다.md",
-    "7. OUTPUTS/MOC_졸업논문 목차.md",
+    "7. OUTPUTS/MOC_졸업논문.md",
     "6.  PROJECTS/6-1. 졸업논문/수소는 기관실 내에서 특히 위험한 연료다.md",
     "1. DAILY NOTES/250719.md",
     "98. RESOURCES/2023 IMO Strategy on Reduction of GHG Emissions from Ships. IMO..pdf",
@@ -295,7 +322,6 @@
     "1. DAILY NOTES/250718.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
-    "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
     "98. RESOURCES/Science and technology of ammonia combustion.pdf",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
@@ -303,7 +329,6 @@
     "98. RESOURCES/Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.pdf",
     "98. RESOURCES/KR_암모니아 연료선박에 대한 지침서.pdf",
     "98. RESOURCES/KR_무탄소 선박연료로서 암모니아의 전망.pdf",
-    "98. RESOURCES/HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.pdf",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
     "99. ATTACHMENTS/Pasted image 20250717171130.png",
     "99. ATTACHMENTS/Pasted image 20250717171114.png",
