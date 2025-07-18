@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. CONCEPTS/2023 IMO 온실가스 감축 전략.md",
+                "file": "0. INBOX/Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2023 IMO 온실가스 감축 전략"
+              "title": "Air and hydrogen supply systems and equipment for PEM fuel cells a review"
             }
           },
           {
@@ -44,8 +44,7 @@
               "title": "2023 IMO Strategy on Reduction of GHG Emissions from Ships. IMO."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2ed7fed806403cd6",
@@ -183,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "98. RESOURCES/2023 IMO Strategy on Reduction of GHG Emissions from Ships. IMO..pdf",
+                "file": "0. INBOX/Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2023 IMO Strategy on Reduction of GHG Emissions from Ships. IMO. 의 개요"
+              "title": "Air and hydrogen supply systems and equipment for PEM fuel cells a review 의 개요"
             }
           },
           {
@@ -263,16 +262,23 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "3e9e211e45c60b97",
+  "active": "d26ee16a17dc64f2",
   "lastOpenFiles": [
+    "6.  PROJECTS/6-1. 졸업논문/수소 고압 운용으로 인한 누출 위험.md",
+    "0. INBOX/Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
+    "0. INBOX/기관실 내 자연발화·누출 사고 특성.md",
+    "3. CONCEPTS/기관실·연료설비 배치 구조.md",
+    "3. CONCEPTS/기후 변화와 환경 규제 대응.md",
     "3. CONCEPTS/2023 IMO 온실가스 감축 전략.md",
+    "3. CONCEPTS/기관실 화재는 빈도와 피해가 크다.md",
+    "7. OUTPUTS/MOC_졸업논문 목차.md",
+    "6.  PROJECTS/6-1. 졸업논문/수소는 기관실 내에서 특히 위험한 연료다.md",
     "1. DAILY NOTES/250719.md",
     "98. RESOURCES/2023 IMO Strategy on Reduction of GHG Emissions from Ships. IMO..pdf",
     "98. RESOURCES/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
     "99. ATTACHMENTS/Pasted image 20250718142945.png",
     "98. RESOURCES/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
     "1. DAILY NOTES/250718.md",
-    "7. OUTPUTS/MOC_졸업논문 목차.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
@@ -298,13 +304,6 @@
     "0. INBOX/KR_무탄소 선박연료로서 암모니아의 전망.md",
     "0. INBOX/IGF Code.md",
     "0. INBOX/HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.md",
-    "0. INBOX/Greenhouse gas emissions from global shipping, 2013–2015.md",
-    "0. INBOX/Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md",
-    "0. INBOX/EMSA_Guidance on the use of ammonia as a marine fuel.md",
-    "0. INBOX/DNV_Maritime Forecast to 2050.md",
-    "0. INBOX/DNV_Alternative Fuels Insight.md",
-    "0. INBOX/CFD 기반 화재 시뮬레이션 연구 동향.md",
-    "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
     "99. ATTACHMENTS/Pasted image 20250717171130.png",
     "99. ATTACHMENTS/Pasted image 20250717171114.png",
