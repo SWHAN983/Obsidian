@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
+                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git 커밋 기준 복구 절차"
+              "title": "Git 강제 Push (로컬이 더 최신일 때)"
             }
           },
           {
@@ -232,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MOC_졸업논문 목차 의 개요"
+              "title": "Git 강제 Push (로컬이 더 최신일 때) 의 개요"
             }
           }
         ]
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "MOC_졸업논문 목차 의 백링크"
+              "title": "Git 강제 Push (로컬이 더 최신일 때) 의 백링크"
             }
           }
         ],
@@ -320,9 +320,11 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "7eb3ccf19e0f9fac",
+  "active": "d9724dccf80e16cc",
   "lastOpenFiles": [
+    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
+    "7. OUTPUTS/MOC_졸업논문 목차.md",
     "Science and technology of ammonia combustion.pdf",
     "Pasted image 20250718143043.png",
     "Pasted image 20250718143027.png",
@@ -359,8 +361,6 @@
     "0. INBOX/Yoo et al., 2021.md",
     "0. INBOX/Sahin et al., 2023.md",
     "0. INBOX/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.md",
-    "0. INBOX/Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.md",
-    "0. INBOX/Korean Register, 2022.md",
     "Pasted image 20250718102151.png",
     "99. ATTACHMENTS/Pasted image 20250717172049.png",
     "99. ATTACHMENTS/Pasted image 20250717171130.png",
