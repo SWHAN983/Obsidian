@@ -26,6 +26,7 @@ git stash push -m "🔒 현재 상태 백업"
 
 # 3단계: 복구 실행 (reset 방식)
 ```
+rm conflict-files-obsidian-git.md
 git reset --hard <커밋해시>
 ```
 - 현재 브랜치(main)의 HEAD를 해당 커밋으로 강제 이동
