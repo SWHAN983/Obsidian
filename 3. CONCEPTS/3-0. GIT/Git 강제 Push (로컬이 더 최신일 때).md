@@ -43,7 +43,6 @@ git push --force-with-lease origin main # → 다시 강제 푸시
 - 원격 브랜치가 예기치 않게 바뀌면 푸시가 실패 → **다른 작업 덮어쓰기 방지**
 
 ---
-
 ## 💡 2. 사용 예시: 충돌 후 강제 Push
 
 ```bash
