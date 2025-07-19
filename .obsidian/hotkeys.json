@@ -15,15 +15,6 @@
       "key": "T"
     }
   ],
-  "obsidian-git:commit-push-specified-message": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
   "markdown:toggle-preview": [],
   "editor:toggle-source": [
     {
@@ -31,6 +22,24 @@
         "Mod"
       ],
       "key": "E"
+    }
+  ],
+  "editor:save-file": [],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
     }
   ]
 }
