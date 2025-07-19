@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+                "file": "0. INBOX/Git 백업.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git 강제 Push (로컬이 더 최신일 때)"
+              "title": "Git 백업"
             }
           },
           {
@@ -270,6 +270,8 @@
   "active": "7eb3ccf19e0f9fac",
   "lastOpenFiles": [
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
+    "0. INBOX/Git 백업.md",
+    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
     "7. OUTPUTS/MOC_졸업논문.md",
     "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
     "3. CONCEPTS/리뷰_Greenhouse gas emissions from global shipping, 2013–2015.md",
@@ -293,8 +295,6 @@
     "0. INBOX/수소선박에 대한 안전규정 개발 - 선박 설계 및 배치.md",
     "0. INBOX/수소선박에 대한 안전규정 개발 - 목적과 기능요건.md",
     "0. INBOX/수소를 연료로 사용하는 선박의 안전을 위한 임시 지침 초안 발표.md",
-    "0. INBOX/수소를 연료로 사용하는 선박에 대한 임시지침.md",
-    "0. INBOX/수소, 암모니아, LNG 연료 물성 비교.md",
     "0. INBOX",
     "98. RESOURCES/저인화점연료 추진선박기준(해양수산부고시)(제2020-94호)(20200708).pdf",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
