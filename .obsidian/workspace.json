@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문.md",
+                "file": "0. INBOX/1.1 연구 배경.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC_졸업논문"
+              "title": "1.1 연구 배경"
             }
           }
         ]
@@ -246,8 +246,8 @@
   },
   "active": "46133dad091ad21b",
   "lastOpenFiles": [
-    "0. INBOX/1.1 연구 배경.md",
     "7. OUTPUTS/MOC_졸업논문.md",
+    "0. INBOX/1.1 연구 배경.md",
     "2. REVIEWS/리뷰_저인화점연료 추진선박기준.md",
     "3. CONCEPTS/저인화점 연료.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
