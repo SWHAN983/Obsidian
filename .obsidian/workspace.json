@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/1.2 문헌 검토.md",
+                "file": "0. INBOX/1.1 연구 배경.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.2 문헌 검토"
+              "title": "1.1 연구 배경"
             }
           }
         ]
@@ -244,11 +244,11 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "0e60e462f894a333",
+  "active": "46133dad091ad21b",
   "lastOpenFiles": [
-    "97. TEMPLATES/Temp_MOC.md",
-    "0. INBOX/1.2 문헌 검토.md",
     "7. OUTPUTS/MOC_졸업논문.md",
+    "0. INBOX/1.2 문헌 검토.md",
+    "97. TEMPLATES/Temp_MOC.md",
     "0. INBOX/1.1 연구 배경.md",
     "3. CONCEPTS/대형 선박의 저인화점 연료 사용.md",
     "2. REVIEWS/리뷰_Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.md",
