@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
+                "file": "1. DAILY NOTES/250720.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git 강제 Pull(로컬 초기화, 원격 덮어쓰기)"
+              "title": "250720"
             }
           }
         ],
@@ -270,9 +270,10 @@
   },
   "active": "cd18d8e85ab6a063",
   "lastOpenFiles": [
+    "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
+    "1. DAILY NOTES/250720.md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "conflict-files-obsidian-git.md",
-    "1. DAILY NOTES/250720.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
     "0. INBOX/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
     "6.  PROJECTS/6-1. 졸업논문/1.2 문헌 검토.md",
@@ -297,7 +298,6 @@
     "98. RESOURCES/KR_Decarbonization뉴스레터_vol07.pdf",
     "3. CONCEPTS/저인화점 연료 증가와 화재 위험성.md",
     "3. CONCEPTS/IMO의 탈탄소화 규제 동향.md",
-    "97. TEMPLATES/Temp_MOC.md",
     "발화온도, LEL",
     "98. RESOURCES/저인화점연료 추진선박기준(해양수산부고시)(제2020-94호)(20200708).pdf",
     "0. INBOX",
