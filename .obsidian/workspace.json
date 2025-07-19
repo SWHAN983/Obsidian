@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문.md",
+                "file": "0. INBOX/저인화점 연료 누출·자연발화 관련 연구.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC_졸업논문"
+              "title": "저인화점 연료 누출·자연발화 관련 연구"
             }
           }
         ]
@@ -245,8 +245,10 @@
   },
   "active": "7eb3ccf19e0f9fac",
   "lastOpenFiles": [
-    "0. INBOX/사고사례 기반 시나리오 모델링의 필요성.md",
     "7. OUTPUTS/MOC_졸업논문.md",
+    "0. INBOX/저인화점 연료 누출·자연발화 관련 연구.md",
+    "0. INBOX/기관실 내 저인화점 연료의 자연발화 위험.md",
+    "0. INBOX/사고사례 기반 시나리오 모델링의 필요성.md",
     "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
     "3. CONCEPTS/2023 IMO 온실가스 감축 전략.md",
     "0. INBOX/대형 선박의 저인화점 연료 사용.md",
@@ -270,8 +272,6 @@
     "0. INBOX/액체수소 선박 기술.md",
     "0. INBOX/암모니아 (Ammonia).md",
     "0. INBOX/수소의 LEL~UEL 폭발 농도 범위.md",
-    "0. INBOX/수소에너지의 수요증가.md",
-    "0. INBOX/수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계.md",
     "0. INBOX",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
