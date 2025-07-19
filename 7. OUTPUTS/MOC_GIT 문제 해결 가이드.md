@@ -13,3 +13,4 @@ tags:
 - [[Git GC (Garbage Collection)]]
 - [[Valut 구조 정리법]]
 - [[Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소)]]
+- [[Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소)]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.  PROJECTS/6-1. 졸업논문/1.2 문헌 검토.md",
+                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.2 문헌 검토"
+              "title": "Git 강제 Push (로컬이 더 최신일 때)"
             }
           }
         ]
@@ -245,10 +245,10 @@
   },
   "active": "8784d8340dc68386",
   "lastOpenFiles": [
-    "7. OUTPUTS/MOC_졸업논문.md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "0. INBOX/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
     "6.  PROJECTS/6-1. 졸업논문/1.2 문헌 검토.md",
+    "7. OUTPUTS/MOC_졸업논문.md",
     "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
     "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
     "conflict-files-obsidian-git.md",
