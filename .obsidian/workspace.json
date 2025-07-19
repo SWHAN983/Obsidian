@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/1.1 연구 배경.md",
+                "file": "0. INBOX/1.2 문헌 검토.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.1 연구 배경"
+              "title": "1.2 문헌 검토"
             }
           }
         ]
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "리뷰_2023",
+                "query": "DNV, 2024",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,9 +247,11 @@
   "active": "46133dad091ad21b",
   "lastOpenFiles": [
     "7. OUTPUTS/MOC_졸업논문.md",
-    "0. INBOX/1.2 문헌 검토.md",
-    "97. TEMPLATES/Temp_MOC.md",
     "0. INBOX/1.1 연구 배경.md",
+    "0. INBOX/1.2 문헌 검토.md",
+    "3. CONCEPTS/저인화점 연료 증가와 화재 위험성.md",
+    "3. CONCEPTS/IMO의 탈탄소화 규제 동향.md",
+    "97. TEMPLATES/Temp_MOC.md",
     "3. CONCEPTS/대형 선박의 저인화점 연료 사용.md",
     "2. REVIEWS/리뷰_Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.md",
     "2. REVIEWS/리뷰_저인화점연료 추진선박기준.md",
@@ -263,13 +265,11 @@
     "3. CONCEPTS/액체수소 선박 기술.md",
     "3. CONCEPTS/액화천연가스 (LNG).md",
     "3. CONCEPTS/저인화점 연료 누출·자연발화 관련 연구.md",
-    "3. CONCEPTS/저인화점 연료 증가와 화재 위험성.md",
     "3. CONCEPTS/해운업의 탈탄소화와 대체 연료 도입.md",
     "3. CONCEPTS/CFD 기반 자연발화 위험 예측의 필요성.md",
     "3. CONCEPTS/CFD 기반 화재 시뮬레이션 연구 동향.md",
     "0. INBOX/IGF Code.md",
     "2. REVIEWS/IMO CCC의 회의 동향 및 지침 검토.md",
-    "3. CONCEPTS/IMO의 탈탄소화 규제 동향.md",
     "3. CONCEPTS/수소 (Hydrogen).md",
     "3. CONCEPTS/암모니아 (Ammonia).md",
     "발화온도, LEL",
