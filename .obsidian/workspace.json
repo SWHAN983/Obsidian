@@ -4,20 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "b6e93402ca03cf9e",
+        "id": "f5c60fa09fb5050e",
         "type": "tabs",
         "children": [
           {
-            "id": "86b816d0c589ce03",
+            "id": "8784d8340dc68386",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Git 강제 Push (로컬이 더 최신일 때)"
+            }
+          },
+          {
+            "id": "cd18d8e85ab6a063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Git 강제 Pull(로컬 초기화, 원격 덮어쓰기)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,9 +145,33 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
+          },
+          {
+            "id": "0e60e462f894a333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DAILY NOTES/250720.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "250720"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "eac9abe5fe92f719",
@@ -162,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 574.5
+    "width": 444.5
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -219,15 +282,16 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "84301899b043e26d",
+  "active": "cd18d8e85ab6a063",
   "lastOpenFiles": [
     "3. CONCEPTS/UEL, IDT, 점화에너지 등 핵심 연소 특성.md",
+    "0. INBOX/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
+    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "1. DAILY NOTES/250720.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
-    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "conflict-files-obsidian-git.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
-    "0. INBOX/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
+    "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
     "6.  PROJECTS/6-1. 졸업논문/1.2 문헌 검토.md",
     "7. OUTPUTS/MOC_졸업논문.md",
     "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
@@ -248,7 +312,6 @@
     "3. CONCEPTS/저인화점 연료.md",
     "98. RESOURCES/IMO_SUB-COMMITTEE ON CARRIAGE OF CARGOES AND CONTAINERS 10th session.pdf",
     "98. RESOURCES/KR_Decarbonization뉴스레터_vol07.pdf",
-    "3. CONCEPTS/저인화점 연료 증가와 화재 위험성.md",
     "발화온도, LEL",
     "98. RESOURCES/저인화점연료 추진선박기준(해양수산부고시)(제2020-94호)(20200708).pdf",
     "0. INBOX",
