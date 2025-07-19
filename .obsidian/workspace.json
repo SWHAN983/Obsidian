@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/1.1 연구 배경.md",
+                "file": "7. OUTPUTS/MOC_졸업논문.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.1 연구 배경"
+              "title": "MOC_졸업논문"
             }
           }
         ]
@@ -246,14 +246,15 @@
   },
   "active": "46133dad091ad21b",
   "lastOpenFiles": [
+    "3. CONCEPTS/대형 선박의 저인화점 연료 사용.md",
     "7. OUTPUTS/MOC_졸업논문.md",
     "0. INBOX/1.1 연구 배경.md",
+    "2. REVIEWS/리뷰_Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.md",
     "2. REVIEWS/리뷰_저인화점연료 추진선박기준.md",
     "3. CONCEPTS/저인화점 연료.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
     "0. INBOX/기관실 화재 사고 데이터베이스.md",
     "3. CONCEPTS/액체수소의 기술적·산업적 필요성.md",
-    "3. CONCEPTS/대형 선박의 저인화점 연료 사용.md",
     "0. INBOX/수소에너지의 수요증가.md",
     "3. CONCEPTS/자연 발화 CFD 시뮬레이션 주요 출력 내용.md",
     "3. CONCEPTS/메탄올 (Methanol).md",
@@ -271,7 +272,6 @@
     "3. CONCEPTS/암모니아 (Ammonia).md",
     "2. REVIEWS/수소를 연료로 사용하는 선박에 대한 임시지침.md",
     "2. REVIEWS/IMO CCC 회의동향 - 제4장. 결론.md",
-    "0. INBOX/친환경 선박 관련 IMO 회의 동향.md",
     "발화온도, LEL",
     "98. RESOURCES/저인화점연료 추진선박기준(해양수산부고시)(제2020-94호)(20200708).pdf",
     "0. INBOX",
