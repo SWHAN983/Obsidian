@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/기관실 내 자연발화·누출 사고 특성.md",
+                "file": "0. INBOX/기관실 내 고온 표면과 저인화점 연료 누출이 착화를 유발하는가.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "기관실 내 자연발화·누출 사고 특성"
+              "title": "기관실 내 고온 표면과 저인화점 연료 누출이 착화를 유발하는가"
             }
           }
         ]
@@ -246,6 +246,9 @@
   "active": "7eb3ccf19e0f9fac",
   "lastOpenFiles": [
     "7. OUTPUTS/MOC_졸업논문.md",
+    "0. INBOX/기관실 내 고온 표면과 저인화점 연료 누출이 착화를 유발하는가.md",
+    "0. INBOX/CFD 기반 화재 시뮬레이션 연구 동향.md",
+    "0. INBOX/기관실 내 자연발화·누출 사고 특성.md",
     "0. INBOX/저인화점 연료 누출·자연발화 관련 연구.md",
     "0. INBOX/기관실 내 저인화점 연료의 자연발화 위험.md",
     "0. INBOX/사고사례 기반 시나리오 모델링의 필요성.md",
@@ -269,9 +272,6 @@
     "0. INBOX/액체수소의 기술적·산업적 필요성.md",
     "0. INBOX/액체수소 저장 기술.md",
     "0. INBOX/액체수소 운송 기술.md",
-    "0. INBOX/액체수소 선박 기술.md",
-    "0. INBOX/암모니아 (Ammonia).md",
-    "0. INBOX/수소의 LEL~UEL 폭발 농도 범위.md",
     "0. INBOX",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
