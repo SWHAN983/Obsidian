@@ -32,13 +32,36 @@ D:/HSW/
 
   
 
+
 ---
 
   
 
 ## 🪜 전체 백업 절차
 
-  
+```
+cd /d/HSW/Obsidian
+
+# 원격 주소 변경
+git remote set-url origin https://github.com/SWHAN983/Obsidian-Backup.git
+
+# (필요 시 브랜치 생성)
+git checkout -b backup-2025-07-19
+
+# 푸시
+git push -u origin backup-2025-07-19
+
+```
+
+## ✅ 참고: 복원하고 싶을 때는?
+
+다시 메인 레포로 바꾸고 싶다면:
+```
+git remote set-url origin https://github.com/SWHAN983/Obsidian.git
+```
+
+
+
 
 ### 1️⃣ Vault 복사
 
