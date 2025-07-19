@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
+                "file": "7. OUTPUTS/MOC_졸업논문.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC_GIT 문제 해결 가이드"
+              "title": "MOC_졸업논문"
             }
           }
         ]
@@ -245,14 +245,14 @@
   },
   "active": "8784d8340dc68386",
   "lastOpenFiles": [
-    "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
+    "6.  PROJECTS/6-1. 졸업논문/1.2 문헌 검토.md",
+    "7. OUTPUTS/MOC_졸업논문.md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
+    "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
     "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
     "conflict-files-obsidian-git.md",
     "1. DAILY NOTES/250720.md",
     "0. INBOX/기관실 화재 사고 데이터베이스.md",
-    "7. OUTPUTS/MOC_졸업논문.md",
-    "6.  PROJECTS/6-1. 졸업논문/1.2 문헌 검토.md",
     "1. DAILY NOTES/250719.md",
     "2. REVIEWS/리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
     "0. INBOX/리뷰_KR_Decarbonization뉴스레터_vol07.md",
