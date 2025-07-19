@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/기관실 내 고온 표면과 저인화점 연료 누출이 착화를 유발하는가.md",
+                "file": "7. OUTPUTS/MOC_졸업논문.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "기관실 내 고온 표면과 저인화점 연료 누출이 착화를 유발하는가"
+              "title": "MOC_졸업논문"
             }
           }
         ]
@@ -245,8 +245,8 @@
   },
   "active": "7eb3ccf19e0f9fac",
   "lastOpenFiles": [
-    "7. OUTPUTS/MOC_졸업논문.md",
     "0. INBOX/기관실 내 고온 표면과 저인화점 연료 누출이 착화를 유발하는가.md",
+    "7. OUTPUTS/MOC_졸업논문.md",
     "0. INBOX/CFD 기반 화재 시뮬레이션 연구 동향.md",
     "0. INBOX/기관실 내 자연발화·누출 사고 특성.md",
     "0. INBOX/저인화점 연료 누출·자연발화 관련 연구.md",
