@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/대형 선박의 저인화점 연료 사용.md",
+                "file": "0. INBOX/기관실 화재 사고 데이터베이스.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "대형 선박의 저인화점 연료 사용"
+              "title": "기관실 화재 사고 데이터베이스"
             }
           },
           {
@@ -269,6 +269,8 @@
   },
   "active": "7eb3ccf19e0f9fac",
   "lastOpenFiles": [
+    "3. CONCEPTS/액체수소의 기술적·산업적 필요성.md",
+    "3. CONCEPTS/대형 선박의 저인화점 연료 사용.md",
     "0. INBOX/기관실 화재 사고 데이터베이스.md",
     "3. CONCEPTS/저인화점 연료.md",
     "0. INBOX/수소에너지의 수요증가.md",
@@ -285,14 +287,12 @@
     "2. REVIEWS/IMO CCC의 회의 동향 및 지침 검토.md",
     "3. CONCEPTS/IMO의 탈탄소화 규제 동향.md",
     "2. REVIEWS/리뷰_저인화점연료 추진선박기준.md",
-    "0. INBOX/대형 선박의 저인화점 연료 사용.md",
     "3. CONCEPTS/수소 (Hydrogen).md",
     "3. CONCEPTS/암모니아 (Ammonia).md",
     "2. REVIEWS/수소를 연료로 사용하는 선박에 대한 임시지침.md",
     "2. REVIEWS/IMO CCC 회의동향 - 제4장. 결론.md",
     "0. INBOX/친환경 선박 관련 IMO 회의 동향.md",
     "3. CONCEPTS/일본 액체수소 운반선 기술.md",
-    "0. INBOX/액체수소의 기술적·산업적 필요성.md",
     "3. CONCEPTS/액체수소 저장 기술.md",
     "3. CONCEPTS/액체수소 운송 기술.md",
     "발화온도, LEL",
