@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5a3600eabe9756c4",
+        "id": "dfcb8a2bef78a113",
         "type": "tabs",
-        "dimension": 59.78792822185971,
         "children": [
           {
-            "id": "d26ee16a17dc64f2",
+            "id": "7eb3ccf19e0f9fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/IGF Code.md",
+                "file": "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,28 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IGF Code"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2ed7fed806403cd6",
-        "type": "tabs",
-        "dimension": 40.2120717781403,
-        "children": [
-          {
-            "id": "64f6b03c173720c4",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
+              "title": "Git 커밋 기준 복구 절차"
             }
           },
           {
-            "id": "c4a942ae96d68e97",
+            "id": "0dedb535709f5ba5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,7 +67,7 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
-        "dimension": 76.74418604651163,
+        "dimension": 52.333664349553125,
         "children": [
           {
             "id": "84301899b043e26d",
@@ -106,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#reviewed",
+                "query": "igf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +114,7 @@
       {
         "id": "f688897bf0516395",
         "type": "tabs",
-        "dimension": 23.255813953488367,
+        "dimension": 27.805362462760673,
         "children": [
           {
             "id": "1b052f6f0fe0224e",
@@ -173,75 +155,13 @@
               "title": "그래프 뷰"
             }
           }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 374.5
-  },
-  "right": {
-    "id": "f6e3a5d123567eda",
-    "type": "split",
-    "children": [
-      {
-        "id": "30fb6174ca5a12b2",
-        "type": "tabs",
-        "dimension": 59.016393442622956,
-        "children": [
-          {
-            "id": "e0f02b6e118fd73b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "0. INBOX/IGF Code.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "IGF Code 의 개요"
-            }
-          },
-          {
-            "id": "c363a337cdf64458",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "1. DAILY NOTES/250718.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "250718 의 백링크"
-            }
-          },
-          {
-            "id": "104c4fbc70b5d8cc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "1. DAILY NOTES/250718.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "250718 의 나가는 링크"
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "d5154e1f9791654e",
+        "id": "eac9abe5fe92f719",
         "type": "tabs",
-        "dimension": 40.983606557377044,
+        "dimension": 19.860973187686195,
         "children": [
           {
             "id": "377b20c0487fff01",
@@ -252,12 +172,85 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "1dc4a50d117cffe1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "MOC_졸업논문 목차 의 백링크"
+            }
+          },
+          {
+            "id": "f9137678fa1352ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "MOC_졸업논문 목차 의 나가는 링크"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 293.5
+  },
+  "right": {
+    "id": "f6e3a5d123567eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "30fb6174ca5a12b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0f02b6e118fd73b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "MOC_졸업논문 목차 의 개요"
+            }
+          },
+          {
+            "id": "952b8bf6a5dc24a8",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,54 +267,54 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "d26ee16a17dc64f2",
+  "active": "7eb3ccf19e0f9fac",
   "lastOpenFiles": [
+    "3. CONCEPTS/리뷰_Greenhouse gas emissions from global shipping, 2013–2015.md",
+    "0. INBOX/친환경 선박 관련 IMO 회의 동향.md",
+    "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
+    "0. INBOX/저인화점 연료.md",
+    "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
+    "0. INBOX/자연 발화 CFD 시뮬레이션 주요 출력 내용.md",
     "0. INBOX/일본 액체수소 운반선 기술.md",
-    "2. REVIEWS/리뷰_수소의 화재 및 폭발 특성치에 관한 연구.md",
+    "0. INBOX/액화천연가스 (LNG).md",
+    "0. INBOX/액체수소의 기술적·산업적 필요성.md",
+    "0. INBOX/액체수소 저장 기술.md",
+    "0. INBOX/액체수소 운송 기술.md",
+    "0. INBOX/액체수소 선박 기술.md",
+    "0. INBOX/암모니아 (Ammonia).md",
+    "0. INBOX/수소의 LEL~UEL 폭발 농도 범위.md",
+    "0. INBOX/수소에너지의 수요증가.md",
+    "0. INBOX/수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계.md",
+    "0. INBOX/수소선박에 대한 안전규정 개발 - 일반요건.md",
+    "0. INBOX/수소선박에 대한 안전규정 개발 - 연료격납설비.md",
+    "0. INBOX/수소선박에 대한 안전규정 개발 - 선박 설계 및 배치.md",
+    "0. INBOX/수소선박에 대한 안전규정 개발 - 목적과 기능요건.md",
+    "0. INBOX/수소를 연료로 사용하는 선박의 안전을 위한 임시 지침 초안 발표.md",
+    "0. INBOX/수소를 연료로 사용하는 선박에 대한 임시지침.md",
+    "0. INBOX/수소, 암모니아, LNG 연료 물성 비교.md",
+    "0. INBOX/수소 (Hydrogen).md",
     "0. INBOX/선박 기관실 적용 관점에서의 주의사항.md",
     "0. INBOX/메탄올 (Methanol).md",
-    "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
-    "0. INBOX/IMO CCC의 회의 동향 및 지침 검토.md",
-    "0. INBOX/IMO의 탈탄소화 규제 동향.md",
-    "2. REVIEWS/리뷰_KR_무탄소 선박연료로서 암모니아의 전망.md",
-    "98. RESOURCES/KR_무탄소 선박연료로서 암모니아의 전망.pdf",
-    "2. REVIEWS/리뷰_KR_암모니아 연료선박에 대한 지침서.md",
-    "98. RESOURCES/KR_암모니아 연료선박에 대한 지침서.pdf",
-    "2. REVIEWS/리뷰_Overview of the DOE hydrogen safety, codes and standards program, part 3 Advances in research and development to enhance the scientific basis for hydrogen regulations, codes and standards.md",
-    "2. REVIEWS/리뷰_PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.md",
-    "98. RESOURCES/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
-    "2. REVIEWS/리뷰_Quantitative risk assessment using a Japanese hydrogen refueling station model.md",
-    "2. REVIEWS/리뷰_Risk assessment of hydrogen leakage in diesel hydrogenation process.md",
-    "2. REVIEWS/리뷰_Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.md",
-    "2. REVIEWS/리뷰_Safety investigation of hydrogen charging platform package with CFD simulation.md",
-    "2. REVIEWS/리뷰_The hazards and risks of hydrogen.md",
-    "0. INBOX/Entrainment effects on combustion and emission characteristics of turbulent non-premixed ammonia,,air and methane,,air swirl flames through a developed perforated burner.md",
-    "0. INBOX/수소, 암모니아, LNG 연료 물성 비교.md",
-    "2. REVIEWS/리뷰_Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.md",
-    "0. INBOX/Yoo et al., 2021.md",
-    "0. INBOX/수소 (Hydrogen).md",
-    "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
-    "2. REVIEWS/리뷰_KR_저인화점연료선박에 대한 지침서 (메탄올).md",
-    "98. RESOURCES/KR_저인화점연료선박에 대한 지침서(LPG & 메틸에틸 알코올)(국).pdf",
-    "2. REVIEWS/리뷰_Science and technology of ammonia combustion.md",
-    "2. REVIEWS/리뷰_HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.md",
-    "0. INBOX/Kim, Park, & Choi, 2021.md",
-    "98. RESOURCES/2023 IMO Strategy on Reduction of GHG Emissions from Ships. IMO..pdf",
-    "98. RESOURCES/Greenhouse gas emissions from global shipping, 2013–2015.pdf",
-    "98. RESOURCES/EMSA_Potential of Ammonia as Fuel in Shipping.pdf",
-    "98. RESOURCES/DNV_Maritime_Forecast_2050_2024.pdf",
-    "99. ATTACHMENTS/Pasted image 20250718142945.png",
-    "98. RESOURCES/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
-    "98. RESOURCES/Science and technology of ammonia combustion.pdf",
+    "0. INBOX",
+    "98. RESOURCES/저인화점연료 추진선박기준(해양수산부고시)(제2020-94호)(20200708).pdf",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
     "99. ATTACHMENTS/Pasted image 20250718143005.png",
-    "99. ATTACHMENTS/Pasted image 20250717172049.png",
-    "99. ATTACHMENTS/Pasted image 20250717171130.png",
-    "99. ATTACHMENTS/Pasted image 20250717171114.png",
-    "99. ATTACHMENTS/Pasted image 20250717171112.png",
-    "99. ATTACHMENTS/Pasted image 20250717171110.png",
-    "99. ATTACHMENTS/Pasted image 20250717171023.png",
+    "99. ATTACHMENTS/Pasted image 20250718142945.png",
+    "98. RESOURCES/Science and technology of ammonia combustion.pdf",
+    "98. RESOURCES/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
+    "98. RESOURCES/Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.pdf",
+    "98. RESOURCES/KR_저인화점연료선박에 대한 지침서(LPG & 메틸에틸 알코올)(국).pdf",
+    "98. RESOURCES/KR_암모니아 연료선박에 대한 지침서.pdf",
+    "98. RESOURCES/KR_무탄소 선박연료로서 암모니아의 전망.pdf",
+    "98. RESOURCES/HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS.pdf",
+    "98. RESOURCES/Greenhouse gas emissions from global shipping, 2013–2015.pdf",
+    "NODE/node_modules/npm/node_modules/qrcode-terminal/example/basic.png",
+    "NODE/node_modules/npm/node_modules/retry/equation.gif",
+    "node_modules/npm/node_modules/retry/equation.gif",
+    "node_modules/npm/node_modules/qrcode-terminal/example/basic.png",
+    "Pasted image 20250718143043.png",
+    "Pasted image 20250718143027.png",
     "무제.canvas"
   ]
 }
