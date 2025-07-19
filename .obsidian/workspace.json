@@ -11,10 +11,24 @@
             "id": "8784d8340dc68386",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0. INBOX/기관실 화재 사고 데이터베이스.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "기관실 화재 사고 데이터베이스"
             }
           }
         ]
@@ -29,7 +43,7 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
-        "dimension": 40.688259109311744,
+        "dimension": 40.70422535211268,
         "children": [
           {
             "id": "84301899b043e26d",
@@ -76,7 +90,7 @@
       {
         "id": "f688897bf0516395",
         "type": "tabs",
-        "dimension": 20.242914979757085,
+        "dimension": 29.014084507042252,
         "children": [
           {
             "id": "1b052f6f0fe0224e",
@@ -113,25 +127,15 @@
       {
         "id": "eac9abe5fe92f719",
         "type": "tabs",
-        "dimension": 39.068825910931174,
+        "dimension": 30.28169014084507,
         "children": [
-          {
-            "id": "377b20c0487fff01",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
           {
             "id": "1dc4a50d117cffe1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "file": "0. INBOX/기관실 화재 사고 데이터베이스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +145,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "MOC_졸업논문 목차 의 백링크"
+              "title": "기관실 화재 사고 데이터베이스 의 백링크"
             }
           },
           {
@@ -162,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 203.5
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -178,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
+                "file": "0. INBOX/기관실 화재 사고 데이터베이스.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MOC_졸업논문 목차 의 개요"
+              "title": "기관실 화재 사고 데이터베이스 의 개요"
             }
           },
           {
@@ -197,12 +201,27 @@
               "title": "Copilot Chat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "a2e48157c266c339",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "377b20c0487fff01",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 205.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,17 +240,19 @@
   },
   "active": "8784d8340dc68386",
   "lastOpenFiles": [
-    "98. RESOURCES/연료 연소 특성 및 배기가스 관리/KINETICS OF HIGH PRESSURE CHAR OXIDATION.pdf",
-    "98. RESOURCES/연료 연소 특성 및 배기가스 관리/Kinetics of CO2 and steam gasification of Victorian brown coal chars.pdf",
-    "98. RESOURCES/시뮬레이션 및 해석 기법/Hybrid algorithm for the detection of turbulent fame fronts.pdf",
-    "98. RESOURCES/위험물 운송 및 관리/Fuzzy bow-tie analysis for mitigating self-heating risks in maritime coal transportation.pdf",
-    "98. RESOURCES/연료 연소 특성 및 배기가스 관리/CRC Handbook of Chemistry and Physics 97th Edition.pdf",
-    "98. RESOURCES/대체 연료 기술 및 시장 동향/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).pdf",
-    "98. RESOURCES/대체 연료 기술 및 시장 동향/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).hwp",
-    "98. RESOURCES/국제 해운 규제 및 정책/EMSA Annual Overview of Marine Casualties and Incidents 2024.pdf",
-    "98. RESOURCES/국제 해운 규제 및 정책/EMSA Annual Overview of Marine Casualties and Incidents 2023.pdf",
-    "98. RESOURCES/국제 해운 규제 및 정책/EMSA Annual Overview of Marine Casualties and Incidents 2022.pdf",
-    "98. RESOURCES/국제 해운 규제 및 정책/EMSA Annual Overview of Marine Casualties and Incidents 2021.pdf",
+    "98. RESOURCES/선박 설계/Ship Design for Efficiency and Economy.pdf",
+    "98. RESOURCES/선박 설계",
+    "98. RESOURCES/새 폴더",
+    "98. RESOURCES/자연발화/Monitoring of Self-Heating Coal Cargoes.pdf",
+    "98. RESOURCES/화재&폭발/MODELING AND ANALYSIS OF CHEMILUMINESCENCE SENSING FOR SYNGAS, METHANE AND JET-A COMBUSTION.pdf",
+    "98. RESOURCES/15,000TEU 컨테이너선/MAN Propulsion of 14,000 teu container vessels.pdf",
+    "98. RESOURCES/15,000TEU 컨테이너선/MAN Propulsion trends in container vessels.pdf",
+    "98. RESOURCES/15,000TEU 컨테이너선/Maersk Concept design of a 15,000 TEU ammoniafueled container vessel.pdf",
+    "98. RESOURCES/화재&폭발/Machinery and Energy Systems for the Hydrogen Economy Chapter 2 - Fundamentals.pdf",
+    "98. RESOURCES/화재&폭발/Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li.pdf",
+    "98. RESOURCES/LNG/Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.pdf",
+    "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
+    "7. OUTPUTS/MOC_졸업논문.md",
     "1. DAILY NOTES/250720.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
@@ -241,7 +262,6 @@
     "conflict-files-obsidian-git.md",
     "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
     "6.  PROJECTS/6-1. 졸업논문/1.2 문헌 검토.md",
-    "7. OUTPUTS/MOC_졸업논문.md",
     "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
     "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
     "0. INBOX/기관실 화재 사고 데이터베이스.md",
@@ -249,7 +269,6 @@
     "2. REVIEWS/리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
     "0. INBOX/리뷰_KR_Decarbonization뉴스레터_vol07.md",
     "0. INBOX/리뷰_IMO_SUB-COMMITTEE ON CARRIAGE OF CARGOES AND CONTAINERS 10th session.md",
-    "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
     "2. REVIEWS/리뷰_Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
     "2. REVIEWS/리뷰_The hazards and risks of hydrogen.md",
     "2. REVIEWS/리뷰_PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.md",
