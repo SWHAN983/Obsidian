@@ -68,7 +68,7 @@ git push origin main             # 다시 푸시
 ### ✅ 대응 B: 그래도 강제 덮어쓰기 (로컬을 우선)
 
 ```bash
-git fetch origin
+git fetch origin  
 git push --force-with-lease origin main
 ```
 
