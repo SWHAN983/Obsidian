@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "1.2 문헌 검토"
             }
+          },
+          {
+            "id": "88e48abed7da9dc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. INBOX/리뷰_KR_Decarbonization뉴스레터_vol07.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "리뷰_KR_Decarbonization뉴스레터_vol07"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +110,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f688897bf0516395",
@@ -244,11 +268,13 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "46133dad091ad21b",
+  "active": "88e48abed7da9dc0",
   "lastOpenFiles": [
+    "98. RESOURCES/KR_Decarbonization뉴스레터_vol07.pdf",
+    "0. INBOX/1.2 문헌 검토.md",
+    "0. INBOX/리뷰_KR_Decarbonization뉴스레터_vol07.md",
     "7. OUTPUTS/MOC_졸업논문.md",
     "0. INBOX/1.1 연구 배경.md",
-    "0. INBOX/1.2 문헌 검토.md",
     "3. CONCEPTS/저인화점 연료 증가와 화재 위험성.md",
     "3. CONCEPTS/IMO의 탈탄소화 규제 동향.md",
     "97. TEMPLATES/Temp_MOC.md",
@@ -270,8 +296,6 @@
     "3. CONCEPTS/CFD 기반 화재 시뮬레이션 연구 동향.md",
     "0. INBOX/IGF Code.md",
     "2. REVIEWS/IMO CCC의 회의 동향 및 지침 검토.md",
-    "3. CONCEPTS/수소 (Hydrogen).md",
-    "3. CONCEPTS/암모니아 (Ammonia).md",
     "발화온도, LEL",
     "98. RESOURCES/저인화점연료 추진선박기준(해양수산부고시)(제2020-94호)(20200708).pdf",
     "0. INBOX",
