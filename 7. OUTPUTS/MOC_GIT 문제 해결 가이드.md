@@ -12,4 +12,4 @@ tags:
 - [[Git 커밋 기준 복구 절차]]
 - [[Git GC (Garbage Collection)]]
 - [[Valut 구조 정리법]]
-- [[Git 백업]]
+- [[Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소)]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/Git 백업.md",
+                "file": "0. INBOX/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git 백업"
+              "title": "Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소)"
             }
           },
           {
@@ -270,7 +270,7 @@
   "active": "7eb3ccf19e0f9fac",
   "lastOpenFiles": [
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
-    "0. INBOX/Git 백업.md",
+    "0. INBOX/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
     "7. OUTPUTS/MOC_졸업논문.md",
     "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
