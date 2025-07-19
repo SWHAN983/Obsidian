@@ -79,6 +79,166 @@ tags:
 	- 반면 이전에 냉동어선 등에서 암모니아 누출로 [사망 사고](https://epi.alaska.gov/bulletins/docs/b2013_20.pdf#:~:text=SOE%20staff%20identified%20seven%20people,Sitka%2C%20June%202013%20Patient%20Proximity)가 난 적이 있습니다
 
 
+
+
+### 1. 연료 특성 비교 및 위험성
+
+#### 수소 (Hydrogen) - 높은 반응성 및 폭발 위험
+
+- [[리뷰_The hazards and risks of hydrogen]]
+    
+    - 수소는 넓은 가연성 범위와 매우 낮은 최소 점화 에너지로 인해 메탄, 휘발유보다 높은 리스크를 가집니다.
+        
+    - 폭연 지수가 메탄보다 10배 높아 폭발 시 압력 상승 속도가 훨씬 빠르며, 화염이 눈에 보이지 않아 감지가 어렵습니다.
+        
+- [[리뷰_수소의 화재 및 폭발 특성치에 관한 연구]]
+    
+    - 낮은 최소 점화 에너지(0.019 mJ), 넓은 폭발 한계(4~75 vol%), 빠른 연소 속도(346 cm/s) 등 높은 폭발 위험성을 시사하는 특성을 종합적으로 제시합니다.
+        
+- [[리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options]]
+    
+    - 낮은 농도에서도 폭굉 전이(DDT)가 발생하여 심각한 폭발 하중을 유발할 수 있음을 경고합니다.
+        
+
+#### 암모니아 (Ammonia) - 낮은 반응성, 독성 및 연소 과제
+
+- [[리뷰_EMSA_Potential of Ammonia as Fuel in Shipping]]
+    
+    - 흡입 시 치명적일 수 있는 심각한 독성 문제가 있으며, 누출 시 공기 중 습기와 반응해 지표면에 머무를 수 있습니다.
+        
+    - 연소 시 발생하는 아산화질소(N₂O)는 높은 지구 온난화 지수(GWP)를 가져 탄소 감축 이점을 상쇄할 수 있는 잠재적 장벽입니다.
+        
+- [[리뷰_KR_무탄소 선박연료로서 암모니아의 전망]]
+    
+    - 점화는 어렵지만, 인체에 치명적인 독성, 구리·아연 합금에 대한 부식성, 연소 시 NOx 및 미연소 암모니아 배출 문제가 주요 위험성입니다.
+        
+- [[리뷰_Science and technology of ammonia combustion]]
+    
+    - 낮은 반응성(메탄의 1/5 수준 연소 속도)과 높은 질소산화물(NOx) 배출이 기술적 과제이며, 이를 극복하기 위한 연소 강화 전략이 필요합니다.
+        
+
+#### 주요 대체 연료 개요 및 비교
+
+- [[리뷰_Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals]]
+    
+    - LNG, 수소, 암모니아, 메탄올 등 주요 대체 연료의 장점과 단점을 포괄적으로 설명하여 상세한 비교 정보를 제공합니다.
+        
+
+---
+
+### 2. 저장 및 운송의 과제
+
+#### 액화수소 저장 및 운송의 기술적/산업적 과제
+
+- [[리뷰_HYDROGEN ON BOARD SHIP A FIRST ANALYSIS OF KEY PARAMETERS AND IMPLICATIONS]]
+    
+    - 액화 수소는 -253°C의 극저온 유지가 필요하며, 누출 시 극저온으로 인한 선체 구조 손상 위험이 있습니다.
+        
+    - 저장 공간의 한계로 인해 미래 수소 선박은 더 잦은 재급유를 전제로 운항해야 할 수 있습니다.
+        
+- [[IMO CCC 회의동향 - 제4장. 결론.md]]
+    
+    - 수소 취성을 고려한 강재 선정 및 화물창 설계가 중요하며, 액체수소 운송을 위한 독자 기술 미확보 시 해외 기술 종속이 우려되어 기술 국산화가 시급합니다.
+        
+
+---
+
+### 3. 안전 설계 및 규제
+
+#### 국제 규정 및 기본 철학
+
+- [[IGF Code.md]]
+    
+    - 가스 연료 선박의 설계, 건조, 운영에 관한 포괄적인 국제 안전 규정으로, 위험성 평가 수행을 기본 요건으로 합니다.
+        
+- [[수소선박에 대한 안전규정 개발 - 목적과 기능요건.md]]
+    
+    - 수소 연료 선박이 전통적인 기름 연료 선박과 동등하거나 그 이상의 안전성을 확보해야 함을 목적으로 명시합니다.
+        
+
+#### 연료별 상세 지침
+
+- [[리뷰_KR_암모니아 연료선박에 대한 지침서]]
+    
+    - 암모니아의 독성 때문에 '가스 안전 기관구역' 개념만 허용하고, 낮은 농도(25 ppm)에서의 경보 및 자동 차단, 이중관 배관 등 강화된 안전 조치를 요구합니다.
+        
+- [[리뷰_KR_저인화점연료선박에 대한 지침서 (메탄올)]]
+    
+    - 단일 고장 원칙을 적용하며, 연료 탱크 불활성화, 이중관 배관, 시간당 최소 30회 환기, LEL 기반 경보 및 자동 작동 시스템을 요구합니다.
+        
+- [[리뷰_PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.md]]
+    
+    - LPG와 수소에 대해 '가스 안전 기관실' 개념만 허용하고, 수소의 특성을 고려한 '전반적인(Holistic) 위험 평가'와 특수 화염 감지기 사용을 강조합니다.
+        
+
+#### 수소 선박 설계 및 재료 기준
+
+- [[수소선박에 대한 안전규정 개발 - 선박 설계 및 배치.md]]
+    
+    - 수소 연료탱크는 충돌이나 좌초로부터 보호되도록 배치해야 하며, 비상 차단(ESD) 보호 개념이 아닌 '가스 안전 기관구역'만 허용됨을 강조합니다.
+        
+- [[수소선박에 대한 안전규정 개발 - 재료 및 일반 배관 설계.md]]
+    
+    - 수소 시스템에 사용되는 재료는 수소 취성, 투과, 침범에 저항성을 가져야 하며, 적합/부적합 소재를 구체적으로 분류합니다.
+        
+
+#### 과학적 연구 기반의 규제 개발
+
+- [[리뷰_Overview of the DOE hydrogen safety, codes and standards program, part 3 Advances in research and development to enhance the scientific basis for hydrogen regulations, codes and standards.md]]
+    
+    - 고압 수소 누출 물리 현상 예측 모델, QRA 툴킷(HyRAM), 재료 특성 평가 등 과학적 연구가 실제 국제 표준(NFPA 2 등) 개발에 기여한 사례를 제시합니다.
+        
+
+---
+
+### 4. 사고 사례 및 위험 관리
+
+#### 실제 사고 통계 및 사례
+
+- [[리뷰_Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md]]
+    
+    - 해양 사고 화재·폭발의 약 63%가 엔진룸에서 발생하며, 연료 누출과 고온 표면 접촉이 주된 원인임을 통계로 제시합니다.
+        
+    - 778K(약 505°C) 이상의 고온 표면에서는 디젤유의 발화 확률이 100%임을 실험으로 확인했습니다.
+        
+- [[리뷰_Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.md]]
+    
+    - 육상 LNG 터미널에서 발생한 1944년 클리블랜드 사고(128명 사망)와 2004년 알제리 스키크다 터미널 화재(27명 사망) 등 중대 사고 사례를 보고합니다.
+        
+
+#### 정량적 위험 평가(QRA/DBN) 및 관리 방안
+
+- [[리뷰_Quantitative risk assessment using a Japanese hydrogen refueling station model.md]]
+    
+    - QRA 결과, 수소충전소의 주요 위험은 '젯 화재'이며, 위험 완화를 위해 누출 시간 단축과 방화벽 설치가 필수적임을 권고합니다.
+        
+- [[리뷰_Risk assessment of hydrogen leakage in diesel hydrogenation process.md]]
+    
+    - 동적 베이즈 네트워크(DBN) 분석을 통해 시간이 지남에 따라 누출 및 화재/폭발 확률이 크게 증가하며, '씰 손상'이 가장 치명적인 누출 원인임을 밝혀냈습니다.
+        
+
+#### CFD 시뮬레이션 기반 위험 분석 및 해결책
+
+- [[리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md]]
+    
+    - CFD 시뮬레이션 결과, 수소 누출 시 6초 내에 가연성 한계에 도달하며, 파이프 직경을 3mm 이하로 제한하면 폭발 위험이 없다고 분석합니다.
+        
+- [[리뷰_Safety Design and Engineering Solution of Fuel Cell Powered Ship in Inland Waterway of China.md]]
+    
+    - 연료전지 모듈 기밀화, 이중벽 배관, 환기 강화(시간당 90회) 등 종합적인 공학적 해결책을 통해 위험 구역을 '비위험 구역'으로 재분류할 수 있음을 입증합니다.
+        
+- [[리뷰_Safety investigation of hydrogen charging platform package with CFD simulation.md]]
+    
+    - 밀폐된 공간의 내부 누출은 외부 누출보다 위험하며, 자연 환기만으로는 한계가 있어 공정 자동 차단과 같은 추가 안전 장치가 필수적임을 보여줍니다.
+
+
+
+
+
+
+
+
+
 ---
 
 # 🔗 연결된 노트의 의미  
