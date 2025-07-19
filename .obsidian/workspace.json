@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+                "file": "2. REVIEWS/리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,65 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git 강제 Push (로컬이 더 최신일 때)"
+              "title": "리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options"
             }
           }
         ]
+      },
+      {
+        "id": "6babeb96ebe278a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46133dad091ad21b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.  PROJECTS/6-1. 졸업논문/1.2 문헌 검토.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.2 문헌 검토"
+            }
+          },
+          {
+            "id": "1c138719bd8e86cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC_GIT 문제 해결 가이드"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,22 +298,23 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "8784d8340dc68386",
+  "active": "1c138719bd8e86cf",
   "lastOpenFiles": [
-    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
+    "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "0. INBOX/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
-    "6.  PROJECTS/6-1. 졸업논문/1.2 문헌 검토.md",
-    "7. OUTPUTS/MOC_졸업논문.md",
-    "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
-    "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
-    "conflict-files-obsidian-git.md",
+    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "1. DAILY NOTES/250720.md",
-    "0. INBOX/기관실 화재 사고 데이터베이스.md",
+    "7. OUTPUTS/MOC_졸업논문.md",
+    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+    "6.  PROJECTS/6-1. 졸업논문/1.2 문헌 검토.md",
+    "conflict-files-obsidian-git.md",
+    "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
     "1. DAILY NOTES/250719.md",
-    "2. REVIEWS/리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
+    "0. INBOX/기관실 화재 사고 데이터베이스.md",
     "0. INBOX/리뷰_KR_Decarbonization뉴스레터_vol07.md",
     "0. INBOX/리뷰_IMO_SUB-COMMITTEE ON CARRIAGE OF CARGOES AND CONTAINERS 10th session.md",
     "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
+    "2. REVIEWS/리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
     "2. REVIEWS/리뷰_Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
     "2. REVIEWS/리뷰_The hazards and risks of hydrogen.md",
     "2. REVIEWS/리뷰_PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.md",
@@ -272,7 +328,6 @@
     "3. CONCEPTS/저인화점 연료 증가와 화재 위험성.md",
     "3. CONCEPTS/IMO의 탈탄소화 규제 동향.md",
     "97. TEMPLATES/Temp_MOC.md",
-    "3. CONCEPTS/대형 선박의 저인화점 연료 사용.md",
     "발화온도, LEL",
     "98. RESOURCES/저인화점연료 추진선박기준(해양수산부고시)(제2020-94호)(20200708).pdf",
     "0. INBOX",
