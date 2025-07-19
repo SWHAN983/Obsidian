@@ -25,21 +25,28 @@
     }
   ],
   "editor:save-file": [],
-  "obsidian-git:push": [
+  "obsidian-git:commit": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "S"
+      "key": "Numpad1"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad0"
     }
   ],
   "obsidian-git:push2": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "S"
+      "key": "Numpad2"
     }
   ]
 }
