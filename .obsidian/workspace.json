@@ -11,12 +11,10 @@
             "id": "8784d8340dc68386",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "졸업 참고 논문/CCM 관련/STAR-CCM+ Soot Two-Equation Model Reference.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "STAR-CCM+ Soot Two-Equation Model Reference"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -221,19 +219,19 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "84301899b043e26d",
+  "active": "8784d8340dc68386",
   "lastOpenFiles": [
-    "졸업 참고 논문/CCM 관련/STAR-CCM+ Soot Sections Model Reference.pdf",
-    "졸업 참고 논문/CCM 관련/STAR-CCM+ Soot Moments Model Reference.pdf",
-    "졸업 참고 논문/CCM 관련/STAR-CCM+ Soot Emissions Model Reference.pdf",
-    "졸업 참고 논문/CCM 관련/STAR-CCM+ Setting Up Passive Scalars.pdf",
-    "졸업 참고 논문/CCM 관련/STAR-CCM+ reacting flow.pdf",
-    "졸업 참고 논문/CCM 관련/STAR-CCM+ Passive Scalars Model Control Reference.pdf",
-    "졸업 참고 논문/CCM 관련/STAR-CCM+ Passive Scalars.pdf",
-    "졸업 참고 논문/CCM 관련/STAR-CCM+ Passive Scalar Model Reference.pdf",
-    "졸업 참고 논문/CCM 관련/STAR-CCM+ Ignitors.pdf",
-    "졸업 참고 논문/CCM 관련/STAR-CCM+  firesmokewizard.pdf",
-    "졸업 참고 논문/CCM 관련/STAR-CCM+ Fire and Smoke Wizard Steckler Room.pdf",
+    "98. RESOURCES/연료 연소 특성 및 배기가스 관리/KINETICS OF HIGH PRESSURE CHAR OXIDATION.pdf",
+    "98. RESOURCES/연료 연소 특성 및 배기가스 관리/Kinetics of CO2 and steam gasification of Victorian brown coal chars.pdf",
+    "98. RESOURCES/시뮬레이션 및 해석 기법/Hybrid algorithm for the detection of turbulent fame fronts.pdf",
+    "98. RESOURCES/위험물 운송 및 관리/Fuzzy bow-tie analysis for mitigating self-heating risks in maritime coal transportation.pdf",
+    "98. RESOURCES/연료 연소 특성 및 배기가스 관리/CRC Handbook of Chemistry and Physics 97th Edition.pdf",
+    "98. RESOURCES/대체 연료 기술 및 시장 동향/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).pdf",
+    "98. RESOURCES/대체 연료 기술 및 시장 동향/250404 [분석보고서] 수소선박 기술 동향 및 규제 검토 (홍익대학교 이연승).hwp",
+    "98. RESOURCES/국제 해운 규제 및 정책/EMSA Annual Overview of Marine Casualties and Incidents 2024.pdf",
+    "98. RESOURCES/국제 해운 규제 및 정책/EMSA Annual Overview of Marine Casualties and Incidents 2023.pdf",
+    "98. RESOURCES/국제 해운 규제 및 정책/EMSA Annual Overview of Marine Casualties and Incidents 2022.pdf",
+    "98. RESOURCES/국제 해운 규제 및 정책/EMSA Annual Overview of Marine Casualties and Incidents 2021.pdf",
     "1. DAILY NOTES/250720.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
