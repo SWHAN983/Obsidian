@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. REVIEWS/리뷰_Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.md",
+                "file": "2. REVIEWS/리뷰_The hazards and risks of hydrogen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "리뷰_Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions"
+              "title": "리뷰_The hazards and risks of hydrogen"
             }
           }
         ]
@@ -275,8 +275,14 @@
   },
   "active": "46133dad091ad21b",
   "lastOpenFiles": [
-    "2. REVIEWS/리뷰_Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.md",
+    "2. REVIEWS/리뷰_The hazards and risks of hydrogen.md",
+    "2. REVIEWS/리뷰_PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.md",
     "0. INBOX/1.2 문헌 검토.md",
+    "2. REVIEWS/리뷰_Quantitative risk assessment using a Japanese hydrogen refueling station model.md",
+    "2. REVIEWS/리뷰_Safety investigation of hydrogen charging platform package with CFD simulation.md",
+    "2. REVIEWS/리뷰_Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.md",
+    "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
+    "3. CONCEPTS/저인화점 연료.md",
     "0. INBOX/리뷰_IMO_SUB-COMMITTEE ON CARRIAGE OF CARGOES AND CONTAINERS 10th session.md",
     "98. RESOURCES/IMO_SUB-COMMITTEE ON CARRIAGE OF CARGOES AND CONTAINERS 10th session.pdf",
     "0. INBOX/리뷰_KR_Decarbonization뉴스레터_vol07.md",
@@ -289,7 +295,6 @@
     "3. CONCEPTS/대형 선박의 저인화점 연료 사용.md",
     "2. REVIEWS/리뷰_Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.md",
     "2. REVIEWS/리뷰_저인화점연료 추진선박기준.md",
-    "3. CONCEPTS/저인화점 연료.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
     "0. INBOX/기관실 화재 사고 데이터베이스.md",
     "3. CONCEPTS/액체수소의 기술적·산업적 필요성.md",
@@ -298,11 +303,6 @@
     "3. CONCEPTS/메탄올 (Methanol).md",
     "3. CONCEPTS/액체수소 선박 기술.md",
     "3. CONCEPTS/액화천연가스 (LNG).md",
-    "3. CONCEPTS/저인화점 연료 누출·자연발화 관련 연구.md",
-    "3. CONCEPTS/해운업의 탈탄소화와 대체 연료 도입.md",
-    "3. CONCEPTS/CFD 기반 자연발화 위험 예측의 필요성.md",
-    "3. CONCEPTS/CFD 기반 화재 시뮬레이션 연구 동향.md",
-    "0. INBOX/IGF Code.md",
     "발화온도, LEL",
     "98. RESOURCES/저인화점연료 추진선박기준(해양수산부고시)(제2020-94호)(20200708).pdf",
     "0. INBOX",
