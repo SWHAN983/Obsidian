@@ -1,14 +1,10 @@
-# 🧷 Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소)
+  
+
+# 🧷 Obsidian Vault 수동 백업 & 복귀 자동화 메뉴얼 (날짜 자동)
 
   
 
-## ✅ 목적
-
-- 평소 사용하는 Vault는 Git 연동되어 있으나,
-
-- 원할 때 현재 상태를 수동으로 다른 GitHub 저장소(`Obsidian-Backup`)에 백업
-
-- 각 백업본은 날짜별 브랜치로 저장해 스냅샷처럼 보존
+> Vault를 `Obsidian` 저장소와 연동하다가, 수동 백업 시 자동으로 날짜가 붙은 브랜치로 `Obsidian-Backup`에 푸시하고, 다시 원래 저장소로 복귀하는 절차
 
   
 
@@ -16,7 +12,109 @@
 
   
 
-## 📁 디렉토리 예시
+## ✅ 목적
+
+  
+
+- **주 저장소:** `https://github.com/SWHAN983/Obsidian.git`
+
+- **백업 저장소:** `https://github.com/SWHAN983/Obsidian-Backup.git`
+
+- **기능 확장:** 날짜·시간 기반 브랜치명 자동 생성 (`backup-YYYY-MM-DD-HHMM`)
+
+  
+
+---
+
+  
+
+## 🪜 전체 절차
+
+  
+
+### 📍 A. 평소 Vault → 백업 저장소로 전환하고 푸시
+
+  
+
+```bash
+
+cd /d/HSW/Obsidian
+
+  
+
+# 현재 시각을 변수로 저장 (예: 2025-07-19-2218)
+
+export NOW=$(date +%Y-%m-%d-%H%M)
+
+  
+
+# 1. 원격 저장소를 백업용으로 전환
+
+git remote set-url origin https://github.com/SWHAN983/Obsidian-Backup.git
+
+  
+
+# 2. 날짜 기반 브랜치 생성
+
+git checkout -b backup-$NOW
+
+  
+
+# 3. 전체 파일 커밋 (변경 있을 경우)
+
+git add .
+
+git commit -m "📦 Vault 백업: $NOW"
+
+  
+
+# 4. GitHub에 푸시
+
+git push -u origin backup-$NOW
+
+```
+
+  
+
+---
+
+  
+
+### 📍 B. 백업 완료 후 → 원래 Vault 저장소로 복귀
+
+  
+
+```bash
+
+cd /d/HSW/Obsidian
+
+  
+
+# 원격 저장소를 원래 주소로 복귀
+
+git remote set-url origin https://github.com/SWHAN983/Obsidian.git
+
+  
+
+# 메인 브랜치 복귀 (필요 시)
+
+git checkout main
+
+  
+
+# 최신 상태로 동기화
+
+git pull origin main
+
+```
+
+  
+
+---
+
+  
+
+## 📁 디렉토리 구조 예시
 
   
 
@@ -24,171 +122,78 @@
 
 D:/HSW/
 
-├─ Obsidian/                    # 평소 사용하는 Vault
+├─ Obsidian/                      # 작업용 Vault
 
-└─ Obsidian_Backup_2025-07-19/     # 이번 백업본
+└─ Obsidian_Backup_YYYY-MM-DD/   # 수동 복사 백업 (선택)
 
 ```
 
   
-
 
 ---
 
   
 
-## 🪜 전체 백업 절차
+## 📌 GitHub 저장소 구조 예시
+
+  
 
 ```
+
+SWHAN983/
+
+├─ Obsidian/                     # 평상시 main 브랜치로 사용
+
+└─ Obsidian-Backup/              # 백업 저장소
+
+    ├─ backup-2025-07-19-1030
+
+    ├─ backup-2025-07-26-2100
+
+    └─ ...
+
+```
+
+  
+
+---
+
+  
+
+## 🛠 자동화 스크립트 (선택)
+
+  
+
+```bash
+
+#!/bin/bash
+
 cd /d/HSW/Obsidian
 
-# 원격 주소 변경
+NOW=$(date +%Y-%m-%d-%H%M)
+
+  
+
 git remote set-url origin https://github.com/SWHAN983/Obsidian-Backup.git
 
-# (필요 시 브랜치 생성)
-git checkout -b backup-2025-07-19
-
-# 푸시
-git push -u origin backup-2025-07-19
-
-```
-
-## ✅ 참고: 복원하고 싶을 때는?
-
-다시 메인 레포로 바꾸고 싶다면:
-```
-git remote set-url origin https://github.com/SWHAN983/Obsidian.git
-```
-
-
-
-
-### 1️⃣ Vault 복사
-
-  
-
-```bash
-
-cd /d/HSW
-
-cp -r Obsidian Obsidian_Backup_2025-07-19
-
-```
-
-  
-
----
-
-  
-
-### 2️⃣ 복사한 폴더로 이동
-
-  
-
-```bash
-
-cd Obsidian_Backup_2025-07-19
-
-```
-
-  
-
----
-
-  
-
-### 3️⃣ Git 초기화 및 원격 레포 설정
-
-  
-
-```bash
-
-git init
-
-git remote add origin https://github.com/SWHAN983/Obsidian-Backup.git
-
-```
-
-  
-
-> 💡 GitHub에서 `Obsidian-Backup`라는 빈 저장소를 먼저 생성해 둘 것
-
-  
-
----
-
-  
-
-### 4️⃣ 날짜 기반 브랜치 생성
-
-  
-
-```bash
-
-git checkout -b backup-2025-07-19
-
-```
-
-  
-
----
-
-  
-
-### 5️⃣ 전체 파일 커밋
-
-  
-
-```bash
+git checkout -b backup-$NOW
 
 git add .
 
-git commit -m "📦 Vault 백업: 2025-07-19"
+git commit -m "📦 Vault 백업: $NOW"
+
+git push -u origin backup-$NOW
+
+  
+
+git remote set-url origin https://github.com/SWHAN983/Obsidian.git
+
+git checkout main
+
+git pull origin main
 
 ```
 
   
 
----
-
-  
-
-### 6️⃣ GitHub에 푸시
-
-  
-
-```bash
-
-git push -u origin backup-2025-07-19
-
-```
-
-  
-
----
-
-  
-
-## 📌 결과
-
-  
-
-GitHub에는 이렇게 관리됨:
-
-  
-
-```
-
-main                  # 기본 브랜치
-
-backup-2025-07-19        # 오늘 백업
-
-backup-YYYY-MM-DD     # 다음 백업일
-
-...
-
-```
-
-  
-
----
+> 🟢 `backup.sh`로 저장 후 Git Bash에서 실행 가능
