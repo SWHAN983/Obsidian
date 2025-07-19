@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "80288f416a87f242",
+        "id": "f5c60fa09fb5050e",
         "type": "tabs",
         "children": [
           {
-            "id": "8d8b6e693b6bc2c4",
+            "id": "8784d8340dc68386",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "pdf",
+              "state": {
+                "file": "졸업 참고 논문/CCM 관련/STAR-CCM+ Soot Two-Equation Model Reference.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "STAR-CCM+ Soot Two-Equation Model Reference"
             }
           }
         ]
@@ -29,7 +31,7 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
-        "dimension": 52.333664349553125,
+        "dimension": 40.688259109311744,
         "children": [
           {
             "id": "84301899b043e26d",
@@ -76,7 +78,7 @@
       {
         "id": "f688897bf0516395",
         "type": "tabs",
-        "dimension": 27.805362462760673,
+        "dimension": 20.242914979757085,
         "children": [
           {
             "id": "1b052f6f0fe0224e",
@@ -113,7 +115,7 @@
       {
         "id": "eac9abe5fe92f719",
         "type": "tabs",
-        "dimension": 19.860973187686195,
+        "dimension": 39.068825910931174,
         "children": [
           {
             "id": "377b20c0487fff01",
@@ -162,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 574.5
+    "width": 444.5
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -219,26 +221,27 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "8d8b6e693b6bc2c4",
+  "active": "84301899b043e26d",
   "lastOpenFiles": [
-    "졸업 참고 논문/수소 관련 논문/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
-    "졸업 참고 논문/CCM 관련/Volume Rendering Steckler Room.pdf",
-    "졸업 참고 논문/CCM 관련/Using a Passive Scalar for Residence Time.pdf",
-    "졸업 참고 논문/CCM 관련/Soot Two-Equation Model Reference.pdf",
-    "졸업 참고 논문/CCM 관련/Soot Sections Model Reference.pdf",
-    "졸업 참고 논문/CCM 관련/Soot Moments Model Reference.pdf",
-    "졸업 참고 논문/CCM 관련/Soot Emissions Model Reference.pdf",
-    "졸업 참고 논문/CCM 관련/Setting Up Passive Scalars.pdf",
-    "졸업 참고 논문/CCM 관련/reacting flow.pdf",
-    "졸업 참고 논문/CCM 관련/Passive Scalars.pdf",
-    "졸업 참고 논문/CCM 관련/Passive Scalars Model Control Reference.pdf",
+    "졸업 참고 논문/CCM 관련/STAR-CCM+ Soot Sections Model Reference.pdf",
+    "졸업 참고 논문/CCM 관련/STAR-CCM+ Soot Moments Model Reference.pdf",
+    "졸업 참고 논문/CCM 관련/STAR-CCM+ Soot Emissions Model Reference.pdf",
+    "졸업 참고 논문/CCM 관련/STAR-CCM+ Setting Up Passive Scalars.pdf",
+    "졸업 참고 논문/CCM 관련/STAR-CCM+ reacting flow.pdf",
+    "졸업 참고 논문/CCM 관련/STAR-CCM+ Passive Scalars Model Control Reference.pdf",
+    "졸업 참고 논문/CCM 관련/STAR-CCM+ Passive Scalars.pdf",
+    "졸업 참고 논문/CCM 관련/STAR-CCM+ Passive Scalar Model Reference.pdf",
+    "졸업 참고 논문/CCM 관련/STAR-CCM+ Ignitors.pdf",
+    "졸업 참고 논문/CCM 관련/STAR-CCM+  firesmokewizard.pdf",
+    "졸업 참고 논문/CCM 관련/STAR-CCM+ Fire and Smoke Wizard Steckler Room.pdf",
     "1. DAILY NOTES/250720.md",
-    "3. CONCEPTS/UEL, IDT, 점화에너지 등 핵심 연소 특성.md",
+    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
+    "3. CONCEPTS/UEL, IDT, 점화에너지 등 핵심 연소 특성.md",
+    "0. INBOX/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "conflict-files-obsidian-git.md",
-    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
-    "0. INBOX/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
+    "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
     "6.  PROJECTS/6-1. 졸업논문/1.2 문헌 검토.md",
     "7. OUTPUTS/MOC_졸업논문.md",
     "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
@@ -256,7 +259,6 @@
     "2. REVIEWS/리뷰_Safety investigation of hydrogen charging platform package with CFD simulation.md",
     "2. REVIEWS/리뷰_Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.md",
     "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
-    "3. CONCEPTS/저인화점 연료.md",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
     "99. ATTACHMENTS/Pasted image 20250718143005.png",
