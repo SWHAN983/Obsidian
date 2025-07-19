@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
+                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소)"
+              "title": "Git 강제 Push (로컬이 더 최신일 때)"
             }
           },
           {
