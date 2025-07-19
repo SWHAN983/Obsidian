@@ -7,7 +7,21 @@ tags:
   - conflict
   - reviewed
 ---
+# [1] 커밋
+git add .
+git commit -m "fix: 내용 반영"
 
+# [2] 기본 푸시
+git push origin main
+
+# [3] 충돌 발생 시 안전한 강제 푸시
+git push --force-with-lease origin main
+
+# [4] 그래도 실패하면 (선택)
+git pull --rebase origin main           # → 충돌 해결 후 푸시
+# 또는
+git fetch origin
+git push --force-with-lease origin main # → 다시 강제 푸시
 # ✅ Git 강제 Push (`--force-with-lease`) 가이드
 
 ## 📌 목적
