@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/대형 선박의 저인화점 연료 사용.md",
+                "file": "0. INBOX/CFD 기반 자연발화 위험 예측의 필요성.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "대형 선박의 저인화점 연료 사용"
+              "title": "CFD 기반 자연발화 위험 예측의 필요성"
             }
           }
         ]
@@ -243,12 +243,12 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "377b20c0487fff01",
+  "active": "7eb3ccf19e0f9fac",
   "lastOpenFiles": [
+    "7. OUTPUTS/MOC_졸업논문.md",
+    "0. INBOX/대형 선박의 저인화점 연료 사용.md",
     "0. INBOX/저인화점연료 추진선박기준.md",
     "98. RESOURCES/저인화점연료 추진선박기준(해양수산부고시)(제2020-94호)(20200708).pdf",
-    "0. INBOX/대형 선박의 저인화점 연료 사용.md",
-    "7. OUTPUTS/MOC_졸업논문.md",
     "0. INBOX/저인화점 연료 증가와 화재 위험성.md",
     "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
     "0. INBOX/해운업의 탈탄소화와 대체 연료 도입.md",
