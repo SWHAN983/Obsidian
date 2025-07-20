@@ -11,10 +11,24 @@
             "id": "8d8b6e693b6bc2c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "0. INBOX/2세대 비손상 복원성 기준(동적 복원성).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2세대 비손상 복원성 기준(동적 복원성)"
             }
           }
         ]
@@ -178,12 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "0. INBOX/2세대 비손상 복원성 기준(동적 복원성).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "2세대 비손상 복원성 기준(동적 복원성) 의 개요"
             }
           },
           {
