@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. CONCEPTS/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
+                "file": "5. LAB/250715_랩 세미나.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "서핑라이딩;브로칭 (Surf-riding;Broaching)"
+              "title": "250715_랩 세미나"
             }
           },
           {
@@ -109,8 +109,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f688897bf0516395",
@@ -201,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 399.5
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -217,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. CONCEPTS/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
+                "file": "5. LAB/250715_랩 세미나.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "서핑라이딩;브로칭 (Surf-riding;Broaching) 의 개요"
+              "title": "250715_랩 세미나 의 개요"
             }
           },
           {
@@ -260,6 +259,8 @@
   },
   "active": "8d8b6e693b6bc2c4",
   "lastOpenFiles": [
+    "5. LAB/250717_교수님 미팅.md",
+    "3. CONCEPTS/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
     "7. OUTPUTS/MOC_2세대 비손상 복원성 기준(동적 복원성).md",
     "3. CONCEPTS/파라메트릭 롤링 (Parametric Rolling).md",
     "3. CONCEPTS/순수 복원성 상실 (Pure Loss of Stability).md",
@@ -273,7 +274,6 @@
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
     "98. RESOURCES/동적복원성/Development of Second Generation Intact Stability Criteria.pdf",
-    "3. CONCEPTS/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
     "3. CONCEPTS/동적 복원성-취약성 기준-Level2.md",
     "3. CONCEPTS/동적 복원성-취약성 기준-Level1.md",
     "3. CONCEPTS/동적 복원성-취약성 기준 (Vulnerability Criteria).md",
