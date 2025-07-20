@@ -11,15 +11,52 @@
             "id": "8d8b6e693b6bc2c4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "98. RESOURCES/동적복원성/Development of Second Generation Intact Stability Criteria.pdf"
+                "file": "7. OUTPUTS/MOC_2세대 비손상 복원성 기준(동적 복원성).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Development of Second Generation Intact Stability Criteria"
+              "icon": "lucide-file",
+              "title": "MOC_2세대 비손상 복원성 기준(동적 복원성)"
+            }
+          },
+          {
+            "id": "89e0b0424d701d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC_GIT 문제 해결 가이드"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "98. RESOURCES/동적복원성/Development of Second Generation Intact Stability Criteria.pdf",
+                "file": "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Development of Second Generation Intact Stability Criteria 의 개요"
+              "title": "MOC_GIT 문제 해결 가이드 의 개요"
             }
           },
           {
@@ -203,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,9 +258,10 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "8d8b6e693b6bc2c4",
+  "active": "89e0b0424d701d06",
   "lastOpenFiles": [
     "7. OUTPUTS/MOC_2세대 비손상 복원성 기준(동적 복원성).md",
+    "98. RESOURCES/동적복원성/Development of Second Generation Intact Stability Criteria.pdf",
     "3. CONCEPTS/파라메트릭 롤링 (Parametric Rolling).md",
     "3. CONCEPTS/제1 원리(first principles).md",
     "3. CONCEPTS/순수 복원성 상실 (Pure Loss of Stability).md",
@@ -241,7 +280,6 @@
     "1. DAILY NOTES/250720.md",
     "동적 복원성",
     "98. RESOURCES/책",
-    "98. RESOURCES/동적복원성/Development of Second Generation Intact Stability Criteria.pdf",
     "97. TEMPLATES/Temp_ReviewPaper.md",
     "97. TEMPLATES/TEMP_Concept.md",
     "98. RESOURCES/동적복원성/2-6-MSC.1-Circ.1627-Interim-Guidelines-On-The-Second-Generation-Intact-Stability-Criteria-Secretariat.pdf",
@@ -257,7 +295,6 @@
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "conflict-files-obsidian-git.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
-    "0. INBOX/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
     "99. ATTACHMENTS/Pasted image 20250718143005.png",
