@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b2b652c63d7810bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ef556ae8e9ba3be7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "98. RESOURCES/동적복원성/2-6-MSC.1-Circ.1627-Interim-Guidelines-On-The-Second-Generation-Intact-Stability-Criteria-Secretariat.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2-6-MSC.1-Circ.1627-Interim-Guidelines-On-The-Second-Generation-Intact-Stability-Criteria-Secretariat"
-            }
-          }
-        ]
-      },
-      {
         "id": "80288f416a87f242",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. CONCEPTS/데드십 상태 (Dead Ship Condition).md",
+                "file": "3. CONCEPTS/과도한 가속도 (Excessive Acceleration).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "데드십 상태 (Dead Ship Condition)"
+              "title": "과도한 가속도 (Excessive Acceleration)"
             }
           },
           {
@@ -106,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DNV, 2024",
+                "query": "데드십",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +109,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f688897bf0516395",
@@ -234,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. CONCEPTS/데드십 상태 (Dead Ship Condition).md",
+                "file": "3. CONCEPTS/과도한 가속도 (Excessive Acceleration).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "데드십 상태 (Dead Ship Condition) 의 개요"
+              "title": "과도한 가속도 (Excessive Acceleration) 의 개요"
             }
           },
           {
@@ -277,9 +260,12 @@
   },
   "active": "8d8b6e693b6bc2c4",
   "lastOpenFiles": [
-    "98. RESOURCES/동적복원성/2-6-MSC.1-Circ.1627-Interim-Guidelines-On-The-Second-Generation-Intact-Stability-Criteria-Secretariat.pdf",
-    "3. CONCEPTS/데드십 상태 (Dead Ship Condition).md",
     "7. OUTPUTS/MOC_2세대 비손상 복원성 기준(동적 복원성).md",
+    "3. CONCEPTS/무동력 상태 (Dead Ship Condition).md",
+    "3. CONCEPTS/과도한 가속도 (Excessive Acceleration).md",
+    "3. CONCEPTS/동적복원성-운항 조치 (Operational Measures).md",
+    "3. CONCEPTS/동적복원성-직접 복원성 평가 (Direct Stability Assessment).md",
+    "98. RESOURCES/동적복원성/2-6-MSC.1-Circ.1627-Interim-Guidelines-On-The-Second-Generation-Intact-Stability-Criteria-Secretariat.pdf",
     "3. CONCEPTS/제1 원리(first principles).md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
@@ -288,12 +274,9 @@
     "3. CONCEPTS/파라메트릭 롤링 (Parametric Rolling).md",
     "3. CONCEPTS/순수 복원성 상실 (Pure Loss of Stability).md",
     "3. CONCEPTS/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
-    "3. CONCEPTS/동적복원성-직접 복원성 평가 (Direct Stability Assessment).md",
-    "3. CONCEPTS/동적복원성-운항 조치 (Operational Measures).md",
     "3. CONCEPTS/동적 복원성-취약성 기준-Level2.md",
     "3. CONCEPTS/동적 복원성-취약성 기준-Level1.md",
     "3. CONCEPTS/동적 복원성-취약성 기준 (Vulnerability Criteria).md",
-    "3. CONCEPTS/과도한 가속도 (Excessive Acceleration).md",
     "0. INBOX/[[동적복원성-직접 복원성 평가 (Direct Stability Assessment).md",
     "서핑/브로칭 (Surf-riding/Broaching).md",
     "서핑/브로칭 (Surf-riding",

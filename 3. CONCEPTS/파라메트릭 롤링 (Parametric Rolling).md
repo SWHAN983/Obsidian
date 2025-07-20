@@ -122,7 +122,7 @@ $$
 # 🔗 연결된 노트의 의미  
 > 이 개념과 의미상 연결되는 다른 노트 연결
 
--  [[데드십 상태 (Dead Ship Condition)]]
+-  [[무동력 상태 (Dead Ship Condition)]]
 - [[과도한 가속도 (Excessive Acceleration)]]
 - [[순수 복원성 상실 (Pure Loss of Stability)]]
 - [[서핑라이딩;브로칭 (Surf-riding;Broaching)]]

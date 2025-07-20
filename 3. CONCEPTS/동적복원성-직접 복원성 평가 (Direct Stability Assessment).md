@@ -25,23 +25,23 @@ tags:
 2. 횡요 감쇠 모델링
 	- 횡요 감쇠력은 파도, 양력, 와류(eddy-making) 및 표면 마찰 성분을 포함
 3. 힘과 모멘트의 수학적 모델링
-	- Froude-Krylov 힘은 선체 형상을 정확히 반영하는 공식(패널 또는 스트립 이론)을 사용하여 계산되어야 함 (최소한 데드십 상태, 순수 복원력 상실, 파라메트릭 롤링 실패 모드)
+	- Froude-Krylov 힘은 선체 형상을 정확히 반영하는 공식(패널 또는 스트립 이론)을 사용하여 계산되어야 함 (최소한 무동력 상태, 순수 복원력 상실, 파라메트릭 롤링 실패 모드)
 	- 저항력은 파도, 와류 및 표면 마찰 성분을 포함
 	- 횡력, 횡요 모멘트 및 선수동요 모멘트는 모형 시험, CFD 계산 또는 경험적 데이터베이스/공식을 기반으로 근사 가능
 	- 추력은 추진기-선체 상호작용을 고려한 계수 기반 모델을 사용
 
 #### 자유도 요구사항(최소)
-1. 데드십 상태 (Dead ship condition)
+1. [[무동력 상태 (Dead ship condition)]]
 	- 횡요(sway), 종동요(heave), 롤(roll), 피치(pitch)
-2. 과도한 가속도 (Excessive acceleration)
+2. [[과도한 가속도 (Excessive acceleration)]]
 	- 종동요(heave), 피치(pitch), 롤(roll)
-3. 순수 복원성 상실 (Pure loss of stability)
+3. [[순수 복원성 상실 (Pure loss of stability)]]
 	- 서지(surge), 횡요(sway), 롤(roll), 선수동요(yaw)
 	- 포함되지 않은 자유도에 대해서는 정적 평형(static equilibrium)이 가정
 	- 인위적인 서프라이딩 방지를 위해 충분히 작은 전진 속도로 초기 조건 설정
-4. 파라메트릭 롤링 (Parametric rolling)
+4. [[파라메트릭 롤링 (Parametric rolling)]]
 	- 종동요(heave), 롤(roll), 피치(pitch)
-5. 서핑/브로칭 (Surf-riding/Broaching)
+5. [[서핑라이딩;브로칭 (Surf-riding;Broaching)]]
 	- 서지(surge), 횡요(sway), 롤(roll), 선수동요(yaw)
 	- 발생하는 와류(vortex shedding)로 인한 유체역학적 힘 모델링 필요
 	- 인위적인 서프라이딩 방지를 위해 충분히 작은 전진 속도로 초기 조건 설정
