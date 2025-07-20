@@ -11,54 +11,12 @@
             "id": "8d8b6e693b6bc2c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "0. INBOX/2세대 비손상 복원성 기준(동적 복원성).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "98. RESOURCES/동적복원성/Development of Second Generation Intact Stability Criteria.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2세대 비손상 복원성 기준(동적 복원성)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "947e59c2a5359c1a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a8a1e6b32504c3a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. INBOX/순수 복원성 상실 (Pure Loss of Stability).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "순수 복원성 상실 (Pure Loss of Stability)"
+              "icon": "lucide-file-text",
+              "title": "Development of Second Generation Intact Stability Criteria"
             }
           }
         ]
@@ -222,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/2세대 비손상 복원성 기준(동적 복원성).md",
+                "file": "98. RESOURCES/동적복원성/Development of Second Generation Intact Stability Criteria.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2세대 비손상 복원성 기준(동적 복원성) 의 개요"
+              "title": "Development of Second Generation Intact Stability Criteria 의 개요"
             }
           },
           {
@@ -264,24 +222,24 @@
   },
   "active": "8d8b6e693b6bc2c4",
   "lastOpenFiles": [
-    "0. INBOX/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
-    "0. INBOX/순수 복원성 상실 (Pure Loss of Stability).md",
-    "0. INBOX/파라메트릭 롤링 (Parametric Rolling).md",
-    "0. INBOX/과도한 가속도 (Excessive Acceleration).md",
-    "0. INBOX/2세대 비손상 복원성 기준(동적 복원성).md",
-    "0. INBOX/데드십 상태 (Dead Ship Condition).md",
+    "7. OUTPUTS/MOC_2세대 비손상 복원성 기준(동적 복원성).md",
+    "3. CONCEPTS/파라메트릭 롤링 (Parametric Rolling).md",
+    "3. CONCEPTS/제1 원리(first principles).md",
+    "3. CONCEPTS/순수 복원성 상실 (Pure Loss of Stability).md",
+    "3. CONCEPTS/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
+    "3. CONCEPTS/동적복원성-직접 복원성 평가 (Direct Stability Assessment).md",
+    "3. CONCEPTS/동적복원성-운항 조치 (Operational Measures).md",
+    "3. CONCEPTS/동적 복원성-취약성 기준-Level2.md",
+    "3. CONCEPTS/동적 복원성-취약성 기준-Level1.md",
+    "3. CONCEPTS/동적 복원성-취약성 기준 (Vulnerability Criteria).md",
+    "3. CONCEPTS/데드십 상태 (Dead Ship Condition).md",
+    "3. CONCEPTS/과도한 가속도 (Excessive Acceleration).md",
+    "0. INBOX/[[동적복원성-직접 복원성 평가 (Direct Stability Assessment).md",
     "서핑/브로칭 (Surf-riding/Broaching).md",
     "서핑/브로칭 (Surf-riding",
     "서핑",
-    "0. INBOX/동적 복원성-취약성 기준-Level1.md",
-    "0. INBOX/동적복원성-운항 조치 (Operational Measures).md",
-    "0. INBOX/동적복원성-직접 복원성 평가 (Direct Stability Assessment).md",
-    "0. INBOX/[[동적복원성-직접 복원성 평가 (Direct Stability Assessment).md",
-    "0. INBOX/동적 복원성-취약성 기준 (Vulnerability Criteria).md",
-    "0. INBOX/동적 복원성-취약성 기준-Level2.md",
     "1. DAILY NOTES/250720.md",
     "동적 복원성",
-    "0. INBOX/제1 원리(first principles).md",
     "98. RESOURCES/책",
     "98. RESOURCES/동적복원성/Development of Second Generation Intact Stability Criteria.pdf",
     "97. TEMPLATES/Temp_ReviewPaper.md",
