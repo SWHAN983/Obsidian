@@ -11,24 +11,10 @@
             "id": "8d8b6e693b6bc2c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. INBOX/동적복원성-직접 복원성 평가 (Direct Stability Assessment).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "동적복원성-직접 복원성 평가 (Direct Stability Assessment)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ]
@@ -192,13 +178,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/동적복원성-직접 복원성 평가 (Direct Stability Assessment).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "동적복원성-직접 복원성 평가 (Direct Stability Assessment) 의 개요"
+              "title": "개요"
             }
           },
           {
