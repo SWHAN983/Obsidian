@@ -26,7 +26,7 @@ tags:
 ### 평가
 - 각 적재 상태에 대해 아래의 두 기준을 모두 만족하면 취약하지 않은 것으로 간주합니다.
 
-1. $$GM_{\text{min}} \geq R_{PL\_A}$$
+1. $$GM_{\text{min}} \geq R_{PL_A}$$
 2. $$
 0.1 \leq \frac{A_W \cdot d - \nabla}{\nabla}
 $$

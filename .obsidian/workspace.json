@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. CONCEPTS/과도한 가속도 (Excessive Acceleration).md",
+                "file": "3. CONCEPTS/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "과도한 가속도 (Excessive Acceleration)"
+              "title": "서핑라이딩;브로칭 (Surf-riding;Broaching)"
             }
           },
           {
@@ -217,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. CONCEPTS/과도한 가속도 (Excessive Acceleration).md",
+                "file": "3. CONCEPTS/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "과도한 가속도 (Excessive Acceleration) 의 개요"
+              "title": "서핑라이딩;브로칭 (Surf-riding;Broaching) 의 개요"
             }
           },
           {
@@ -261,8 +261,10 @@
   "active": "8d8b6e693b6bc2c4",
   "lastOpenFiles": [
     "7. OUTPUTS/MOC_2세대 비손상 복원성 기준(동적 복원성).md",
-    "3. CONCEPTS/무동력 상태 (Dead Ship Condition).md",
+    "3. CONCEPTS/파라메트릭 롤링 (Parametric Rolling).md",
+    "3. CONCEPTS/순수 복원성 상실 (Pure Loss of Stability).md",
     "3. CONCEPTS/과도한 가속도 (Excessive Acceleration).md",
+    "3. CONCEPTS/무동력 상태 (Dead Ship Condition).md",
     "3. CONCEPTS/동적복원성-운항 조치 (Operational Measures).md",
     "3. CONCEPTS/동적복원성-직접 복원성 평가 (Direct Stability Assessment).md",
     "98. RESOURCES/동적복원성/2-6-MSC.1-Circ.1627-Interim-Guidelines-On-The-Second-Generation-Intact-Stability-Criteria-Secretariat.pdf",
@@ -271,8 +273,6 @@
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
     "98. RESOURCES/동적복원성/Development of Second Generation Intact Stability Criteria.pdf",
-    "3. CONCEPTS/파라메트릭 롤링 (Parametric Rolling).md",
-    "3. CONCEPTS/순수 복원성 상실 (Pure Loss of Stability).md",
     "3. CONCEPTS/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
     "3. CONCEPTS/동적 복원성-취약성 기준-Level2.md",
     "3. CONCEPTS/동적 복원성-취약성 기준-Level1.md",
