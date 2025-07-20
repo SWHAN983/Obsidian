@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
+                "file": "0. INBOX/2세대 비손상 복원성 기준(동적 복원성).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "서핑라이딩;브로칭 (Surf-riding;Broaching)"
+              "title": "2세대 비손상 복원성 기준(동적 복원성)"
             }
           }
         ]
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
+                "file": "0. INBOX/2세대 비손상 복원성 기준(동적 복원성).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "서핑라이딩;브로칭 (Surf-riding;Broaching) 의 개요"
+              "title": "2세대 비손상 복원성 기준(동적 복원성) 의 개요"
             }
           },
           {
@@ -264,8 +264,8 @@
   },
   "active": "8d8b6e693b6bc2c4",
   "lastOpenFiles": [
-    "0. INBOX/순수 복원성 상실 (Pure Loss of Stability).md",
     "0. INBOX/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
+    "0. INBOX/순수 복원성 상실 (Pure Loss of Stability).md",
     "0. INBOX/파라메트릭 롤링 (Parametric Rolling).md",
     "0. INBOX/과도한 가속도 (Excessive Acceleration).md",
     "0. INBOX/2세대 비손상 복원성 기준(동적 복원성).md",
