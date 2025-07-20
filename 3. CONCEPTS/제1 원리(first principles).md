@@ -14,7 +14,7 @@ tags: []
 # 공학 및 해석에서의 의미
 - First-principles approach 
   [Giordano, N. J., & Nakanishi, H. (2005). _Computational Physics_. Pearson.]
-	- 경험적 모델(empirical model)이나 통계적 근사(statistical fit) 대신,
+	- 경험적 모델(Empirical model)이나 통계적 근사(Statistical fit) 대신,
 	  가장 근본적인 물리 법칙(기초 방정식 등)에 근거해 해석·예측·설계하거나 문제를 해결하는 방법
 	- 
 
