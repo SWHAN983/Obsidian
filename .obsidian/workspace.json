@@ -13,6 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "0. INBOX/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "서핑라이딩;브로칭 (Surf-riding;Broaching)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "947e59c2a5359c1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8a1e6b32504c3a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "0. INBOX/순수 복원성 상실 (Pure Loss of Stability).md",
                 "mode": "source",
                 "source": false,
@@ -29,36 +59,6 @@
               },
               "icon": "lucide-file",
               "title": "순수 복원성 상실 (Pure Loss of Stability)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "947e59c2a5359c1a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a8a1e6b32504c3a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. INBOX/데드십 상태 (Dead Ship Condition).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "데드십 상태 (Dead Ship Condition)"
             }
           }
         ]
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/순수 복원성 상실 (Pure Loss of Stability).md",
+                "file": "0. INBOX/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "순수 복원성 상실 (Pure Loss of Stability) 의 개요"
+              "title": "서핑라이딩;브로칭 (Surf-riding;Broaching) 의 개요"
             }
           },
           {
@@ -264,10 +264,15 @@
   },
   "active": "8d8b6e693b6bc2c4",
   "lastOpenFiles": [
+    "0. INBOX/순수 복원성 상실 (Pure Loss of Stability).md",
+    "0. INBOX/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
+    "0. INBOX/파라메트릭 롤링 (Parametric Rolling).md",
+    "0. INBOX/과도한 가속도 (Excessive Acceleration).md",
     "0. INBOX/2세대 비손상 복원성 기준(동적 복원성).md",
     "0. INBOX/데드십 상태 (Dead Ship Condition).md",
-    "0. INBOX/순수 복원성 상실 (Pure Loss of Stability).md",
-    "0. INBOX/과도한 가속도 (Excessive Acceleration).md",
+    "서핑/브로칭 (Surf-riding/Broaching).md",
+    "서핑/브로칭 (Surf-riding",
+    "서핑",
     "0. INBOX/동적 복원성-취약성 기준-Level1.md",
     "0. INBOX/동적복원성-운항 조치 (Operational Measures).md",
     "0. INBOX/동적복원성-직접 복원성 평가 (Direct Stability Assessment).md",
@@ -289,17 +294,12 @@
     "98. RESOURCES/화재&폭발/THE CHEMKIN THERMODYNAMIC DATABASE.pdf",
     "98. RESOURCES/화재&폭발/Quantitative Measurement of OH and CH Chemiluminescence in Jet Diffusion Flames.pdf",
     "98. RESOURCES/화재&폭발/Numerical and experimental investigations of combustion instabilities of swirled premixed methane-air flames with hydrogen addition.pdf",
-    "98. RESOURCES/화재&폭발/Numerical Investigation on the Flame Characteristics of Lean Premixed Methane Flame Piloted with Rich Premixed Flame.pdf",
-    "98. RESOURCES/화재&폭발/Machinery and Energy Systems for the Hydrogen Economy Chapter 2 - Fundamentals.pdf",
     "3. CONCEPTS/UEL, IDT, 점화에너지 등 핵심 연소 특성.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "conflict-files-obsidian-git.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
     "0. INBOX/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
-    "6.  PROJECTS/6-1. 졸업논문/1.2 문헌 검토.md",
-    "7. OUTPUTS/MOC_졸업논문.md",
-    "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
     "99. ATTACHMENTS/Pasted image 20250718143005.png",
