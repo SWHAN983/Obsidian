@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. LAB/250715_랩 세미나.md",
+                "file": "5. LAB/250717_교수님 미팅.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250715_랩 세미나"
+              "title": "250717_교수님 미팅"
             }
           },
           {
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. LAB/250715_랩 세미나.md",
+                "file": "5. LAB/250717_교수님 미팅.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "250715_랩 세미나 의 개요"
+              "title": "250717_교수님 미팅 의 개요"
             }
           },
           {
@@ -259,6 +259,7 @@
   },
   "active": "8d8b6e693b6bc2c4",
   "lastOpenFiles": [
+    "5. LAB/250715_랩 세미나.md",
     "5. LAB/250717_교수님 미팅.md",
     "3. CONCEPTS/서핑라이딩;브로칭 (Surf-riding;Broaching).md",
     "7. OUTPUTS/MOC_2세대 비손상 복원성 기준(동적 복원성).md",
@@ -294,7 +295,6 @@
     "98. RESOURCES/화재&폭발/Quantitative Measurement of OH and CH Chemiluminescence in Jet Diffusion Flames.pdf",
     "98. RESOURCES/화재&폭발/Numerical and experimental investigations of combustion instabilities of swirled premixed methane-air flames with hydrogen addition.pdf",
     "3. CONCEPTS/UEL, IDT, 점화에너지 등 핵심 연소 특성.md",
-    "conflict-files-obsidian-git.md",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
     "99. ATTACHMENTS/Pasted image 20250718143005.png",
