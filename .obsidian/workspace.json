@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5c60fa09fb5050e",
+        "id": "80288f416a87f242",
         "type": "tabs",
         "children": [
           {
-            "id": "8784d8340dc68386",
+            "id": "8d8b6e693b6bc2c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/기관실 화재 사고 데이터베이스.md",
+                "file": "0. INBOX/제1 원리(first principles).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "기관실 화재 사고 데이터베이스"
+              "title": "제1 원리(first principles)"
             }
           }
         ]
@@ -43,7 +43,7 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
-        "dimension": 40.70422535211268,
+        "dimension": 52.333664349553125,
         "children": [
           {
             "id": "84301899b043e26d",
@@ -90,7 +90,7 @@
       {
         "id": "f688897bf0516395",
         "type": "tabs",
-        "dimension": 29.014084507042252,
+        "dimension": 27.805362462760673,
         "children": [
           {
             "id": "1b052f6f0fe0224e",
@@ -127,15 +127,25 @@
       {
         "id": "eac9abe5fe92f719",
         "type": "tabs",
-        "dimension": 30.28169014084507,
+        "dimension": 19.860973187686195,
         "children": [
+          {
+            "id": "377b20c0487fff01",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
           {
             "id": "1dc4a50d117cffe1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. INBOX/기관실 화재 사고 데이터베이스.md",
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +155,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "기관실 화재 사고 데이터베이스 의 백링크"
+              "title": "MOC_졸업논문 목차 의 백링크"
             }
           },
           {
@@ -166,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 243.5
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -182,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/기관실 화재 사고 데이터베이스.md",
+                "file": "0. INBOX/제1 원리(first principles).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "기관실 화재 사고 데이터베이스 의 개요"
+              "title": "제1 원리(first principles) 의 개요"
             }
           },
           {
@@ -202,26 +212,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "a2e48157c266c339",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "377b20c0487fff01",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,43 +232,44 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "8784d8340dc68386",
+  "active": "84301899b043e26d",
   "lastOpenFiles": [
+    "98. RESOURCES/책",
+    "0. INBOX/2세대 비손상 복원성 기준(동적 복원성).md",
+    "0. INBOX/제1 원리(first principles).md",
+    "98. RESOURCES/동적복원성/Development of Second Generation Intact Stability Criteria.pdf",
+    "97. TEMPLATES/Temp_ReviewPaper.md",
+    "97. TEMPLATES/TEMP_Concept.md",
+    "1. DAILY NOTES/250720.md",
+    "98. RESOURCES/동적복원성/2-6-MSC.1-Circ.1627-Interim-Guidelines-On-The-Second-Generation-Intact-Stability-Criteria-Secretariat.pdf",
+    "98. RESOURCES/동적복원성",
     "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
-    "0. INBOX/IGF Code.md",
     "2. REVIEWS/리뷰_KR_Decarbonization뉴스레터_vol07.md",
     "2. REVIEWS/리뷰_IMO_SUB-COMMITTEE ON CARRIAGE OF CARGOES AND CONTAINERS 10th session.md",
-    "0. INBOX/기관실 화재 사고 데이터베이스.md",
-    "98. RESOURCES/선박 설계/Ship Design for Efficiency and Economy.pdf",
-    "98. RESOURCES/선박 설계",
-    "98. RESOURCES/새 폴더",
-    "98. RESOURCES/자연발화/Monitoring of Self-Heating Coal Cargoes.pdf",
-    "98. RESOURCES/화재&폭발/MODELING AND ANALYSIS OF CHEMILUMINESCENCE SENSING FOR SYNGAS, METHANE AND JET-A COMBUSTION.pdf",
-    "98. RESOURCES/15,000TEU 컨테이너선/MAN Propulsion of 14,000 teu container vessels.pdf",
-    "98. RESOURCES/15,000TEU 컨테이너선/MAN Propulsion trends in container vessels.pdf",
-    "98. RESOURCES/15,000TEU 컨테이너선/Maersk Concept design of a 15,000 TEU ammoniafueled container vessel.pdf",
+    "98. RESOURCES/화재&폭발/THE CHEMKIN THERMODYNAMIC DATABASE.pdf",
+    "98. RESOURCES/화재&폭발/Quantitative Measurement of OH and CH Chemiluminescence in Jet Diffusion Flames.pdf",
+    "98. RESOURCES/화재&폭발/Numerical and experimental investigations of combustion instabilities of swirled premixed methane-air flames with hydrogen addition.pdf",
+    "98. RESOURCES/화재&폭발/Numerical Investigation on the Flame Characteristics of Lean Premixed Methane Flame Piloted with Rich Premixed Flame.pdf",
     "98. RESOURCES/화재&폭발/Machinery and Energy Systems for the Hydrogen Economy Chapter 2 - Fundamentals.pdf",
+    "98. RESOURCES/화재&폭발/MODELING AND ANALYSIS OF CHEMILUMINESCENCE SENSING FOR SYNGAS, METHANE AND JET-A COMBUSTION.pdf",
     "98. RESOURCES/화재&폭발/Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li.pdf",
-    "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
-    "7. OUTPUTS/MOC_졸업논문.md",
-    "1. DAILY NOTES/250720.md",
-    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
-    "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "3. CONCEPTS/UEL, IDT, 점화에너지 등 핵심 연소 특성.md",
+    "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "conflict-files-obsidian-git.md",
+    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+    "0. INBOX/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
     "6.  PROJECTS/6-1. 졸업논문/1.2 문헌 검토.md",
+    "7. OUTPUTS/MOC_졸업논문.md",
     "3. CONCEPTS/3-0. GIT/Git 커밋 기준 복구 절차.md",
     "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
+    "0. INBOX/기관실 화재 사고 데이터베이스.md",
     "1. DAILY NOTES/250719.md",
     "2. REVIEWS/리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.md",
+    "0. INBOX/리뷰_KR_Decarbonization뉴스레터_vol07.md",
+    "0. INBOX/리뷰_IMO_SUB-COMMITTEE ON CARRIAGE OF CARGOES AND CONTAINERS 10th session.md",
+    "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
     "2. REVIEWS/리뷰_Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
-    "2. REVIEWS/리뷰_The hazards and risks of hydrogen.md",
-    "2. REVIEWS/리뷰_PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.md",
-    "2. REVIEWS/리뷰_Quantitative risk assessment using a Japanese hydrogen refueling station model.md",
-    "2. REVIEWS/리뷰_Safety investigation of hydrogen charging platform package with CFD simulation.md",
-    "2. REVIEWS/리뷰_Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.md",
-    "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
     "99. ATTACHMENTS/Pasted image 20250718143005.png",
