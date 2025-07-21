@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "templater-obsidian",
-  "github-copilot"
+  "github-copilot",
+  "obsidian-excalidraw-plugin",
+  "obsidian-latex-suite"
 ]

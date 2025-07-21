@@ -11,13 +11,52 @@
             "id": "572531a1bc79bf44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1. DAILY NOTES/250721.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "250721"
+            }
+          },
+          {
+            "id": "9f0777359a208b34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. INBOX/test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,13 +255,19 @@
       "templater-obsidian:Templater": false,
       "audio-recorder:녹음 시작/정지": false,
       "workspaces:작업 공간 레이아웃 관리": false,
-      "publish:변경사항 게재": false
+      "publish:변경사항 게재": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "572531a1bc79bf44",
+  "active": "9f0777359a208b34",
   "lastOpenFiles": [
-    "7. OUTPUTS/MOC_2세대 비손상 복원성 기준(동적 복원성).md",
     "1. DAILY NOTES/250721.md",
+    "0. INBOX/test.md",
+    "3. CONCEPTS/저인화점 연료.md",
+    "Excalidraw/Drawing 2025-07-21 11.08.40.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-21 11.02.47.excalidraw.md",
+    "Excalidraw",
+    "7. OUTPUTS/MOC_2세대 비손상 복원성 기준(동적 복원성).md",
     "98. RESOURCES/동적복원성/2세대 복원성 연구 현황, 순수복원성 손실모드와 Parametric Roll mode를 중 심으로.pdf",
     "1. DAILY NOTES/250720.md",
     "5. LAB/250717_교수님 미팅.md",
@@ -250,12 +295,8 @@
     "동적 복원성",
     "98. RESOURCES/책",
     "97. TEMPLATES/Temp_ReviewPaper.md",
-    "97. TEMPLATES/TEMP_Concept.md",
     "98. RESOURCES/동적복원성",
-    "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
-    "2. REVIEWS/리뷰_KR_Decarbonization뉴스레터_vol07.md",
     "98. RESOURCES/화재&폭발/THE CHEMKIN THERMODYNAMIC DATABASE.pdf",
-    "98. RESOURCES/화재&폭발/Quantitative Measurement of OH and CH Chemiluminescence in Jet Diffusion Flames.pdf",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
     "99. ATTACHMENTS/Pasted image 20250718143005.png",
