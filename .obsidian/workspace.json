@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. OUTPUTS/MOC_STAR-CCM+.md",
+                "file": "1. DAILY NOTES/250721.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC_STAR-CCM+"
+              "title": "250721"
             }
           }
         ]
@@ -236,10 +236,10 @@
   },
   "active": "e78de05c73d918d6",
   "lastOpenFiles": [
+    "7. OUTPUTS/MOC_STAR-CCM+.md",
     "7. OUTPUTS/MOC_2세대 비손상 복원성 기준(동적 복원성).md",
     "7. OUTPUTS/MOC_졸업논문.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
-    "7. OUTPUTS/MOC_STAR-CCM+.md",
     "98. RESOURCES/수소/ISO-TR-15916-2015 Basic considerations for the safety of hydrogen systems.pdf",
     "1. DAILY NOTES/250718.md",
     "2. REVIEWS/리뷰_KR_Decarbonization뉴스레터_vol07.md",
