@@ -62,7 +62,7 @@ tags:
 > 내용
 - [[Development of Second Generation Intact Stability Criteria.pdf]]
 >  내용 
-
+- [[2세대 복원성 연구 현황, 순수복원성 손실모드와 Parametric Roll mode를 중 심으로.pdf]]
 ---
 
 # 🔗 연결된 노트의 의미  
