@@ -3,5 +3,6 @@
   "templater-obsidian",
   "github-copilot",
   "obsidian-excalidraw-plugin",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "editing-toolbar"
 ]
