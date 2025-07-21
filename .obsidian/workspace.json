@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/test.md",
+                "file": "1. DAILY NOTES/250721.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "250721"
             }
           }
         ],
@@ -261,8 +261,8 @@
   },
   "active": "9f0777359a208b34",
   "lastOpenFiles": [
-    "1. DAILY NOTES/250721.md",
     "0. INBOX/test.md",
+    "1. DAILY NOTES/250721.md",
     "3. CONCEPTS/저인화점 연료.md",
     "Excalidraw/Drawing 2025-07-21 11.08.40.excalidraw.md",
     "Excalidraw/Drawing 2025-07-21 11.02.47.excalidraw.md",
