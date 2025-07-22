@@ -18,21 +18,8 @@
               "icon": "lucide-file-text",
               "title": "Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li"
             }
-          },
-          {
-            "id": "e5e0b62f17098feb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/연구용역 원가산출내역서.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "연구용역 원가산출내역서"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,10 +222,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e5e0b62f17098feb",
+  "active": "94d3ed0a21a8a283",
   "lastOpenFiles": [
-    "98. RESOURCES/화재&폭발/Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li.pdf",
+    "0. INBOX/리뷰_Towards an explanation of why onboard fires happen The case of an engine room fire on the cruise ship “Le Boreal”.md",
+    "0. INBOX/리뷰_Pyrolysis gas as a carbon source for biogas production via anaerobic digestion.md",
+    "0. INBOX/리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types.md",
+    "0. INBOX/기관실 화재 사고 데이터베이스.md",
     "Excalidraw/연구용역 원가산출내역서.md",
+    "0. INBOX/대형 선박 기관실 내 저인화점 연료 누출 시 자연발화 가능성 정량화.md",
+    "98. RESOURCES/화재&폭발/Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li.pdf",
     "98. RESOURCES/선박 기관실 화재/Engine rooms fire safety – fire-extinguishing system requirements.pdf",
     "0. INBOX/리뷰_Engine rooms fire safety – fire-extinguishing system requirements.md",
     "98. RESOURCES/화재&폭발/DETERMINATION OF KINETIC PARAMETERS OF COAL PYROLYSIS TO SIMULATE.pdf",
@@ -247,7 +239,6 @@
     "98. RESOURCES/선박 기관실 화재/DNV FIRE SAFETY IN THE ENGINE ROOM.pdf",
     "0. INBOX/리뷰_DNV FIRE SAFETY IN THE ENGINE ROOM.md",
     "98. RESOURCES/자연발화/Pyrolysis characteristics and microstructure evolution of different coal types.pdf",
-    "0. INBOX/리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types.md",
     "98. RESOURCES/선박 기관실 화재/Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.pdf",
     "0. INBOX/리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.md",
     "98. RESOURCES/15,000TEU 컨테이너선/MAN Propulsion trends in container vessels.pdf",
@@ -257,9 +248,6 @@
     "98. RESOURCES/선박 화재 및 폭발/Fire Management on Container Ships New Strategies and Technologies.pdf",
     "0. INBOX/리뷰_Fire Management on Container Ships New Strategies and Technologies.md",
     "0. INBOX/리뷰_CHEMKIN-II A FORTRAN CHEMICAL KINETICS PACKAGE FOR THE ANALYSIS OF GAS-PHASE CHEMICAL KINETICS.md",
-    "98. RESOURCES/화재&폭발/CHEMKIN-II A FORTRAN CHEMICAL KINETICS PACKAGE FOR THE ANALYSIS OF GAS-PHASE CHEMICAL KINETICS.pdf",
-    "0. INBOX/Pyrolysis gas as a carbon source for biogas production via anaerobic digestion.md",
-    "0. INBOX/Towards an explanation of why onboard fires happen The case of an engine room fire on the cruise ship “Le Boreal”.md",
     "0. INBOX/리뷰_Hidden dangers of fire initiating cargoes explained.md",
     "0. INBOX/리뷰_EMSA HSAFE Part 3 - Risk analysis of generic hydrogen fuel systems.md",
     "0. INBOX/리뷰_CINS Guidelines for the Carriage of Seed Cake (including Seed Meal) in Containers.md",
@@ -272,7 +260,6 @@
     "0. INBOX/리뷰_Engine Room Fire aboard Containership.md",
     "0. INBOX/리뷰_Safety in maritime oil sector; Content analysis of machinery space fire hazards.md",
     "0. INBOX/리뷰_FACTORS CONTRIBUTING TO FIRES IN SHIP ENGINE ROOMS.md",
-    "0. INBOX/리뷰_Quantitative Measurement of OH and CH Chemiluminescence in Jet Diffusion Flames.md",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
     "99. ATTACHMENTS/Pasted image 20250718143005.png",
