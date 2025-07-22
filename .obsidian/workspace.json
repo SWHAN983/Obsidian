@@ -13,19 +13,19 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "98. RESOURCES/화재&폭발/Hybrid algorithm for the detection of turbulent fame fronts.pdf"
+                "file": "98. RESOURCES/자연발화/CINS Guidelines for the Carriage of Seed Cake (including Seed Meal) in Containers.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Hybrid algorithm for the detection of turbulent fame fronts"
+              "title": "CINS Guidelines for the Carriage of Seed Cake (including Seed Meal) in Containers"
             }
           },
           {
-            "id": "9c5e45184e511e6f",
+            "id": "7ad8dfa4232a3178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY NOTES/250722.md",
+                "file": "0. INBOX/리뷰_CINS Guidelines for the Carriage of Seed Cake (including Seed Meal) in Containers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250722"
+              "title": "리뷰_CINS Guidelines for the Carriage of Seed Cake (including Seed Meal) in Containers"
             }
           }
         ],
@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 317.5
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -247,11 +247,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9c5e45184e511e6f",
+  "active": "7ad8dfa4232a3178",
   "lastOpenFiles": [
-    "0. INBOX/리뷰_Hybrid algorithm for the detection of turbulent fame fronts.md",
-    "1. DAILY NOTES/250722.md",
+    "98. RESOURCES/자연발화/CINS Guidelines for the Carriage of Seed Cake (including Seed Meal) in Containers.pdf",
+    "0. INBOX/리뷰_CINS Guidelines for the Carriage of Seed Cake (including Seed Meal) in Containers.md",
+    "7. OUTPUTS/MOC_STAR-CCM+.md",
+    "98. RESOURCES/자연발화/Hot surface ignition of stoichiometric hydrogen-air mixtures.pdf",
+    "0. INBOX/리뷰_Hot surface ignition of stoichiometric hydrogen-air mixtures.md",
     "98. RESOURCES/화재&폭발/Hybrid algorithm for the detection of turbulent fame fronts.pdf",
+    "1. DAILY NOTES/250722.md",
+    "0. INBOX/리뷰_Hybrid algorithm for the detection of turbulent fame fronts.md",
     "98. RESOURCES/자연발화/Fuzzy bow-tie analysis for mitigating self-heating risks in maritime coal transportation.pdf",
     "98. RESOURCES/선박 화재 및 폭발/Analytical Research of the Container Ships Cargo Area Fires in the Period From 2010 to 2020.pdf",
     "0. INBOX/리뷰_Analytical Research of the Container Ships Cargo Area Fires in the Period From 2010 to 2020.md",
@@ -266,14 +271,12 @@
     "0. INBOX/리뷰_FACTORS CONTRIBUTING TO FIRES IN SHIP ENGINE ROOMS.md",
     "98. RESOURCES/화재&폭발/Quantitative Measurement of OH and CH Chemiluminescence in Jet Diffusion Flames.pdf",
     "0. INBOX/리뷰_Quantitative Measurement of OH and CH Chemiluminescence in Jet Diffusion Flames.md",
-    "98. RESOURCES/자연발화/HOT SURFACE IGNITION OF HYDROGEN-AIR MIXTURES.pdf",
     "0. INBOX/리뷰_Hot Surface Iginition of Hydrogen-Air Mixture.md",
     "7. OUTPUTS/MOC_졸업논문.md",
     "0. INBOX/대형 선박 기관실 내 저인화점 연료 누출 시 자연발화 가능성 정량화.md",
     "6.  PROJECTS/6-1. 졸업논문/1.2 문헌 검토.md",
     "1. DAILY NOTES/250721.md",
     "1. DAILY NOTES/250720.md",
-    "7. OUTPUTS/MOC_STAR-CCM+.md",
     "7. OUTPUTS/MOC_2세대 비손상 복원성 기준(동적 복원성).md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
     "1. DAILY NOTES/250718.md",
@@ -282,9 +285,6 @@
     "1. DAILY NOTES/250717.md",
     "5. LAB/250717_교수님 미팅.md",
     "5. LAB/250715_랩 세미나.md",
-    "0. INBOX/test.md",
-    "3. CONCEPTS/저인화점 연료.md",
-    "Excalidraw/Drawing 2025-07-21 11.08.40.excalidraw.md",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
     "99. ATTACHMENTS/Pasted image 20250718143005.png",
