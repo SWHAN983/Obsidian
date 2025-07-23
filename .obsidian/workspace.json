@@ -11,12 +11,24 @@
             "id": "94d3ed0a21a8a283",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "98. RESOURCES/화재&폭발/Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li.pdf"
+                "file": "7. OUTPUTS/MOC_졸업논문.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li"
+              "icon": "lucide-file",
+              "title": "MOC_졸업논문"
             }
           }
         ]
@@ -52,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "데드십",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,13 +236,19 @@
   },
   "active": "94d3ed0a21a8a283",
   "lastOpenFiles": [
+    "6.  PROJECTS/6-1. 졸업논문/0. 초록.md",
+    "7. OUTPUTS/MOC_졸업논문.md",
+    "1. DAILY NOTES/250723.md",
+    "98. RESOURCES/국제 해운 규제 및 정책/DNV_Maritime_Forecast_2050_2024.pdf",
+    "2. REVIEWS/리뷰_DNV_Maritime Forecast to 2050.md",
+    "1. DAILY NOTES/250722.md",
+    "98. RESOURCES/화재&폭발/Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li.pdf",
     "0. INBOX/리뷰_Towards an explanation of why onboard fires happen The case of an engine room fire on the cruise ship “Le Boreal”.md",
     "0. INBOX/리뷰_Pyrolysis gas as a carbon source for biogas production via anaerobic digestion.md",
     "0. INBOX/리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types.md",
     "0. INBOX/기관실 화재 사고 데이터베이스.md",
     "Excalidraw/연구용역 원가산출내역서.md",
     "0. INBOX/대형 선박 기관실 내 저인화점 연료 누출 시 자연발화 가능성 정량화.md",
-    "98. RESOURCES/화재&폭발/Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li.pdf",
     "98. RESOURCES/선박 기관실 화재/Engine rooms fire safety – fire-extinguishing system requirements.pdf",
     "0. INBOX/리뷰_Engine rooms fire safety – fire-extinguishing system requirements.md",
     "98. RESOURCES/화재&폭발/DETERMINATION OF KINETIC PARAMETERS OF COAL PYROLYSIS TO SIMULATE.pdf",
@@ -245,7 +263,6 @@
     "0. INBOX/리뷰_MAN Propulsion trends in container vessels.md",
     "0. INBOX/리뷰_Allianz Safety and Shipping Review 2025.md",
     "98. RESOURCES/해운 사고/Allianz Safety and Shipping Review 2023.pdf",
-    "98. RESOURCES/선박 화재 및 폭발/Fire Management on Container Ships New Strategies and Technologies.pdf",
     "0. INBOX/리뷰_Fire Management on Container Ships New Strategies and Technologies.md",
     "0. INBOX/리뷰_CHEMKIN-II A FORTRAN CHEMICAL KINETICS PACKAGE FOR THE ANALYSIS OF GAS-PHASE CHEMICAL KINETICS.md",
     "0. INBOX/리뷰_Hidden dangers of fire initiating cargoes explained.md",
@@ -253,13 +270,8 @@
     "0. INBOX/리뷰_CINS Guidelines for the Carriage of Seed Cake (including Seed Meal) in Containers.md",
     "7. OUTPUTS/MOC_STAR-CCM+.md",
     "0. INBOX/리뷰_Hot surface ignition of stoichiometric hydrogen-air mixtures.md",
-    "1. DAILY NOTES/250722.md",
     "0. INBOX/리뷰_Hybrid algorithm for the detection of turbulent fame fronts.md",
     "0. INBOX/리뷰_Analytical Research of the Container Ships Cargo Area Fires in the Period From 2010 to 2020.md",
-    "0. INBOX/리뷰_EMSA HSAFE Part 3 - Hazard identification of generic hydrogen fuel systems.md",
-    "0. INBOX/리뷰_Engine Room Fire aboard Containership.md",
-    "0. INBOX/리뷰_Safety in maritime oil sector; Content analysis of machinery space fire hazards.md",
-    "0. INBOX/리뷰_FACTORS CONTRIBUTING TO FIRES IN SHIP ENGINE ROOMS.md",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
     "99. ATTACHMENTS/Pasted image 20250718143005.png",
