@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ceda76dd798e161",
+        "id": "ad8d7250b58e1e29",
         "type": "tabs",
         "children": [
           {
-            "id": "16955b5237d608be",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "98. RESOURCES/수소/EMSA HSAFE Part 1 - Mapping safety risks for hydrogen-fuelled ships.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "EMSA HSAFE Part 1 - Mapping safety risks for hydrogen-fuelled ships"
-            }
-          },
-          {
-            "id": "b9fab654566513cc",
+            "id": "7aac14e18953630f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/EMSA HSAFE Part 1 - Mapping safety risks for hydrogen-fuelled ships.md",
+                "file": "2. REVIEWS/리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "EMSA HSAFE Part 1 - Mapping safety risks for hydrogen-fuelled ships"
+              "title": "리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/EMSA HSAFE Part 1 - Mapping safety risks for hydrogen-fuelled ships.md",
+                "file": "2. REVIEWS/리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "EMSA HSAFE Part 1 - Mapping safety risks for hydrogen-fuelled ships 의 개요"
+              "title": "리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types 의 개요"
             }
           },
           {
@@ -247,45 +234,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b9fab654566513cc",
+  "active": "84301899b043e26d",
   "lastOpenFiles": [
-    "98. RESOURCES/수소/EMSA HSAFE Part 1 - Mapping safety risks for hydrogen-fuelled ships.pdf",
-    "0. INBOX/EMSA HSAFE Part 1 - Mapping safety risks for hydrogen-fuelled ships.md",
-    "98. RESOURCES/자연발화/Carriage of Charcoal and Carbon in Container.pdf",
-    "0. INBOX/Carriage of Charcoal and Carbon in Container.md",
-    "98. RESOURCES/자연발화/Auto-ignition Temperature Understanding the Science behind Spontaneous Combustion.pdf",
-    "0. INBOX/Auto-ignition Temperature Understanding the Science behind Spontaneous Combustion.md",
-    "98. RESOURCES/선박 기관실 화재/Engine room fire safety.pdf",
-    "0. INBOX/Engine room fire safety.md",
-    "98. RESOURCES/수소/Hydrogen-Enriched Combustion Study at High Turbulence and Swirl Levels Inside a Gas Turbine Combusto.pdf",
-    "98. RESOURCES/자연발화/Autoignition of Hydrogen-Air Mixture with Temperature and Composition Inhomogeneities.pdf",
-    "98. RESOURCES/저인화성 연료/DNV Focus on ammonia and hydrogen as ship fuels.pdf",
-    "0. INBOX/DNV Focus on ammonia and hydrogen as ship fuels.md",
-    "98. RESOURCES/자연발화/Monitoring of Self-Heating Coal Cargoes.pdf",
-    "0. INBOX/Monitoring of Self-Heating Coal Cargoes.md",
-    "98. RESOURCES/자연발화/Guidelines for the Carriage of Charcoal and Carbon in Containers.pdf",
-    "0. INBOX/Guidelines for the Carriage of Charcoal and Carbon in Containers.md",
-    "98. RESOURCES/선박 화재 및 폭발/PILOT PROJECT “CONTAIN” – Exploring the Challenges of Containership Fires.pdf",
-    "0. INBOX/PILOT PROJECT “CONTAIN” – Exploring the Challenges of Containership Fires.md",
-    "98. RESOURCES/15,000TEU 컨테이너선/DeRiskbeta Comparative Quantitative Risk Assessment (QRA) of fuel oil, LNG, methanol, and ammonia on a 15,000 TEU containership.pdf",
-    "0. INBOX/DeRiskbeta Comparative Quantitative Risk Assessment (QRA) of fuel oil, LNG, methanol, and ammonia on a 15,000 TEU containership.md",
-    "0. INBOX/THE CHEMKIN THERMODYNAMIC DATABASE.md",
-    "0. INBOX/Containers Lost at Sea 2025 Update World Shipping Council. June 2025.md",
-    "0. INBOX/A Hybrid Approach for Quantitative Analysis of Fire Hazards in Enclosed Vehicle Spaces on Ro-ro Passenger Ships.md",
-    "0. INBOX/OFFSHORE STANDARD DET NORSKE VERITAS DNV-OS-D301 FIRE PROTECTION.md",
-    "0. INBOX/DNV HANDBOOK FOR HYDROGEN-FUELLED VESSELS.md",
-    "0. INBOX/MAN Propulsion of 14,000 teu container vessels.md",
-    "0. INBOX/Numerical study of spontaneous ignition in pressurized hydrogen release through a length of tube with local contraction.md",
-    "0. INBOX/Hot surface ignition dynamics in premixed hydrogen-air near the lean flammability limit.md",
-    "0. INBOX/EMSA Potential of Hydrogen as fuel for shipping.md",
-    "0. INBOX/Gard Fire prevention in engine rooms.md",
-    "0. INBOX/ENGINE ROOM FIRES – CAUSES, CONTRIBUTORS AND PREVENTIVE MEASURES.md",
-    "0. INBOX/EMSA HSAFE Part 2 - Reliability and safety analysis for hydrogen-fuelled ships.md",
+    "2. REVIEWS/리뷰_THE CHEMKIN THERMODYNAMIC DATABASE.md",
+    "2. REVIEWS/리뷰_PILOT PROJECT “CONTAIN” – Exploring the Challenges of Containership Fires.md",
+    "2. REVIEWS/리뷰_OFFSHORE STANDARD DET NORSKE VERITAS DNV-OS-D301 FIRE PROTECTION.md",
+    "2. REVIEWS/리뷰_Numerical study of spontaneous ignition in pressurized hydrogen release through a length of tube with local contraction.md",
+    "2. REVIEWS/리뷰_Numerical Investigation on the Flame Characteristics of Lean Premixed Methane Flame Piloted with Rich Premixed Flame.md",
+    "2. REVIEWS/리뷰_Monitoring of Self-Heating Coal Cargoes.md",
+    "2. REVIEWS/리뷰_MAN Propulsion of 14,000 teu container vessels.md",
+    "2. REVIEWS/리뷰_Maersk Concept design of a 15,000 TEU ammoniafueled container vessel.md",
+    "2. REVIEWS/리뷰_ISO-TR-15916-2015 Basic considerations for the safety of hydrogen systems.md",
+    "2. REVIEWS/리뷰_IIM ENGINE ROOM FIRES ARE STILL A MAJOR CONCERN 2025.md",
+    "0. INBOX/IGF Code.md",
+    "2. REVIEWS/리뷰_Hot surface ignition dynamics in premixed hydrogen-air near the lean flammability limit.md",
+    "2. REVIEWS/리뷰_Guidelines for the Carriage of Charcoal and Carbon in Containers.md",
+    "2. REVIEWS/리뷰_Gard Fire prevention in engine rooms.md",
+    "2. REVIEWS/리뷰_ENR_RULES OF SAFETY FOR SHIPS USING HYDROGEN AS A FUEL.md",
+    "2. REVIEWS/리뷰_ENGINE ROOM FIRES – CAUSES, CONTRIBUTORS AND PREVENTIVE MEASURES.md",
+    "2. REVIEWS/리뷰_Engine room fire safety.md",
+    "2. REVIEWS/리뷰_EMSA_ANALYSIS OF MARINE CASUALTIES AND INCIDENTS INVOLVING CONTAINER VESSELS.md",
+    "2. REVIEWS/리뷰_EMSA Potential of Hydrogen as fuel for shipping.md",
+    "2. REVIEWS/리뷰_EMSA HSAFE Part 2 - Reliability and safety analysis for hydrogen-fuelled ships.md",
+    "2. REVIEWS/리뷰_EMSA HSAFE Part 1 - Mapping safety risks for hydrogen-fuelled ships.md",
+    "2. REVIEWS/리뷰_DNV HANDBOOK FOR HYDROGEN-FUELLED VESSELS.md",
+    "2. REVIEWS/리뷰_DNV Focus on ammonia and hydrogen as ship fuels.md",
+    "2. REVIEWS/리뷰_DeRiskbeta Comparative Quantitative Risk Assessment (QRA) of fuel oil, LNG, methanol, and ammonia on a 15,000 TEU containership.md",
+    "2. REVIEWS/리뷰_Containers Lost at Sea 2025 Update World Shipping Council. June 2025.md",
+    "2. REVIEWS/리뷰_Container ship fires on the rise again.md",
+    "98. RESOURCES/해운 사고/EMSA_ANALYSIS OF MARINE CASUALTIES AND INCIDENTS INVOLVING CONTAINER VESSELS.pdf",
+    "98. RESOURCES/화재&폭발/Machinery and Energy Systems for the Hydrogen Economy Chapter 2 - Fundamentals.pdf",
+    "98. RESOURCES/화재&폭발/Numerical and experimental investigations of combustion instabilities of swirled premixed methane-air flames with hydrogen addition.pdf",
+    "98. RESOURCES/화재&폭발/CRC Handbook of Chemistry and Physics 97th Edition.pdf",
+    "98. RESOURCES/선박 화재 및 폭발/Container ship fires on the rise again.pdf",
+    "98. RESOURCES/자연발화/Guidelines for the Safe Carriage of Charcoal in Containers.pdf",
+    "98. RESOURCES/해운 사고/Analysis of accidents and incidents occurring during transport of packaged dangerous goods by sea.pdf",
+    "98. RESOURCES/화재&폭발/KINETICS OF HIGH PRESSURE CHAR OXIDATION.pdf",
+    "98. RESOURCES/자연발화/Experimental Investigation of the Self-Ignition and Jet Flame of Hydrogen Jets Released under Different Conditions.pdf",
+    "98. RESOURCES/화재&폭발/Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li.pdf",
     "99. ATTACHMENTS/Pasted image 20250717171110.png",
-    "0. INBOX/Numerical Investigation on the Flame Characteristics of Lean Premixed Methane Flame Piloted with Rich Premixed Flame.md",
-    "0. INBOX/ISO-TR-15916-2015 Basic considerations for the safety of hydrogen systems.md",
-    "0. INBOX/IIM ENGINE ROOM FIRES ARE STILL A MAJOR CONCERN 2025.md",
-    "0. INBOX/리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types.md",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
     "99. ATTACHMENTS/Pasted image 20250718143005.png",
