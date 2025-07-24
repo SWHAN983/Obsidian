@@ -11,10 +11,24 @@
             "id": "f07e613d31625e3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "대본.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "대본"
             }
           }
         ]
@@ -222,6 +236,8 @@
   },
   "active": "f07e613d31625e3a",
   "lastOpenFiles": [
+    "Excalidraw/연구용역 원가산출내역서.md",
+    "1. DAILY NOTES/250724.md",
     "대본.md",
     "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
     "98. RESOURCES/해운 사고/EMSA_ANALYSIS OF MARINE CASUALTIES AND INCIDENTS INVOLVING CONTAINER VESSELS.pdf",
@@ -251,8 +267,6 @@
     "1. DAILY NOTES/250722.md",
     "98. RESOURCES/화재&폭발/Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li.pdf",
     "0. INBOX/리뷰_Towards an explanation of why onboard fires happen The case of an engine room fire on the cruise ship “Le Boreal”.md",
-    "0. INBOX/리뷰_Pyrolysis gas as a carbon source for biogas production via anaerobic digestion.md",
-    "0. INBOX/리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types.md",
     "98. RESOURCES/선박 기관실 화재/Engine rooms fire safety – fire-extinguishing system requirements.pdf",
     "98. RESOURCES/화재&폭발/DETERMINATION OF KINETIC PARAMETERS OF COAL PYROLYSIS TO SIMULATE.pdf",
     "98. RESOURCES/자연발화/Fuzzy bow-tie analysis for mitigating self-heating risks in maritime coal transportation.pdf",
