@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad8d7250b58e1e29",
+        "id": "89b3e1a3fc2d0e04",
         "type": "tabs",
         "children": [
           {
-            "id": "7aac14e18953630f",
+            "id": "8e512117f12de424",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. REVIEWS/리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types.md",
+                "file": "7. OUTPUTS/MOC_졸업논문.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types"
+              "title": "MOC_졸업논문"
             }
           }
         ]
@@ -192,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. REVIEWS/리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types.md",
+                "file": "7. OUTPUTS/MOC_졸업논문.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types 의 개요"
+              "title": "MOC_졸업논문 의 개요"
             }
           },
           {
@@ -234,8 +234,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "84301899b043e26d",
+  "active": "8e512117f12de424",
   "lastOpenFiles": [
+    "6.  PROJECTS/6-1. 졸업논문/1.2 선행 연구 검토.md",
+    "7. OUTPUTS/MOC_졸업논문.md",
+    "3. CONCEPTS/해운업의 탈탄소화와 대체 연료 도입.md",
+    "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
+    "0. INBOX/목차.md",
+    "2. REVIEWS/리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types.md",
     "2. REVIEWS/리뷰_THE CHEMKIN THERMODYNAMIC DATABASE.md",
     "2. REVIEWS/리뷰_PILOT PROJECT “CONTAIN” – Exploring the Challenges of Containership Fires.md",
     "2. REVIEWS/리뷰_OFFSHORE STANDARD DET NORSKE VERITAS DNV-OS-D301 FIRE PROTECTION.md",
@@ -256,12 +262,6 @@
     "2. REVIEWS/리뷰_EMSA_ANALYSIS OF MARINE CASUALTIES AND INCIDENTS INVOLVING CONTAINER VESSELS.md",
     "2. REVIEWS/리뷰_EMSA Potential of Hydrogen as fuel for shipping.md",
     "2. REVIEWS/리뷰_EMSA HSAFE Part 2 - Reliability and safety analysis for hydrogen-fuelled ships.md",
-    "2. REVIEWS/리뷰_EMSA HSAFE Part 1 - Mapping safety risks for hydrogen-fuelled ships.md",
-    "2. REVIEWS/리뷰_DNV HANDBOOK FOR HYDROGEN-FUELLED VESSELS.md",
-    "2. REVIEWS/리뷰_DNV Focus on ammonia and hydrogen as ship fuels.md",
-    "2. REVIEWS/리뷰_DeRiskbeta Comparative Quantitative Risk Assessment (QRA) of fuel oil, LNG, methanol, and ammonia on a 15,000 TEU containership.md",
-    "2. REVIEWS/리뷰_Containers Lost at Sea 2025 Update World Shipping Council. June 2025.md",
-    "2. REVIEWS/리뷰_Container ship fires on the rise again.md",
     "98. RESOURCES/해운 사고/EMSA_ANALYSIS OF MARINE CASUALTIES AND INCIDENTS INVOLVING CONTAINER VESSELS.pdf",
     "98. RESOURCES/화재&폭발/Machinery and Energy Systems for the Hydrogen Economy Chapter 2 - Fundamentals.pdf",
     "98. RESOURCES/화재&폭발/Numerical and experimental investigations of combustion instabilities of swirled premixed methane-air flames with hydrogen addition.pdf",
