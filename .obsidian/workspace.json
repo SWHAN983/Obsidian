@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "11686bfef5a1a0aa",
+        "id": "8ceda76dd798e161",
         "type": "tabs",
         "children": [
           {
-            "id": "f07e613d31625e3a",
+            "id": "16955b5237d608be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대본.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "대본"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ]
@@ -176,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -193,13 +178,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. LAB/250717_교수님 미팅.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "250717_교수님 미팅 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -235,11 +219,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f07e613d31625e3a",
+  "active": "16955b5237d608be",
   "lastOpenFiles": [
+    "98. RESOURCES/선박 기관실 화재/IIM ENGINE ROOM FIRES ARE STILL A MAJOR CONCERN 2025.pdf",
+    "0. INBOX/IIM ENGINE ROOM FIRES ARE STILL A MAJOR CONCERN 2025.md",
+    "0. INBOX/리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types.md",
     "Excalidraw/연구용역 원가산출내역서.md",
-    "1. DAILY NOTES/250724.md",
     "대본.md",
+    "1. DAILY NOTES/250724.md",
     "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
     "98. RESOURCES/해운 사고/EMSA_ANALYSIS OF MARINE CASUALTIES AND INCIDENTS INVOLVING CONTAINER VESSELS.pdf",
     "98. RESOURCES/해운 사고/Analysis of CV_ Full_FINAL (1).pdf",
@@ -264,15 +251,11 @@
     "6.  PROJECTS/6-1. 졸업논문/1.2 선행 연구 검토.md",
     "3. CONCEPTS/수소의 감지·환기 관련 규정.md",
     "1. DAILY NOTES/250723.md",
-    "6.  PROJECTS/6-1. 졸업논문/0. 초록.md",
-    "1. DAILY NOTES/250722.md",
     "98. RESOURCES/화재&폭발/Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li.pdf",
-    "0. INBOX/리뷰_Towards an explanation of why onboard fires happen The case of an engine room fire on the cruise ship “Le Boreal”.md",
     "98. RESOURCES/선박 기관실 화재/Engine rooms fire safety – fire-extinguishing system requirements.pdf",
     "98. RESOURCES/화재&폭발/DETERMINATION OF KINETIC PARAMETERS OF COAL PYROLYSIS TO SIMULATE.pdf",
     "98. RESOURCES/자연발화/Fuzzy bow-tie analysis for mitigating self-heating risks in maritime coal transportation.pdf",
     "98. RESOURCES/선박 기관실 화재/DNV FIRE SAFETY IN THE ENGINE ROOM.pdf",
-    "98. RESOURCES/자연발화/Pyrolysis characteristics and microstructure evolution of different coal types.pdf",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
     "99. ATTACHMENTS/Pasted image 20250718143005.png",
