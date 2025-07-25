@@ -6,7 +6,6 @@
       {
         "id": "89b3e1a3fc2d0e04",
         "type": "tabs",
-        "dimension": 64.69833119383826,
         "children": [
           {
             "id": "8e512117f12de424",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/대체 연료로서 저인화점 연료(수소, 암모니아, LNG) 도입 현황.md",
+                "file": "0. INBOX/저인화점 연료 안전성 관련 연구.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,38 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "대체 연료로서 저인화점 연료(수소, 암모니아, LNG) 도입 현황"
-            }
-          }
-        ]
-      },
-      {
-        "id": "918cb51136dd65c0",
-        "type": "tabs",
-        "dimension": 35.30166880616174,
-        "children": [
-          {
-            "id": "97bea2b9eb1924ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. INBOX/목차.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "목차"
+              "title": "저인화점 연료 안전성 관련 연구"
             }
           }
         ]
@@ -96,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:무탄소",
+                "query": "file:Liqu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,8 +85,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f688897bf0516395",
@@ -209,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 200
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -225,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/대체 연료로서 저인화점 연료(수소, 암모니아, LNG) 도입 현황.md",
+                "file": "0. INBOX/저인화점 연료 안전성 관련 연구.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "대체 연료로서 저인화점 연료(수소, 암모니아, LNG) 도입 현황 의 개요"
+              "title": "저인화점 연료 안전성 관련 연구 의 개요"
             }
           },
           {
@@ -270,9 +237,20 @@
   "active": "8e512117f12de424",
   "lastOpenFiles": [
     "7. OUTPUTS/MOC_졸업논문.md",
-    "0. INBOX/해운 산업의 탈탄소화 동향 및 IMO 2050 넷제로 목표.md",
-    "0. INBOX/대체 연료로서 저인화점 연료(수소, 암모니아, LNG) 도입 현황.md",
+    "0. INBOX/저인화점 연료 안전성 관련 연구.md",
+    "98. RESOURCES/암모니아/EMSA_Potential of Ammonia as Fuel in Shipping.pdf",
+    "98. RESOURCES/수소/EMSA HSAFE Part 1 - Mapping safety risks for hydrogen-fuelled ships.pdf",
+    "98. RESOURCES/국제 해운 규제 및 정책/Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.pdf",
+    "98. RESOURCES/LNG/Liquefied Natural Gas (LNG) Import Terminals Siting, Safety, and Regulation.pdf",
     "0. INBOX/목차.md",
+    "3. CONCEPTS/저인화점 연료 누출·자연발화 관련 연구.md",
+    "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
+    "3. CONCEPTS/대형 선박의 저인화점 연료 사용.md",
+    "3. CONCEPTS/저인화점 연료 증가와 화재 위험성.md",
+    "0. INBOX/신규 연료 도입에 따른 잠재적 위험성; 자연발화 및 화재폭발.md",
+    "0. INBOX/대체 연료로서 저인화점 연료(수소, 암모니아, LNG) 도입 현황.md",
+    "98. RESOURCES/해운 사고/Allianz Safety and Shipping Review 2025.pdf",
+    "0. INBOX/해운 산업의 탈탄소화 동향 및 IMO 2050 넷제로 목표.md",
     "98. RESOURCES/암모니아/KR_무탄소 선박연료로서 암모니아의 전망.pdf",
     "Pasted image 20250725111702.png",
     "Pasted image 20250725111649.png",
@@ -280,7 +258,6 @@
     "3. CONCEPTS/해운업의 탈탄소화와 대체 연료 도입.md",
     "2. REVIEWS/리뷰_DNV_Maritime Forecast to 2050.md",
     "6.  PROJECTS/6-1. 졸업논문/1.2 선행 연구 검토.md",
-    "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
     "2. REVIEWS/리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types.md",
     "2. REVIEWS/리뷰_THE CHEMKIN THERMODYNAMIC DATABASE.md",
     "2. REVIEWS/리뷰_PILOT PROJECT “CONTAIN” – Exploring the Challenges of Containership Fires.md",
@@ -292,20 +269,10 @@
     "2. REVIEWS/리뷰_Maersk Concept design of a 15,000 TEU ammoniafueled container vessel.md",
     "2. REVIEWS/리뷰_ISO-TR-15916-2015 Basic considerations for the safety of hydrogen systems.md",
     "2. REVIEWS/리뷰_IIM ENGINE ROOM FIRES ARE STILL A MAJOR CONCERN 2025.md",
-    "0. INBOX/IGF Code.md",
-    "2. REVIEWS/리뷰_Hot surface ignition dynamics in premixed hydrogen-air near the lean flammability limit.md",
-    "2. REVIEWS/리뷰_Guidelines for the Carriage of Charcoal and Carbon in Containers.md",
-    "2. REVIEWS/리뷰_Gard Fire prevention in engine rooms.md",
-    "2. REVIEWS/리뷰_ENR_RULES OF SAFETY FOR SHIPS USING HYDROGEN AS A FUEL.md",
     "98. RESOURCES/해운 사고/EMSA_ANALYSIS OF MARINE CASUALTIES AND INCIDENTS INVOLVING CONTAINER VESSELS.pdf",
     "98. RESOURCES/화재&폭발/Machinery and Energy Systems for the Hydrogen Economy Chapter 2 - Fundamentals.pdf",
     "98. RESOURCES/화재&폭발/Numerical and experimental investigations of combustion instabilities of swirled premixed methane-air flames with hydrogen addition.pdf",
     "98. RESOURCES/화재&폭발/CRC Handbook of Chemistry and Physics 97th Edition.pdf",
-    "98. RESOURCES/선박 화재 및 폭발/Container ship fires on the rise again.pdf",
-    "98. RESOURCES/자연발화/Guidelines for the Safe Carriage of Charcoal in Containers.pdf",
-    "98. RESOURCES/해운 사고/Analysis of accidents and incidents occurring during transport of packaged dangerous goods by sea.pdf",
-    "98. RESOURCES/화재&폭발/KINETICS OF HIGH PRESSURE CHAR OXIDATION.pdf",
-    "98. RESOURCES/자연발화/Experimental Investigation of the Self-Ignition and Jet Flame of Hydrogen Jets Released under Different Conditions.pdf",
     "99. ATTACHMENTS/Pasted image 20250717171110.png",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
