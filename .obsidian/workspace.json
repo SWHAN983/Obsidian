@@ -6,6 +6,7 @@
       {
         "id": "89b3e1a3fc2d0e04",
         "type": "tabs",
+        "dimension": 64.69833119383826,
         "children": [
           {
             "id": "8e512117f12de424",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문.md",
+                "file": "0. INBOX/대체 연료로서 저인화점 연료(수소, 암모니아, LNG) 도입 현황.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +29,38 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC_졸업논문"
+              "title": "대체 연료로서 저인화점 연료(수소, 암모니아, LNG) 도입 현황"
+            }
+          }
+        ]
+      },
+      {
+        "id": "918cb51136dd65c0",
+        "type": "tabs",
+        "dimension": 35.30166880616174,
+        "children": [
+          {
+            "id": "97bea2b9eb1924ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. INBOX/목차.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "목차"
             }
           }
         ]
@@ -64,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:무탄소",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +117,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f688897bf0516395",
@@ -192,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문.md",
+                "file": "0. INBOX/대체 연료로서 저인화점 연료(수소, 암모니아, LNG) 도입 현황.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MOC_졸업논문 의 개요"
+              "title": "대체 연료로서 저인화점 연료(수소, 암모니아, LNG) 도입 현황 의 개요"
             }
           },
           {
@@ -236,11 +269,18 @@
   },
   "active": "8e512117f12de424",
   "lastOpenFiles": [
-    "6.  PROJECTS/6-1. 졸업논문/1.2 선행 연구 검토.md",
     "7. OUTPUTS/MOC_졸업논문.md",
-    "3. CONCEPTS/해운업의 탈탄소화와 대체 연료 도입.md",
-    "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
+    "0. INBOX/해운 산업의 탈탄소화 동향 및 IMO 2050 넷제로 목표.md",
+    "0. INBOX/대체 연료로서 저인화점 연료(수소, 암모니아, LNG) 도입 현황.md",
     "0. INBOX/목차.md",
+    "98. RESOURCES/암모니아/KR_무탄소 선박연료로서 암모니아의 전망.pdf",
+    "Pasted image 20250725111702.png",
+    "Pasted image 20250725111649.png",
+    "2. REVIEWS/리뷰_KR_무탄소 선박연료로서 암모니아의 전망.md",
+    "3. CONCEPTS/해운업의 탈탄소화와 대체 연료 도입.md",
+    "2. REVIEWS/리뷰_DNV_Maritime Forecast to 2050.md",
+    "6.  PROJECTS/6-1. 졸업논문/1.2 선행 연구 검토.md",
+    "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
     "2. REVIEWS/리뷰 _Pyrolysis characteristics and microstructure evolution of different coal types.md",
     "2. REVIEWS/리뷰_THE CHEMKIN THERMODYNAMIC DATABASE.md",
     "2. REVIEWS/리뷰_PILOT PROJECT “CONTAIN” – Exploring the Challenges of Containership Fires.md",
@@ -257,11 +297,6 @@
     "2. REVIEWS/리뷰_Guidelines for the Carriage of Charcoal and Carbon in Containers.md",
     "2. REVIEWS/리뷰_Gard Fire prevention in engine rooms.md",
     "2. REVIEWS/리뷰_ENR_RULES OF SAFETY FOR SHIPS USING HYDROGEN AS A FUEL.md",
-    "2. REVIEWS/리뷰_ENGINE ROOM FIRES – CAUSES, CONTRIBUTORS AND PREVENTIVE MEASURES.md",
-    "2. REVIEWS/리뷰_Engine room fire safety.md",
-    "2. REVIEWS/리뷰_EMSA_ANALYSIS OF MARINE CASUALTIES AND INCIDENTS INVOLVING CONTAINER VESSELS.md",
-    "2. REVIEWS/리뷰_EMSA Potential of Hydrogen as fuel for shipping.md",
-    "2. REVIEWS/리뷰_EMSA HSAFE Part 2 - Reliability and safety analysis for hydrogen-fuelled ships.md",
     "98. RESOURCES/해운 사고/EMSA_ANALYSIS OF MARINE CASUALTIES AND INCIDENTS INVOLVING CONTAINER VESSELS.pdf",
     "98. RESOURCES/화재&폭발/Machinery and Energy Systems for the Hydrogen Economy Chapter 2 - Fundamentals.pdf",
     "98. RESOURCES/화재&폭발/Numerical and experimental investigations of combustion instabilities of swirled premixed methane-air flames with hydrogen addition.pdf",
@@ -271,7 +306,6 @@
     "98. RESOURCES/해운 사고/Analysis of accidents and incidents occurring during transport of packaged dangerous goods by sea.pdf",
     "98. RESOURCES/화재&폭발/KINETICS OF HIGH PRESSURE CHAR OXIDATION.pdf",
     "98. RESOURCES/자연발화/Experimental Investigation of the Self-Ignition and Jet Flame of Hydrogen Jets Released under Different Conditions.pdf",
-    "98. RESOURCES/화재&폭발/Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li.pdf",
     "99. ATTACHMENTS/Pasted image 20250717171110.png",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
@@ -280,8 +314,6 @@
     "NODE/node_modules/npm/node_modules/qrcode-terminal/example/basic.png",
     "NODE/node_modules/npm/node_modules/retry/equation.gif",
     "node_modules/npm/node_modules/retry/equation.gif",
-    "node_modules/npm/node_modules/qrcode-terminal/example/basic.png",
-    "Pasted image 20250718143043.png",
     "무제.canvas"
   ]
 }
