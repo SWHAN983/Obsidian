@@ -4,64 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "89b3e1a3fc2d0e04",
+        "id": "dfcb8a2bef78a113",
         "type": "tabs",
         "children": [
           {
-            "id": "8e512117f12de424",
+            "id": "7eb3ccf19e0f9fac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-uri-view",
               "state": {
-                "file": "1. DAILY NOTES/250728.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "https://www.make.md/static/latest.md"
               },
               "icon": "lucide-file",
-              "title": "250728"
+              "title": "https://www.make.md/static/latest.md"
             }
-          }
-        ]
-      },
-      {
-        "id": "01dbcc283ce78bf1",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "dccc9890e62191f5",
+            "id": "d75aec0da87969f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-uri-view",
               "state": {
-                "file": "0. INBOX/목차.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "https://www.make.md/static/GetStarted.md"
               },
               "icon": "lucide-file",
-              "title": "목차"
+              "title": "https://www.make.md/static/GetStarted.md"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
-        "dimension": 48.837209302325576,
+        "dimension": 63.09403437815976,
         "children": [
           {
             "id": "84301899b043e26d",
@@ -94,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Liqu",
+                "query": "igf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,13 +85,24 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
+          },
+          {
+            "id": "7bc2b1298a616551",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "f688897bf0516395",
         "type": "tabs",
-        "dimension": 20.222446916076844,
+        "dimension": 18.452982810920123,
         "children": [
           {
             "id": "1b052f6f0fe0224e",
@@ -150,14 +132,24 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
+          },
+          {
+            "id": "0e60e462f894a333",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "eac9abe5fe92f719",
         "type": "tabs",
-        "dimension": 30.940343781597573,
+        "dimension": 18.452982810920123,
         "children": [
           {
             "id": "377b20c0487fff01",
@@ -175,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DAILY NOTES/250728.md",
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "250728 의 백링크"
+              "title": "MOC_졸업논문 목차 의 백링크"
             }
           },
           {
@@ -206,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 374.5
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -222,33 +214,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DAILY NOTES/250728.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "250728 의 개요"
-            }
-          },
-          {
-            "id": "952b8bf6a5dc24a8",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
+              "title": "개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -259,14 +241,14 @@
       "templater-obsidian:Templater": false,
       "audio-recorder:녹음 시작/정지": false,
       "workspaces:작업 공간 레이아웃 관리": false,
-      "publish:변경사항 게재": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "publish:변경사항 게재": false
     }
   },
-  "active": "377b20c0487fff01",
+  "active": "d75aec0da87969f0",
   "lastOpenFiles": [
-    "97. TEMPLATES/Temp_Daily.md",
+    "Tags",
     "1. DAILY NOTES/250728.md",
+    "97. TEMPLATES/Temp_Daily.md",
     "1. DAILY NOTES/250716.md",
     "1. DAILY NOTES/250718.md",
     "Pasted image 20250725111702.png",

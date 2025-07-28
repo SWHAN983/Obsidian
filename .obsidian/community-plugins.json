@@ -1,8 +1,8 @@
 [
   "obsidian-git",
   "templater-obsidian",
-  "github-copilot",
   "obsidian-excalidraw-plugin",
   "obsidian-latex-suite",
-  "editing-toolbar"
+  "editing-toolbar",
+  "make-md"
 ]
