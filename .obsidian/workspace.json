@@ -95,7 +95,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "eac9abe5fe92f719",
@@ -162,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
+                "file": "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "수소, 암모니아, LNG 연료 물성 비교 의 개요"
+              "title": "리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room 의 개요"
             }
           },
           {
@@ -205,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
+                "file": "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -233,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "수소, 암모니아, LNG 연료 물성 비교 그래프"
+              "title": "리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room 그래프"
             }
           },
           {
@@ -242,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
+                "file": "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +253,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "수소, 암모니아, LNG 연료 물성 비교 의 백링크"
+              "title": "리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room 의 백링크"
             }
           },
           {
@@ -261,12 +262,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
+                "file": "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "수소, 암모니아, LNG 연료 물성 비교 의 나가는 링크"
+              "title": "리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room 의 나가는 링크"
             }
           }
         ]
@@ -290,10 +291,11 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "6e135591b0d3b97a",
+  "active": "45a7f66b0c982f08",
   "lastOpenFiles": [
-    "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
     "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
+    "Vault.md",
+    "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
     "7. OUTPUTS/MOC_졸업논문.md",
     "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
     "Excalidraw/연구용역 원가산출내역서.md",
@@ -337,7 +339,6 @@
     "3. CONCEPTS/해운 산업의 탈탄소화 동향 및 IMO 2050 넷제로 목표.md",
     "1. DAILY NOTES/250728.md",
     "97. TEMPLATES/Temp_Daily.md",
-    "1. DAILY NOTES/250727.md",
     "0. INBOX/무제.canvas",
     "0. INBOX/무제 1.canvas",
     "무제.canvas"
