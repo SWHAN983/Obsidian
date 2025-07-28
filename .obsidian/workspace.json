@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
+                "file": "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NFPA 921 Guide for Fire and Explosion Investigations"
+              "title": "수소, 암모니아, LNG 연료 물성 비교"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
+                "file": "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "NFPA 921 Guide for Fire and Explosion Investigations 의 개요"
+              "title": "수소, 암모니아, LNG 연료 물성 비교 의 개요"
             }
           },
           {
@@ -205,9 +205,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
+                "file": "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -216,11 +216,11 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": true,
-                  "textFadeMultiplier": -1.9,
+                  "textFadeMultiplier": -1.1,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -228,12 +228,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5359795996225956,
+                  "scale": 0.1945002269061604,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "NFPA 921 Guide for Fire and Explosion Investigations 그래프"
+              "title": "수소, 암모니아, LNG 연료 물성 비교 그래프"
             }
           },
           {
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
+                "file": "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "NFPA 921 Guide for Fire and Explosion Investigations 의 백링크"
+              "title": "수소, 암모니아, LNG 연료 물성 비교 의 백링크"
             }
           },
           {
@@ -261,12 +261,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
+                "file": "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "NFPA 921 Guide for Fire and Explosion Investigations 의 나가는 링크"
+              "title": "수소, 암모니아, LNG 연료 물성 비교 의 나가는 링크"
             }
           }
         ]
@@ -290,61 +290,16 @@
       "templates:템플릿 삽입": false
     }
   },
-  "floating": {
-    "id": "0d87a926ea34f50f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "46f3488addba48ff",
-        "type": "window",
-        "children": [
-          {
-            "id": "4bfc50cb23fe519d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8e95a670ea0eb458",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "98. RESOURCES/선박 기관실 화재/UKP&I_RISK FOCUS ENGINE ROOM FIRES.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "UKP&I_RISK FOCUS ENGINE ROOM FIRES"
-                }
-              },
-              {
-                "id": "38b0df499ec2c7e5",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "98. RESOURCES/선박 기관실 화재/IMO_GUIDELINES FOR MEASURES TO PREVENT FIRES IN ENGINE-ROOMS AND CARGO PUMP-ROOMS.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "IMO_GUIDELINES FOR MEASURES TO PREVENT FIRES IN ENGINE-ROOMS AND CARGO PUMP-ROOMS"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 1920,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "6e135591b0d3b97a",
   "lastOpenFiles": [
-    "98. RESOURCES/선박 기관실 화재/IMO_GUIDELINES FOR MEASURES TO PREVENT FIRES IN ENGINE-ROOMS AND CARGO PUMP-ROOMS.pdf",
-    "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
     "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
+    "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
+    "7. OUTPUTS/MOC_졸업논문.md",
+    "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
+    "Excalidraw/연구용역 원가산출내역서.md",
+    "98. RESOURCES/선박 기관실 화재/UKP&I_RISK FOCUS ENGINE ROOM FIRES.pdf",
+    "98. RESOURCES/선박 기관실 화재/IMO_GUIDELINES FOR MEASURES TO PREVENT FIRES IN ENGINE-ROOMS AND CARGO PUMP-ROOMS.pdf",
+    "Excalidraw/Drawing 2025-07-28 18.24.56.excalidraw.md",
     "3. CONCEPTS/기관실 Ventilation.md",
     "98. RESOURCES/선박 기관실 화재/DNV_Engine room fires - causes, contributors and preventive measures.pdf",
     "98. RESOURCES/선박 기관실 화재/소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구.pdf",
@@ -365,7 +320,6 @@
     "98. RESOURCES/자연발화/Spontaneous Ignition in Fire Investigation.pdf",
     "99. ATTACHMENTS/Pasted image 20250728135537.png",
     "98. RESOURCES/자연발화/NFPA-921-General-Definitions-7.pdf",
-    "98. RESOURCES/선박 기관실 화재/UKP&I_RISK FOCUS ENGINE ROOM FIRES.pdf",
     "99. ATTACHMENTS/Pasted image 20250728135535.png",
     "99. ATTACHMENTS/Pasted image 20250728135532.png",
     "3. CONCEPTS/기관실 내 소기 화재(Scavenge fires).md",
@@ -384,9 +338,6 @@
     "1. DAILY NOTES/250728.md",
     "97. TEMPLATES/Temp_Daily.md",
     "1. DAILY NOTES/250727.md",
-    "1. DAILY NOTES/250726.md",
-    "1. DAILY NOTES/250725.md",
-    "1. DAILY NOTES/250724.md",
     "0. INBOX/무제.canvas",
     "0. INBOX/무제 1.canvas",
     "무제.canvas"
