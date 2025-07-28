@@ -6,7 +6,6 @@
       {
         "id": "f380caee85b590cc",
         "type": "tabs",
-        "dimension": 52.62697022767075,
         "children": [
           {
             "id": "6e135591b0d3b97a",
@@ -30,27 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "NFPA 921 Guide for Fire and Explosion Investigations"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b2b81f14179fdc53",
-        "type": "tabs",
-        "dimension": 47.37302977232925,
-        "children": [
-          {
-            "id": "48928db55fd12927",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
-                "bFile": "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: NFPA 921 Guide for Fire and Explosion Investigations"
             }
           }
         ]
@@ -184,12 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "NFPA 921 Guide for Fire and Explosion Investigations 의 개요"
             }
           },
           {
@@ -226,6 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,7 +233,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "NFPA 921 Guide for Fire and Explosion Investigations 그래프"
             }
           },
           {
@@ -262,6 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +252,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "NFPA 921 Guide for Fire and Explosion Investigations 의 백링크"
             }
           },
           {
@@ -280,11 +261,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "NFPA 921 Guide for Fire and Explosion Investigations 의 나가는 링크"
             }
           }
         ]
@@ -349,21 +331,21 @@
           }
         ],
         "direction": "vertical",
-        "x": 1926,
-        "y": 12,
-        "width": 1041,
-        "height": 992,
+        "x": 1920,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "48928db55fd12927",
+  "active": "6e135591b0d3b97a",
   "lastOpenFiles": [
-    "3. CONCEPTS/기관실 Ventilation.md",
     "98. RESOURCES/선박 기관실 화재/IMO_GUIDELINES FOR MEASURES TO PREVENT FIRES IN ENGINE-ROOMS AND CARGO PUMP-ROOMS.pdf",
     "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
     "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
+    "3. CONCEPTS/기관실 Ventilation.md",
     "98. RESOURCES/선박 기관실 화재/DNV_Engine room fires - causes, contributors and preventive measures.pdf",
     "98. RESOURCES/선박 기관실 화재/소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구.pdf",
     "98. RESOURCES/선박 기관실 화재/미확인 720889.crdownload",
