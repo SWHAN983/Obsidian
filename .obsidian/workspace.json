@@ -6,17 +6,49 @@
       {
         "id": "b2b81f14179fdc53",
         "type": "tabs",
+        "dimension": 61.458333333333336,
         "children": [
           {
-            "id": "5bd7293ad47e45db",
+            "id": "af8f94255968d26f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. INBOX/RISK FOCUS ENGINE ROOM FIRES.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RISK FOCUS ENGINE ROOM FIRES"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d326125f7337b03d",
+        "type": "tabs",
+        "dimension": 38.54166666666667,
+        "children": [
+          {
+            "id": "318c05372e689724",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "5. LAB"
+                "path": "97. TEMPLATES"
               },
               "icon": "lucide-file",
-              "title": "5. LAB"
+              "title": "97. TEMPLATES"
             }
           }
         ]
@@ -31,8 +63,18 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
-        "dimension": 63.09403437815976,
+        "dimension": 63.49848331648129,
         "children": [
+          {
+            "id": "1c64abaac45fae26",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
           {
             "id": "84301899b043e26d",
             "type": "leaf",
@@ -72,25 +114,24 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
-          },
-          {
-            "id": "d95f5b77e7376d2a",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "f688897bf0516395",
+        "id": "eac9abe5fe92f719",
         "type": "tabs",
-        "dimension": 18.452982810920123,
+        "dimension": 36.5015166835187,
         "children": [
+          {
+            "id": "377b20c0487fff01",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
           {
             "id": "1b052f6f0fe0224e",
             "type": "leaf",
@@ -120,57 +161,6 @@
               "title": "모든 속성"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "eac9abe5fe92f719",
-        "type": "tabs",
-        "dimension": 18.452982810920123,
-        "children": [
-          {
-            "id": "377b20c0487fff01",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "1dc4a50d117cffe1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "MOC_졸업논문 목차 의 백링크"
-            }
-          },
-          {
-            "id": "f9137678fa1352ca",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "MOC_졸업논문 목차 의 나가는 링크"
-            }
-          }
         ]
       }
     ],
@@ -192,20 +182,42 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "7. OUTPUTS/MOC_졸업논문.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "MOC_졸업논문 의 개요"
+            }
+          },
+          {
+            "id": "e96c9954ac99b234",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "lucide-cat",
+              "title": "ChatGPT"
+            }
+          },
+          {
+            "id": "287823c9b5233e08",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-gemini",
+              "state": {},
+              "icon": "lucide-dog",
+              "title": "Gemini"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f8ce57d74c40e178",
         "type": "tabs",
-        "dimension": 30.329457364341085,
+        "dimension": 30.32945736434108,
         "children": [
           {
             "id": "d465c13361a6408d",
@@ -216,12 +228,45 @@
               "icon": "lucide-git-fork",
               "title": "그래프 뷰"
             }
+          },
+          {
+            "id": "1dc4a50d117cffe1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7. OUTPUTS/MOC_졸업논문.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "MOC_졸업논문 의 백링크"
+            }
+          },
+          {
+            "id": "f9137678fa1352ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,15 +283,67 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "5bd7293ad47e45db",
+  "floating": {
+    "id": "d774309469175d4b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "47fc54feb84f2762",
+        "type": "window",
+        "children": [
+          {
+            "id": "6c5f34ddf3f55c70",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0b089d33e5cded5b",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "98. RESOURCES/선박 기관실 화재/UKP&I_RISK FOCUS ENGINE ROOM FIRES.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "UKP&I_RISK FOCUS ENGINE ROOM FIRES"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2543,
+        "y": 34,
+        "width": 663,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "318c05372e689724",
   "lastOpenFiles": [
+    "0. INBOX/RISK FOCUS ENGINE ROOM FIRES.md",
+    "98. RESOURCES/선박 기관실 화재/IMO_GUIDELINES FOR MEASURES TO PREVENT FIRES IN ENGINE-ROOMS AND CARGO PUMP-ROOMS.pdf",
+    "98. RESOURCES/선박 기관실 화재/미확인 844672.crdownload",
+    "98. RESOURCES/선박 기관실 화재/UKP&I_RISK FOCUS ENGINE ROOM FIRES.pdf",
+    "98. RESOURCES/선박 기관실 화재/ANALYSIS OF FIRE HAZARD AND SAFETY REQUIREMENTS OF A SEA VESSEL ENGINE ROOMS.pdf",
+    "해운 산업의 탈탄소화 동향 및 IMO 2050 넷제로 목표.md",
+    "3. CONCEPTS/기관실 화재 사고 원인 및 전파 경로 관련 연구.md",
+    "97. TEMPLATES/Temp_ReviewPaper.md",
+    "0. INBOX/0. INBOX.md",
+    "98. RESOURCES/선박 기관실 화재/미확인 693678.crdownload",
+    "3. CONCEPTS/신규 연료 도입에 따른 잠재적 위험성; 자연발화 및 화재폭발.md",
+    "6.  PROJECTS/6-1. 졸업논문/연구 가설.md",
+    "3. CONCEPTS/저인화점 연료 안전성 관련 연구.md",
+    "6.  PROJECTS/6-1. 졸업논문/목차.md",
+    "6.  PROJECTS/6-1. 졸업논문/1.3 연구 목적 및 범위.md",
+    "7. OUTPUTS/MOC_졸업논문.md",
+    "1. DAILY NOTES/250728.md",
+    "Excalidraw/연구용역 원가산출내역서.md",
     "5. LAB/250717_교수님 미팅.md",
     "5. LAB/250724_크리소 회의 대본.md",
     "5. LAB/250715_랩 세미나.md",
-    "1. DAILY NOTES/250728.md",
-    "7. OUTPUTS/MOC_졸업논문.md",
     "98. RESOURCES/암모니아/암모니아 관련 선박 개념도.pdf",
-    "Excalidraw/연구용역 원가산출내역서.md",
     "0. INBOX/무제.canvas",
     "0. INBOX/무제 1.canvas",
     "Vault.md",
@@ -255,30 +352,15 @@
     "1. DAILY NOTES/250716.md",
     "1. DAILY NOTES/250718.md",
     "99. ATTACHMENTS/Pasted image 20250725111702.png",
-    "0. INBOX/대체 연료로서 저인화점 연료(수소, 암모니아, LNG) 도입 현황.md",
+    "3. CONCEPTS/대체 연료로서 저인화점 연료(수소, 암모니아, LNG) 도입 현황.md",
     "Pasted image 20250725111649.png",
     "1. DAILY NOTES/250719.md",
     "1. DAILY NOTES/250726.md",
     "1. DAILY NOTES/250724.md",
     "1. DAILY NOTES/250723.md",
-    "1. DAILY NOTES/250722.md",
-    "1. DAILY NOTES/250721.md",
-    "1. DAILY NOTES/250720.md",
-    "1. DAILY NOTES/250717.md",
-    "1. DAILY NOTES/250715.md",
-    "6.  PROJECTS/6-1. 졸업논문/0. 초록.md",
     "98. RESOURCES/선박 기관실 화재/KR_기술정보-연료유관장치-컬러.pdf",
     "98. RESOURCES/선박 기관실 화재/미확인 652083.crdownload",
     "98. RESOURCES/선박 기관실 화재/KR_Protection of High Temperature Surface.pdf",
-    "98. RESOURCES/선박 기관실 화재/미확인 568165.crdownload",
-    "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
-    "0. INBOX/연구 가설.md",
-    "0. INBOX/1.3 연구 목적 및 범위.md",
-    "0. INBOX/기관실 화재 사고 원인 및 전파 경로 관련 연구.md",
-    "98. RESOURCES/암모니아/KR_무탄소 선박연료로서 암모니아의 전망.pdf",
-    "98. RESOURCES/저인화성 연료/KR_저인화점연료선박에 대한 지침서(LPG & 메틸에틸 알코올)(국).pdf",
-    "98. RESOURCES/암모니아/EMSA_Potential of Ammonia as Fuel in Shipping.pdf",
-    "98. RESOURCES/수소/EMSA HSAFE Part 1 - Mapping safety risks for hydrogen-fuelled ships.pdf",
     "99. ATTACHMENTS/Pasted image 20250717171110.png",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
