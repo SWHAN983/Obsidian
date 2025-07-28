@@ -29,5 +29,6 @@
   ],
   "alwaysUpdateLinks": true,
   "newFileFolderPath": "0. INBOX",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "promptDelete": false
 }
