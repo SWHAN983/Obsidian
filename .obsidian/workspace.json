@@ -6,57 +6,34 @@
       {
         "id": "28f7df7d97a1896e",
         "type": "tabs",
+        "dimension": 56.984785615491006,
         "children": [
-          {
-            "id": "b384741f8cef3957",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "98. RESOURCES/선박 기관실 화재/소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구"
-            }
-          },
           {
             "id": "1199c853c671967d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "98. RESOURCES/자연발화/NFPA-921-General-Definitions-7.pdf"
               },
-              "icon": "lucide-file",
-              "title": "MOC_졸업논문"
+              "icon": "lucide-file-text",
+              "title": "NFPA-921-General-Definitions-7"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "08505f7636251d8f",
         "type": "tabs",
+        "dimension": 43.015214384508994,
         "children": [
           {
-            "id": "0b7246c84e3ffc62",
+            "id": "d0b34ae86bdaa0b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/Park2008소형선박.md",
+                "file": "2. REVIEWS/Romanas Puisa2019Towards.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +48,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Park2008소형선박"
+              "title": "Romanas Puisa2019Towards"
             }
           }
         ]
@@ -138,7 +115,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "eac9abe5fe92f719",
@@ -188,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -249,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문.md",
+                "file": "98. RESOURCES/자연발화/NFPA-921-General-Definitions-7.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -272,12 +249,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5359795996225964,
+                  "scale": 0.19450022690616076,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "MOC_졸업논문 그래프"
+              "title": "NFPA-921-General-Definitions-7 그래프"
             }
           },
           {
@@ -336,51 +313,52 @@
   },
   "active": "1199c853c671967d",
   "lastOpenFiles": [
-    "98. RESOURCES/선박 기관실 화재/소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구.pdf",
+    "98. RESOURCES/자연발화/HOT SURFACE IGNITION OF HYDROGEN-AIR MIXTURES.pdf",
+    "98. RESOURCES/자연발화/Hot surface ignition dynamics in premixed hydrogen-air near the lean flammability limit.pdf",
+    "98. RESOURCES/자연발화/Hot surface ignition of stoichiometric hydrogen-air mixtures.pdf",
+    "98. RESOURCES/자연발화/Monitoring of Self-Heating Coal Cargoes.pdf",
+    "98. RESOURCES/자연발화/Pyrolysis characteristics and microstructure evolution of different coal types.pdf",
+    "98. RESOURCES/자연발화/Pyrolysis gas as a carbon source for biogas production via anaerobic digestion.pdf",
+    "98. RESOURCES/자연발화/Guidelines for the Carriage of Charcoal and Carbon in Containers.pdf",
+    "98. RESOURCES/자연발화/NFPA-921-General-Definitions-7.pdf",
+    "98. RESOURCES/자연발화/Spontaneous Ignition in Fire Investigation.pdf",
+    "98. RESOURCES/자연발화/Ignition of Gases, Vapors, and Liquids by Hot Surfaces.pdf",
+    "98. RESOURCES/자연발화/Hot surface ignition of a wall-impinging fuel spray Modeling and analysis using large-eddy simulation.pdf",
+    "0. INBOX/Zhao2023ANUMERICAL.md",
+    "2. REVIEWS/Romanas Puisa2019Towards.md",
+    "3. CONCEPTS/기관실의 고온 표면 발화(Hot Surface Ignition).md",
+    "3. CONCEPTS/화재의 필수 요소.md",
+    "Pasted image 20250729025208.png",
+    "Pasted image 20250729025158.png",
+    "0. INBOX/KR2003Protection.md",
+    "2. REVIEWS/IIM ENGINE2025ROOM FIRES.md",
+    "2. REVIEWS/Gard2012Fireprevention.md",
+    "2. REVIEWS/Agata2025_FACTORS.md",
+    "Pasted image 20250729023649.png",
+    "Pasted image 20250729023646.png",
+    "Pasted image 20250729023641.png",
+    "Pasted image 20250729023633.png",
+    "2. REVIEWS/리뷰_ENGINE ROOM FIRES – CAUSES, CONTRIBUTORS AND PREVENTIVE MEASURES.md",
+    "2. REVIEWS/NTSB2022Engine Room.md",
+    "2. REVIEWS/DNV2023FIRESAFETY.md",
+    "0. INBOX/Adam2011Analysis.md",
+    "Pasted image 20250729022545.png",
+    "Pasted image 20250729022536.png",
+    "Pasted image 20250729022455.png",
+    "2. REVIEWS/Miller2016RiskFocus.md",
     "7. OUTPUTS/MOC_졸업논문.md",
+    "Pasted image 20250729020812.png",
+    "0. INBOX/Kang2016A framework.md",
     "0. INBOX/Park2008소형선박.md",
-    "98. RESOURCES/화재&폭발/Numerical Investigation on the Flame Characteristics of Lean Premixed Methane Flame Piloted with Rich Premixed Flame.pdf",
     "2. REVIEWS/Zhang et al.2024Numerical.md",
-    "98. RESOURCES/수소/Machinery and Energy Systems for the Hydrogen Economy Chapter 2 - Fundamentals.pdf",
-    "98. RESOURCES/화재&폭발/Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li.pdf",
     "2. REVIEWS/리뷰_DETERMINATION OF KINETIC PARAMETERS OF COAL PYROLYSIS TO SIMULATE.md",
-    "98. RESOURCES/화재&폭발/DETERMINATION OF KINETIC PARAMETERS OF COAL PYROLYSIS TO SIMULATE.pdf",
     "1. DAILY NOTES/250729.md",
-    "98. RESOURCES/화재&폭발/CRC Handbook of Chemistry and Physics 97th Edition.pdf",
     "2. REVIEWS/Ha2007수소.md",
     "2. REVIEWS/리뷰_Hybrid algorithm for the detection of turbulent fame fronts.md",
-    "98. RESOURCES/화재&폭발/Hybrid algorithm for the detection of turbulent fame fronts.pdf",
-    "98. RESOURCES/화재&폭발/A Study on Fire and Explosion Characteristics of Hydrogen.pdf",
     "0. INBOX/CCPS2014Guidlines.md",
-    "98. RESOURCES/화재&폭발/Guidelines for Determining the Probabilityof Ignition of a Released Flammable Mass.pdf",
     "2. REVIEWS/MAN2024Propulsion.md",
-    "98. RESOURCES/15,000TEU 컨테이너선/MAN Propulsion trends in container vessels.pdf",
     "2. REVIEWS/MAN2018Propulsion.md",
     "2. REVIEWS/Maersk2023Concept design.md",
-    "0. INBOX/Moon2025DeRisk.md",
-    "0. INBOX/연료 준비실(FPR).md",
-    "0. INBOX/International.md",
-    "0. INBOX/IEC2020Explosive.md",
-    "0. INBOX/Moon2023Ammonia.md",
-    "Pasted image 20250728233041.png",
-    "Pasted image 20250728232521.png",
-    "Pasted image 20250728232514.png",
-    "2. REVIEWS/리뷰_DeRiskbeta Comparative Quantitative Risk Assessment (QRA) of fuel oil, LNG, methanol, and ammonia on a 15,000 TEU containership.md",
-    "3. CONCEPTS/선박 기관실 적용 관점에서의 주의사항.md",
-    "0. INBOX/공기의 조성.md",
-    "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
-    "Pasted image 20250728204251.png",
-    "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
-    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
-    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
-    "Vault.md",
-    "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
-    "99. ATTACHMENTS/Pasted image 20250728145356.png",
-    "99. ATTACHMENTS/Pasted image 20250728145355.png",
-    "99. ATTACHMENTS/Pasted image 20250728135537.png",
-    "99. ATTACHMENTS/Pasted image 20250728135535.png",
-    "99. ATTACHMENTS/Pasted image 20250728135532.png",
-    "99. ATTACHMENTS/Pasted image 20250728132702.png",
     "0. INBOX/무제.canvas",
     "0. INBOX/무제 1.canvas",
     "무제.canvas"

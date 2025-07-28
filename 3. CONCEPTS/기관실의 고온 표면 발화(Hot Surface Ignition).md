@@ -3,7 +3,7 @@ created: 2025-07-28
 tags:
   - CONCEPT
 ---
-### 이 노트는 [[리뷰_RISK FOCUS ENGINE ROOM FIRES]] 내 특정 챕터[[]]와 연결되는 개념 정리용입니다.  
+### 이 노트는 [[Miller ]] 내 특정 챕터[[]]와 연결되는 개념 정리용입니다.  
 > 지침: 개념 간 연결은 단순 링크가 아닌, 의미 기반의 연결성을 명확히 드러내세요.  
 ---
 
@@ -24,7 +24,7 @@ tags:
 # 출처 및 문헌  
 > 지침: 이 개념이 등장한 논문, 보고서, 자료 등을 서술식 또는 링크로 정리하세요.
 
-- [[리뷰_RISK FOCUS ENGINE ROOM FIRES]]
+- [[Miller ]]
 >  ![[Pasted image 20250728131930.png]]
 > 1. 연료 펌프를 감싸고 있는 핫박스 내부에서 뜨거운 연료유가 조금씩 새어나옴
 > 2. 액체 상태 기름이 핫박스 바닥에 고임
@@ -36,16 +36,16 @@ tags:
 > 8. 배기관 표면은 400~500°C에 달하는 초고온 상태
 > 9.유증기가 배기관에 닿는 순간 불꽃 없이 자연발화
 
-- [[리뷰_RISK FOCUS ENGINE ROOM FIRES]]
+- [[Miller ]]
 > ![[Pasted image 20250728131909.png]]
 >  1. 터보차저는 복잡한 모양으로 인해 단열하기 까다로움
 >  2. 따라서 급격한 온도변화가 있는 굴곡부나 플랜지 연결부의 표면 온도 모니터링이 중요
 
-- [[리뷰_RISK FOCUS ENGINE ROOM FIRES]]
+- [[Miller ]]
 > ![[Pasted image 20250728131955.png]]
 > 조사 결과, 점검된 선박의 약 80%가 SOLAS에서 요구하는 220℃ 기준을 초과하는 고온 노출 부위를 가지고 있는 것으로 추정
 
-- [[리뷰_RISK FOCUS ENGINE ROOM FIRES]]
+- [[Miller ]]
 > ![[Pasted image 20250728132008.png]]
 > Indicator cock은 또 다른 잠재적 발화원
 >  
@@ -54,7 +54,9 @@ tags:
 # 연결된 노트의 의미  
 > 이 개념과 의미상 연결되는 다른 노트 연결
 
-- 
+- [[KR_기술정보-연료유관장치-컬러.pdf]]
+	- ▶ High Temperature Surface 표면의 온도가 220℃ 를 초과하는 가열되거나 가연된 표면
+	- ▶ Hot Surface 를 포함하여 여부와 상관없이 항상 가열되고 있거나 High Temperature Surface Insulation 가열되어 있어서 가연성 기름이 접촉하였을 때 발화의 가능성이 있는 잠재적인 발화원.
 
 ---
 
