@@ -6,15 +6,14 @@
       {
         "id": "b2b81f14179fdc53",
         "type": "tabs",
-        "dimension": 61.458333333333336,
         "children": [
           {
-            "id": "af8f94255968d26f",
+            "id": "5bd7293ad47e45db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/RISK FOCUS ENGINE ROOM FIRES.md",
+                "file": "1. DAILY NOTES/250728.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,26 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RISK FOCUS ENGINE ROOM FIRES"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d326125f7337b03d",
-        "type": "tabs",
-        "dimension": 38.54166666666667,
-        "children": [
-          {
-            "id": "318c05372e689724",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "97. TEMPLATES"
-              },
-              "icon": "lucide-file",
-              "title": "97. TEMPLATES"
+              "title": "250728"
             }
           }
         ]
@@ -67,16 +47,6 @@
         "children": [
           {
             "id": "1c64abaac45fae26",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
-            "id": "84301899b043e26d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -114,8 +84,19 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
+          },
+          {
+            "id": "cb8c914d9c64aee7",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "eac9abe5fe92f719",
@@ -161,7 +142,8 @@
               "title": "모든 속성"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -212,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f8ce57d74c40e178",
@@ -254,11 +236,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. DAILY NOTES/250728.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "250728 의 나가는 링크"
             }
           }
         ],
@@ -266,7 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,49 +266,14 @@
       "templates:템플릿 삽입": false
     }
   },
-  "floating": {
-    "id": "d774309469175d4b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "47fc54feb84f2762",
-        "type": "window",
-        "children": [
-          {
-            "id": "6c5f34ddf3f55c70",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0b089d33e5cded5b",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "98. RESOURCES/선박 기관실 화재/UKP&I_RISK FOCUS ENGINE ROOM FIRES.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "UKP&I_RISK FOCUS ENGINE ROOM FIRES"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2543,
-        "y": 34,
-        "width": 663,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "318c05372e689724",
+  "active": "287823c9b5233e08",
   "lastOpenFiles": [
+    "7. OUTPUTS/MOC_졸업논문.md",
+    "1. DAILY NOTES/250728.md",
+    "98. RESOURCES/선박 기관실 화재/UKP&I_RISK FOCUS ENGINE ROOM FIRES.pdf",
     "0. INBOX/RISK FOCUS ENGINE ROOM FIRES.md",
     "98. RESOURCES/선박 기관실 화재/IMO_GUIDELINES FOR MEASURES TO PREVENT FIRES IN ENGINE-ROOMS AND CARGO PUMP-ROOMS.pdf",
     "98. RESOURCES/선박 기관실 화재/미확인 844672.crdownload",
-    "98. RESOURCES/선박 기관실 화재/UKP&I_RISK FOCUS ENGINE ROOM FIRES.pdf",
     "98. RESOURCES/선박 기관실 화재/ANALYSIS OF FIRE HAZARD AND SAFETY REQUIREMENTS OF A SEA VESSEL ENGINE ROOMS.pdf",
     "해운 산업의 탈탄소화 동향 및 IMO 2050 넷제로 목표.md",
     "3. CONCEPTS/기관실 화재 사고 원인 및 전파 경로 관련 연구.md",
@@ -337,8 +285,6 @@
     "3. CONCEPTS/저인화점 연료 안전성 관련 연구.md",
     "6.  PROJECTS/6-1. 졸업논문/목차.md",
     "6.  PROJECTS/6-1. 졸업논문/1.3 연구 목적 및 범위.md",
-    "7. OUTPUTS/MOC_졸업논문.md",
-    "1. DAILY NOTES/250728.md",
     "Excalidraw/연구용역 원가산출내역서.md",
     "5. LAB/250717_교수님 미팅.md",
     "5. LAB/250724_크리소 회의 대본.md",
