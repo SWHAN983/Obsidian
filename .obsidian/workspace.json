@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f380caee85b590cc",
+        "id": "28f7df7d97a1896e",
         "type": "tabs",
         "children": [
           {
-            "id": "6e135591b0d3b97a",
+            "id": "b384741f8cef3957",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "98. RESOURCES/선박 기관실 화재/소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구"
+            }
+          },
+          {
+            "id": "1199c853c671967d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+                "file": "7. OUTPUTS/MOC_졸업논문.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +40,38 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git 강제 Push (로컬이 더 최신일 때)"
+              "title": "MOC_졸업논문"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "08505f7636251d8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b7246c84e3ffc62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. INBOX/Park2008소형선박.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Park2008소형선박"
             }
           }
         ]
@@ -43,20 +86,10 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
-        "dimension": 62.08291203235592,
+        "dimension": 67.23963599595551,
         "children": [
           {
             "id": "cb8c914d9c64aee7",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
-            "id": "1c64abaac45fae26",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -94,14 +127,23 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
+          },
+          {
+            "id": "03a6a201fb88a94f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "eac9abe5fe92f719",
         "type": "tabs",
-        "dimension": 37.917087967644086,
+        "dimension": 32.76036400404449,
         "children": [
           {
             "id": "377b20c0487fff01",
@@ -146,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -155,7 +198,7 @@
       {
         "id": "30fb6174ca5a12b2",
         "type": "tabs",
-        "dimension": 69.47674418604652,
+        "dimension": 76.55038759689923,
         "children": [
           {
             "id": "e0f02b6e118fd73b",
@@ -163,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+                "file": "98. RESOURCES/화재&폭발/CRC Handbook of Chemistry and Physics 97th Edition.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 강제 Push (로컬이 더 최신일 때) 의 개요"
+              "title": "CRC Handbook of Chemistry and Physics 97th Edition 의 개요"
             }
           },
           {
@@ -198,7 +241,7 @@
       {
         "id": "f8ce57d74c40e178",
         "type": "tabs",
-        "dimension": 30.523255813953487,
+        "dimension": 23.449612403100776,
         "children": [
           {
             "id": "6b9237777ae464a7",
@@ -206,16 +249,16 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+                "file": "7. OUTPUTS/MOC_졸업논문.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
+                  "showTags": true,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -229,12 +272,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1945002269061604,
+                  "scale": 0.5359795996225964,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Git 강제 Push (로컬이 더 최신일 때) 그래프"
+              "title": "MOC_졸업논문 그래프"
             }
           },
           {
@@ -243,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+                "file": "98. RESOURCES/화재&폭발/CRC Handbook of Chemistry and Physics 97th Edition.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Git 강제 Push (로컬이 더 최신일 때) 의 백링크"
+              "title": "CRC Handbook of Chemistry and Physics 97th Edition 의 백링크"
             }
           },
           {
@@ -262,19 +305,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+                "file": "98. RESOURCES/화재&폭발/CRC Handbook of Chemistry and Physics 97th Edition.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Git 강제 Push (로컬이 더 최신일 때) 의 나가는 링크"
+              "title": "CRC Handbook of Chemistry and Physics 97th Edition 의 나가는 링크"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 430.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,54 +334,53 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "6e135591b0d3b97a",
+  "active": "1199c853c671967d",
   "lastOpenFiles": [
-    "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
-    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
-    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
-    "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
-    "Vault.md",
-    "7. OUTPUTS/MOC_졸업논문.md",
-    "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
-    "Excalidraw/연구용역 원가산출내역서.md",
-    "98. RESOURCES/선박 기관실 화재/UKP&I_RISK FOCUS ENGINE ROOM FIRES.pdf",
-    "98. RESOURCES/선박 기관실 화재/IMO_GUIDELINES FOR MEASURES TO PREVENT FIRES IN ENGINE-ROOMS AND CARGO PUMP-ROOMS.pdf",
-    "Excalidraw/Drawing 2025-07-28 18.24.56.excalidraw.md",
-    "3. CONCEPTS/기관실 Ventilation.md",
-    "98. RESOURCES/선박 기관실 화재/DNV_Engine room fires - causes, contributors and preventive measures.pdf",
     "98. RESOURCES/선박 기관실 화재/소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구.pdf",
-    "98. RESOURCES/선박 기관실 화재/미확인 720889.crdownload",
-    "3. CONCEPTS/기관실 내 보온재(래깅) 화재.md",
-    "3. CONCEPTS/기관실 내 자연발화·누출 사고 특성.md",
-    "3. CONCEPTS/화재의 필수 요소.md",
-    "3. CONCEPTS/기관실의 유류 화재(Oil Fires).md",
-    "0. INBOX/가압 연료유 시스템.md",
-    "3. CONCEPTS/기관실 화재 사고 원인 및 전파 경로 관련 연구.md",
-    "2. REVIEWS/리뷰_RISK FOCUS ENGINE ROOM FIRES.md",
-    "3. CONCEPTS/기관실 모델링 및 선박 규모 추정.md",
+    "7. OUTPUTS/MOC_졸업논문.md",
+    "0. INBOX/Park2008소형선박.md",
+    "98. RESOURCES/화재&폭발/Numerical Investigation on the Flame Characteristics of Lean Premixed Methane Flame Piloted with Rich Premixed Flame.pdf",
+    "2. REVIEWS/Zhang et al.2024Numerical.md",
+    "98. RESOURCES/수소/Machinery and Energy Systems for the Hydrogen Economy Chapter 2 - Fundamentals.pdf",
+    "98. RESOURCES/화재&폭발/Luc Vervisch and Dirk Roekaerts - Best Practice Guidelines for Computational Fluid Dynamics of Turbulent Combustion (2016, ERCOFTAC) - libgen.li.pdf",
+    "2. REVIEWS/리뷰_DETERMINATION OF KINETIC PARAMETERS OF COAL PYROLYSIS TO SIMULATE.md",
+    "98. RESOURCES/화재&폭발/DETERMINATION OF KINETIC PARAMETERS OF COAL PYROLYSIS TO SIMULATE.pdf",
+    "1. DAILY NOTES/250729.md",
+    "98. RESOURCES/화재&폭발/CRC Handbook of Chemistry and Physics 97th Edition.pdf",
+    "2. REVIEWS/Ha2007수소.md",
+    "2. REVIEWS/리뷰_Hybrid algorithm for the detection of turbulent fame fronts.md",
+    "98. RESOURCES/화재&폭발/Hybrid algorithm for the detection of turbulent fame fronts.pdf",
+    "98. RESOURCES/화재&폭발/A Study on Fire and Explosion Characteristics of Hydrogen.pdf",
+    "0. INBOX/CCPS2014Guidlines.md",
+    "98. RESOURCES/화재&폭발/Guidelines for Determining the Probabilityof Ignition of a Released Flammable Mass.pdf",
+    "2. REVIEWS/MAN2024Propulsion.md",
+    "98. RESOURCES/15,000TEU 컨테이너선/MAN Propulsion trends in container vessels.pdf",
+    "2. REVIEWS/MAN2018Propulsion.md",
+    "2. REVIEWS/Maersk2023Concept design.md",
+    "0. INBOX/Moon2025DeRisk.md",
+    "0. INBOX/연료 준비실(FPR).md",
+    "0. INBOX/International.md",
+    "0. INBOX/IEC2020Explosive.md",
+    "0. INBOX/Moon2023Ammonia.md",
+    "Pasted image 20250728233041.png",
+    "Pasted image 20250728232521.png",
+    "Pasted image 20250728232514.png",
+    "2. REVIEWS/리뷰_DeRiskbeta Comparative Quantitative Risk Assessment (QRA) of fuel oil, LNG, methanol, and ammonia on a 15,000 TEU containership.md",
+    "3. CONCEPTS/선박 기관실 적용 관점에서의 주의사항.md",
+    "0. INBOX/공기의 조성.md",
+    "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
+    "Pasted image 20250728204251.png",
+    "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
+    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
+    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+    "Vault.md",
+    "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
     "99. ATTACHMENTS/Pasted image 20250728145356.png",
     "99. ATTACHMENTS/Pasted image 20250728145355.png",
-    "3. CONCEPTS/기관실의 고온 표면 발화(Hot Surface Ignition).md",
-    "98. RESOURCES/암모니아/NK_Guidelines for Safety Operation for Ammonia-Fueled Vessels.pdf",
-    "98. RESOURCES/수소/NASA_SAFETY STANDARD FOR HYDROGEN AND HYDROGENSYSTEMS.pdf",
-    "98. RESOURCES/자연발화/Spontaneous Ignition in Fire Investigation.pdf",
     "99. ATTACHMENTS/Pasted image 20250728135537.png",
-    "98. RESOURCES/자연발화/NFPA-921-General-Definitions-7.pdf",
     "99. ATTACHMENTS/Pasted image 20250728135535.png",
     "99. ATTACHMENTS/Pasted image 20250728135532.png",
-    "3. CONCEPTS/기관실 내 소기 화재(Scavenge fires).md",
-    "3. CONCEPTS/기관실 내 기가스 보일러,이코노마이저의 매연(Soot) 화재.md",
-    "배기가스 보일러/이코노마이저의 매연(Soot) 화재.md",
-    "배기가스 보일러",
     "99. ATTACHMENTS/Pasted image 20250728132702.png",
-    "99. ATTACHMENTS/Pasted image 20250728132008.png",
-    "99. ATTACHMENTS/Pasted image 20250728131955.png",
-    "99. ATTACHMENTS/Pasted image 20250728131930.png",
-    "99. ATTACHMENTS/Pasted image 20250728131909.png",
-    "97. TEMPLATES/TEMP_Concept.md",
-    "0. INBOX/0. INBOX.md",
-    "1. DAILY NOTES/1. DAILY NOTES.md",
-    "3. CONCEPTS/해운 산업의 탈탄소화 동향 및 IMO 2050 넷제로 목표.md",
     "0. INBOX/무제.canvas",
     "0. INBOX/무제 1.canvas",
     "무제.canvas"
