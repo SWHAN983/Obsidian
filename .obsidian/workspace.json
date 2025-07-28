@@ -11,24 +11,12 @@
             "id": "5bd7293ad47e45db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "5. LAB"
               },
               "icon": "lucide-file",
-              "title": "MOC_졸업논문"
+              "title": "5. LAB"
             }
           }
         ]
@@ -59,16 +47,6 @@
             }
           },
           {
-            "id": "788f24b11d78a29d",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
             "id": "fc4869faacd2a1f0",
             "type": "leaf",
             "state": {
@@ -94,9 +72,19 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
+          },
+          {
+            "id": "d95f5b77e7376d2a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "f688897bf0516395",
@@ -194,26 +182,9 @@
     "type": "split",
     "children": [
       {
-        "id": "4dca4bd0bc4cc6b8",
-        "type": "tabs",
-        "dimension": 33.91472868217054,
-        "children": [
-          {
-            "id": "b171e237401aaf28",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          }
-        ]
-      },
-      {
         "id": "30fb6174ca5a12b2",
         "type": "tabs",
-        "dimension": 66.08527131782945,
+        "dimension": 69.67054263565892,
         "children": [
           {
             "id": "e0f02b6e118fd73b",
@@ -227,6 +198,23 @@
               },
               "icon": "lucide-list",
               "title": "개요"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f8ce57d74c40e178",
+        "type": "tabs",
+        "dimension": 30.329457364341085,
+        "children": [
+          {
+            "id": "d465c13361a6408d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ]
@@ -250,17 +238,17 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "b171e237401aaf28",
+  "active": "5bd7293ad47e45db",
   "lastOpenFiles": [
+    "5. LAB/250717_교수님 미팅.md",
+    "5. LAB/250724_크리소 회의 대본.md",
+    "5. LAB/250715_랩 세미나.md",
+    "1. DAILY NOTES/250728.md",
     "7. OUTPUTS/MOC_졸업논문.md",
     "98. RESOURCES/암모니아/암모니아 관련 선박 개념도.pdf",
     "Excalidraw/연구용역 원가산출내역서.md",
-    "5. LAB/250724_크리소 회의 대본.md",
-    "5. LAB/250717_교수님 미팅.md",
-    "5. LAB/250715_랩 세미나.md",
     "0. INBOX/무제.canvas",
     "0. INBOX/무제 1.canvas",
-    "1. DAILY NOTES/250728.md",
     "Vault.md",
     "Tags",
     "97. TEMPLATES/Temp_Daily.md",
