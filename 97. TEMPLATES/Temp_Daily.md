@@ -13,7 +13,7 @@ tags:
 
 # 어제 확인
 
-![[1. DAILY NOTES/<% tp.date.now("YYMMDD", -1) %>#I. 오늘의 할 일 (To-do)]]
+![[1. DAILY NOTES/<% tp.date.now("YYMMDD", -1) %>#1. 오늘의 할 일 (To-do)]]
 
 ---
 
