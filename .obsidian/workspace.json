@@ -4,40 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "b2b81f14179fdc53",
+        "id": "f380caee85b590cc",
         "type": "tabs",
-        "dimension": 57.779578606158836,
-        "children": [
-          {
-            "id": "5bd7293ad47e45db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. INBOX/기관실의 고온 표면 발화(Hot Surface Ignition).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "기관실의 고온 표면 발화(Hot Surface Ignition)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "708b88a5325c1098",
-        "type": "tabs",
-        "dimension": 42.220421393841164,
+        "dimension": 40.12539184952978,
         "children": [
           {
             "id": "6e135591b0d3b97a",
@@ -52,6 +21,37 @@
             }
           }
         ]
+      },
+      {
+        "id": "b2b81f14179fdc53",
+        "type": "tabs",
+        "dimension": 59.87460815047022,
+        "children": [
+          {
+            "id": "5bd7293ad47e45db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. INBOX/리뷰_RISK FOCUS ENGINE ROOM FIRES.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "리뷰_RISK FOCUS ENGINE ROOM FIRES"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,8 +63,18 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
-        "dimension": 63.49848331648129,
+        "dimension": 62.08291203235592,
         "children": [
+          {
+            "id": "cb8c914d9c64aee7",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
           {
             "id": "1c64abaac45fae26",
             "type": "leaf",
@@ -84,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#paper",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,24 +114,13 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
-          },
-          {
-            "id": "cb8c914d9c64aee7",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "eac9abe5fe92f719",
         "type": "tabs",
-        "dimension": 36.5015166835187,
+        "dimension": 37.917087967644086,
         "children": [
           {
             "id": "377b20c0487fff01",
@@ -162,8 +161,7 @@
               "title": "모든 속성"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,7 +217,7 @@
       {
         "id": "f8ce57d74c40e178",
         "type": "tabs",
-        "dimension": 30.32945736434108,
+        "dimension": 30.329457364341085,
         "children": [
           {
             "id": "d465c13361a6408d",
@@ -232,11 +230,49 @@
             }
           },
           {
+            "id": "6b9237777ae464a7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "0. INBOX/리뷰_RISK FOCUS ENGINE ROOM FIRES.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -1.9,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.38230109687699776,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "리뷰_RISK FOCUS ENGINE ROOM FIRES 그래프"
+            }
+          },
+          {
             "id": "1dc4a50d117cffe1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. INBOX/리뷰_RISK FOCUS ENGINE ROOM FIRES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +282,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "리뷰_RISK FOCUS ENGINE ROOM FIRES 의 백링크"
             }
           },
           {
@@ -255,18 +291,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. INBOX/리뷰_RISK FOCUS ENGINE ROOM FIRES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "리뷰_RISK FOCUS ENGINE ROOM FIRES 의 나가는 링크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,12 +358,22 @@
       }
     ]
   },
-  "active": "fc4869faacd2a1f0",
+  "active": "5bd7293ad47e45db",
   "lastOpenFiles": [
-    "0. INBOX/기관실의 고온 표면 발화(Hot Surface Ignition).md",
-    "0. INBOX/리뷰_RISK FOCUS ENGINE ROOM FIRES.md",
-    "3. CONCEPTS/기관실의 유류 화재(Oil Fires).md",
     "98. RESOURCES/선박 기관실 화재/UKP&I_RISK FOCUS ENGINE ROOM FIRES.pdf",
+    "0. INBOX/리뷰_RISK FOCUS ENGINE ROOM FIRES.md",
+    "0. INBOX/배기가스 보일러,이코노마이저의 매연(Soot) 화재.md",
+    "배기가스 보일러/이코노마이저의 매연(Soot) 화재.md",
+    "배기가스 보일러",
+    "0. INBOX/소기 화재(Scavenge fires).md",
+    "0. INBOX/기관실 내 보온재(래깅) 화재.md",
+    "0. INBOX/기관실의 고온 표면 발화(Hot Surface Ignition).md",
+    "Pasted image 20250728132702.png",
+    "Pasted image 20250728132008.png",
+    "Pasted image 20250728131955.png",
+    "Pasted image 20250728131930.png",
+    "Pasted image 20250728131909.png",
+    "3. CONCEPTS/기관실의 유류 화재(Oil Fires).md",
     "3. CONCEPTS/화재의 필수 요소.md",
     "97. TEMPLATES/TEMP_Concept.md",
     "98. RESOURCES/선박 기관실 화재/ANALYSIS OF FIRE HAZARD AND SAFETY REQUIREMENTS OF A SEA VESSEL ENGINE ROOMS.pdf",
@@ -345,14 +393,9 @@
     "1. DAILY NOTES/250719.md",
     "1. DAILY NOTES/250718.md",
     "1. DAILY NOTES/250716.md",
-    "1. DAILY NOTES/250717.md",
-    "7. OUTPUTS/MOC_졸업논문.md",
     "98. RESOURCES/선박 기관실 화재/IMO_GUIDELINES FOR MEASURES TO PREVENT FIRES IN ENGINE-ROOMS AND CARGO PUMP-ROOMS.pdf",
     "98. RESOURCES/선박 기관실 화재/미확인 844672.crdownload",
-    "3. CONCEPTS/기관실 화재 사고 원인 및 전파 경로 관련 연구.md",
-    "97. TEMPLATES/Temp_ReviewPaper.md",
     "98. RESOURCES/선박 기관실 화재/미확인 693678.crdownload",
-    "3. CONCEPTS/신규 연료 도입에 따른 잠재적 위험성; 자연발화 및 화재폭발.md",
     "98. RESOURCES/암모니아/암모니아 관련 선박 개념도.pdf",
     "0. INBOX/무제.canvas",
     "0. INBOX/무제 1.canvas",
@@ -361,15 +404,9 @@
     "Pasted image 20250725111649.png",
     "98. RESOURCES/선박 기관실 화재/KR_기술정보-연료유관장치-컬러.pdf",
     "98. RESOURCES/선박 기관실 화재/미확인 652083.crdownload",
-    "98. RESOURCES/선박 기관실 화재/KR_Protection of High Temperature Surface.pdf",
     "99. ATTACHMENTS/Pasted image 20250717171110.png",
     "99. ATTACHMENTS/Pasted image 20250718143043.png",
     "99. ATTACHMENTS/Pasted image 20250718143027.png",
-    "99. ATTACHMENTS/Pasted image 20250718143005.png",
-    "99. ATTACHMENTS/Pasted image 20250718142945.png",
-    "NODE/node_modules/npm/node_modules/qrcode-terminal/example/basic.png",
-    "NODE/node_modules/npm/node_modules/retry/equation.gif",
-    "node_modules/npm/node_modules/retry/equation.gif",
     "무제.canvas"
   ]
 }
