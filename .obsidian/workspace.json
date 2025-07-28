@@ -6,34 +6,15 @@
       {
         "id": "f380caee85b590cc",
         "type": "tabs",
-        "dimension": 40.12539184952978,
+        "dimension": 52.62697022767075,
         "children": [
           {
             "id": "6e135591b0d3b97a",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "3. CONCEPTS"
-              },
-              "icon": "lucide-file",
-              "title": "3. CONCEPTS"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b2b81f14179fdc53",
-        "type": "tabs",
-        "dimension": 59.87460815047022,
-        "children": [
-          {
-            "id": "5bd7293ad47e45db",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/리뷰_RISK FOCUS ENGINE ROOM FIRES.md",
+                "file": "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -48,7 +29,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "리뷰_RISK FOCUS ENGINE ROOM FIRES"
+              "title": "NFPA 921 Guide for Fire and Explosion Investigations"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b2b81f14179fdc53",
+        "type": "tabs",
+        "dimension": 47.37302977232925,
+        "children": [
+          {
+            "id": "48928db55fd12927",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
+                "bFile": "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: NFPA 921 Guide for Fire and Explosion Investigations"
             }
           }
         ]
@@ -174,7 +176,7 @@
       {
         "id": "30fb6174ca5a12b2",
         "type": "tabs",
-        "dimension": 69.67054263565892,
+        "dimension": 69.47674418604652,
         "children": [
           {
             "id": "e0f02b6e118fd73b",
@@ -182,13 +184,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MOC_졸업논문 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -217,25 +218,14 @@
       {
         "id": "f8ce57d74c40e178",
         "type": "tabs",
-        "dimension": 30.329457364341085,
+        "dimension": 30.523255813953487,
         "children": [
-          {
-            "id": "d465c13361a6408d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          },
           {
             "id": "6b9237777ae464a7",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0. INBOX/리뷰_RISK FOCUS ENGINE ROOM FIRES.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,12 +248,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.38230109687699776,
+                  "scale": 0.5359795996225956,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "리뷰_RISK FOCUS ENGINE ROOM FIRES 그래프"
+              "title": "그래프 뷰"
             }
           },
           {
@@ -272,7 +262,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. INBOX/리뷰_RISK FOCUS ENGINE ROOM FIRES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +271,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "리뷰_RISK FOCUS ENGINE ROOM FIRES 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -291,20 +280,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. INBOX/리뷰_RISK FOCUS ENGINE ROOM FIRES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "리뷰_RISK FOCUS ENGINE ROOM FIRES 의 나가는 링크"
+              "title": "나가는 링크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 479.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -344,39 +331,71 @@
                   "icon": "lucide-file-text",
                   "title": "UKP&I_RISK FOCUS ENGINE ROOM FIRES"
                 }
+              },
+              {
+                "id": "38b0df499ec2c7e5",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "98. RESOURCES/선박 기관실 화재/IMO_GUIDELINES FOR MEASURES TO PREVENT FIRES IN ENGINE-ROOMS AND CARGO PUMP-ROOMS.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "IMO_GUIDELINES FOR MEASURES TO PREVENT FIRES IN ENGINE-ROOMS AND CARGO PUMP-ROOMS"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
+        "x": 1926,
+        "y": 12,
+        "width": 1041,
+        "height": 992,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "5bd7293ad47e45db",
+  "active": "48928db55fd12927",
   "lastOpenFiles": [
+    "3. CONCEPTS/기관실 Ventilation.md",
+    "98. RESOURCES/선박 기관실 화재/IMO_GUIDELINES FOR MEASURES TO PREVENT FIRES IN ENGINE-ROOMS AND CARGO PUMP-ROOMS.pdf",
+    "3. CONCEPTS/NFPA 921 Guide for Fire and Explosion Investigations.md",
+    "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
+    "98. RESOURCES/선박 기관실 화재/DNV_Engine room fires - causes, contributors and preventive measures.pdf",
+    "98. RESOURCES/선박 기관실 화재/소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구.pdf",
+    "98. RESOURCES/선박 기관실 화재/미확인 720889.crdownload",
+    "3. CONCEPTS/기관실 내 보온재(래깅) 화재.md",
+    "3. CONCEPTS/기관실 내 자연발화·누출 사고 특성.md",
+    "3. CONCEPTS/화재의 필수 요소.md",
+    "3. CONCEPTS/기관실의 유류 화재(Oil Fires).md",
+    "0. INBOX/가압 연료유 시스템.md",
+    "3. CONCEPTS/기관실 화재 사고 원인 및 전파 경로 관련 연구.md",
+    "2. REVIEWS/리뷰_RISK FOCUS ENGINE ROOM FIRES.md",
+    "3. CONCEPTS/기관실 모델링 및 선박 규모 추정.md",
+    "Pasted image 20250728145356.png",
+    "Pasted image 20250728145355.png",
+    "3. CONCEPTS/기관실의 고온 표면 발화(Hot Surface Ignition).md",
+    "98. RESOURCES/암모니아/NK_Guidelines for Safety Operation for Ammonia-Fueled Vessels.pdf",
+    "98. RESOURCES/수소/NASA_SAFETY STANDARD FOR HYDROGEN AND HYDROGENSYSTEMS.pdf",
+    "98. RESOURCES/자연발화/Spontaneous Ignition in Fire Investigation.pdf",
+    "99. ATTACHMENTS/Pasted image 20250728135537.png",
+    "98. RESOURCES/자연발화/NFPA-921-General-Definitions-7.pdf",
     "98. RESOURCES/선박 기관실 화재/UKP&I_RISK FOCUS ENGINE ROOM FIRES.pdf",
-    "0. INBOX/리뷰_RISK FOCUS ENGINE ROOM FIRES.md",
-    "0. INBOX/배기가스 보일러,이코노마이저의 매연(Soot) 화재.md",
+    "99. ATTACHMENTS/Pasted image 20250728135535.png",
+    "99. ATTACHMENTS/Pasted image 20250728135532.png",
+    "3. CONCEPTS/기관실 내 소기 화재(Scavenge fires).md",
+    "3. CONCEPTS/기관실 내 기가스 보일러,이코노마이저의 매연(Soot) 화재.md",
     "배기가스 보일러/이코노마이저의 매연(Soot) 화재.md",
     "배기가스 보일러",
-    "0. INBOX/소기 화재(Scavenge fires).md",
-    "0. INBOX/기관실 내 보온재(래깅) 화재.md",
-    "0. INBOX/기관실의 고온 표면 발화(Hot Surface Ignition).md",
-    "Pasted image 20250728132702.png",
-    "Pasted image 20250728132008.png",
-    "Pasted image 20250728131955.png",
-    "Pasted image 20250728131930.png",
-    "Pasted image 20250728131909.png",
-    "3. CONCEPTS/기관실의 유류 화재(Oil Fires).md",
-    "3. CONCEPTS/화재의 필수 요소.md",
+    "99. ATTACHMENTS/Pasted image 20250728132702.png",
+    "99. ATTACHMENTS/Pasted image 20250728132008.png",
+    "99. ATTACHMENTS/Pasted image 20250728131955.png",
+    "99. ATTACHMENTS/Pasted image 20250728131930.png",
+    "99. ATTACHMENTS/Pasted image 20250728131909.png",
     "97. TEMPLATES/TEMP_Concept.md",
-    "98. RESOURCES/선박 기관실 화재/ANALYSIS OF FIRE HAZARD AND SAFETY REQUIREMENTS OF A SEA VESSEL ENGINE ROOMS.pdf",
     "0. INBOX/0. INBOX.md",
     "1. DAILY NOTES/1. DAILY NOTES.md",
     "3. CONCEPTS/해운 산업의 탈탄소화 동향 및 IMO 2050 넷제로 목표.md",
@@ -386,27 +405,8 @@
     "1. DAILY NOTES/250726.md",
     "1. DAILY NOTES/250725.md",
     "1. DAILY NOTES/250724.md",
-    "1. DAILY NOTES/250723.md",
-    "1. DAILY NOTES/250722.md",
-    "1. DAILY NOTES/250721.md",
-    "1. DAILY NOTES/250720.md",
-    "1. DAILY NOTES/250719.md",
-    "1. DAILY NOTES/250718.md",
-    "1. DAILY NOTES/250716.md",
-    "98. RESOURCES/선박 기관실 화재/IMO_GUIDELINES FOR MEASURES TO PREVENT FIRES IN ENGINE-ROOMS AND CARGO PUMP-ROOMS.pdf",
-    "98. RESOURCES/선박 기관실 화재/미확인 844672.crdownload",
-    "98. RESOURCES/선박 기관실 화재/미확인 693678.crdownload",
-    "98. RESOURCES/암모니아/암모니아 관련 선박 개념도.pdf",
     "0. INBOX/무제.canvas",
     "0. INBOX/무제 1.canvas",
-    "Tags",
-    "99. ATTACHMENTS/Pasted image 20250725111702.png",
-    "Pasted image 20250725111649.png",
-    "98. RESOURCES/선박 기관실 화재/KR_기술정보-연료유관장치-컬러.pdf",
-    "98. RESOURCES/선박 기관실 화재/미확인 652083.crdownload",
-    "99. ATTACHMENTS/Pasted image 20250717171110.png",
-    "99. ATTACHMENTS/Pasted image 20250718143043.png",
-    "99. ATTACHMENTS/Pasted image 20250718143027.png",
     "무제.canvas"
   ]
 }
