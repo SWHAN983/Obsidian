@@ -1,7 +1,8 @@
 ---
-title: DNV Focus on ammonia and hydrogen as ship fuels
-authors: 
-year: 
+title: Focus on ammonia and hydrogen as ship fuels
+authors:
+  - DNV
+year: "2025"
 journal: 
 원본 파일: "[[DNV Focus on ammonia and hydrogen as ship fuels.pdf]]"
 created: 2025-07-25

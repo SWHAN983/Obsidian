@@ -23,7 +23,7 @@ tags:
     
     - 수소는 낮은 최소 점화 에너지(0.019mJ), 넓은 폭발 한계(4.0~75.0%), 빠른 화염 전파 속도(346 cm/s) 등 다른 연료에 비해 폭발 위험성이 높은 특성을 가집니다.
         
-- [[리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options]]
+- [[Malik2021Ammonia]]
     
     - 수소는 저농도에서도 폭굉(DDT)이 발생하여 심각한 폭발 하중을 유발할 수 있습니다.
         

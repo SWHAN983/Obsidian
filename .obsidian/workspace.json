@@ -14,10 +14,34 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "98. RESOURCES/자연발화/NFPA-921-General-Definitions-7.pdf"
+                "file": "98. RESOURCES/저인화성 연료/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "NFPA-921-General-Definitions-7"
+              "title": "Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options"
+            }
+          },
+          {
+            "id": "6ed55ee908d362b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. OUTPUTS/MOC_졸업논문.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC_졸업논문"
             }
           }
         ]
@@ -27,6 +51,30 @@
         "type": "tabs",
         "dimension": 43.015214384508994,
         "children": [
+          {
+            "id": "9fc83d2b75ad3fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. REVIEWS/Malik2021Ammonia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Malik2021Ammonia"
+            }
+          },
           {
             "id": "d0b34ae86bdaa0b1",
             "type": "leaf",
@@ -226,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "98. RESOURCES/자연발화/NFPA-921-General-Definitions-7.pdf",
+                "file": "98. RESOURCES/저인화성 연료/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -254,7 +302,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "NFPA-921-General-Definitions-7 그래프"
+              "title": "Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options 그래프"
             }
           },
           {
@@ -294,7 +342,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 384.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,6 +361,12 @@
   },
   "active": "1199c853c671967d",
   "lastOpenFiles": [
+    "2. REVIEWS/Malik2021Ammonia.md",
+    "98. RESOURCES/저인화성 연료/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
+    "7. OUTPUTS/MOC_졸업논문.md",
+    "98. RESOURCES/저인화성 연료/DNV Focus on ammonia and hydrogen as ship fuels.pdf",
+    "2. REVIEWS/DNV2025Focus.md",
+    "98. RESOURCES/자연발화/NFPA-921-General-Definitions-7.pdf",
     "98. RESOURCES/자연발화/HOT SURFACE IGNITION OF HYDROGEN-AIR MIXTURES.pdf",
     "98. RESOURCES/자연발화/Hot surface ignition dynamics in premixed hydrogen-air near the lean flammability limit.pdf",
     "98. RESOURCES/자연발화/Hot surface ignition of stoichiometric hydrogen-air mixtures.pdf",
@@ -320,10 +374,6 @@
     "98. RESOURCES/자연발화/Pyrolysis characteristics and microstructure evolution of different coal types.pdf",
     "98. RESOURCES/자연발화/Pyrolysis gas as a carbon source for biogas production via anaerobic digestion.pdf",
     "98. RESOURCES/자연발화/Guidelines for the Carriage of Charcoal and Carbon in Containers.pdf",
-    "98. RESOURCES/자연발화/NFPA-921-General-Definitions-7.pdf",
-    "98. RESOURCES/자연발화/Spontaneous Ignition in Fire Investigation.pdf",
-    "98. RESOURCES/자연발화/Ignition of Gases, Vapors, and Liquids by Hot Surfaces.pdf",
-    "98. RESOURCES/자연발화/Hot surface ignition of a wall-impinging fuel spray Modeling and analysis using large-eddy simulation.pdf",
     "0. INBOX/Zhao2023ANUMERICAL.md",
     "2. REVIEWS/Romanas Puisa2019Towards.md",
     "3. CONCEPTS/기관실의 고온 표면 발화(Hot Surface Ignition).md",
@@ -346,7 +396,6 @@
     "Pasted image 20250729022536.png",
     "Pasted image 20250729022455.png",
     "2. REVIEWS/Miller2016RiskFocus.md",
-    "7. OUTPUTS/MOC_졸업논문.md",
     "Pasted image 20250729020812.png",
     "0. INBOX/Kang2016A framework.md",
     "0. INBOX/Park2008소형선박.md",
@@ -357,8 +406,6 @@
     "2. REVIEWS/리뷰_Hybrid algorithm for the detection of turbulent fame fronts.md",
     "0. INBOX/CCPS2014Guidlines.md",
     "2. REVIEWS/MAN2024Propulsion.md",
-    "2. REVIEWS/MAN2018Propulsion.md",
-    "2. REVIEWS/Maersk2023Concept design.md",
     "0. INBOX/무제.canvas",
     "0. INBOX/무제 1.canvas",
     "무제.canvas"

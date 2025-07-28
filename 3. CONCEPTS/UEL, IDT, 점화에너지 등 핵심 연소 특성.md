@@ -23,7 +23,7 @@ tags:
     
     - 수소는 낮은 점화 한계(하한 4.0%, 상한 75.0%)를 보여 폭발 가능성이 넓으며, 최소 점화 에너지는 0.019mJ로 매우 낮아 작은 에너지에도 쉽게 점화됩니다.
         
-- [[리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options]]
+- [[Malik2021Ammonia]]
     
     - 수소는 최소 점화 에너지가 <0.1 mJ로 매우 낮으며, 가연성 범위가 4~75 vol%로 매우 넓습니다.
         
@@ -38,7 +38,7 @@ tags:
 
 #### 암모니아 (Ammonia)
 
-- [[리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options]]
+- [[Malik2021Ammonia]]
     
     - 암모니아는 최소 점화 에너지가 680 mJ로 매우 높고, 가연성 범위가 15~28 vol%로 좁아 점화가 어렵습니다.
         
@@ -49,7 +49,7 @@ tags:
 
 #### 메탄 (Methane)
 
-- [[리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options]]
+- [[Malik2021Ammonia]]
     
     - 메탄은 최소 점화 에너지가 0.3 mJ, 가연성 범위가 5~15 vol%로 수소보다 덜 위험하나 암모니아보다는 위험성이 큽니다.
         
@@ -111,7 +111,7 @@ tags:
     
     - 수소는 346 cm/s로 가장 빠른 연소 속도를 가져 화염 전파가 매우 빠릅니다.
         
-- [[리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options]]
+- [[Malik2021Ammonia]]
     
     - 수소의 라미나 연소 속도는 300 cm/s로 메탄(40 cm/s), 암모니아(7-15 cm/s)보다 훨씬 빠르며, 폭굉 전이(DDT)가 발생할 수 있습니다.
         
@@ -122,7 +122,7 @@ tags:
 
 #### 암모니아 (Ammonia)
 
-- [[리뷰_Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options]]
+- [[Malik2021Ammonia]]
     
     - 암모니아는 매우 낮은 화염 속도(7.6 m/s)를 보여 손상적 폭발이 없었습니다.
         
