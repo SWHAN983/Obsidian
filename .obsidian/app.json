@@ -30,5 +30,6 @@
   "alwaysUpdateLinks": true,
   "newFileFolderPath": "0. INBOX",
   "showUnsupportedFiles": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "99. ATTACHMENTS"
 }
