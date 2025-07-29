@@ -131,24 +131,12 @@
             "id": "b372690723cf69f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "0. INBOX/Park2008소형선박.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "98. RESOURCES/선박 기관실 화재/소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Park2008소형선박"
+              "icon": "lucide-file-text",
+              "title": "소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구"
             }
           },
           {
@@ -157,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/Zhao2023ANUMERICAL.md",
+                "file": "97. TEMPLATES/Temp_ReviewPaper.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +160,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zhao2023ANUMERICAL"
+              "title": "Temp_ReviewPaper"
             }
           },
           {
@@ -187,7 +175,8 @@
               "title": "A Numerical Study on the Smoke Dispersion and Temperature Distribution of a Ship Engine Room Fire Based on OpenFOAM"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -252,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "eac9abe5fe92f719",
@@ -349,7 +338,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f8ce57d74c40e178",
@@ -372,7 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0. INBOX/기관실 내 주요 화재 발생 위치.md",
+                "file": "2. REVIEWS/MAN2018Propulsion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -400,7 +389,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "기관실 내 주요 화재 발생 위치 그래프"
+              "title": "MAN2018Propulsion 그래프"
             }
           },
           {
@@ -457,12 +446,16 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "4851a6e51cd282ed",
+  "active": "547c084c0422978c",
   "lastOpenFiles": [
-    "3. CONCEPTS/기관실 내 소기 화재(Scavenge fires).md",
+    "98. RESOURCES/선박 기관실 화재/소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구.pdf",
     "98. RESOURCES/선박 기관실 화재/A Numerical Study on the Smoke Dispersion and Temperature Distribution of a Ship Engine Room Fire Based on OpenFOAM.pdf",
-    "0. INBOX/Zhao2023ANUMERICAL.md",
+    "97. TEMPLATES/Temp_ReviewPaper.md",
+    "0. INBOX/무제.md",
     "0. INBOX/Park2008소형선박.md",
+    "0. INBOX/Zhao2023ANUMERICAL.md",
+    "0. INBOX/기관실 내 주요 화재 발생 위치.md",
+    "3. CONCEPTS/기관실 내 소기 화재(Scavenge fires).md",
     "2. REVIEWS/MAN2018Propulsion.md",
     "98. RESOURCES/수소/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
     "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
@@ -472,10 +465,8 @@
     "98. RESOURCES/수소/Safety investigation of hydrogen charging platform package with CFD simulation.pdf",
     "98. RESOURCES/선박 기관실 화재/FACTORS CONTRIBUTING TO FIRES IN SHIP ENGINE ROOMS.pdf",
     "2. REVIEWS/Agata2025_FACTORS.md",
-    "98. RESOURCES/선박 기관실 화재/소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구.pdf",
     "7. OUTPUTS/MOC_STAR-CCM+.md",
     "98. RESOURCES/선박 화재 및 폭발/OFFSHORE STANDARD DET NORSKE VERITAS DNV-OS-D301 FIRE PROTECTION.pdf",
-    "0. INBOX/기관실 내 주요 화재 발생 위치.md",
     "2. REVIEWS/DNV2023FIRESAFETY.md",
     "98. RESOURCES/선박 기관실 화재/DNV FIRE SAFETY IN THE ENGINE ROOM.pdf",
     "98. RESOURCES/선박 기관실 화재/ANALYSIS OF FIRE HAZARD AND SAFETY REQUIREMENTS OF A SEA VESSEL ENGINE ROOMS.pdf",
@@ -501,9 +492,7 @@
     "Pasted image 20250729022545.png",
     "Pasted image 20250729022536.png",
     "Pasted image 20250729022455.png",
-    "2. REVIEWS/Miller2016RiskFocus.md",
     "Pasted image 20250729020812.png",
-    "0. INBOX/Kang2016A framework.md",
     "0. INBOX/무제.canvas",
     "0. INBOX/무제 1.canvas",
     "무제.canvas"
