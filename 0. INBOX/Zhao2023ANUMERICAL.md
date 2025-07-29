@@ -1,5 +1,5 @@
 ---
-title: A Numerical Study on the Smoke Dispersion and Temperature Distribution of a Ship Engine Room Fire Based on OpenFOA
+title: A Numerical Study on the Smoke Dispersion and Temperature Distribution of a Ship Engine Room Fire Based on OpenFOAM
 authors:
   - Yuechao Zhao
 year: "2023"
@@ -76,14 +76,12 @@ tags:
 - - 현재 선박 기관실 구조는 매우 복잡하며, 주 기관실, 보조 기관실, 제어실, 전기 작업실 등 다양한 기능 구획으로 구성됩니다.
 - 본 연구의 화재 시뮬레이션과 관련성이 적은 일부 기능 구획은 모델에서 단순화하여 제거했습니다.
 - 모델은 5개의 모듈(제어실, 오일 저장 탱크, 주 엔진, 보조 엔진, 환기구)로 구성
-- 크기:
-    - 총 길이: 32.5 m
-    - 총 폭: 21 m
-    - 총 높이: 5.3 m
+	- 크기:
+	    - 총 길이: 32.5 m
+	    - 총 폭: 21 m
+	    - 총 높이: 5.3 m
 - **층 구조:** 2개 층으로 나뉘며, 각 층은 2.6 m 높이이고, 중간 연결 층은 0.1 m 높이입니다.
-
- - 제어실 (Control room):** 길이 9 m, 폭 4 m. 폭 1 m, 높이 1.8 m의 문 2개. 문은 정상 개방 상태로 설정됩니다.
-        
+	 - **제어실 (Control room):** 길이 9 m, 폭 4 m. 폭 1 m, 높이 1.8 m의 문 2개. 문은 정상 개방 상태로 설정
     - **오일 탱크 (Oil storage tank):** 기관실 하부 층의 우현에 위치하며, 길이 21 m, 폭 4 m.
     - **주 엔진 (Main engine):** 전체 기관실 중앙에 위치하며, 길이 9 m, 폭 6 m, 높이 3 m.
     - **보조 엔진 (Auxiliary engine):** 주 엔진 바로 앞, 선실 벽에 가깝게 위치합니다. 일반적으로 3개의 보조 엔진이 있지만, 모델링 단순화를 위해 하나의 보조 엔진 블록으로 통합됩니다. 총 길이 4 m, 폭 5 m, 높이 1.5 m. 주 엔진에서 2 m 떨어져 있습니다.

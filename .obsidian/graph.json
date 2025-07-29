@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "engineroom",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -9,14 +9,14 @@
   "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0.1,
-  "nodeSizeMultiplier": 1.68229166666667,
-  "lineSizeMultiplier": 0.278645833333333,
+  "textFadeMultiplier": 2.3,
+  "nodeSizeMultiplier": 3.315625,
+  "lineSizeMultiplier": 2.1671875,
   "collapse-forces": true,
   "centerStrength": 0.15979381443299,
   "repelStrength": 20,
   "linkStrength": 0.371134020618557,
   "linkDistance": 500,
-  "scale": 0.0078125,
+  "scale": 0.0593261718750005,
   "close": true
 }

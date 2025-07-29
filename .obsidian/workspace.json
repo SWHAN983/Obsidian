@@ -4,84 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "28f7df7d97a1896e",
+        "id": "a35409bed7d392e6",
         "type": "tabs",
-        "dimension": 56.984785615491006,
         "children": [
           {
-            "id": "1199c853c671967d",
+            "id": "4851a6e51cd282ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. INBOX/기관실 내 주요 화재 발생 위치.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "기관실 내 주요 화재 발생 위치"
+            }
+          },
+          {
+            "id": "fb168ea1601b6a95",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "98. RESOURCES/저인화성 연료/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf"
+                "file": "98. RESOURCES/선박 기관실 화재/소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options"
+              "title": "소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구"
             }
           },
           {
-            "id": "6ed55ee908d362b1",
+            "id": "0a9eca1fcc07f729",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "98. RESOURCES/선박 기관실 화재/FACTORS CONTRIBUTING TO FIRES IN SHIP ENGINE ROOMS.pdf"
               },
-              "icon": "lucide-file",
-              "title": "MOC_졸업논문"
-            }
-          }
-        ]
-      },
-      {
-        "id": "08505f7636251d8f",
-        "type": "tabs",
-        "dimension": 43.015214384508994,
-        "children": [
-          {
-            "id": "9fc83d2b75ad3fb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. REVIEWS/Malik2021Ammonia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Malik2021Ammonia"
+              "icon": "lucide-file-text",
+              "title": "FACTORS CONTRIBUTING TO FIRES IN SHIP ENGINE ROOMS"
             }
           },
           {
-            "id": "d0b34ae86bdaa0b1",
+            "id": "e91570bf54d560a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. REVIEWS/Romanas Puisa2019Towards.md",
+                "file": "2. REVIEWS/리뷰_Safety investigation of hydrogen charging platform package with CFD simulation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -96,7 +76,115 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Romanas Puisa2019Towards"
+              "title": "리뷰_Safety investigation of hydrogen charging platform package with CFD simulation"
+            }
+          },
+          {
+            "id": "cf65813fff0966ab",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "98. RESOURCES/수소/Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions"
+            }
+          },
+          {
+            "id": "0dedf0bdeb469355",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "98. RESOURCES/수소/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room"
+            }
+          },
+          {
+            "id": "547c084c0422978c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. REVIEWS/MAN2018Propulsion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MAN2018Propulsion"
+            }
+          },
+          {
+            "id": "b372690723cf69f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. INBOX/Park2008소형선박.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Park2008소형선박"
+            }
+          },
+          {
+            "id": "83d52919963f7ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. INBOX/Zhao2023ANUMERICAL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zhao2023ANUMERICAL"
+            }
+          },
+          {
+            "id": "01df4638ff5e7280",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "98. RESOURCES/선박 기관실 화재/A Numerical Study on the Smoke Dispersion and Temperature Distribution of a Ship Engine Room Fire Based on OpenFOAM.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "A Numerical Study on the Smoke Dispersion and Temperature Distribution of a Ship Engine Room Fire Based on OpenFOAM"
             }
           }
         ]
@@ -164,7 +252,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "eac9abe5fe92f719",
@@ -223,7 +311,7 @@
       {
         "id": "30fb6174ca5a12b2",
         "type": "tabs",
-        "dimension": 76.55038759689923,
+        "dimension": 66.95736434108527,
         "children": [
           {
             "id": "e0f02b6e118fd73b",
@@ -261,20 +349,30 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f8ce57d74c40e178",
         "type": "tabs",
-        "dimension": 23.449612403100776,
+        "dimension": 33.042635658914726,
         "children": [
+          {
+            "id": "791311cf98a5f935",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
           {
             "id": "6b9237777ae464a7",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "98. RESOURCES/저인화성 연료/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
+                "file": "0. INBOX/기관실 내 주요 화재 발생 위치.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -297,12 +395,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.19450022690616076,
+                  "scale": 1.0534979423868382,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options 그래프"
+              "title": "기관실 내 주요 화재 발생 위치 그래프"
             }
           },
           {
@@ -342,7 +440,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 766.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -359,38 +457,46 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "1199c853c671967d",
+  "active": "4851a6e51cd282ed",
   "lastOpenFiles": [
-    "2. REVIEWS/Malik2021Ammonia.md",
-    "98. RESOURCES/저인화성 연료/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
-    "7. OUTPUTS/MOC_졸업논문.md",
-    "98. RESOURCES/저인화성 연료/DNV Focus on ammonia and hydrogen as ship fuels.pdf",
-    "2. REVIEWS/DNV2025Focus.md",
-    "98. RESOURCES/자연발화/NFPA-921-General-Definitions-7.pdf",
-    "98. RESOURCES/자연발화/HOT SURFACE IGNITION OF HYDROGEN-AIR MIXTURES.pdf",
-    "98. RESOURCES/자연발화/Hot surface ignition dynamics in premixed hydrogen-air near the lean flammability limit.pdf",
-    "98. RESOURCES/자연발화/Hot surface ignition of stoichiometric hydrogen-air mixtures.pdf",
-    "98. RESOURCES/자연발화/Monitoring of Self-Heating Coal Cargoes.pdf",
-    "98. RESOURCES/자연발화/Pyrolysis characteristics and microstructure evolution of different coal types.pdf",
-    "98. RESOURCES/자연발화/Pyrolysis gas as a carbon source for biogas production via anaerobic digestion.pdf",
-    "98. RESOURCES/자연발화/Guidelines for the Carriage of Charcoal and Carbon in Containers.pdf",
+    "3. CONCEPTS/기관실 내 소기 화재(Scavenge fires).md",
+    "98. RESOURCES/선박 기관실 화재/A Numerical Study on the Smoke Dispersion and Temperature Distribution of a Ship Engine Room Fire Based on OpenFOAM.pdf",
     "0. INBOX/Zhao2023ANUMERICAL.md",
+    "0. INBOX/Park2008소형선박.md",
+    "2. REVIEWS/MAN2018Propulsion.md",
+    "98. RESOURCES/수소/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
+    "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
+    "98. RESOURCES/수소/Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.pdf",
+    "2. REVIEWS/리뷰_Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.md",
+    "2. REVIEWS/리뷰_Safety investigation of hydrogen charging platform package with CFD simulation.md",
+    "98. RESOURCES/수소/Safety investigation of hydrogen charging platform package with CFD simulation.pdf",
+    "98. RESOURCES/선박 기관실 화재/FACTORS CONTRIBUTING TO FIRES IN SHIP ENGINE ROOMS.pdf",
+    "2. REVIEWS/Agata2025_FACTORS.md",
+    "98. RESOURCES/선박 기관실 화재/소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구.pdf",
+    "7. OUTPUTS/MOC_STAR-CCM+.md",
+    "98. RESOURCES/선박 화재 및 폭발/OFFSHORE STANDARD DET NORSKE VERITAS DNV-OS-D301 FIRE PROTECTION.pdf",
+    "0. INBOX/기관실 내 주요 화재 발생 위치.md",
+    "2. REVIEWS/DNV2023FIRESAFETY.md",
+    "98. RESOURCES/선박 기관실 화재/DNV FIRE SAFETY IN THE ENGINE ROOM.pdf",
+    "98. RESOURCES/선박 기관실 화재/ANALYSIS OF FIRE HAZARD AND SAFETY REQUIREMENTS OF A SEA VESSEL ENGINE ROOMS.pdf",
+    "98. RESOURCES/선박 기관실 화재/KR_Protection of High Temperature Surface.pdf",
+    "2. REVIEWS/IIM2025ENGINEROOMFIRES.md",
+    "7. OUTPUTS/MOC_졸업논문.md",
+    "2. REVIEWS/Malik2021Ammonia.md",
+    "2. REVIEWS/DNV2025Focus.md",
     "2. REVIEWS/Romanas Puisa2019Towards.md",
     "3. CONCEPTS/기관실의 고온 표면 발화(Hot Surface Ignition).md",
     "3. CONCEPTS/화재의 필수 요소.md",
     "Pasted image 20250729025208.png",
     "Pasted image 20250729025158.png",
     "0. INBOX/KR2003Protection.md",
-    "2. REVIEWS/IIM ENGINE2025ROOM FIRES.md",
     "2. REVIEWS/Gard2012Fireprevention.md",
-    "2. REVIEWS/Agata2025_FACTORS.md",
     "Pasted image 20250729023649.png",
     "Pasted image 20250729023646.png",
     "Pasted image 20250729023641.png",
     "Pasted image 20250729023633.png",
     "2. REVIEWS/리뷰_ENGINE ROOM FIRES – CAUSES, CONTRIBUTORS AND PREVENTIVE MEASURES.md",
     "2. REVIEWS/NTSB2022Engine Room.md",
-    "2. REVIEWS/DNV2023FIRESAFETY.md",
     "0. INBOX/Adam2011Analysis.md",
     "Pasted image 20250729022545.png",
     "Pasted image 20250729022536.png",
@@ -398,14 +504,6 @@
     "2. REVIEWS/Miller2016RiskFocus.md",
     "Pasted image 20250729020812.png",
     "0. INBOX/Kang2016A framework.md",
-    "0. INBOX/Park2008소형선박.md",
-    "2. REVIEWS/Zhang et al.2024Numerical.md",
-    "2. REVIEWS/리뷰_DETERMINATION OF KINETIC PARAMETERS OF COAL PYROLYSIS TO SIMULATE.md",
-    "1. DAILY NOTES/250729.md",
-    "2. REVIEWS/Ha2007수소.md",
-    "2. REVIEWS/리뷰_Hybrid algorithm for the detection of turbulent fame fronts.md",
-    "0. INBOX/CCPS2014Guidlines.md",
-    "2. REVIEWS/MAN2024Propulsion.md",
     "0. INBOX/무제.canvas",
     "0. INBOX/무제 1.canvas",
     "무제.canvas"
