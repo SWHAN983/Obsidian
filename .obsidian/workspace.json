@@ -4,17 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "e7b7d174d3be9c86",
+        "id": "99e8aa196e8ed968",
         "type": "tabs",
+        "dimension": 55.81896551724138,
         "children": [
           {
-            "id": "3997fdf8d30d0402",
+            "id": "38528aa65edced16",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "98. RESOURCES/선박 기관실 화재/Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards"
+            }
+          }
+        ]
+      },
+      {
+        "id": "26e654150be8e8e9",
+        "type": "tabs",
+        "dimension": 44.18103448275862,
+        "children": [
+          {
+            "id": "d9e402015b6d8545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. REVIEWS/리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards"
             }
           }
         ]
@@ -33,6 +67,16 @@
         "children": [
           {
             "id": "cb8c914d9c64aee7",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
+          {
+            "id": "1c64abaac45fae26",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,19 +114,8 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
-          },
-          {
-            "id": "03a6a201fb88a94f",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "eac9abe5fe92f719",
@@ -132,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -141,7 +175,7 @@
       {
         "id": "30fb6174ca5a12b2",
         "type": "tabs",
-        "dimension": 66.95736434108527,
+        "dimension": 69.47674418604652,
         "children": [
           {
             "id": "e0f02b6e118fd73b",
@@ -149,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "98. RESOURCES/화재&폭발/CRC Handbook of Chemistry and Physics 97th Edition.pdf",
+                "file": "0. INBOX/공기의 조성.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CRC Handbook of Chemistry and Physics 97th Edition 의 개요"
+              "title": "공기의 조성 의 개요"
             }
           },
           {
@@ -179,29 +213,20 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f8ce57d74c40e178",
         "type": "tabs",
-        "dimension": 33.042635658914726,
+        "dimension": 30.523255813953487,
         "children": [
-          {
-            "id": "791311cf98a5f935",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          },
           {
             "id": "6b9237777ae464a7",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2. REVIEWS/리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -209,7 +234,7 @@
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": true,
+                  "showTags": false,
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
@@ -224,12 +249,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0534979423868382,
+                  "scale": 0.1945002269061604,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards 그래프"
             }
           },
           {
@@ -238,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "98. RESOURCES/화재&폭발/CRC Handbook of Chemistry and Physics 97th Edition.pdf",
+                "file": "0. INBOX/공기의 조성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +273,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "CRC Handbook of Chemistry and Physics 97th Edition 의 백링크"
+              "title": "공기의 조성 의 백링크"
             }
           },
           {
@@ -257,19 +282,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "98. RESOURCES/화재&폭발/CRC Handbook of Chemistry and Physics 97th Edition.pdf",
+                "file": "0. INBOX/공기의 조성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "CRC Handbook of Chemistry and Physics 97th Edition 의 나가는 링크"
+              "title": "공기의 조성 의 나가는 링크"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 483.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,54 +311,53 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "03a6a201fb88a94f",
+  "active": "d9e402015b6d8545",
   "lastOpenFiles": [
-    "Vault.md",
+    "98. RESOURCES/선박 기관실 화재/Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.pdf",
+    "2. REVIEWS/리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.md",
+    "99. ATTACHMENTS/Pasted image 20250729153937.png",
+    "99. ATTACHMENTS/Pasted image 20250729153926.png",
+    "98. RESOURCES/선박 기관실 화재/DNV FIRE SAFETY IN THE ENGINE ROOM.pdf",
+    "98. RESOURCES/선박 기관실 화재/Engine room fire safety.pdf",
+    "98. RESOURCES/선박 기관실 화재/ANALYSIS OF FIRE HAZARD AND SAFETY REQUIREMENTS OF A SEA VESSEL ENGINE ROOMS.pdf",
+    "2. REVIEWS/Adam2011Analysis.md",
+    "98. RESOURCES/선박 기관실 화재/Engine Room Fire aboard Containership.pdf",
+    "2. REVIEWS/Miller2016RiskFocus.md",
+    "0. INBOX/무제.md",
+    "0. INBOX/DNV2023FIRESAFETY.md",
+    "99. ATTACHMENTS/Pasted image 20250729152152.png",
+    "2. REVIEWS/리뷰_Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
+    "2. REVIEWS/WSC2025ContainersLostatSea.md",
+    "2. REVIEWS/Gard2025Container ship fires on the rise again.md",
+    "2. REVIEWS/CINS2021GuidelinesfortheCarriage.md",
+    "2. REVIEWS/Miller1989CHEMKIN-II.md",
+    "2. REVIEWS/Oliver2022CarriageofCharcoal.md",
+    "2. REVIEWS/Lin2023_Auto-ignitionTemperature.md",
+    "2. REVIEWS/Ellis2011Analysisofaccidents.md",
+    "2. REVIEWS/Allianz2025SafetyandShippingReview2025.md",
+    "2. REVIEWS/리뷰_Analytical Research of the Container Ships Cargo Area Fires in the Period From 2010 to 2020.md",
+    "2. REVIEWS/리뷰_Allianz Safety and Shipping Review 2025.md",
+    "2. REVIEWS/리뷰_Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
+    "2. REVIEWS/리뷰_A Hybrid Approach for Quantitative Analysis of Fire Hazards in Enclosed Vehicle Spaces on Ro-ro Passenger Ships.md",
+    "2. REVIEWS/Lee2022AHybridApproach.md",
+    "2. REVIEWS/IMO CCC 회의동향 - 제4장. 결론.md",
+    "98. RESOURCES/자연발화/Pyrolysis characteristics and microstructure evolution of different coal types.pdf",
+    "2. REVIEWS/Chen2023Pyrolysis.md",
+    "3. CONCEPTS/기관실 내 주요 화재 발생 위치.md",
+    "2. REVIEWS/Park2008소형선박.md",
+    "2. REVIEWS/Moon2025DeRisk.md",
+    "3. CONCEPTS/가압 연료유 시스템.md",
     "99. ATTACHMENTS/Pasted image 20250729025208.png",
     "0. INBOX/오.mp4",
     "98. RESOURCES/저인화성 연료/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
-    "0. INBOX/무제.md",
     "98. RESOURCES/저인화성 연료/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
     "98. RESOURCES/선박 기관실 화재/A Numerical Study on the Smoke Dispersion and Temperature Distribution of a Ship Engine Room Fire Based on OpenFOAM.pdf",
-    "97. TEMPLATES/Temp_ReviewPaper.md",
-    "98. RESOURCES/선박 기관실 화재/소형선박 기관실의 자연발화 방지를 위한 환기조건에 관한 연구.pdf",
-    "2. REVIEWS/MAN2018Propulsion.md",
-    "98. RESOURCES/수소/★Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.pdf",
-    "98. RESOURCES/수소/Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.pdf",
-    "2. REVIEWS/리뷰_Safety investigation of hydrogen charging platform package with CFD simulation.md",
-    "98. RESOURCES/선박 기관실 화재/FACTORS CONTRIBUTING TO FIRES IN SHIP ENGINE ROOMS.pdf",
-    "0. INBOX/Park2008소형선박.md",
-    "0. INBOX/Zhao2023ANUMERICAL.md",
-    "0. INBOX/기관실 내 주요 화재 발생 위치.md",
-    "3. CONCEPTS/기관실 내 소기 화재(Scavenge fires).md",
-    "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
-    "2. REVIEWS/리뷰_Hydrogen Dispersion and Ventilation Effects in Enclosures under Different Release Conditions.md",
-    "98. RESOURCES/수소/Safety investigation of hydrogen charging platform package with CFD simulation.pdf",
-    "2. REVIEWS/Agata2025_FACTORS.md",
-    "7. OUTPUTS/MOC_STAR-CCM+.md",
-    "98. RESOURCES/선박 화재 및 폭발/OFFSHORE STANDARD DET NORSKE VERITAS DNV-OS-D301 FIRE PROTECTION.pdf",
-    "2. REVIEWS/DNV2023FIRESAFETY.md",
-    "2. REVIEWS/IIM2025ENGINEROOMFIRES.md",
-    "7. OUTPUTS/MOC_졸업논문.md",
-    "2. REVIEWS/Malik2021Ammonia.md",
-    "2. REVIEWS/DNV2025Focus.md",
-    "2. REVIEWS/Romanas Puisa2019Towards.md",
-    "3. CONCEPTS/기관실의 고온 표면 발화(Hot Surface Ignition).md",
-    "3. CONCEPTS/화재의 필수 요소.md",
     "99. ATTACHMENTS/Pasted image 20250729025158.png",
-    "0. INBOX/KR2003Protection.md",
-    "2. REVIEWS/Gard2012Fireprevention.md",
     "99. ATTACHMENTS/Pasted image 20250729023649.png",
     "99. ATTACHMENTS/Pasted image 20250729023646.png",
     "99. ATTACHMENTS/Pasted image 20250729023641.png",
     "99. ATTACHMENTS/Pasted image 20250729023633.png",
-    "2. REVIEWS/리뷰_ENGINE ROOM FIRES – CAUSES, CONTRIBUTORS AND PREVENTIVE MEASURES.md",
-    "2. REVIEWS/NTSB2022Engine Room.md",
-    "0. INBOX/Adam2011Analysis.md",
     "99. ATTACHMENTS/Pasted image 20250729022545.png",
-    "99. ATTACHMENTS/Pasted image 20250729022536.png",
-    "99. ATTACHMENTS/Pasted image 20250729022455.png",
-    "99. ATTACHMENTS/Pasted image 20250729020812.png",
     "0. INBOX/무제.canvas",
     "0. INBOX/무제 1.canvas",
     "무제.canvas"
