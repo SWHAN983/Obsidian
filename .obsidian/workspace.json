@@ -30,38 +30,21 @@
               "icon": "lucide-file",
               "title": "250731"
             }
-          }
-        ]
-      },
-      {
-        "id": "26e654150be8e8e9",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "d9e402015b6d8545",
+            "id": "778b35f5120d348d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2. REVIEWS/리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/Drawing 2025-07-31 10.13.42.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-31 10.13.42.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. INBOX/공기의 조성.md",
+                "file": "Excalidraw/Drawing 2025-07-31 10.13.42.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "공기의 조성 의 개요"
+              "title": "Drawing 2025-07-31 10.13.42.excalidraw 의 개요"
             }
           },
           {
@@ -222,8 +205,7 @@
               "title": "Gemini"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f8ce57d74c40e178",
@@ -236,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. DAILY NOTES/250731.md",
+                "file": "Excalidraw/Drawing 2025-07-31 10.13.42.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -264,7 +246,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "250731 그래프"
+              "title": "Drawing 2025-07-31 10.13.42.excalidraw 그래프"
             }
           },
           {
@@ -304,7 +286,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 638.5
+    "width": 638.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,10 +305,14 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "73144ecaff1ea40f",
+  "active": "778b35f5120d348d",
   "lastOpenFiles": [
-    "0. INBOX/Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation.pdf",
+    "99. ATTACHMENTS/Pasted image 20250729020400.png",
+    "Excalidraw/Drawing 2025-07-31 10.13.42.excalidraw.md",
     "1. DAILY NOTES/250731.md",
+    "0. INBOX/무제.canvas",
+    "Vault.md",
+    "0. INBOX/Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation.pdf",
     "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
     "0. INBOX/무제.md",
     "2. REVIEWS/리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.md",
@@ -358,8 +345,6 @@
     "2. REVIEWS/Lee2022AHybridApproach.md",
     "2. REVIEWS/IMO CCC 회의동향 - 제4장. 결론.md",
     "98. RESOURCES/자연발화/Pyrolysis characteristics and microstructure evolution of different coal types.pdf",
-    "2. REVIEWS/Chen2023Pyrolysis.md",
-    "3. CONCEPTS/기관실 내 주요 화재 발생 위치.md",
     "99. ATTACHMENTS/Pasted image 20250729025208.png",
     "0. INBOX/오.mp4",
     "98. RESOURCES/저인화성 연료/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
@@ -369,7 +354,6 @@
     "99. ATTACHMENTS/Pasted image 20250729023641.png",
     "99. ATTACHMENTS/Pasted image 20250729023633.png",
     "99. ATTACHMENTS/Pasted image 20250729022545.png",
-    "0. INBOX/무제.canvas",
     "0. INBOX/무제 1.canvas",
     "무제.canvas"
   ]
