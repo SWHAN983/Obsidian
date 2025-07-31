@@ -110,8 +110,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "64f2aa337f0c8ea1",
@@ -186,8 +185,7 @@
         }
       }
     ],
-    "currentTab": 4,
-    "pinned": true
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,8 +201,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e135591b0d3b97a",
+  "active": "154c6ca5216def96",
   "lastOpenFiles": [
+    "/1. DAILY NOTES/250731.md",
+    "/1. DAILY NOTES",
     "1. DAILY NOTES/250731.md",
     "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
     "1. DAILY NOTES/250718.md",
@@ -246,8 +246,6 @@
     "/2. REVIEWS/리뷰_★연료 전지 공간(FCR)에서 수소 누출 CFD 시뮬레이션.md",
     "/1. DAILY NOTES/250718.md",
     "/1. DAILY NOTES/250717.md",
-    "/1. DAILY NOTES/250716.md",
-    "/1. DAILY NOTES",
-    "/0. INBOX/수소의 LEL~UEL 폭발 농도 범위.md"
+    "/1. DAILY NOTES/250716.md"
   ]
 }
