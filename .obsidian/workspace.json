@@ -35,16 +35,27 @@
             "id": "778b35f5120d348d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-31 10.13.42.excalidraw.md"
+                "file": "1. DAILY NOTES/250731.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-31 10.13.42.excalidraw"
+              "icon": "lucide-file",
+              "title": "250731"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-31 10.13.42.excalidraw.md",
+                "file": "1. DAILY NOTES/250731.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-07-31 10.13.42.excalidraw 의 개요"
+              "title": "250731 의 개요"
             }
           },
           {
@@ -218,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-31 10.13.42.excalidraw.md",
+                "file": "1. DAILY NOTES/250731.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Drawing 2025-07-31 10.13.42.excalidraw 그래프"
+              "title": "250731 그래프"
             }
           },
           {
@@ -305,10 +316,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "778b35f5120d348d",
+  "active": "73144ecaff1ea40f",
   "lastOpenFiles": [
-    "99. ATTACHMENTS/Pasted image 20250729020400.png",
     "Excalidraw/Drawing 2025-07-31 10.13.42.excalidraw.md",
+    "99. ATTACHMENTS/Pasted image 20250729020400.png",
     "1. DAILY NOTES/250731.md",
     "0. INBOX/무제.canvas",
     "Vault.md",
@@ -353,7 +364,6 @@
     "99. ATTACHMENTS/Pasted image 20250729023646.png",
     "99. ATTACHMENTS/Pasted image 20250729023641.png",
     "99. ATTACHMENTS/Pasted image 20250729023633.png",
-    "99. ATTACHMENTS/Pasted image 20250729022545.png",
     "0. INBOX/무제 1.canvas",
     "무제.canvas"
   ]
