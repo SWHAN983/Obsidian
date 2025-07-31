@@ -114,19 +114,9 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
-          },
-          {
-            "id": "0225525a1ec7e626",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "eac9abe5fe92f719",
@@ -322,7 +312,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "73144ecaff1ea40f",
+  "active": "377b20c0487fff01",
   "lastOpenFiles": [
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
