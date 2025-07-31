@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY NOTES/250731.md",
+                "file": "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250731"
+              "title": "MOC_GIT 문제 해결 가이드"
             }
           },
           {
@@ -110,7 +110,7 @@
             }
           },
           {
-            "id": "671efc35d330826c",
+            "id": "0225525a1ec7e626",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -318,9 +318,9 @@
   },
   "active": "73144ecaff1ea40f",
   "lastOpenFiles": [
+    "1. DAILY NOTES/250731.md",
     "Excalidraw/Drawing 2025-07-31 10.13.42.excalidraw.md",
     "99. ATTACHMENTS/Pasted image 20250729020400.png",
-    "1. DAILY NOTES/250731.md",
     "0. INBOX/무제.canvas",
     "Vault.md",
     "0. INBOX/Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation.pdf",
