@@ -42,29 +42,24 @@
 
 cd /d/HSW/Obsidian
 
-# 날짜 기반 브랜치명 생성
+# 날짜 기반 브랜치명
 NOW=$(date +%Y-%m-%d-%H%M)
+BRANCH=backup-$NOW
 
-echo "🔁 origin → 백업 저장소로 임시 전환"
-git remote set-url origin https://github.com/SWHAN983/Obsidian-Backup.git
+echo "🌿 [1/5] 현재 브랜치에서 새 백업 브랜치 생성: $BRANCH"
+git checkout -b $BRANCH
 
-echo "🌿 backup 브랜치 생성: backup-$NOW"
-git checkout -b backup-$NOW
-
-echo "📦 변경 사항 커밋"
+echo "📦 [2/5] 변경 사항 커밋"
 git add .
 git commit -m "📦 Vault 백업: $NOW"
 
-echo "⬆️ 백업 저장소로 푸시"
-git push -u origin backup-$NOW
+echo "⬆️ [3/5] backup 리모트로 백업 브랜치 푸시"
+git push https://github.com/SWHAN983/Obsidian-Backup.git $BRANCH
 
-echo "🔙 origin → 원래 저장소로 복귀"
-git remote set-url origin https://github.com/SWHAN983/Obsidian.git
-
-echo "🔁 main 브랜치로 복귀"
+echo "🔙 [4/5] 작업 브랜치(main) 복귀"
 git checkout main
 
-echo "🔄 최신 상태 동기화"
+echo "🔄 [5/5] origin/main 최신 상태 동기화"
 git pull origin main
 
 
