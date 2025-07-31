@@ -6,41 +6,9 @@
       {
         "id": "269ec373089f44c8",
         "type": "tabs",
-        "dimension": 37.31739707835325,
         "children": [
           {
             "id": "d0e4ec4e43d62eff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. OUTPUTS/MOC_STAR-CCM+.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC_STAR-CCM+"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f684377e1a2901a1",
-        "type": "tabs",
-        "dimension": 62.68260292164675,
-        "children": [
-          {
-            "id": "a46c550a5805e135",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -312,17 +280,18 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "a46c550a5805e135",
+  "active": "d0e4ec4e43d62eff",
   "lastOpenFiles": [
+    "98. RESOURCES/STAR-CCM+/STAR-CCM+ Soot Moments Model Reference.pdf",
+    "7. OUTPUTS/MOC_STAR-CCM+.md",
+    "1. DAILY NOTES/250731.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "conflict-files-obsidian-git.md",
-    "1. DAILY NOTES/250731.md",
     "무제 1.md",
     "무제.md",
     "무제 2.md",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf",
-    "7. OUTPUTS/MOC_STAR-CCM+.md",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ Ignitors.pdf",
     "7. OUTPUTS/MOC_졸업논문.md",
     "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
@@ -353,7 +322,6 @@
     "2. REVIEWS/Gard2025Container ship fires on the rise again.md",
     "2. REVIEWS/CINS2021GuidelinesfortheCarriage.md",
     "2. REVIEWS/Miller1989CHEMKIN-II.md",
-    "2. REVIEWS/Oliver2022CarriageofCharcoal.md",
     "98. RESOURCES/자연발화/Pyrolysis characteristics and microstructure evolution of different coal types.pdf",
     "99. ATTACHMENTS/Pasted image 20250729025208.png",
     "99. ATTACHMENTS/Pasted image 20250729025158.png",
