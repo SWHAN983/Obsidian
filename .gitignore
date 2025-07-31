@@ -1,27 +1,35 @@
-# 📁 OS 기본 불필요 파일
+# ----------------------------------------------------
+# 옵시디언 완전 독립 환경을 위한 .gitignore
+# ----------------------------------------------------
+
+# OS 기본 파일
 .DS_Store
 Thumbs.db
 *.log
 
-# 📁 휴지통 파일
+# 옵시디언 휴지통
 .trash/
 
-# 📁 Obsidian Git 플러그인 로그 파일 (기록성 데이터)
-.obsidian/plugins/obsidian-git/data.json
+# 옵시디언 캐시 (각 기기에서 생성되도록 함)
+.obsidian/cache
 
-# ✅ Git 추적 및 동기화 유지 항목
-# 다음 항목은 주석 해제하여 동기화에 포함
-# - .obsidian/workspace.json              ← PC 작업 공간 레이아웃
-# - .obsidian/workspace-mobile.json       ← 모바일 레이아웃
-# - .obsidian/appearance.json             ← 테마/폰트 설정
-# - .obsidian/graph.json                  ← 그래프 뷰 설정
 
-# 📁 제외 유지 항목
-# ↓ 실제 플러그인 설치 파일(버전마다 다름) → 충돌 위험
+# --- 플러그인 완전 비동기화 설정 (핵심) ---
+
+# 커뮤니티 플러그인 폴더 전체 (설치 파일, 개별 설정 모두 포함)
 .obsidian/plugins/
 
+# 활성화된 커뮤니티 플러그인 목록
+.obsidian/community-plugins.json
+
+# -----------------------------------------
 
 
+# --- 기기별 독립 설정 (강력 권장) ---
 
-# Ignore Smart Environment folder
-.smart-env
+# 현재 열린 파일/창 레이아웃 (PC와 모바일은 다르게 쓰는 것이 편함)
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# 모바일 전용 UI 설정
+.obsidian/mobile.json
