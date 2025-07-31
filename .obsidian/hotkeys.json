@@ -25,20 +25,23 @@
     }
   ],
   "editor:save-file": [],
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Numpad1"
-    }
-  ],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
   "obsidian-git:pull": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "Numpad0"
+      "key": "1"
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
     }
   ],
   "obsidian-git:push2": [
@@ -46,7 +49,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "Numpad2"
+      "key": "3"
     }
   ]
 }
