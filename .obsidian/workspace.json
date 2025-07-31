@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "269ec373089f44c8",
+        "id": "89b3e1a3fc2d0e04",
         "type": "tabs",
-        "dimension": 37.31739707835325,
         "children": [
           {
-            "id": "d0e4ec4e43d62eff",
+            "id": "8e512117f12de424",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. OUTPUTS/MOC_STAR-CCM+.md",
+                "file": "1. DAILY NOTES/250731.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,26 +28,37 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC_STAR-CCM+"
+              "title": "250731"
             }
           }
         ]
       },
       {
-        "id": "f684377e1a2901a1",
+        "id": "01dbcc283ce78bf1",
         "type": "tabs",
-        "dimension": 62.68260292164675,
         "children": [
           {
-            "id": "a46c550a5805e135",
+            "id": "dccc9890e62191f5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf"
+                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "STAR-CCM+ reacting flow"
+              "icon": "lucide-file",
+              "title": "Git 강제 Pull(로컬 초기화, 원격 덮어쓰기)"
             }
           }
         ]
@@ -63,10 +73,10 @@
       {
         "id": "a83c5c6d64203767",
         "type": "tabs",
-        "dimension": 67.23963599595551,
+        "dimension": 48.837209302325576,
         "children": [
           {
-            "id": "cb8c914d9c64aee7",
+            "id": "84301899b043e26d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -84,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:Liqu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,20 +118,10 @@
         ]
       },
       {
-        "id": "eac9abe5fe92f719",
+        "id": "f688897bf0516395",
         "type": "tabs",
-        "dimension": 32.76036400404449,
+        "dimension": 20.222446916076844,
         "children": [
-          {
-            "id": "377b20c0487fff01",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
           {
             "id": "1b052f6f0fe0224e",
             "type": "leaf",
@@ -151,108 +151,21 @@
               "title": "모든 속성"
             }
           }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 281.5
-  },
-  "right": {
-    "id": "f6e3a5d123567eda",
-    "type": "split",
-    "children": [
-      {
-        "id": "30fb6174ca5a12b2",
-        "type": "tabs",
-        "dimension": 69.47674418604652,
-        "children": [
-          {
-            "id": "e0f02b6e118fd73b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "STAR-CCM+ reacting flow 의 개요"
-            }
-          },
-          {
-            "id": "e96c9954ac99b234",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {},
-              "icon": "lucide-cat",
-              "title": "ChatGPT"
-            }
-          },
-          {
-            "id": "287823c9b5233e08",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-gemini",
-              "state": {},
-              "icon": "lucide-dog",
-              "title": "Gemini"
-            }
-          }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "f8ce57d74c40e178",
+        "id": "eac9abe5fe92f719",
         "type": "tabs",
-        "dimension": 30.523255813953487,
+        "dimension": 30.940343781597573,
         "children": [
-          {
-            "id": "6b9237777ae464a7",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -1.1,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.19450022690616064,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "STAR-CCM+ reacting flow 그래프"
-            }
-          },
           {
             "id": "1dc4a50d117cffe1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. INBOX/공기의 조성.md",
+                "file": "1. DAILY NOTES/250731.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +175,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "공기의 조성 의 백링크"
+              "title": "250731 의 백링크"
             }
           },
           {
@@ -271,84 +184,133 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. INBOX/공기의 조성.md",
+                "file": "7. OUTPUTS/MOC_졸업논문 목차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "공기의 조성 의 나가는 링크"
+              "title": "MOC_졸업논문 목차 의 나가는 링크"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 599.5
+    "width": 200
+  },
+  "right": {
+    "id": "f6e3a5d123567eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "30fb6174ca5a12b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0f02b6e118fd73b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. DAILY NOTES/250731.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "250731 의 개요"
+            }
+          },
+          {
+            "id": "952b8bf6a5dc24a8",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
+          },
+          {
+            "id": "377b20c0487fff01",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:빠른 전환기 열기": false,
-      "obsidian-git:Open Git source control": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "audio-recorder:녹음 시작/정지": false,
       "graph:그래프 뷰 열기": false,
-      "workspaces:작업 공간 레이아웃 관리": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "templates:템플릿 삽입": false
+      "audio-recorder:녹음 시작/정지": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "publish:변경사항 게재": false
     }
   },
-  "active": "a46c550a5805e135",
+  "active": "8e512117f12de424",
   "lastOpenFiles": [
-    "7. OUTPUTS/MOC_STAR-CCM+.md",
-    "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf",
-    "98. RESOURCES/STAR-CCM+/STAR-CCM+ Ignitors.pdf",
-    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
-    "7. OUTPUTS/MOC_졸업논문.md",
+    "1. DAILY NOTES/250730.md",
     "1. DAILY NOTES/250731.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
-    "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
-    "conflict-files-obsidian-git.md",
-    "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
     "Excalidraw/Drawing 2025-07-31 10.13.42.excalidraw.md",
-    "99. ATTACHMENTS/Pasted image 20250729020400.png",
-    "0. INBOX/무제.canvas",
-    "Vault.md",
-    "0. INBOX/Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation.pdf",
-    "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
-    "0. INBOX/무제.md",
-    "2. REVIEWS/리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.md",
-    "0. INBOX/0. INBOX.md",
-    "1. DAILY NOTES/250730.md",
-    "98. RESOURCES/선박 기관실 화재/Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.pdf",
     "99. ATTACHMENTS/Pasted image 20250729153937.png",
     "99. ATTACHMENTS/Pasted image 20250729153926.png",
-    "98. RESOURCES/선박 기관실 화재/DNV FIRE SAFETY IN THE ENGINE ROOM.pdf",
-    "98. RESOURCES/선박 기관실 화재/Engine room fire safety.pdf",
-    "98. RESOURCES/선박 기관실 화재/ANALYSIS OF FIRE HAZARD AND SAFETY REQUIREMENTS OF A SEA VESSEL ENGINE ROOMS.pdf",
-    "2. REVIEWS/Adam2011Analysis.md",
-    "98. RESOURCES/선박 기관실 화재/Engine Room Fire aboard Containership.pdf",
-    "2. REVIEWS/Miller2016RiskFocus.md",
-    "0. INBOX/DNV2023FIRESAFETY.md",
     "99. ATTACHMENTS/Pasted image 20250729152152.png",
-    "2. REVIEWS/리뷰_Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
-    "2. REVIEWS/WSC2025ContainersLostatSea.md",
-    "2. REVIEWS/Gard2025Container ship fires on the rise again.md",
-    "2. REVIEWS/CINS2021GuidelinesfortheCarriage.md",
-    "2. REVIEWS/Miller1989CHEMKIN-II.md",
-    "2. REVIEWS/Oliver2022CarriageofCharcoal.md",
-    "2. REVIEWS/Lin2023_Auto-ignitionTemperature.md",
-    "2. REVIEWS/Ellis2011Analysisofaccidents.md",
-    "98. RESOURCES/자연발화/Pyrolysis characteristics and microstructure evolution of different coal types.pdf",
     "99. ATTACHMENTS/Pasted image 20250729025208.png",
     "99. ATTACHMENTS/Pasted image 20250729025158.png",
     "99. ATTACHMENTS/Pasted image 20250729023649.png",
     "99. ATTACHMENTS/Pasted image 20250729023646.png",
     "99. ATTACHMENTS/Pasted image 20250729023641.png",
     "99. ATTACHMENTS/Pasted image 20250729023633.png",
-    "0. INBOX/무제 1.canvas",
+    "99. ATTACHMENTS/Pasted image 20250729022545.png",
+    "98. RESOURCES/화재&폭발/Guidelines for Determining the Probabilityof Ignition of a Released Flammable Mass.pdf",
+    "98. RESOURCES/자연발화/Spontaneous Ignition in Fire Investigation.pdf",
+    "98. RESOURCES/자연발화/NFPA-921-General-Definitions-7.pdf",
+    "98. RESOURCES/자연발화/Ignition of Gases, Vapors, and Liquids by Hot Surfaces.pdf",
+    "98. RESOURCES/암모니아/암모니아 관련 선박 개념도.pdf",
+    "98. RESOURCES/암모니아/Study on hot surface ignition and spark ignition characteristics of ammonia.pdf",
+    "98. RESOURCES/암모니아/NK_Guidelines for Safety Operation for Ammonia-Fueled Vessels.pdf",
+    "98. RESOURCES/수소/NASA_SAFETY STANDARD FOR HYDROGEN AND HYDROGENSYSTEMS.pdf",
+    "98. RESOURCES/수소/Machinery and Energy Systems for the Hydrogen Economy Chapter 2 - Fundamentals.pdf",
+    "98. RESOURCES/수소/Influence of natural gas and hydrogen properties on internal combustion engine performance, combustion, and emissions A review.pdf",
+    "2. REVIEWS/Zhao2023ANUMERICAL.md",
+    "2. REVIEWS/Zhang et al.2024Numerical.md",
+    "2. REVIEWS/WSC2025ContainersLostatSea.md",
+    "2. REVIEWS/Romanas Puisa2019Towards.md",
+    "2. REVIEWS/Park2008소형선박.md",
+    "2. REVIEWS/Oliver2022CarriageofCharcoal.md",
+    "2. REVIEWS/NTSB2022Engine Room.md",
+    "2. REVIEWS/Moon2025DeRisk.md",
+    "2. REVIEWS/Moon2023Ammonia.md",
+    "2. REVIEWS/Miller2016RiskFocus.md",
+    "2. REVIEWS/Miller1989CHEMKIN-II.md",
+    "2. REVIEWS/Malik2021Ammonia.md",
+    "2. REVIEWS/Maersk2023Concept design.md",
+    "2. REVIEWS/MAN2024Propulsion.md",
+    "2. REVIEWS/MAN2018Propulsion.md",
+    "2. REVIEWS/Lin2023_Auto-ignitionTemperature.md",
+    "2. REVIEWS/Lee2022AHybridApproach.md",
+    "2. REVIEWS/KR2003Protection.md",
+    "2. REVIEWS/IIM2025ENGINEROOMFIRES.md",
+    "2. REVIEWS/IEC2020Explosive.md",
+    "2. REVIEWS/Ha2007수소.md",
+    "2. REVIEWS/Gard2025Container ship fires on the rise again.md",
     "무제.canvas"
   ]
 }
