@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
+                "file": "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,22 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC_GIT 문제 해결 가이드"
+              "title": "Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소)"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "bfd4fae7182a0a9d",
+        "type": "tabs",
+        "children": [
           {
-            "id": "778b35f5120d348d",
+            "id": "6c6416baae837060",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY NOTES/250731.md",
+                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250731"
+              "title": "Git 강제 Pull(로컬 초기화, 원격 덮어쓰기)"
             }
           }
         ]
@@ -318,6 +324,11 @@
   },
   "active": "73144ecaff1ea40f",
   "lastOpenFiles": [
+    "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
+    "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
+    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
+    "conflict-files-obsidian-git.md",
+    "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
     "1. DAILY NOTES/250731.md",
     "Excalidraw/Drawing 2025-07-31 10.13.42.excalidraw.md",
     "99. ATTACHMENTS/Pasted image 20250729020400.png",
@@ -351,10 +362,6 @@
     "2. REVIEWS/Allianz2025SafetyandShippingReview2025.md",
     "2. REVIEWS/리뷰_Analytical Research of the Container Ships Cargo Area Fires in the Period From 2010 to 2020.md",
     "2. REVIEWS/리뷰_Allianz Safety and Shipping Review 2025.md",
-    "2. REVIEWS/리뷰_Air and hydrogen supply systems and equipment for PEM fuel cells a review.md",
-    "2. REVIEWS/리뷰_A Hybrid Approach for Quantitative Analysis of Fire Hazards in Enclosed Vehicle Spaces on Ro-ro Passenger Ships.md",
-    "2. REVIEWS/Lee2022AHybridApproach.md",
-    "2. REVIEWS/IMO CCC 회의동향 - 제4장. 결론.md",
     "98. RESOURCES/자연발화/Pyrolysis characteristics and microstructure evolution of different coal types.pdf",
     "99. ATTACHMENTS/Pasted image 20250729025208.png",
     "0. INBOX/오.mp4",

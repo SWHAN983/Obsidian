@@ -100,7 +100,7 @@ git remote set-url origin https://github.com/SWHAN983/Obsidian.git
 
 git checkout main
 
-  
+
 
 # 최신 상태로 동기화
 
