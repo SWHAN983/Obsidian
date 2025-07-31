@@ -164,29 +164,48 @@
           "icon": "lucide-list",
           "title": "개요"
         }
+      },
+      {
+        "id": "dca91eaf38b5b35d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {},
+          "icon": "lucide-git-fork",
+          "title": "그래프 뷰"
+        }
+      },
+      {
+        "id": "154c6ca5216def96",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
       "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "audio-recorder:녹음 시작/정지": false,
-      "graph:그래프 뷰 열기": false,
-      "workspaces:작업 공간 레이아웃 관리": false,
-      "canvas:새 캔버스 만들기": false,
-      "templater-obsidian:Templater": false,
-      "templates:템플릿 삽입": false
+      "workspaces:작업 공간 레이아웃 관리": false
     }
   },
   "active": "6e135591b0d3b97a",
   "lastOpenFiles": [
-    "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
     "1. DAILY NOTES/250731.md",
+    "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
     "1. DAILY NOTES/250718.md",
     "/3. CONCEPTS/기관실·연료설비 배치 구조.md",
     "/7. OUTPUTS/MOC_졸업논문 목차.md",
