@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "1063465c2af9ec39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73144ecaff1ea40f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "0. INBOX/Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation"
+            }
+          }
+        ]
+      },
+      {
         "id": "26e654150be8e8e9",
         "type": "tabs",
         "children": [
@@ -205,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. REVIEWS/리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.md",
+                "file": "0. INBOX/Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,7 +251,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards 그래프"
+              "title": "Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation 그래프"
             }
           },
           {
@@ -273,7 +291,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.5
+    "width": 638.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,11 +308,15 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "d9e402015b6d8545",
+  "active": "73144ecaff1ea40f",
   "lastOpenFiles": [
+    "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
+    "0. INBOX/무제.md",
+    "0. INBOX/Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation.pdf",
+    "2. REVIEWS/리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.md",
+    "0. INBOX/0. INBOX.md",
     "1. DAILY NOTES/250730.md",
     "98. RESOURCES/선박 기관실 화재/Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.pdf",
-    "2. REVIEWS/리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.md",
     "99. ATTACHMENTS/Pasted image 20250729153937.png",
     "99. ATTACHMENTS/Pasted image 20250729153926.png",
     "98. RESOURCES/선박 기관실 화재/DNV FIRE SAFETY IN THE ENGINE ROOM.pdf",
@@ -303,7 +325,6 @@
     "2. REVIEWS/Adam2011Analysis.md",
     "98. RESOURCES/선박 기관실 화재/Engine Room Fire aboard Containership.pdf",
     "2. REVIEWS/Miller2016RiskFocus.md",
-    "0. INBOX/무제.md",
     "0. INBOX/DNV2023FIRESAFETY.md",
     "99. ATTACHMENTS/Pasted image 20250729152152.png",
     "2. REVIEWS/리뷰_Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
@@ -325,12 +346,10 @@
     "2. REVIEWS/Chen2023Pyrolysis.md",
     "3. CONCEPTS/기관실 내 주요 화재 발생 위치.md",
     "2. REVIEWS/Park2008소형선박.md",
-    "2. REVIEWS/Moon2025DeRisk.md",
     "99. ATTACHMENTS/Pasted image 20250729025208.png",
     "0. INBOX/오.mp4",
     "98. RESOURCES/저인화성 연료/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
     "98. RESOURCES/저인화성 연료/Ammonia, Methane, Hydrogen Oh My! – Understanding Hazards from Alternative Power to Gas Options.pdf",
-    "98. RESOURCES/선박 기관실 화재/A Numerical Study on the Smoke Dispersion and Temperature Distribution of a Ship Engine Room Fire Based on OpenFOAM.pdf",
     "99. ATTACHMENTS/Pasted image 20250729025158.png",
     "99. ATTACHMENTS/Pasted image 20250729023649.png",
     "99. ATTACHMENTS/Pasted image 20250729023646.png",
