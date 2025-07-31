@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "fd637c504ed75d36",
+        "id": "269ec373089f44c8",
         "type": "tabs",
+        "dimension": 37.31739707835325,
         "children": [
           {
             "id": "d0e4ec4e43d62eff",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
+                "file": "7. OUTPUTS/MOC_STAR-CCM+.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +29,26 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git 강제 Pull(로컬 초기화, 원격 덮어쓰기)"
+              "title": "MOC_STAR-CCM+"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f684377e1a2901a1",
+        "type": "tabs",
+        "dimension": 62.68260292164675,
+        "children": [
+          {
+            "id": "a46c550a5805e135",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "STAR-CCM+ reacting flow"
             }
           }
         ]
@@ -152,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DAILY NOTES/250731.md",
+                "file": "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "250731 의 개요"
+              "title": "STAR-CCM+ reacting flow 의 개요"
             }
           },
           {
@@ -181,7 +201,8 @@
               "title": "Gemini"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "f8ce57d74c40e178",
@@ -194,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. DAILY NOTES/250731.md",
+                "file": "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,12 +238,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1945002269061604,
+                  "scale": 0.19450022690616064,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "250731 그래프"
+              "title": "STAR-CCM+ reacting flow 그래프"
             }
           },
           {
@@ -262,8 +283,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 638.5,
-    "collapsed": true
+    "width": 599.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,18 +297,21 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "canvas:새 캔버스 만들기": false,
       "templater-obsidian:Templater": false,
-      "templates:템플릿 삽입": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "templates:템플릿 삽입": false
     }
   },
-  "active": "d0e4ec4e43d62eff",
+  "active": "a46c550a5805e135",
   "lastOpenFiles": [
+    "7. OUTPUTS/MOC_STAR-CCM+.md",
+    "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf",
+    "98. RESOURCES/STAR-CCM+/STAR-CCM+ Ignitors.pdf",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
-    "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
+    "7. OUTPUTS/MOC_졸업논문.md",
+    "1. DAILY NOTES/250731.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
+    "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
     "conflict-files-obsidian-git.md",
     "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
-    "1. DAILY NOTES/250731.md",
     "Excalidraw/Drawing 2025-07-31 10.13.42.excalidraw.md",
     "99. ATTACHMENTS/Pasted image 20250729020400.png",
     "0. INBOX/무제.canvas",
@@ -318,13 +341,8 @@
     "2. REVIEWS/Oliver2022CarriageofCharcoal.md",
     "2. REVIEWS/Lin2023_Auto-ignitionTemperature.md",
     "2. REVIEWS/Ellis2011Analysisofaccidents.md",
-    "2. REVIEWS/Allianz2025SafetyandShippingReview2025.md",
-    "2. REVIEWS/리뷰_Analytical Research of the Container Ships Cargo Area Fires in the Period From 2010 to 2020.md",
-    "2. REVIEWS/리뷰_Allianz Safety and Shipping Review 2025.md",
     "98. RESOURCES/자연발화/Pyrolysis characteristics and microstructure evolution of different coal types.pdf",
     "99. ATTACHMENTS/Pasted image 20250729025208.png",
-    "0. INBOX/오.mp4",
-    "98. RESOURCES/저인화성 연료/PRS_SAFETY REQUIREMENTS FOR SHIPS USING LOW-FLASHPOINT GASES AS FUEL.pdf",
     "99. ATTACHMENTS/Pasted image 20250729025158.png",
     "99. ATTACHMENTS/Pasted image 20250729023649.png",
     "99. ATTACHMENTS/Pasted image 20250729023646.png",
