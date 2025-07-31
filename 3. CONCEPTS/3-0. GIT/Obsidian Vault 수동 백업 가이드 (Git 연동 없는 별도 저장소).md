@@ -38,39 +38,35 @@
 
 ```bash
 
+#!/bin/bash
+
 cd /d/HSW/Obsidian
 
-  
+# 날짜 기반 브랜치명 생성
+NOW=$(date +%Y-%m-%d-%H%M)
 
-# 현재 시각을 변수로 저장 (예: 2025-07-19-2218)
-
-export NOW=$(date +%Y-%m-%d-%H%M)
-
-  
-
-# 1. 원격 저장소를 백업용으로 전환
-
+echo "🔁 origin → 백업 저장소로 임시 전환"
 git remote set-url origin https://github.com/SWHAN983/Obsidian-Backup.git
 
-  
-
-# 2. 날짜 기반 브랜치 생성
-
+echo "🌿 backup 브랜치 생성: backup-$NOW"
 git checkout -b backup-$NOW
 
-  
-
-# 3. 전체 파일 커밋 (변경 있을 경우)
-
+echo "📦 변경 사항 커밋"
 git add .
-
 git commit -m "📦 Vault 백업: $NOW"
 
-  
-
-# 4. GitHub에 푸시
-
+echo "⬆️ 백업 저장소로 푸시"
 git push -u origin backup-$NOW
+
+echo "🔙 origin → 원래 저장소로 복귀"
+git remote set-url origin https://github.com/SWHAN983/Obsidian.git
+
+echo "🔁 main 브랜치로 복귀"
+git checkout main
+
+echo "🔄 최신 상태 동기화"
+git pull origin main
+
 
 ```
 
