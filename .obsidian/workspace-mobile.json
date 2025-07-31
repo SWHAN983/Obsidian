@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY NOTES/250718.md",
+                "file": "1. DAILY NOTES/250731.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250718"
+              "title": "250731"
             }
           }
         ]
@@ -75,7 +75,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "1. DAILY NOTES/250717.md",
+                        "file": "1. DAILY NOTES/250731.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "1. DAILY NOTES/250717.md",
+                        "file": "1. DAILY NOTES/250731.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       },
@@ -238,12 +238,12 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "audio-recorder:녹음 시작/정지": false,
-      "workspaces:작업 공간 레이아웃 관리": false,
-      "publish:변경사항 게재": false
+      "workspaces:작업 공간 레이아웃 관리": false
     }
   },
   "active": "cc19b4629abbe306",
   "lastOpenFiles": [
+    "1. DAILY NOTES/250718.md",
     "/3. CONCEPTS/기관실·연료설비 배치 구조.md",
     "/7. OUTPUTS/MOC_졸업논문 목차.md",
     "/7. OUTPUTS",
@@ -286,7 +286,6 @@
     "/1. DAILY NOTES",
     "/0. INBOX/수소의 LEL~UEL 폭발 농도 범위.md",
     "/0. INBOX/리뷰_수소의 화재 및 폭발 특성치에 관한 연구.md",
-    "/0. INBOX/CFD 기반 화재 시뮬레이션 연구 동향.md",
-    "1. DAILY NOTES/250717.md"
+    "/0. INBOX/CFD 기반 화재 시뮬레이션 연구 동향.md"
   ]
 }
