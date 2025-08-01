@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "17cf2f1fbeb8d590",
+        "id": "a990a421cd85f96f",
         "type": "tabs",
         "children": [
           {
             "id": "d9972e704ef2e8b6",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room"
+            }
+          }
+        ]
+      },
+      {
+        "id": "17cf2f1fbeb8d590",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccd5117676a9de3e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY NOTES/250801.md",
+                "file": "0. INBOX/TNO Multi-Energy Method.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250801"
+              "title": "TNO Multi-Energy Method"
             }
           }
         ]
@@ -85,8 +103,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "eac9abe5fe92f719",
@@ -136,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -145,7 +163,7 @@
       {
         "id": "30fb6174ca5a12b2",
         "type": "tabs",
-        "dimension": 69.47674418604652,
+        "dimension": 74.70930232558139,
         "children": [
           {
             "id": "e0f02b6e118fd73b",
@@ -153,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room 의 개요"
             }
           },
           {
@@ -181,12 +200,13 @@
               "title": "Gemini"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f8ce57d74c40e178",
         "type": "tabs",
-        "dimension": 30.523255813953487,
+        "dimension": 25.290697674418606,
         "children": [
           {
             "id": "1dc4a50d117cffe1",
@@ -194,6 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +224,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room 의 백링크"
             }
           },
           {
@@ -224,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5,
-    "collapsed": true
+    "width": 480.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,6 +264,10 @@
   },
   "active": "d9972e704ef2e8b6",
   "lastOpenFiles": [
+    "0. INBOX/TNO Multi-Energy Method.md",
+    "0. INBOX/Duong2025Numerical.md",
+    "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
+    "1. DAILY NOTES/250801.md",
     "2. REVIEWS/수소선박에 대한 안전규정 개발 - 선박 설계 및 배치.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
     "2. REVIEWS/IMO CCC 회의동향 - 제4장. 결론.md",
@@ -255,12 +279,9 @@
     "7. OUTPUTS/MOC_졸업논문.md",
     "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
     "6.  PROJECTS/6-1. 졸업논문/0. 초록.md",
-    "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.md",
     "98. RESOURCES/15,000TEU 컨테이너선/DeRiskbeta Comparative Quantitative Risk Assessment (QRA) of fuel oil, LNG, methanol, and ammonia on a 15,000 TEU containership.pdf",
     "0. INBOX/Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation.pdf",
-    "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
     "0. INBOX/무제 1.md",
-    "1. DAILY NOTES/250801.md",
     "1. DAILY NOTES/250731.md",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ Soot Moments Model Reference.pdf",
     "7. OUTPUTS/MOC_STAR-CCM+.md",
@@ -277,7 +298,6 @@
     "Excalidraw/Drawing 2025-07-31 10.13.42.excalidraw.md",
     "99. ATTACHMENTS/Pasted image 20250729020400.png",
     "0. INBOX/무제.canvas",
-    "Vault.md",
     "98. RESOURCES/선박 기관실 화재/Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.pdf",
     "99. ATTACHMENTS/Pasted image 20250729153937.png",
     "99. ATTACHMENTS/Pasted image 20250729153926.png",
