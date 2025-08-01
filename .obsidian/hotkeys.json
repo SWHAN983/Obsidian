@@ -33,7 +33,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "Numpad0"
+      "key": "1"
     }
   ],
   "obsidian-git:commit": [
@@ -41,7 +41,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "Numpad1"
+      "key": "2"
     }
   ],
   "obsidian-git:push2": [
@@ -49,7 +49,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "Numpad2"
+      "key": "3"
     }
   ]
 }
