@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "747c9386e959073f",
+        "id": "17cf2f1fbeb8d590",
         "type": "tabs",
         "children": [
           {
-            "id": "b14ccce5d4794f5f",
+            "id": "d9972e704ef2e8b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1. DAILY NOTES/250801.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "250801"
             }
           }
         ]
@@ -71,7 +85,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "eac9abe5fe92f719",
@@ -138,13 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 강제 Pull(로컬 초기화, 원격 덮어쓰기) 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -167,8 +181,7 @@
               "title": "Gemini"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "f8ce57d74c40e178",
@@ -176,48 +189,11 @@
         "dimension": 30.523255813953487,
         "children": [
           {
-            "id": "6b9237777ae464a7",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -1.1,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.19450022690616064,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          },
-          {
             "id": "1dc4a50d117cffe1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. INBOX/공기의 조성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +203,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "공기의 조성 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -248,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 599.5
+    "width": 480.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,8 +242,24 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "b14ccce5d4794f5f",
+  "active": "d9972e704ef2e8b6",
   "lastOpenFiles": [
+    "2. REVIEWS/수소선박에 대한 안전규정 개발 - 선박 설계 및 배치.md",
+    "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
+    "2. REVIEWS/IMO CCC 회의동향 - 제4장. 결론.md",
+    "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
+    "2. REVIEWS/리뷰_Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md",
+    "2. REVIEWS/리뷰_저인화점연료 추진선박기준.md",
+    "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
+    "3. CONCEPTS/수소 사고의 주요 원인 (인적요소, 정비불량, 설비 노후).md",
+    "7. OUTPUTS/MOC_졸업논문.md",
+    "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
+    "6.  PROJECTS/6-1. 졸업논문/0. 초록.md",
+    "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.md",
+    "98. RESOURCES/15,000TEU 컨테이너선/DeRiskbeta Comparative Quantitative Risk Assessment (QRA) of fuel oil, LNG, methanol, and ammonia on a 15,000 TEU containership.pdf",
+    "0. INBOX/Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation.pdf",
+    "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
+    "0. INBOX/무제 1.md",
     "1. DAILY NOTES/250801.md",
     "1. DAILY NOTES/250731.md",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ Soot Moments Model Reference.pdf",
@@ -279,35 +272,19 @@
     "무제 2.md",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ Ignitors.pdf",
-    "7. OUTPUTS/MOC_졸업논문.md",
     "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 백업 가이드 (Git 연동 없는 별도 저장소).md",
     "3. CONCEPTS/3-0. GIT/Obsidian Vault 수동 복원 가이드 (Git 연동 없는 별도 저장소).md",
     "Excalidraw/Drawing 2025-07-31 10.13.42.excalidraw.md",
     "99. ATTACHMENTS/Pasted image 20250729020400.png",
     "0. INBOX/무제.canvas",
     "Vault.md",
-    "0. INBOX/Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation.pdf",
-    "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
-    "0. INBOX/무제.md",
-    "2. REVIEWS/리뷰_Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.md",
-    "0. INBOX/0. INBOX.md",
-    "1. DAILY NOTES/250730.md",
     "98. RESOURCES/선박 기관실 화재/Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.pdf",
     "99. ATTACHMENTS/Pasted image 20250729153937.png",
     "99. ATTACHMENTS/Pasted image 20250729153926.png",
     "98. RESOURCES/선박 기관실 화재/DNV FIRE SAFETY IN THE ENGINE ROOM.pdf",
     "98. RESOURCES/선박 기관실 화재/Engine room fire safety.pdf",
     "98. RESOURCES/선박 기관실 화재/ANALYSIS OF FIRE HAZARD AND SAFETY REQUIREMENTS OF A SEA VESSEL ENGINE ROOMS.pdf",
-    "2. REVIEWS/Adam2011Analysis.md",
-    "98. RESOURCES/선박 기관실 화재/Engine Room Fire aboard Containership.pdf",
-    "2. REVIEWS/Miller2016RiskFocus.md",
-    "0. INBOX/DNV2023FIRESAFETY.md",
     "99. ATTACHMENTS/Pasted image 20250729152152.png",
-    "2. REVIEWS/리뷰_Decarbonization in Shipping Industry A Review of Research, Technology Development, and Innovation Proposals.md",
-    "2. REVIEWS/WSC2025ContainersLostatSea.md",
-    "2. REVIEWS/Gard2025Container ship fires on the rise again.md",
-    "2. REVIEWS/CINS2021GuidelinesfortheCarriage.md",
-    "2. REVIEWS/Miller1989CHEMKIN-II.md",
     "99. ATTACHMENTS/Pasted image 20250729025208.png",
     "99. ATTACHMENTS/Pasted image 20250729025158.png",
     "99. ATTACHMENTS/Pasted image 20250729023649.png",

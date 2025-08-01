@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "engineroom",
+  "search": "tag: #CFD  ",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -9,7 +9,7 @@
   "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 2.3,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 3.315625,
   "lineSizeMultiplier": 2.1671875,
   "collapse-forces": true,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 0.371134020618557,
   "linkDistance": 500,
-  "scale": 0.14671576094692831,
-  "close": true
+  "scale": 0.14671576094692904,
+  "close": false
 }
