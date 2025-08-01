@@ -97,8 +97,7 @@
               "title": "오리피스 유동(Orifice flow)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:dispersion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +151,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "eac9abe5fe92f719",
@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -219,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Duong2025Numerical.md",
+                "file": "0. INBOX/Duong2025Numerical.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -251,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Duong2025Numerical.md",
+                "file": "0. INBOX/Duong2025Numerical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +312,6 @@
           {
             "id": "b0bff47b34b4a9bb",
             "type": "tabs",
-            "dimension": 30.364583333333332,
             "children": [
               {
                 "id": "e96c9954ac99b234",
@@ -321,25 +321,6 @@
                   "state": {},
                   "icon": "lucide-cat",
                   "title": "ChatGPT"
-                }
-              }
-            ]
-          },
-          {
-            "id": "4ed1ea0ad8e5ef88",
-            "type": "tabs",
-            "dimension": 69.63541666666667,
-            "children": [
-              {
-                "id": "22181acf22901b1e",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Duong2025Numerical.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Duong2025Numerical"
                 }
               }
             ]
@@ -355,15 +336,18 @@
       }
     ]
   },
-  "active": "22181acf22901b1e",
+  "active": "e96c9954ac99b234",
   "lastOpenFiles": [
-    "99. ATTACHMENTS/Pasted Image 20250801220911_994.png",
-    "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
     "Excalidraw/Duong2025Numerical.md",
+    "0. INBOX/Duong2025Numerical.md",
+    "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
+    "99. ATTACHMENTS/Pasted Image 20250802005027_739.png",
+    "99. ATTACHMENTS/Pasted Image 20250801222123_644.png",
+    "99. ATTACHMENTS/Pasted Image 20250801221522_912.png",
+    "99. ATTACHMENTS/Pasted Image 20250801220911_994.png",
     "99. ATTACHMENTS/Pasted Image 20250801215943_677.png",
     "0. INBOX/오리피스 유동(Orifice flow).md",
     "99. ATTACHMENTS/Pasted Image 20250801215823_276.png",
-    "0. INBOX/Duong2025Numerical.md",
     "3. CONCEPTS/암모니아 (Ammonia).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
@@ -372,10 +356,6 @@
     "99. ATTACHMENTS/Pasted Image 20250801205940_641.png",
     "0. INBOX/무제.canvas",
     "99. ATTACHMENTS/Pasted Image 20250801201950_862.png",
-    "99. ATTACHMENTS/Pasted Image 20250801201931_314.png",
-    "99. ATTACHMENTS/Pasted Image 20250801202255_275.png",
-    "99. ATTACHMENTS/Pasted Image 20250801201907_897.png",
-    "99. ATTACHMENTS/Pasted Image 20250801200005_512.png",
     "0. INBOX/TNO Multi-Energy Method.md",
     "1. DAILY NOTES/250801.md",
     "2. REVIEWS/수소선박에 대한 안전규정 개발 - 선박 설계 및 배치.md",
