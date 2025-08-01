@@ -21,7 +21,7 @@ tags:
 
 
 ## 암모니아 물성 
-### [[Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf]], [[Duong2025Numerical]]
+### [[Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf]], [[0. INBOX/Duong2025Numerical]]
 
 | 물성                     | 단위    | 값             | 해석에서 의미                                          |
 | ---------------------- | ----- | ------------- | ------------------------------------------------ |

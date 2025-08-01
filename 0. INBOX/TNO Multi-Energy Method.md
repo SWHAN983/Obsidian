@@ -6,7 +6,7 @@ tags:
   - TNT
   - TNO_MEM
 ---
-### 이 노트는 [[Duong2025Numerical]] 내 특정 챕터[[]]와 연결되는 개념 정리용입니다.  
+### 이 노트는 [[0. INBOX/Duong2025Numerical]] 내 특정 챕터[[]]와 연결되는 개념 정리용입니다.  
 > 지침: 개념 간 연결은 단순 링크가 아닌, 의미 기반의 연결성을 명확히 드러내세요.  
 ---
 https://chatgpt.com/share/688c923e-e378-800a-bfc3-0079542a6cc7

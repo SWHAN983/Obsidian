@@ -7,7 +7,7 @@ tags:
   - conflict
   - reviewed
 ---
-zW# [1] 커밋
+# [1] 커밋
 git add .
 git commit -m "fix: 내용 반영"
 
