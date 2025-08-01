@@ -109,6 +109,7 @@ tags:
 - [[Boiling Liquid Expanding Vapor Explosion (BLEVE)]]
 - [[Laminar Burning Velocity]]
 - [[Explosion Risk Assessment]]
+- [[오리피스 유동(Orifice flow)]]
 
 # 인용 예시
 - 암모니아는 선박 탈탄소화를 위한 유망한 연료이지만, 높은 독성과 폭발 가능성으로 인해 엄격한 위험 관리가 필요하다 (Duong et al., 2025).

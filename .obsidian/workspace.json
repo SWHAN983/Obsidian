@@ -6,7 +6,7 @@
       {
         "id": "a990a421cd85f96f",
         "type": "tabs",
-        "dimension": 64.4456289978678,
+        "dimension": 37.30407523510972,
         "children": [
           {
             "id": "d9972e704ef2e8b6",
@@ -74,7 +74,7 @@
       {
         "id": "17cf2f1fbeb8d590",
         "type": "tabs",
-        "dimension": 35.55437100213219,
+        "dimension": 62.695924764890286,
         "children": [
           {
             "id": "ccd5117676a9de3e",
@@ -82,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/Duong2025Numerical.md",
+                "file": "0. INBOX/오리피스 유동(Orifice flow).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -97,7 +97,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Duong2025Numerical"
+              "title": "오리피스 유동(Orifice flow)"
             }
           }
         ]
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+                "file": "Excalidraw/Drawing 2025-08-01 19.10.39.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 강제 Push (로컬이 더 최신일 때) 의 개요"
+              "title": "Drawing 2025-08-01 19.10.39.excalidraw 의 개요"
             }
           },
           {
@@ -253,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+                "file": "Excalidraw/Drawing 2025-08-01 19.10.39.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Git 강제 Push (로컬이 더 최신일 때) 의 백링크"
+              "title": "Drawing 2025-08-01 19.10.39.excalidraw 의 백링크"
             }
           },
           {
@@ -357,12 +357,18 @@
       }
     ]
   },
-  "active": "3edafee1283ce393",
+  "active": "22181acf22901b1e",
   "lastOpenFiles": [
-    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
-    "0. INBOX/Duong2025Numerical.md",
-    "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
+    "0. INBOX/오리피스 유동(Orifice flow).md",
     "Excalidraw/Drawing 2025-08-01 19.10.39.excalidraw.md",
+    "99. ATTACHMENTS/Pasted image 20250716141529.png",
+    "0. INBOX/Duong2025Numerical.md",
+    "99. ATTACHMENTS/Pasted Image 20250801205948_546.png",
+    "99. ATTACHMENTS/Pasted Image 20250801205940_641.png",
+    "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
+    "0. INBOX/무제.canvas",
+    "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
+    "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
     "99. ATTACHMENTS/Pasted Image 20250801201950_862.png",
     "99. ATTACHMENTS/Pasted Image 20250801201931_314.png",
     "99. ATTACHMENTS/Pasted Image 20250801202255_275.png",
@@ -391,20 +397,14 @@
     "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
     "conflict-files-obsidian-git.md",
     "무제 1.md",
-    "무제.md",
-    "무제 2.md",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ Ignitors.pdf",
     "99. ATTACHMENTS/Pasted image 20250729020400.png",
-    "0. INBOX/무제.canvas",
     "98. RESOURCES/선박 기관실 화재/Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.pdf",
     "99. ATTACHMENTS/Pasted image 20250729153937.png",
-    "99. ATTACHMENTS/Pasted image 20250729153926.png",
     "98. RESOURCES/선박 기관실 화재/DNV FIRE SAFETY IN THE ENGINE ROOM.pdf",
     "98. RESOURCES/선박 기관실 화재/Engine room fire safety.pdf",
     "98. RESOURCES/선박 기관실 화재/ANALYSIS OF FIRE HAZARD AND SAFETY REQUIREMENTS OF A SEA VESSEL ENGINE ROOMS.pdf",
-    "99. ATTACHMENTS/Pasted image 20250729152152.png",
-    "99. ATTACHMENTS/Pasted image 20250729025208.png",
     "0. INBOX/무제 1.canvas",
     "무제.canvas"
   ]
