@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag: #CFD  ",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 0.371134020618557,
   "linkDistance": 500,
-  "scale": 0.14671576094692904,
+  "scale": 0.021528718442430286,
   "close": false
 }

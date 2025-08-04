@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9840cb397ff907da",
+        "id": "2ae14f2a15f100e1",
         "type": "tabs",
         "children": [
           {
-            "id": "e99e8e321e1c1864",
+            "id": "99b8d8d482b3412a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문.md",
+                "file": "1. DAILY NOTES/250804.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC_졸업논문"
-            }
-          },
-          {
-            "id": "c317cee970f386f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. INBOX/오리피스 유동(Orifice flow).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "오리피스 유동(Orifice flow)"
+              "title": "250804"
             }
           }
         ]
@@ -248,10 +224,14 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "e99e8e321e1c1864",
+  "active": "99b8d8d482b3412a",
   "lastOpenFiles": [
-    "6.  PROJECTS/6-1. 졸업논문/1.3 연구 목적 및 범위.md",
+    "0. INBOX/오리피스 유동(Orifice flow).md",
+    "1. DAILY NOTES/250802.md",
+    "1. DAILY NOTES/250803.md",
+    "1. DAILY NOTES/250804.md",
     "7. OUTPUTS/MOC_졸업논문.md",
+    "6.  PROJECTS/6-1. 졸업논문/1.3 연구 목적 및 범위.md",
     "0. INBOX/Duong2025Numerical.md",
     "Excalidraw/Duong2025Numerical.md",
     "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
@@ -260,7 +240,6 @@
     "99. ATTACHMENTS/Pasted Image 20250801221522_912.png",
     "99. ATTACHMENTS/Pasted Image 20250801220911_994.png",
     "99. ATTACHMENTS/Pasted Image 20250801215943_677.png",
-    "0. INBOX/오리피스 유동(Orifice flow).md",
     "99. ATTACHMENTS/Pasted Image 20250801215823_276.png",
     "3. CONCEPTS/암모니아 (Ammonia).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
@@ -288,9 +267,6 @@
     "1. DAILY NOTES/250731.md",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ Soot Moments Model Reference.pdf",
     "7. OUTPUTS/MOC_STAR-CCM+.md",
-    "3. CONCEPTS/3-0. GIT/Git 강제 Pull(로컬 초기화, 원격 덮어쓰기).md",
-    "conflict-files-obsidian-git.md",
-    "무제 1.md",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ Ignitors.pdf",
     "98. RESOURCES/선박 기관실 화재/Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.pdf",
