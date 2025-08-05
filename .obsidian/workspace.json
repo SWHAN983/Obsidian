@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ae14f2a15f100e1",
+        "id": "7a6ac2d39e9e10f9",
         "type": "tabs",
         "children": [
           {
-            "id": "99b8d8d482b3412a",
+            "id": "32d174daa30b9089",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY NOTES/250804.md",
+                "file": "0. INBOX/오리피스 유동(Orifice flow).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250804"
+              "title": "오리피스 유동(Orifice flow)"
+            }
+          },
+          {
+            "id": "65041a00db61fe60",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room"
+            }
+          },
+          {
+            "id": "538bc1ae92a6d4f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. OUTPUTS/MOC_졸업논문.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC_졸업논문"
+            }
+          },
+          {
+            "id": "c0aef5aac8b9f9a2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Duong2025Numerical.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Duong2025Numerical"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "f6e3a5d123567eda",
@@ -224,24 +272,32 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "99b8d8d482b3412a",
+  "active": "538bc1ae92a6d4f9",
   "lastOpenFiles": [
+    "0. INBOX/2025 졸업 논문 마무리 전략.md",
+    "7. OUTPUTS/MOC_졸업논문.md",
+    "0. INBOX/Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation.pdf",
+    "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
+    "98. RESOURCES/LNG/gas-and-low-flashpoint-fuels-advisory.pdf",
     "0. INBOX/오리피스 유동(Orifice flow).md",
+    "Excalidraw/Duong2025Numerical.md",
+    "0. INBOX/자연발화 메커니즘.md",
+    "98. RESOURCES/선박 기관실 화재/Computational_fluid_dynamics_simulation_of_cryogen.pdf",
+    "98. RESOURCES/15,000TEU 컨테이너선/Computational_fluid_dynamics_simulation_of_cryogen.pdf",
+    "3. CONCEPTS/선박 기관실 적용 관점에서의 주의사항.md",
+    "3. CONCEPTS/암모니아 (Ammonia).md",
+    "0. INBOX/Duong2025Numerical.md",
+    "0. INBOX/DNV2023FIRESAFETY.md",
+    "1. DAILY NOTES/250804.md",
     "1. DAILY NOTES/250802.md",
     "1. DAILY NOTES/250803.md",
-    "1. DAILY NOTES/250804.md",
-    "7. OUTPUTS/MOC_졸업논문.md",
     "6.  PROJECTS/6-1. 졸업논문/1.3 연구 목적 및 범위.md",
-    "0. INBOX/Duong2025Numerical.md",
-    "Excalidraw/Duong2025Numerical.md",
-    "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
     "99. ATTACHMENTS/Pasted Image 20250802005027_739.png",
     "99. ATTACHMENTS/Pasted Image 20250801222123_644.png",
     "99. ATTACHMENTS/Pasted Image 20250801221522_912.png",
     "99. ATTACHMENTS/Pasted Image 20250801220911_994.png",
     "99. ATTACHMENTS/Pasted Image 20250801215943_677.png",
     "99. ATTACHMENTS/Pasted Image 20250801215823_276.png",
-    "3. CONCEPTS/암모니아 (Ammonia).md",
     "7. OUTPUTS/MOC_GIT 문제 해결 가이드.md",
     "3. CONCEPTS/3-0. GIT/Git 강제 Push (로컬이 더 최신일 때).md",
     "99. ATTACHMENTS/Pasted image 20250716141529.png",
@@ -259,20 +315,11 @@
     "2. REVIEWS/리뷰_저인화점연료 추진선박기준.md",
     "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
     "3. CONCEPTS/수소 사고의 주요 원인 (인적요소, 정비불량, 설비 노후).md",
-    "6.  PROJECTS/6-1. 졸업논문/1.1 연구 배경.md",
-    "6.  PROJECTS/6-1. 졸업논문/0. 초록.md",
     "98. RESOURCES/15,000TEU 컨테이너선/DeRiskbeta Comparative Quantitative Risk Assessment (QRA) of fuel oil, LNG, methanol, and ammonia on a 15,000 TEU containership.pdf",
-    "0. INBOX/Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation.pdf",
-    "0. INBOX/무제 1.md",
-    "1. DAILY NOTES/250731.md",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ Soot Moments Model Reference.pdf",
-    "7. OUTPUTS/MOC_STAR-CCM+.md",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ Ignitors.pdf",
     "98. RESOURCES/선박 기관실 화재/Effects of ventilation system design on flame behavior and smoke characteristics for mitigating marine engine room fire hazards.pdf",
-    "98. RESOURCES/선박 기관실 화재/DNV FIRE SAFETY IN THE ENGINE ROOM.pdf",
-    "98. RESOURCES/선박 기관실 화재/Engine room fire safety.pdf",
-    "98. RESOURCES/선박 기관실 화재/ANALYSIS OF FIRE HAZARD AND SAFETY REQUIREMENTS OF A SEA VESSEL ENGINE ROOMS.pdf",
     "0. INBOX/무제 1.canvas",
     "무제.canvas"
   ]
