@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32d174daa30b9089",
+            "id": "d6dc7817f92eda77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/오리피스 유동(Orifice flow).md",
+                "file": "0. INBOX/Reacting Species Transport.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "오리피스 유동(Orifice flow)"
-            }
-          },
-          {
-            "id": "65041a00db61fe60",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room"
-            }
-          },
-          {
-            "id": "538bc1ae92a6d4f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. OUTPUTS/MOC_졸업논문.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC_졸업논문"
-            }
-          },
-          {
-            "id": "c0aef5aac8b9f9a2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Duong2025Numerical.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Duong2025Numerical"
+              "title": "Reacting Species Transport"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,10 +223,15 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "538bc1ae92a6d4f9",
+  "active": "d6dc7817f92eda77",
   "lastOpenFiles": [
-    "0. INBOX/2025 졸업 논문 마무리 전략.md",
+    "0. INBOX/Reaction Kinetics.md",
+    "0. INBOX/아레니우스 방정식.md",
+    "99. ATTACHMENTS/Pasted image 20250806174103.png",
+    "0. INBOX/Reacting Species Transport.md",
+    "1. DAILY NOTES/250806.md",
     "7. OUTPUTS/MOC_졸업논문.md",
+    "0. INBOX/2025 졸업 논문 마무리 전략.md",
     "0. INBOX/Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation.pdf",
     "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
     "98. RESOURCES/LNG/gas-and-low-flashpoint-fuels-advisory.pdf",
@@ -304,17 +260,12 @@
     "99. ATTACHMENTS/Pasted Image 20250801205948_546.png",
     "99. ATTACHMENTS/Pasted Image 20250801205940_641.png",
     "0. INBOX/무제.canvas",
-    "99. ATTACHMENTS/Pasted Image 20250801201950_862.png",
     "0. INBOX/TNO Multi-Energy Method.md",
     "1. DAILY NOTES/250801.md",
     "2. REVIEWS/수소선박에 대한 안전규정 개발 - 선박 설계 및 배치.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
     "2. REVIEWS/IMO CCC 회의동향 - 제4장. 결론.md",
     "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
-    "2. REVIEWS/리뷰_Experimental Study on the Hot Surface Ignition Characteristics and a Predictive Model of Marine Diesel in a Ship Engine Room.md",
-    "2. REVIEWS/리뷰_저인화점연료 추진선박기준.md",
-    "2. REVIEWS/리뷰_Safe Design of a Hydrogen-Powered Ship CFD Simulation on Hydrogen Leakage in the Fuel Cell Room.md",
-    "3. CONCEPTS/수소 사고의 주요 원인 (인적요소, 정비불량, 설비 노후).md",
     "98. RESOURCES/15,000TEU 컨테이너선/DeRiskbeta Comparative Quantitative Risk Assessment (QRA) of fuel oil, LNG, methanol, and ammonia on a 15,000 TEU containership.pdf",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ Soot Moments Model Reference.pdf",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf",
