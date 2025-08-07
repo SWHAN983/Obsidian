@@ -101,8 +101,7 @@ tags:
   - 이중점화/지연 점화 상황에 대한 분석
 
 # 핵심 개념
-- [[Ammonia Fuel]]
-- [[FLACS-CFD]]
+- [[암모니아 (Ammonia)]]
 - [[TNO Multi-Energy Method]]
 - [[Vapor Cloud Explosion (VCE)]]
 - [[Fuel Gas Supply System (FGSS)]]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a6ac2d39e9e10f9",
+        "id": "206a2c91d32e57e1",
         "type": "tabs",
         "children": [
           {
-            "id": "d6dc7817f92eda77",
+            "id": "9fef1347e5abb102",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. INBOX/Reacting Species Transport.md",
+                "file": "3. CONCEPTS/Eddy Breack Up.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reacting Species Transport"
+              "title": "Eddy Breack Up"
+            }
+          },
+          {
+            "id": "e0f35c27b023c6ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. INBOX/2025 졸업 논문 마무리 전략.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025 졸업 논문 마무리 전략"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,27 +248,29 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "d6dc7817f92eda77",
+  "active": "e0f35c27b023c6ee",
   "lastOpenFiles": [
-    "0. INBOX/Reaction Kinetics.md",
-    "0. INBOX/아레니우스 방정식.md",
+    "3. CONCEPTS/아레니우스 방정식.md",
+    "3. CONCEPTS/오리피스 유동(Orifice flow).md",
+    "0. INBOX/자연발화 메커니즘.md",
+    "3. CONCEPTS/Eddy Breack Up.md",
+    "3. CONCEPTS/Reaction Kinetics.md",
+    "0. INBOX/Duong2025Numerical.md",
+    "0. INBOX/DNV2023FIRESAFETY.md",
+    "3. CONCEPTS/Complex Chemistry.md",
+    "3. CONCEPTS/Reacting Species Transport.md",
     "99. ATTACHMENTS/Pasted image 20250806174103.png",
-    "0. INBOX/Reacting Species Transport.md",
     "1. DAILY NOTES/250806.md",
     "7. OUTPUTS/MOC_졸업논문.md",
     "0. INBOX/2025 졸업 논문 마무리 전략.md",
     "0. INBOX/Quantitative Analysis of Explosion Characteristics Based on Ignition Location in an Ammonia Fuel Preparation Room Using CFD Simulation.pdf",
     "0. INBOX/Numerical Study on Ammonia Dispersion and Explosion Characteristics in Confined Space of Marine Fuel Preparation Room.pdf",
     "98. RESOURCES/LNG/gas-and-low-flashpoint-fuels-advisory.pdf",
-    "0. INBOX/오리피스 유동(Orifice flow).md",
     "Excalidraw/Duong2025Numerical.md",
-    "0. INBOX/자연발화 메커니즘.md",
     "98. RESOURCES/선박 기관실 화재/Computational_fluid_dynamics_simulation_of_cryogen.pdf",
     "98. RESOURCES/15,000TEU 컨테이너선/Computational_fluid_dynamics_simulation_of_cryogen.pdf",
     "3. CONCEPTS/선박 기관실 적용 관점에서의 주의사항.md",
     "3. CONCEPTS/암모니아 (Ammonia).md",
-    "0. INBOX/Duong2025Numerical.md",
-    "0. INBOX/DNV2023FIRESAFETY.md",
     "1. DAILY NOTES/250804.md",
     "1. DAILY NOTES/250802.md",
     "1. DAILY NOTES/250803.md",
@@ -265,7 +292,6 @@
     "2. REVIEWS/수소선박에 대한 안전규정 개발 - 선박 설계 및 배치.md",
     "7. OUTPUTS/MOC_수소선박 IMO CCC회의 동향 및 규제 검토.md",
     "2. REVIEWS/IMO CCC 회의동향 - 제4장. 결론.md",
-    "3. CONCEPTS/수소, 암모니아, LNG 연료 물성 비교.md",
     "98. RESOURCES/15,000TEU 컨테이너선/DeRiskbeta Comparative Quantitative Risk Assessment (QRA) of fuel oil, LNG, methanol, and ammonia on a 15,000 TEU containership.pdf",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ Soot Moments Model Reference.pdf",
     "98. RESOURCES/STAR-CCM+/STAR-CCM+ reacting flow.pdf",
